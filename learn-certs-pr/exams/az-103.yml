@@ -53,7 +53,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Помощник администратора Azure.’
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Помощник администратора Azure.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
