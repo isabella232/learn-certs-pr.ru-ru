@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Содержание этого экзамена было обновлено 3 декабря 2019 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>Содержание этого экзамена было обновлено 3 декабря 2019 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.<br/><br/></div>
 
   Кандидаты на этот экзамен - это профессионалы DevOps, которые объединяют людей, процессы и технологии для непрерывного предоставления ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям. Профессионалы DevOps оптимизируют поставку, оптимизируя методы работы, улучшая взаимодействие и совместную работу, а также создавая автоматизацию. Они разрабатывают и венедряют стратегии для кода приложений и инфраструктуры, которые обеспечивают непрерывную интеграцию, тестирование, поставку, отслеживание и обратную связь.
 
@@ -15,7 +15,7 @@ subTitle: 'Этот экзамен позволяет оценить вашу с
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-400&examname=Экзамен%20AZ-400:%20Решения%20Microsoft%20Azure%20DevOps&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja

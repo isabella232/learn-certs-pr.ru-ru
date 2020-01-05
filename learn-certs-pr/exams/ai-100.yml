@@ -19,7 +19,7 @@ summary: |-
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: анализ требований к решению; разработка решения; интеграция модели AI в решения; а также развертывание и управление решениями.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AI-100&examname=Экзамен%20AI-100:%20Разработка%20и%20реализация%20решения%20Azure%20AI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
