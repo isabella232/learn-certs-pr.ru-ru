@@ -45,7 +45,7 @@ ms.author: micsullivan
 
 [**Узнать больше**](/learn/certifications/certification-exam-policies)
 
-## Часто задаваемые вопросы
+## <a name="frequently-ask-questions"> Часто задаваемые вопросы
 
 **В. Что такое Exam Replay?**
 
