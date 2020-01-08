@@ -51,7 +51,7 @@ resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
+- title: Повтор экзамена
   description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов

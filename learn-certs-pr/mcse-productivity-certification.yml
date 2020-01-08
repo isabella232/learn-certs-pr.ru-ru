@@ -39,18 +39,18 @@ exams:
 - uid: exam.70-339
 - uid: exam.70-333
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 重測
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: Повтор экзамена
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: deals.md
-- title: 支持認證
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
-- title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/ru-ru/learning/dashboard.aspx

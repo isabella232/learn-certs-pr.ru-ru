@@ -43,7 +43,7 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: Exam Replay
+- title: Повтор экзамена
   description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: ../deals.md
 - title: Панель управления сертификацией
