@@ -1,0 +1,21 @@
+- name: Сертификации Microsoft
+  href: index.yml
+- name: Предложения
+  href: deals.md
+- name: Корпоративное лицензирование
+  href: volume-licensing-program.md
+- name: Отмененные сертификации, экзамены и курсы
+  expanded: false
+  items:
+  - name: Отмененные сертификации
+    href: retired-certifications.md
+  - name: Отмененные экзамены
+    href: retired-certification-exams.md 
+  - name: Отставные курсы
+    href: retired-courses.md
+- name: Сертификация MCT
+  href: mct-certification.md
+- name: Правила проведения экзаменов и часто задаваемые вопросы
+  href: certification-exam-policies.md
+- name: Помощь по сертификации
+  href: help.md

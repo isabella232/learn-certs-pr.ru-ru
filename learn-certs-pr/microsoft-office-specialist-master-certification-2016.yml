@@ -1,0 +1,51 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+  description: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+uid: certification.microsoft-office-specialist-master-certification-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Сертификат Microsoft Office Specialist Master подтверждает наивысший уровень развития умений, необходимых для эффективной работы с приложениями пакета Office.
+  
+  Для получения сертификата Microsoft Office Specialist Master, необходимо выполнить следующие требования&#58;
+
+  - Сдать каждый из трех обязательных экзаменов
+    - [77-726&#58; Word 2016 Expert&#58; Создание документов для эффективного общения](/learn/certifications/exams/77-726)
+    - [77-728&#58; Excel 2016 Expert&#58; Работа с данными для получения информации](/learn/certifications/exams/77-728)
+    - [77-729&#58; PowerPoint 2016&#58; Ключевые навыки создания и демонстрации презентаций](/learn/certifications/exams/77-729)
+  - Сдать один из экзаменов на выбор 
+    - [77-730&#58; Access 2016&#58; Управление базами данных, манипулирование и навыки работы с запросами](/learn/certifications/exams/77-730)
+    - [77-731&#58; Outlook 2016&#58; Основные навыки общения, совместной работы и работы с электронной почтой](/learn/certifications/exams/77-731)
+  
+subTitle: Сертификат Microsoft Office Specialist Master подтверждает наивысший уровень развития умений, необходимых для эффективной работы с приложениями пакета Office.
+levels:
+- advanced
+skills:
+- Microsoft Office Excel 2016 (обязательный)
+- Microsoft Office PowerPoint 2016 (обязательный)
+- Microsoft Office Word 2016 (обязательный)
+- Microsoft Office Access 2016 (выбрать один)
+- Microsoft Office Outlook 2016 (выбрать один)
+roles:
+- business-user
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-726
+- uid: exam.77-728
+- uid: exam.77-729
+resources:
+- title: Руководство по обучению и сертификации
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Повтор экзамена
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка сертификационных
+  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/ru-ru/learning/dashboard.aspx
