@@ -47,7 +47,7 @@ exams:
 - uid: exam.mb-320
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified:: Помощник функционального консультанта Dynamics 365 Supply Chain Management, Manufacturing по управлению цепочками поставок, производством.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Помощник функционального консультанта Dynamics 365 Supply Chain Management, Manufacturing по управлению цепочками поставок, производством.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

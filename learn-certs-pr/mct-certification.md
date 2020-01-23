@@ -73,35 +73,35 @@ ms.author: micsullivan
 
 **Сертификации Microsoft**
 
-- [Microsoft Certified: Azure Administrator Associate](https://www.microsoft.com/ru-ru/learning/azure-administrator.aspx)
-- [Microsoft Certified: Azure Developer Associate](https://www.microsoft.com/ru-ru/learning/azure-developer.aspx)
-- [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/ru-ru/learning/azure-security-engineer.aspx)
-- [Microsoft Certified: Azure DevOps Expert](https://www.microsoft.com/ru-ru/learning/azure-devops.aspx)
-- [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/ru-ru/learning/azure-solutions-architect.aspx)
-- [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/ru-ru/learning/m365-enterprise-administrator.aspx)
-- [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/ru-ru/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/ru-ru/learning/m365-teamwork-administrator.aspx)
-- [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/ru-ru/learning/m365-security-administrator.aspx)
-- [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/ru-ru/learning/m365-messaging-administrator.aspx)
+- [Microsoft Certified: Azure Administrator Associate](/learn/certifications/azure-administrator)
+- [Microsoft Certified: Azure Developer Associate](/learn/certifications/azure-developer)
+- [Microsoft Certified: Azure Security Engineer Associate](/learn/certifications/azure-security-engineer)
+- [Microsoft Certified: Azure DevOps Expert](/learn/certifications/azure-devops)
+- [Microsoft Certified: Azure Solutions Architect Expert](/learn/certifications/azure-solutions-architect)
+- [Microsoft 365 Certified: Enterprise Administrator Expert](/learn/certifications/m365-enterprise-administrator)
+- [Microsoft 365 Certified: Modern Desktop Administrator Associate](/learn/certifications/modern-desktop)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)
+- [Microsoft 365 Certified: Security Administrator Associate](/learn/certifications/m365-security-administrator)
+- [Microsoft 365 Certified: Messaging Administrator Associate](/learn/certifications/m365-messaging-administrator)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/microsoft-365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/microsoft-teams-administrator-associate)
-- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/ru-ru/learning/azure-ai-engineer.aspx)
-- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/ru-ru/learning/azure-data-scientist.aspx)
-- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/ru-ru/learning/azure-data-engineer.aspx)
-- [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/ru-ru/learning/d365-functional-consultant-sales.aspx)
-- [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/ru-ru/learning/d365-functional-consultant-customer-service.aspx)
-- [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/ru-ru/learning/d365-functional-consultant-marketing.aspx)
-- [Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate](https://www.microsoft.com/ru-ru/learning/d365-functional-consultant-field-service.aspx)
-- [Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate](https://www.microsoft.com/ru-ru/learning/d365-functional-consultant-financials.aspx)
-- [Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate](https://www.microsoft.com/ru-ru/learning/d365-functional-consultant-manufacturing.aspx)
-- [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/ru-ru/learning/d365-functional-consultant-supply-chain-management.aspx)
+- [Microsoft Certified: Azure AI Engineer Associate](/learn/certifications/azure-ai-engineer)
+- [Microsoft Certified: Azure Data Scientist Associate](/learn/certifications/azure-data-scientist)
+- [Microsoft Certified: Azure Data Engineer Associate](/learn/certifications/azure-data-engineer)
+- [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](/learn/certifications/d365-functional-consultant-sales)
+- [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](/learn/certifications/d365-functional-consultant-customer-service)
+- [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](/learn/certifications/d365-functional-consultant-marketing)
+- [Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate](/learn/certifications/d365-functional-consultant-field-service)
+- [Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate](/learn/certifications/d365-functional-consultant-financials)
+- [Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate](/learn/certifications/d365-functional-consultant-manufacturing)
+- [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](/learn/certifications/d365-functional-consultant-supply-chain-management)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/powerapps-and-d365-developer-associate)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/ru-ru/learning/mcsa-certification.aspx): BI Reporting, Data Engineering with Azure (отменен 6/30/19), Machine Learning (Retired 6/30/19), Microsoft Dynamics 365 (отменен 6/30/19), - Microsoft Dynamics 365 for Operations (отменяется 30 июня 2020 года), SQL 2016 BI Development, SQL 2016 Database Administration, SQL 2016 Database Development, - SQL Server 2012/2014, Universal Windows Platform, Web Applications, Windows Server 2012, или Windows Server 2016
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/ru-ru/learning/mcse-certification.aspx): Business Applications (отменяется 31 декабря 2019 года), Data Management and Analytics, Productivity, Core Infrastructure
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/ru-ru/learning/mcsd-certification.aspx): App Builder
 - Dynamics CRM Dynamics Technical (отменяется 31 декабря 2019 года) - [Понимание требований, связанных с каждой квалификацией и сертификацией Microsoft Dynamics](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
-- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/ru-ru/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word и Word 2019)](https://www.microsoft.com/ru-ru/learning/mos-word-2019.aspx), [Excel Associate (Excel и Excel 2019)](https://www.microsoft.com/ru-ru/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint и PowerPoint 2019)](https://www.microsoft.com/ru-ru/learning/mos-powerpoint-2019.aspx), [Microsoft Office Specialist: Associate (Office 365 и Office 2019)](https://www.microsoft.com/ru-ru/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/ru-ru/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel и Excel 2019)](/learn/certifications/mos-excel-expert-2019) или [Microsoft Office Specialist: Expert (Office 365 и Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
+- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/ru-ru/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word и Word 2019)](/learn/certifications/mos-word-2019), [Excel Associate (Excel и Excel 2019)](/learn/certifications/mos-excel-2019), [PowerPoint Associate (PowerPoint и PowerPoint 2019)](/learn/certifications/mos-powerpoint-2019), [Microsoft Office Specialist: Associate (Office 365 и Office 2019)](/learn/certifications/microsoft-office-specialist-associate-2019), [Word Expert (Word and Word 2019)](/learn/certifications/mos-word-expert-2019), [Excel Expert (Excel и Excel 2019)](/learn/certifications/mos-excel-expert-2019) или [Microsoft Office Specialist: Expert (Office 365 и Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
 **Примечание** Сертификаты и квалификации Microsoft, подходящие для программы MCT, могут изменяться. Все новые ролевые сертификаты будут подходить для программы MCT, как только они будут выпущены. Сертификаты, срок действия которых истек, будут подходить для программы MCT в течение 6 месяцев после даты истечения срока. [Узнайте больше об отменяемых сертификациях](https://www.microsoft.com/ru-ru/learning/retired-certifications.aspx).
 

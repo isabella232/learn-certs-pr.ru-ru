@@ -13,17 +13,21 @@ subTitle: Докажите, что вы понимаете облачные ко
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-900&examname=Экзамен%20MS-900:%20Основы%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-900
 locales:
 - en
 - ja
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-900&examname=Экзамен%20MS-900:%20Основы%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
 - Понимание облачных концепций (15-20%)
 - Понимание основных сервисов и концептов Microsoft 365 (30-35%)
 - Понимание концептов безопасности, соответствия требованиям, конфиденциальности и доверия в Microsoft 365 (25-30%)
-- Понимание ценообразования и поддержки Microsoft 365.(25-30%)
+- Понимание ценообразования и поддержки Microsoft 365 (25-30%)
 roles:
 - administrator
 products:

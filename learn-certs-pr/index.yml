@@ -76,7 +76,7 @@ trainingSection:
     summary: С Microsoft Learn каждый может овладеть основными концепциями, исходя из собственной скорости восприятия и рабочего графика. Будь то один модуль, чтобы узнать об основной задаче или полностью изучить тему через набор связанных модулей.
     browseLinks:
     - text: Смотреть все способы обучения
-      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+      url: https://docs.microsoft.com/ru-ru/learn/browse/?resource_type=learning%20path
   - image:
       alt: Человек делает презентацию для четырех человек, сидящих за столом
       src: /learn/certifications/images/image-working-group.jpg
