@@ -2,7 +2,6 @@
 title: 'Microsoft Ignite и Microsoft Ignite The Tour: Предложение на бесплатный сертификационный экзамен | Документы Microsoft'
 description: 'Microsoft Ignite и Microsoft Ignite The Tour: Предложение на бесплатный сертификационный экзамен' 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

@@ -2,7 +2,6 @@
 title: Отмененные сертификации Microsoft | Microsoft Docs
 description: Отмененные сертификации Microsoft
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

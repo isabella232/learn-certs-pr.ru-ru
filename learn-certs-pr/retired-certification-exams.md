@@ -2,7 +2,6 @@
 title: Отмененный экзамен Microsoft | Microsoft Docs
 description: Отмененный экзамен Microsoft
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

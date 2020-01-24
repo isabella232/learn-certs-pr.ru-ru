@@ -28,7 +28,7 @@ resources:
   description: зучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Ѕуклет по образовательным курсам и сертификаци¤м
-  description: ¬ыберите свой путь к успеху с этим буклетом по образовательным курсам и сертификаци¤м.
+  description: ыберите свой путь к успеху с этим буклетом по образовательным курсам и сертификаци¤м.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: ѕоддержка сертификационных
   href: ../help.md

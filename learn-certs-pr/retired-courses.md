@@ -2,7 +2,6 @@
 title: Отмененные курсы Microsoft | Microsoft Docs
 description: Отмененные курсы Microsoft
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

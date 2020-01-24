@@ -2,7 +2,6 @@
 title: Тренинг по программному обеспечению для клиентов, приобретающих корпоративное лицензирование | Документы Microsoft
 description: Тренинг по программному обеспечению для клиентов, приобретающих корпоративное лицензирование
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

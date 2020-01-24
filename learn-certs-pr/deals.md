@@ -2,7 +2,6 @@
 title: Предложения | Microsoft Docs
 description: Предложения 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

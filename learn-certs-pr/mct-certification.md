@@ -2,7 +2,6 @@
 title: Станьте сертифицированным инструктором Microsoft | Microsoft Docs
 description: Станьте сертифицированным инструктором Microsoft
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

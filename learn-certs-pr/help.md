@@ -2,7 +2,6 @@
 title: Помощь по обучению и сертификации Microsoft | Microsoft Docs
 description: Помощь по обучению и сертификации Microsoft
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

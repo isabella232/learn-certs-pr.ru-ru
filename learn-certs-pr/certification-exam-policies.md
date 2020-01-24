@@ -2,7 +2,6 @@
 title: правила сертификационных экзаменов | Microsoft Docs
 description: правила сертификационных экзаменов
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
