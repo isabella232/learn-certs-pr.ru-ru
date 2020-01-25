@@ -6,12 +6,12 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  Данная сертификация подтверждает, что у его обладателя есть все необходимые навыки для переноса работы компании в среду облачных вычислений, повышения производительности труда пользователей и расширения их возможностей, сокращения потерь данных и повышения уровня их защиты в масштабе организации. Эта сертификация может использоваться для удовлетворения одного из требований, чтобы стать [Администратором-экспертом Microsoft 365 Certified Enterprise](https://www.microsoft.com/ru-ru/learning/m365-enterprise-administrator.aspx)
+  Данная сертификация подтверждает, что у его обладателя есть все необходимые навыки для переноса работы компании в среду облачных вычислений, повышения производительности труда пользователей и расширения их возможностей, сокращения потерь данных и повышения уровня их защиты в масштабе организации. Эта сертификация может использоваться для удовлетворения одного из требований, чтобы стать [Администратором-экспертом Microsoft 365 Certified Enterprise](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
   
   Чтобы стать экспертом по MCSE Productivity Solutions, выполните следующие требования&#58;
   - Получите одну обязательную сертификацию
-    - Пример обязательной сертификации 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/ru-ru/learning/mcsa-windows-server-certification.aspx)
-    - Пример обязательной сертификации 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/ru-ru/learning/mcsa-windows-server-2016-certification.aspx)
+    - Пример обязательной сертификации 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
+    - Пример обязательной сертификации 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - И сдать один из экзаменов на выбор
     - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
@@ -53,4 +53,4 @@ resources:
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
-  href: https://www.microsoft.com/ru-ru/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

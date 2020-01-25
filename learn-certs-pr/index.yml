@@ -76,7 +76,7 @@ trainingSection:
     summary: С Microsoft Learn каждый может овладеть основными концепциями, исходя из собственной скорости восприятия и рабочего графика. Будь то один модуль, чтобы узнать об основной задаче или полностью изучить тему через набор связанных модулей.
     browseLinks:
     - text: Смотреть все способы обучения
-      url: https://docs.microsoft.com/ru-ru/learn/browse/?resource_type=learning%20path
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
   - image:
       alt: Человек делает презентацию для четырех человек, сидящих за столом
       src: /learn/certifications/images/image-working-group.jpg
@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: Найти обучающего партнера Microsoft
       summary: Наша всемирная партнерская сеть обеспечивает гибкое, основанное на решениях, индивидуальное обучение в технологиях Microsoft.
-      url: https://www.microsoft.com/ru-ru/learning/partners.aspx
+      url: https://www.microsoft.com/learning/partners.aspx
     - title: Поддержка по вопросам сертификации и экзаменов
       summary: Получите помощь, задав вопрос на форумах.  Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
       url: /learn/certifications/help
@@ -105,7 +105,7 @@ statisticsSection:
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
     iframeTitle: Сертификации Microsoft
-    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Преимущества сертификации Microsoft 
     summary: После получения сертификата 23% сертифицированных технологов Microsoft сообщили о повышении зарплаты до 20%. Помимо этого, сертифицированные сотрудники нередко курируют своих коллег, получая возможность быстрого повышения. — технический документ 2017 Pearson VUE 2017 «Значение сертификации» (Value of Certification).
   items:

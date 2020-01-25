@@ -20,7 +20,7 @@ skillsGained:
 - skill: Мониторинг и устранение неполадок в Exchange Server.
 - skill: Настройка разрешений контроля доступа на основе ролей Exchange Server и настройка ведения журнала аудита для администраторов и пользователей.
 - skill: Внедрение и управление интеграцией с Exchange Online.
-learningPartnersLink: https://www.microsoft.com/ru-ru/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
