@@ -7,7 +7,7 @@ uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/ru-ru/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -37,7 +37,7 @@ summary: |-
   Основная аудитория этого курса - специалисты по данным, архитекторы данных и специалисты по бизнес-аналитике, которые хотят узнать о технологиях платформы данных, существующих в Microsoft Azure. Вторичной аудиторией этого курса являются люди, разрабатывающие приложения, которые доставляют контент из технологий платформы данных, существующих в Microsoft Azure.
 prerequisitesSection: |-
   В дополнение к имеющемуся профессиональному опыту, слушатели данного курса должны обладать техническими знаниями, эквивалентными следующим курсам&#58; 
-  - [Azure Fundamentals](https://docs.microsoft.com/ru-ru/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### Модуль 1&#58; Azure для инженера данных
   Этот модуль посвящен изучению развития мира данных и тому, как технологии облачных платформ данных предоставляют предприятиям новые возможности для исследования своих данных различными способами. Слушателям будет представлен обзор различных доступных технологий платформ данных и того, как изменились роль и обязанности инженера данных в современных организациях.

@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Миграция локальной базы данных MySQL в базу данных SQL Azure для MySQL
 - skill: Миграция локальной PostgreSQL в базу данных SQL Azure для PostgreSQL
-learningPartnersLink: https://www.microsoft.com/ru-ru/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

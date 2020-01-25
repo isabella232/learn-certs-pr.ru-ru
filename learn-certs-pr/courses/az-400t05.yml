@@ -15,7 +15,7 @@ skillsGained:
 - skill: Развертывание и настройка инфраструктуры с помощью сторонних инструментов и сервисов Azure, таких как Chef, Puppet, Ansible, SaltStack и Terraform
 - skill: Определение инфраструктуры и стратегии конфигурации и соответствующего набора инструментов для конвейера выпуска и инфраструктуры приложений
 - skill: Реализация соответствия и безопасности в инфраструктуре приложений
-learningPartnersLink: https://www.microsoft.com/ru-ru/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

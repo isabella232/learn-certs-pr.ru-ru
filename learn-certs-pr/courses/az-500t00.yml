@@ -13,7 +13,7 @@ skillsGained:
 - skill: Реализация методов шифрования данных Azure
 - skill: Безопасные интернет-протоколы и их реализация в Azure
 - skill: Описание служб и функций безопасности Azure
-learningPartnersLink: https://www.microsoft.com/ru-ru/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -39,7 +39,7 @@ summary: |-
   #### Профиль аудитории
   Слушатели должны иметь по крайней мере один год практического опыта защиты рабочих нагрузок Azure и иметь опыт управления безопасностью рабочих нагрузок в Azure.
 prerequisitesSection: |-  
-  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/ru-ru/learn/certifications/azure-administrator)
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
   ### Модуль 1&#58; Идентификация и доступ
   #### Уроки

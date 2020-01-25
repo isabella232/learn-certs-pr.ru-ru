@@ -7,7 +7,7 @@ uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/ru-ru/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -26,7 +26,7 @@ summary: |-
   Этот курс предназначен для специалистов по данным и тех, кто несет значительную ответственность за обучение и развертывание моделей машинного обучения.
 prerequisitesSection: |-
   Перед посещением этого курса студенты должны иметь&#58;
-  - Наличие [Azure Fundamentals certification](https://docs.microsoft.com/ru-ru/learn/certifications/azure-fundamentals).
+  - Наличие [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - Понимание data science, в том числе знание процесса подготовки данных, обучения моделей и оценки конкурирующих моделей, для того, чтобы выбрать лучшую.
   - Умение программировать на языке программирования Python и использовать библиотеки Python&#58; pandas, scikit-learn, matplotlib и seaborn.
 outlineSection: |-
