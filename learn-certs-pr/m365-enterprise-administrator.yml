@@ -2,22 +2,21 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: 'Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.'
+  description: Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
+summary: Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
 subTitle: Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
 levels:
 - advanced
 skills:
 - Проектирование и внедрение служб Microsoft 365
-- Управление идентификацией и ролями пользователей 
-- Управление доступом и аутентификацией 
+- Управление идентификацией и ролями пользователей
+- Управление доступом и аутентификацией
 - Планирование рабочих пространств и приложений Office 365
 - Внедрение служб мобильных устройств
 - Внедрение Microsoft 365 Security and Threat Management
-- Управление руководством и соответствием в Microsoft 365 
+- Управление руководством и соответствием в Microsoft 365
 roles:
 - administrator
 type: role-based

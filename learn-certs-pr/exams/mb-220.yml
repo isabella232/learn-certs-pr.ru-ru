@@ -5,18 +5,20 @@ metadata:
   description: 'Экзамен MB-220: Microsoft Dynamics 365 Marketing'
 uid: exam.mb-220
 displayName: MB-220
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются функциональные консультанты Microsoft Dynamics 365 по привлечению клиентов с опытом в маркетинге. Кандидаты отвечают за внедрение решений, которые привлекают и конвертируют лидов, повышают узнаваемость бренда, стандартизируют многоканальный обмен сообщениями и предоставляют маркетинговые идеи.
 
+
   Кандидаты несут ответственность за настройку и расширение основного маркетингового приложения, чтобы включить в него маркетинг по электронной почте, настройку, интерактивные поездки клиентов, "обработка" лидов с персонализированным опытом, интеграция с LinkedIn, Events, Voice of the Customer, целевые страницы, сегментация и оценка, а также соблюдение Генерального регламента о защите персональных данных (GDPR).
+
 
   Кандидаты должны иметь некоторое представление о принципах маркетинга и роли маркетингового приложения в отношении набора приложений Microsoft Dynamics 365, включая интеграцию с приложениями Microsoft Dynamics 365 и Office 365. Кандидаты должны понимать отраслевую терминологию, приоритеты, общие инициативы, стандарты, методологии и лучшие практики.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: настройка маркетинговых приложений; управление сегментами и списками; создание и управление маркетинговыми формами и страницами; управление интересами; создание и управление маркетинговыми электронными письмами; управление поездками клиентов; управление мероприятиями и вебинарами; настройка и анализ ответов клиентов'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-220&examname=Экзамен%20MB-220:%20Microsoft%20Dynamics%20365%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-220&examname=Экзамен%20MB-220:%20Microsoft%20Dynamics%20365%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 levels:
 - intermediate
 skills:
@@ -30,11 +32,11 @@ skills:
 - Настройка и анализ ответов клиентов (10-15%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-marketing
 exams:
 - uid: exam.mb-200
+products:
+- dynamics
+- dynamics-marketing
 courses:
 - uid: course.mb-220t01
 - uid: course.mb-220t02

@@ -1,24 +1,27 @@
 ### YamlMime:Examination
-title: Внедрение гибридной и безопасной платформы обмена сообщениями
+title: Implementing a Hybrid and Secure Messaging Platform
 metadata:
-  title: 'Экзамен MS-201: Внедрение гибридной и безопасной платформы обмена сообщениями'
-  description: 'Экзамен MS-201: Внедрение гибридной и безопасной платформы обмена сообщениями'
+  title: 'Экзамен MS-201: Implementing a Hybrid and Secure Messaging Platform'
+  description: 'Экзамен MS-201: Implementing a Hybrid and Secure Messaging Platform'
 uid: exam.ms-201
 displayName: MS-201
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются администраторы обмена сообщениями, которые развертывают, настраивают, управляют, устраняют неполадки и отслеживают получателей, разрешения, защиту почты, поток почты и общие папки как в локальных, так и в облачных корпоративных средах.
+
 
   Администраторы сообщений отвечают за управление гигиеной, инфраструктурой обмена сообщениями, гибридной конфигурацией, миграцией, аварийным восстановлением, высокой доступностью и доступом клиентов.
 
+
   Администраторы обмена сообщениями сотрудничают с Администратором безопасности и Администратором предприятия Microsoft 365 для реализации безопасной гибридной топологии, отвечающей бизнес-потребностям современной организации.
+
 
   Администратор обмена сообщениями должен иметь практические знания о типах аутентификации, лицензировании и интеграции с приложениями Microsoft 365.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: планирование и внедрение гибридной конфигурации и миграции; обеспечение безопасности среды обмена сообщениями; а также управление организационными настройками.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-201&examname=Экзамен%20MS-201:%20Внедрение%20гибридной%20и%20безопасной%20платформы%20обмена%20сообщениями&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-201
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-201&examname=Экзамен%20MS-201:%20Внедрение%20гибридной%20и%20безопасной%20платформы%20обмена%20сообщениями&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-201
 levels:
 - intermediate
 skills:
@@ -27,10 +30,10 @@ skills:
 - Управление организационными настройками (15-20%)
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-200
+products:
+- m365
 courses:
 - uid: course.ms-201t01
 - uid: course.ms-201t02

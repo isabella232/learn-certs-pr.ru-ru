@@ -1,26 +1,28 @@
 ### YamlMime:Examination
-title: Внедрение решения для данных Azure
+title: Implementing an Azure Data Solution
 metadata:
-  title: 'Экзамен DP-200: Внедрение решения для данных Azure'
-  description: 'Экзамен DP-200: Внедрение решения для данных Azure'
+  title: 'Экзамен DP-200: Implementing an Azure Data Solution'
+  description: 'Экзамен DP-200: Implementing an Azure Data Solution'
 uid: exam.dp-200
 displayName: DP-200
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются инженеры данных Microsoft Azure, которые совместно с представителями бизнеса определяют и выполняют требования к данным для реализации решений по работе с данными, использующих службы данных Azure.
 
+
   Специалисты по обработке данных Azure отвечают за реализацию задач, связанных с данными, которые включают предоставление услуг хранения данных, прием потоковых и пакетных данных, преобразование данных, внедрение требований безопасности, реализацию политик хранения данных, выявление узких мест производительности и доступ к внешним источникам данных.
+
 
   Кандидаты на этот экзамен должны уметь реализовать решения по работе с данными, использующие следующие службы Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (бывший Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, и хранилище Azure Blob.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: внедрение решений для хранения данных; управление и развитие обработки данных; мониторинг и оптимизация решений по работе с данными.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-200&examname=Экзамен%20DP-200:%20Внедрение%20решения%20для%20данных%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-200&examname=Экзамен%20DP-200:%20Внедрение%20решения%20для%20данных%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 levels:
 - intermediate
 skills:
@@ -29,6 +31,8 @@ skills:
 - Мониторинг и оптимизация решений по работе с данными (30-35%)
 roles:
 - data-engineer
+exams:
+- uid: exam.dp-201
 products:
 - azure
 - azure-cosmos-db
@@ -41,8 +45,6 @@ products:
 - azure-storage
 - azure-monitor
 - azure-hdinsight
-exams:
-- uid: exam.dp-201
 courses:
 - uid: course.dp-200t01
 paths:

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Сертифицировано Microsoft: Azure AI Engineer Associate'
+title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
-  title: 'Сертифицировано Microsoft: Azure AI Engineer Associate'
-  description: 'Инженеры Azure AI используют Cognitive Services (когнитивные службы), Machine Learning (машинное обучение) и Knowledge Mining (майнинг знаний) для разработки и внедрения решений Microsoft AI, включающих обработку естественного языка, речь, компьютерное зрение, ботов и агентов.'
+  title: 'Microsoft Certified: Azure AI Engineer Associate'
+  description: Инженеры Azure AI используют Cognitive Services (когнитивные службы), Machine Learning (машинное обучение) и Knowledge Mining (майнинг знаний) для разработки и внедрения решений Microsoft AI, включающих обработку естественного языка, речь, компьютерное зрение, ботов и агентов.
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Инженеры Azure AI используют Cognitive Services (когнитивные службы), Machine Learning (машинное обучение) и Knowledge Mining (майнинг знаний) для разработки и внедрения решений Microsoft AI, включающих обработку естественного языка, речь, компьютерное зрение, ботов и агентов.
+summary: Инженеры Azure AI используют Cognitive Services (когнитивные службы), Machine Learning (машинное обучение) и Knowledge Mining (майнинг знаний) для разработки и внедрения решений Microsoft AI, включающих обработку естественного языка, речь, компьютерное зрение, ботов и агентов.
 subTitle: Инженеры Azure AI используют Cognitive Services (когнитивные службы), Machine Learning (машинное обучение) и Knowledge Mining (майнинг знаний) для разработки и внедрения решений Microsoft AI, включающих обработку естественного языка, речь, компьютерное зрение, ботов и агентов.
 levels:
 - intermediate
@@ -37,7 +36,7 @@ exams:
 - uid: exam.ai-100
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure AI Engineer Associate.'
+  description: Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure AI Engineer Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

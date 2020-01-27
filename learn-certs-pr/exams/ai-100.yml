@@ -1,28 +1,32 @@
 ### YamlMime:Examination
-title: Разработка и реализация решения Azure AI
+title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: 'Экзамен AI-100: Разработка и реализация решения Azure AI'
-  description: 'Экзамен AI-100: Разработка и реализация решения Azure AI'
+  title: 'Экзамен AI-100: Designing and Implementing an Azure AI Solution'
+  description: 'Экзамен AI-100: Designing and Implementing an Azure AI Solution'
 uid: exam.ai-100
 displayName: AI-100
-summary: |-
+summary: >-
   Кандидаты на этот экзамен анализируют требования к облачным AI-решениям и гибридным AI-решениям, рекомендуют соответствующие инструменты и технологии и внедряют решения, отвечающие требованиям к масштабируемости и производительности.
+
   <br/>
+
 
   Кандидаты преобразовывают видение из архитекторов решений и работают с исследователями данных, инженерами данных, специалистами IoT и разработчиками AI над созданием комплексных решений. Кандидаты разрабатывают и внедряют AI-приложения и агентов, использующих когнитивные службы Microsoft Azure и Azure Bot Service. Кандидаты могут рекомендовать решения, использующие технологии с открытым исходным кодом.
 
+
   Кандидаты понимают компоненты, составляющие портфель Azure AI, и доступные варианты хранения данных.
+
 
   Кандидаты реализуют решения AI, использующие когнитивные службы, боты Azure, поиск Azure и хранение данных в Azure. Кандидаты понимают, когда необходима расзработка специализированных API в соответствии с конкретными требованиями.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: анализ требований к решению; разработка решения; интеграция модели AI в решения; а также развертывание и управление решениями.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AI-100&examname=Экзамен%20AI-100:%20Разработка%20и%20реализация%20решения%20Azure%20AI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AI-100&examname=Экзамен%20AI-100:%20Разработка%20и%20реализация%20решения%20Azure%20AI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fai-100
 levels:
 - intermediate
 skills:
@@ -50,7 +54,7 @@ relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer
 resources:
-- title: Обучение для получения сертификата 
+- title: Обучение для получения сертификата
   description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Младший инженер по искусственному интеллекту (AI) Azure.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: Руководство по обучению и сертификации

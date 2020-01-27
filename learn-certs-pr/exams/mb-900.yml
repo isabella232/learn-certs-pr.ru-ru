@@ -5,18 +5,19 @@ metadata:
   description: 'Экзамен MB-900: Основы Microsoft Dynamics 365'
 uid: exam.mb-900
 displayName: MB-900
-summary: |-
+summary: >-
   Этот экзамен предназначен для кандидатов, желающих продемонстрировать базовые знания Microsoft Dynamics 365, приложений Power Platform и моделей облачных вычислений. В этом экзамене будут рассмотрены соображения и преимущества использования Dynamics 365, Power Platform и облачных служб в целом. Этот экзамен можно сдать в качестве предшествующего уровня сертификации по Dynamics 365.
+
 
   Кандидаты на сдачу этого экзамена должны иметь общие знания или соответствующий опыт работы в среде информационных технологий (IT). Кандидаты также должны иметь базовые знания бизнес-сценариев и опыт работы с бизнес-требованиями, законодательными требованиями и требованиями к безопасности для IT-проектов.
 subTitle: Этот экзамен оценивает ваши знания в Microsoft Dynamics 365, Power Platform, облачных концепциях, параметрах лицензирования, а также параметрах развертывания и релиза.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
 practiceTestUrl: https://us.mindhub.com/p/MU-MB-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-900&examname=Экзамен%20MB-900:%20Основы%20Microsoft%20Dynamics%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-900&examname=Экзамен%20MB-900:%20Основы%20Microsoft%20Dynamics%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 levels:
 - beginner
 skills:
@@ -25,7 +26,7 @@ skills:
 - Понимание развертываний и релизов (20-25%)
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01

@@ -1,24 +1,25 @@
 ### YamlMime:Examination
-title: Основы Microsoft Azure
+title: Microsoft Azure Fundamentals
 metadata:
-  title: 'Экзамен AZ-900: Основы Microsoft Azure'
-  description: 'Экзамен AZ-900: Основы Microsoft Azure'
+  title: 'Экзамен AZ-900: Microsoft Azure Fundamentals'
+  description: 'Экзамен AZ-900: Microsoft Azure Fundamentals'
 uid: exam.az-900
 displayName: AZ-900
-summary: |-
+summary: >-
   Этот экзамен предназначен для кандидатов, желающих продемонстрировать базовые знания облачных сервисов, а также того, как сервисы представлены в Microsoft Azure. Экзамен предназначен для кандидатов, не имеющих технического опыта, например, тех кто занимается продажей или покупкой облачных решений и услуг, или тех, кто имеет хоть какое-то отношение к облачным решениям и службам, а также тех, кто имеет технический опыт и хочет подтвердить свой базовый уровень знаний облачных сервисов. Технический опыт в области IT не требуется, однако некоторые общие знания или опыт в области IT могли бы быть полезны.
+
 
   Этот экзамен можно использовать в качестве первого шага в изучении облачных сервисов и того, как эти концепции воплощены в Microsoft Azure. Его можно использовать в качестве предварительного экзамена по облачным сервисам Microsoft Azure или Microsoft. В то же время он может стать полезным первым шагом, подтверждающим знания базового уровня. Сдача этого экзамена не является обязательным условием перед получением каких-либо других сертификатов Azure.
 subTitle: 'Этот экзамен позволяет оценить вашу способность понимать следующие концепции: концепции облачных вычислений, основные службы Azure, концепции облачной безопасности, конфиденциальности, соответствия требованиям и доверия, а также цены и поддержку Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-900&examname=Экзамен%20AZ-900:%20Основы%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-900&examname=Экзамен%20AZ-900:%20Основы%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-900
 levels:
 - beginner
 skills:

@@ -1,17 +1,17 @@
 ### YamlMime:Examination
-title: Техническая грамотность для преподавателей
+title: Technology Literacy for Educators
 metadata:
-  title: 'Экзамен 62-193: Техническая грамотность для преподавателей'
-  description: 'Экзамен 62-193: Техническая грамотность для преподавателей'
+  title: 'Экзамен 62-193: Technology Literacy for Educators'
+  description: 'Экзамен 62-193: Technology Literacy for Educators'
 uid: exam.62-193
 displayName: 62-193
-summary: |-
+summary: >-
   Круг кандидатов на прохождение этого экзамена включает в себя всех, кто готовится стать преподавателем, нынешних преподавателей, преподавателей и студентов педагогических училищ, администраторов в сфере образования или других специалистов, желающих пройти проверку своей квалификации.
+
 
   MCE&#58; Сертификационный экзамен Technology Literacy for Educators является тестом для кандидатов среднего уровня, который предназначен для надежного и действенного определения уровня навыков в соответствии с критериями платформы 21st Century Learning Design (21CLD).
 subTitle: Круг кандидатов на прохождение этого экзамена включает в себя всех, кто готовится стать преподавателем, нынешних преподавателей, преподавателей и студентов педагогических училищ, администраторов в сфере образования или других специалистов, желающих пройти проверку своей квалификации.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=62-193&examname=Техническая%20грамотность%20для%20преподавателей&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2F62-193
 locales:
 - en
 - de
@@ -22,7 +22,8 @@ locales:
 - ru
 - pl
 - ja
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=62-193&examname=Техническая%20грамотность%20для%20преподавателей&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2F62-193
+levels:
 - beginner
 skills:
 - Содействие совместной работе студентовx

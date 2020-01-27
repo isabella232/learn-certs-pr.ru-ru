@@ -1,22 +1,23 @@
 ### YamlMime:Examination
-title: Мобильность и безопасность в Microsoft 365
+title: Microsoft 365 Mobility and Security
 metadata:
   title: 'Экзамен MS-101: Мобильность и безопасность Microsoft 365'
   description: 'Экзамен MS-101: Мобильность и безопасность Microsoft 365'
 uid: exam.ms-101
 displayName: MS-101
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются Администраторы Microsoft 365 Enterprise, которые принимают участие в оценке, планировании, миграции, развертывании и управлении службами Microsoft 365. Они выполняют задачи по управлению арендой в Microsoft 365 для организаций, в том числе управление идентификациями, безопасностью, соответствием стандартам и поддержкой технологий.
+
 
   Кандидаты должны знать рабочие пространства Microsoft 365 и должны иметь опыт администрирования хотя бы одного рабочего пространства Microsoft 365 (Exchange, SharePoint, Skype для бизнеса, или Windows as a Service). Кандидаты должны обладать познаниями в проектировании сетей, серверном администрировании и основных понятиях IT, таких как DNS, активная директория и PowerShell.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: внедрение служб современных устройств; внедрение Microsoft 365 Security and Threat Management; и управление руководством и соответствием в Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-101&examname=Экзамен%20MS-101:%20Мобильность%20и%20безопасность%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-101
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-101&examname=Экзамен%20MS-101:%20Мобильность%20и%20безопасность%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-101
 levels:
 - advanced
 skills:
@@ -25,12 +26,12 @@ skills:
 - Управление руководством и соответствием в Microsoft 365 (35-40%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-100
 products:
 - m365
 - azure-active-directory
 - office-365
-exams:
-- uid: exam.ms-100
 courses:
 - uid: course.ms-101t01
 - uid: course.ms-101t02

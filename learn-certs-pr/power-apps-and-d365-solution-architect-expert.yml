@@ -1,14 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Архитектор-эксперт решений Power Apps + Dynamics 365'
+title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
 metadata:
-  title: 'Microsoft Certified: Архитектор-эксперт решений Power Apps + Dynamics 365'
+  title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
   description: Архитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Архитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.  
-  
-  <div style="color:red"><br/><strong>NOTE&#58; Эта сертификация будет недоступна до 27 января 2020 года</strong></div>
+summary: "Архитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.  \n\n<div style=\"color:red\"><br/><strong>NOTE&#58; Эта сертификация будет недоступна до 27 января 2020 года</strong></div>"
 subTitle: Архитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.
 levels:
 - advanced
@@ -22,9 +19,6 @@ type: role-based
 products:
 - dynamics
 - power-apps
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
-exams:
-- uid: exam.mb-600
 prerequisites:
 - uid: certification.power-apps-and-d365-developer-associate
   isOptional: false
@@ -33,9 +27,12 @@ prerequisites:
 - uid: certification.d365-functional-consultant-marketing
   isOptional: false
 - uid: certification.d365-functional-consultant-customer-service
-  isOptional: false  
+  isOptional: false
 - uid: certification.d365-functional-consultant-field-service
   isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
 resources:
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

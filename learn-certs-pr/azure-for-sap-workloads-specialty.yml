@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Azure для SAP Workloads'
+title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified: Azure для SAP Workloads'
+  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
   description: Архитекторы Azure для SAP Workloads обладают обширным опытом и знаниями в области процесса сертификации SAP Landscape и отраслевых стандартов, необходимых для долгосрочной работы решения SAP.
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: |-
-  Архитекторы Azure для SAP Workloads обладают обширным опытом и знаниями в области процесса сертификации SAP Landscape и отраслевых стандартов, необходимых для долгосрочной работы решения SAP.
+summary: Архитекторы Azure для SAP Workloads обладают обширным опытом и знаниями в области процесса сертификации SAP Landscape и отраслевых стандартов, необходимых для долгосрочной работы решения SAP.
 subTitle: Архитекторы Azure для SAP Workloads обладают обширным опытом и знаниями в области процесса сертификации SAP Landscape и отраслевых стандартов, необходимых для долгосрочной работы решения SAP.
 levels:
 - advanced
