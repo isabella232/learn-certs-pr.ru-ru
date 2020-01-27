@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Fundamentals
 metadata:
-  title: 'Экзамен MB-900: Основы Microsoft Dynamics 365'
-  description: 'Экзамен MB-900: Основы Microsoft Dynamics 365'
+  title: 'Экзамен MB-900: Microsoft Dynamics 365 Fundamentals'
+  description: 'Экзамен MB-900: Microsoft Dynamics 365 Fundamentals'
 uid: exam.mb-900
 displayName: MB-900
 summary: >-
@@ -37,7 +37,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Основы Dynamics 365.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

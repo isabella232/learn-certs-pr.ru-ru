@@ -26,7 +26,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AI-100&examname=Экзамен%20AI-100:%20Разработка%20и%20реализация%20решения%20Azure%20AI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AI-100&examname=%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fai-100
 levels:
 - intermediate
 skills:
@@ -55,7 +55,7 @@ relatedCertifications:
     uid: certification.azure-ai-engineer
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Младший инженер по искусственному интеллекту (AI) Azure.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure AI Engineer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

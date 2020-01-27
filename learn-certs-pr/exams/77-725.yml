@@ -9,6 +9,9 @@ summary: "От кандидатов, желающих успешно сдать 
 subTitle: От кандидатов, желающих успешно сдать экзамен по Word 2016, требуется знание основ работы в среде Word и способность самостоятельно выполнять задачи. Кандидаты должны правильно применять основные функции Word 2016 и уметь создавать и редактировать двух- или трехстраничные документы для различных целей. Примерами документов могут служить отчеты, информационные бюллетени с несколькими колонками, анкеты и деловые письма, оформленные на профессиональном уровне.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

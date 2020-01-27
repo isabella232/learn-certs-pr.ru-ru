@@ -17,6 +17,9 @@ summary: >
 subTitle: Успешные кандидаты будут иметь фундаментальное понимание среды PowerPoint и продемонстрировать правильное применение PowerPoint 2016. Кандидаты должны уметь создавать, редактировать и улучшать презентации и слайд-шоу. Примеры презентаций включают презентации профессионального уровня, обучение сотрудников, учебные материалы и слайд-шоу в киосках.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -35,7 +38,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

@@ -9,6 +9,9 @@ summary: "Экспертные кандидаты на экзамен Word 2016 
 subTitle: Экспертные кандидаты на экзамен Word 2016 успешно используют расширенные функции Word 2016 для управления документами и контентом и для расширенного форматирования.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -19,7 +22,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

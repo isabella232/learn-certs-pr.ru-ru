@@ -33,7 +33,7 @@ exams:
 - uid: exam.ms-500
 resources:
 - title: Обучение для получения сертификата
-  description: Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Security Administrator Associate.
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Security Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

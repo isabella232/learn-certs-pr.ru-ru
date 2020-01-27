@@ -20,6 +20,9 @@ summary: >
 subTitle: Экспертные кандидаты на экзамен Excel 2016 имеют передовое понимание среды Excel и имеют возможность направлять других к правильному использованию функций программы.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Aw
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -30,7 +33,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

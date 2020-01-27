@@ -17,6 +17,9 @@ summary: >
 subTitle: Успешные кандидаты будут создавать и редактировать профессионально выглядящие сообщения электронной почты, вести календари в часовых поясах и планировать задания для различных целей и ситуаций. Кандидаты должны уметь создавать профессионально оформленные письма и календари и планировать встречи в Outlook 2016. Примеры приложений включают координацию ресурсов здания, отправку сообщений для маркетинговых кампаний, планирование собраний персонала и назначение элементов мероприятия собрания.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft 365 Mobility and Security
 metadata:
-  title: 'Экзамен MS-101: Мобильность и безопасность Microsoft 365'
-  description: 'Экзамен MS-101: Мобильность и безопасность Microsoft 365'
+  title: 'Экзамен MS-101: Microsoft 365 Mobility and Security'
+  description: 'Экзамен MS-101: Microsoft 365 Mobility and Security'
 uid: exam.ms-101
 displayName: MS-101
 summary: >-
@@ -17,7 +17,7 @@ practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_med
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-101&examname=Экзамен%20MS-101:%20Мобильность%20и%20безопасность%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-101&examname=Экзамен%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-101
 levels:
 - advanced
 skills:

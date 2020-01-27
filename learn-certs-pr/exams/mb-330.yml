@@ -23,7 +23,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-330&examname=Экзамен%20MB-330:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management​%20по%20управлению%20цепочками%20поставок&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-330
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-330&examname=Экзамен%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 levels:
 - intermediate
 skills:
@@ -53,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-supply-chain-management
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Помощник функционального консультанта Dynamics 365 Supply Chain Management по управлению цепочками поставок.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

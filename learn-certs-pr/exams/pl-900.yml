@@ -15,7 +15,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=PL-900&examname=Экзамен%20PL-900:%20Основы%20Microsoft%20Power%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=PL-900&examname=Экзамен%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fpl-900
 levels:
 - beginner
 skills:
