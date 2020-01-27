@@ -1,27 +1,30 @@
 ### YamlMime:Examination
-title: Разработка решений для Microsoft Azure
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Экзамен AZ-203: Разработка решений для Microsoft Azure'
-  description: 'Экзамен AZ-203: Разработка решений для Microsoft Azure'
+  title: 'Экзамен AZ-203: Developing Solutions for Microsoft Azure'
+  description: 'Экзамен AZ-203: Developing Solutions for Microsoft Azure'
 uid: exam.az-203
 displayName: AZ-203
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются разработчики Azure, которые разрабатывают и внедряют облачные решения, такие как приложения и сервисы. Они участвуют на всех этапах разработки, от проектирования решений до разработки и развертывания, до тестирования и обслуживания. Они взаимодействуют с архитекторами облачных решений, облачными администраторами баз данных, облачными администраторами и клиентами для реализации решения.
+
   <br/>
 
+
   Кандидаты должны обладать навыками разработки приложений и сервисов с использованием инструментов и технологий Azure, включая хранение, безопасность, вычисление и связь.
+
 
   Кандидаты должны иметь по крайней мере один год опыта разработки масштабируемых решений на всех этапах разработки программного обеспечения и быть опытными по крайней мере в одном поддерживаемом облаком языке программирования.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: разрабатывать вычислительные решения Azure; разрабатывать вычислительные решения Azure Platform; развивать хранилище Azure; внедрять безопасность Azure; отслеживать, устранять неисправности и оптимизировать решения; подключаться и использовать службы Azure , а также и сторонние службы.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-203&examname=Экзамен%20AZ-203:%20Разработка%20решений%20для%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-203
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-203&examname=Экзамен%20AZ-203:%20Разработка%20решений%20для%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
@@ -33,6 +36,8 @@ skills:
 - Подключение и использование служб Azure и сторонних служб (20-25%)
 roles:
 - developer
+exams:
+- uid: exam.az-202
 products:
 - azure
 - azure-virtual-machines
@@ -44,8 +49,6 @@ products:
 - azure-bot-service
 - azure-functions
 - azure-logic-apps
-exams:
-- uid: exam.az-202
 courses:
 - uid: course.az-203t01
 - uid: course.az-203t02

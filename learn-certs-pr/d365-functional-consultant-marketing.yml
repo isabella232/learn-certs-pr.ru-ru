@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Младший функциональный консультант Dynamics 365 Marketing по маркетингу'
+title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
 metadata:
-  title: 'Microsoft Certified: Младший функциональный консультант Dynamics 365 Marketing по маркетингу'
-  description: 'Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по маркетингу реализуют решения, которые привлекают и конвертируют лидов, повышают узнаваемость бренда, стандартизируют многоканальный обмен сообщениями и предоставляют маркетинговые идеи.'
+  title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+  description: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по маркетингу реализуют решения, которые привлекают и конвертируют лидов, повышают узнаваемость бренда, стандартизируют многоканальный обмен сообщениями и предоставляют маркетинговые идеи.
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по маркетингу реализуют решения, которые привлекают и конвертируют лидов, повышают узнаваемость бренда, стандартизируют многоканальный обмен сообщениями и предоставляют маркетинговые идеи.
+summary: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по маркетингу реализуют решения, которые привлекают и конвертируют лидов, повышают узнаваемость бренда, стандартизируют многоканальный обмен сообщениями и предоставляют маркетинговые идеи.
 subTitle: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по маркетингу реализуют решения, которые привлекают и конвертируют лидов, повышают узнаваемость бренда, стандартизируют многоканальный обмен сообщениями и предоставляют маркетинговые идеи.
 levels:
 - intermediate
@@ -49,7 +48,7 @@ exams:
 - uid: exam.mb-220
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Младший функциональный консультант Dynamics 365 Marketing по маркетингу.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

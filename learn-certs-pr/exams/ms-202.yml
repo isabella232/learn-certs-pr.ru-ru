@@ -1,28 +1,35 @@
 ### YamlMime:Examination
-title: Переход к сертификации администратора сообщений Microsoft 365
+title: Microsoft 365 Messaging Administrator Certification Transition
 metadata:
-  title: 'Экзамен MS-202: Переход к сертификации администратора сообщений Microsoft 365'
-  description: 'Экзамен MS-202: Переход к сертификации администратора сообщений Microsoft 365'
+  title: 'Экзамен MS-202: Microsoft 365 Messaging Administrator Certification Transition'
+  description: 'Экзамен MS-202: Microsoft 365 Messaging Administrator Certification Transition'
 uid: exam.ms-202
 displayName: MS-202
-summary: |-
+summary: >-
   <div style='color&#58; red; font-weight&#58; bold;'>ЭТОТ ЭКЗАМЕН БЫЛ ОТМЕНЕН 30 СЕНТЯБРЯ 2019 ГОДА. Примечание&#58; Экзамен будет отменен в 23:59 по центральному стандартному времени</div>
+
   <br/>
+
   Этот экзамен предназначен только для кандидатов, сдавших [Экзамен 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) Разработка и развертывание Microsoft Exchange Server 2016. Если вы не сдали экзамен 345, вы не получите сертификат, сдав этот экзамен.
+
 
   Кандидатами на этот экзамен являются администраторы обмена сообщениями, которые развертывают, настраивают, управляют, устраняют неполадки и отслеживают получателей, разрешения, защиту почты, поток почты и общие папки как в локальных, так и в облачных корпоративных средах.
 
+
   Администраторы сообщений отвечают за управление гигиеной, инфраструктурой обмена сообщениями, гибридной конфигурацией, миграцией, аварийным восстановлением, высокой доступностью и доступом клиентов.
 
+
   Администраторы обмена сообщениями сотрудничают с Администратором безопасности и Администратором предприятия Microsoft 365 для реализации безопасной гибридной топологии, отвечающей бизнес-потребностям современной организации.
+
 
   Администратор обмена сообщениями должен иметь практические знания о типах аутентификации, лицензировании и интеграции с приложениями Microsoft 365.
 subTitle: 'Этот экзамен предназначен только для кандидатов, сдавших Экзамен 70-345: Разработка и развертывание Microsoft Exchange Server 2016. Если вы не сдали экзамен 345, вы не получите сертификат, сдав этот экзамен.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
@@ -31,14 +38,13 @@ skills:
 - Управление получателями и устройствами (10-15%)
 - Планирование и реализация гибридной конфигурации и миграции (20-25%)
 - Обеспечение безопасности среды для обмена сообщениями (35-40%)
-retirementDate: 09/30/2019
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-200
 - uid: exam.ms-201
+products:
+- m365
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator

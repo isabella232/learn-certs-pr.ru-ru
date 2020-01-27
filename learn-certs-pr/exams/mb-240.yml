@@ -1,22 +1,24 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Field Service для обслуживания на местах
+title: Microsoft Dynamics 365 Field Service
 metadata:
-  title: 'Экзамен MB-240: Microsoft Dynamics 365 Field Service для обслуживания на местах'
-  description: 'Экзамен MB-240: Microsoft Dynamics 365 Field Service для обслуживания на местах'
+  title: 'Экзамен MB-240: Microsoft Dynamics 365 Field Service'
+  description: 'Экзамен MB-240: Microsoft Dynamics 365 Field Service'
 uid: exam.mb-240
 displayName: MB-240
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются функциональные консультанты Microsoft Dynamics 365 по привлечению клиентов с опытом в обслуживании на местах. Кандидаты отвечают за реализацию решений, управляющих ресурсами, которые завершают жизненный цикл обслуживания на местах.
 
+
   Кандидаты осуществляют процессы обслуживания на местах, разработанные в сотрудничестве с внутренними и внешними командами специалистов. Это сотрудничество включает в себя настройку стандартных областей администрирования приложения для обслуживания на местах, развертывание решения Connected Field Service (IoT) и мобильного приложения, а также реализацию любых дополнительных необходимых изменений по запросу. Кандидаты отвечают за настройку и развертывание приложения обслуживания на местах совместно с основным приложением обслуживания клиентов.
+
 
   Кандидаты должны иметь знания о настройке и изменении компонентов приложения обслуживания на местах, включая настройку служб, ресурсов, характеристик, инцидентов, интеграции запасов, соглашения об обслуживании, планирование ресурсов, рабочие задания, задачи обслуживания, роли пользователей при обслуживании на местах, настройки обслуживания на местах, решение Connected Field Service (IoT) и настройка мобильного приложения обслуживания на местах.
 subTitle: 'Данный экзамен позволяет оценить вашу способность выполнять перечисленные ниже технические задачи: настройка приложений обслуживания на местах; управление заказами на работу; планирование и диспетчеризация заказов на работу; управление мобильностью обслуживания на местах; управление запасами и закупками; управление активами и соглашениями.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-240&examname=Экзамен%20MB-240:%20Microsoft%20Dynamics%20365%20Field%20Service%20для%20обслуживания%20на%20местах&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-240&examname=Экзамен%20MB-240:%20Microsoft%20Dynamics%20365%20Field%20Service%20для%20обслуживания%20на%20местах&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 levels:
 - intermediate
 skills:
@@ -28,11 +30,11 @@ skills:
 - Управление активами и соглашениями (10-15%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-field-service
 exams:
 - uid: exam.mb-200
+products:
+- dynamics
+- dynamics-field-service
 courses:
 - uid: course.mb-240t01
 - uid: course.mb-240t02

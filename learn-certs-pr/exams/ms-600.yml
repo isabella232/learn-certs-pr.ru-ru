@@ -1,22 +1,24 @@
 ### YamlMime:Examination
-title: 'Создание приложений и решений с помощью служб Microsoft 365 Core (бета)'
+title: Building Applications and Solutions with Microsoft 365 Core Services (beta)
 metadata:
-  title: 'Экзамен MS-600: Создание приложений и решений с помощью служб Microsoft 365 Core (бета)'
-  description: 'Экзамен MS-600: Создание приложений и решений с помощью служб Microsoft 365 Core (бета)'
+  title: 'Экзамен MS-600: Building Applications and Solutions with Microsoft 365 Core Services (beta)'
+  description: 'Экзамен MS-600: Building Applications and Solutions with Microsoft 365 Core Services (beta)'
 uid: exam.ms-600
 displayName: MS-600
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются разработчики Microsoft 365, которые проектируют, создают, тестируют и поддерживают приложения и решения, оптимизированные для обеспечения потребностей организаций, использующих платформу Microsoft 365, в продуктивности и совместной работе.
 
+
   Кандидаты на этот экзамен должны быть хорошо знакомы с идентификацией Microsoft и Microsoft Graph. Они должны обладать общими знаниями об элементах пользовательского интерфейса (включая Adaptive Cards и UI Fabric), точках интеграции (в том числе Microsoft Teams, надстройки Office, SharePoint Framework, Actionable Messages) и определении целей платформы рабочей нагрузки.
+
 
   Кандидаты должны иметь опыт разработки решений для Microsoft Teams, надстроек Office или SharePoint Framework на всех этапах разработки программного обеспечения. У них должно быть базовое понимание API REST, JSON, OAuth2, OData, OpenID Connect, идентификаций Microsoft (включая учетные записи Azure AD и Microsoft), Azure AD B2C и концепций разрешения / согласия.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: внедрение Microsoft identity; создание приложений с помощью Microsoft Graph; расширение и настройка SharePoint; расширение Teams; и расширение Office.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-600&examname=Экзамен%20MS-600:%20Создание%20приложений%20и%20решений%20с%20помощью%20служб%20Microsoft%20365%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-600
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-600&examname=Экзамен%20MS-600:%20Создание%20приложений%20и%20решений%20с%20помощью%20служб%20Microsoft%20365%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-600
 levels:
 - intermediate
 skills:

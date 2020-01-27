@@ -1,23 +1,20 @@
 ### YamlMime:Examination
-title: Разработка и реализация решения Data Science в Azure
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: 'Экзамен DP-100: Разработка и реализация решения Data Science в Azure'
-  description: 'Экзамен DP-100: Разработка и реализация решения Data Science в Azure'
+  title: 'Экзамен DP-100: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Экзамен DP-100: Designing and Implementing a Data Science Solution on Azure'
 uid: exam.dp-100
 displayName: DP-100
-summary: |-
-  Кандидаты на этот экзамен должны применять научную строгость и методы исследования данных, чтобы получить полезную информацию и сообщить результаты заинтересованным сторонам. Кандидаты должны использовать методы машинного обучения для тренировки, оценки и развертывания моделей для создания AI-решений, соответствующих бизнес-целям. Кандидаты должны использовать приложения, которые включают обработку естественного языка, речь, компьютерное зрение и прогнозную аналитику. 
-
-  Кандидаты являются частью междисциплинарной команды, которая учитывает этические аспекты, вопросы конфиденциальности и управления в решении. Кандидаты обычно должны иметь опыт работы в области математики, статистики и информатики.
+summary: "Кандидаты на этот экзамен должны применять научную строгость и методы исследования данных, чтобы получить полезную информацию и сообщить результаты заинтересованным сторонам. Кандидаты должны использовать методы машинного обучения для тренировки, оценки и развертывания моделей для создания AI-решений, соответствующих бизнес-целям. Кандидаты должны использовать приложения, которые включают обработку естественного языка, речь, компьютерное зрение и прогнозную аналитику. \n\nКандидаты являются частью междисциплинарной команды, которая учитывает этические аспекты, вопросы конфиденциальности и управления в решении. Кандидаты обычно должны иметь опыт работы в области математики, статистики и информатики."
 subTitle: 'Этот экзамен предполагает проверку ваших способностей выполнять следующие технические задачи: определение и подготовка среды разработки; подготовка данных для моделирования; выполнение инженерных функций; разработка моделей.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-100&examname=Экзамен%20DP-100:%20Разработка%20и%20реализация%20решения%20Data%20Science%20в%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-100&examname=Экзамен%20DP-100:%20Разработка%20и%20реализация%20решения%20Data%20Science%20в%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 levels:
 - intermediate
 skills:
@@ -44,7 +41,7 @@ relatedCertifications:
     uid: certification.azure-data-scientist
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure Data Scientist Associate.'
+  description: Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure Data Scientist Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

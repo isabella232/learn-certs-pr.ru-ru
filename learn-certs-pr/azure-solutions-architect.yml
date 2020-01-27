@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Сертифицировано Microsoft: Azure Solutions Architect Expert'
+title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
-  title: 'Сертифицировано Microsoft: Azure Solutions Architect Expert'
-  description: 'Архитекторы решений Microsoft Azure должны обладать знаниями в области вычислений, сетей, хранения и безопасности, чтобы они могли разрабатывать решения, работающие в среде Azure.'
+  title: 'Microsoft Certified: Azure Solutions Architect Expert'
+  description: Архитекторы решений Microsoft Azure должны обладать знаниями в области вычислений, сетей, хранения и безопасности, чтобы они могли разрабатывать решения, работающие в среде Azure.
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Архитекторы решений Microsoft Azure должны обладать знаниями в области вычислений, сетей, хранения и безопасности, чтобы они могли разрабатывать решения, работающие в среде Azure.
+summary: Архитекторы решений Microsoft Azure должны обладать знаниями в области вычислений, сетей, хранения и безопасности, чтобы они могли разрабатывать решения, работающие в среде Azure.
 subTitle: Архитекторы решений Microsoft Azure должны обладать знаниями в области вычислений, сетей, хранения и безопасности, чтобы они могли разрабатывать решения, работающие в среде Azure.
 levels:
 - advanced
@@ -74,7 +73,7 @@ exams:
 - uid: exam.az-301
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure Solutions Architect Expert.'
+  description: Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure Solutions Architect Expert.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

@@ -1,19 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Word (Word и Word 2019)
+title: Microsoft Word (Word and Word 2019)
 metadata:
-  title: 'MO-100: Microsoft Word (Word и Word 2019)'
-  description: 'MO-100: Microsoft Word (Word и Word 2019)'
+  title: 'MO-100: Microsoft Word (Word and Word 2019)'
+  description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: |-
-  Лицо, получающее эту сертификацию, имеет приблизительно 150 часов обучения и практического опыта работы с продуктом, имеет подтвержденную квалификацию уровня начинающего специалиста и готов выйти на рынок труда. Кандидаты должны продемонстрировать правильное применение основных функций Word и могут самостоятельно выполнять задания.
+summary: Лицо, получающее эту сертификацию, имеет приблизительно 150 часов обучения и практического опыта работы с продуктом, имеет подтвержденную квалификацию уровня начинающего специалиста и готов выйти на рынок труда. Кандидаты должны продемонстрировать правильное применение основных функций Word и могут самостоятельно выполнять задания.
 subTitle: Этот экзамен оценивает способность правильно применять основные функции Word путем создания и редактирования документов для различных целей. Экзамен охватывает способность создавать и вести профессионально выглядящие отчеты, многоколоночные информационные бюллетени, резюме и деловую корреспонденцию.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Работа с документами (20-25%)
@@ -25,7 +24,7 @@ skills:
 roles:
 - developer
 products:
-- office 
+- office
 - office-word
 relatedCertifications:
 - related:

@@ -2,11 +2,10 @@
 title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
-  description: 'Администраторы Microsoft 365 Teamwork настраивают, разворачивают и управляют рабочими нагрузками Office 365, ориентированными на эффективное и действенное сотрудничество, например SharePoint (онлайн, локально и гибридно), OneDrive и Команды (Teams).'
+  description: Администраторы Microsoft 365 Teamwork настраивают, разворачивают и управляют рабочими нагрузками Office 365, ориентированными на эффективное и действенное сотрудничество, например SharePoint (онлайн, локально и гибридно), OneDrive и Команды (Teams).
 uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Администраторы Microsoft 365 Teamwork настраивают, разворачивают и управляют рабочими нагрузками Office 365, ориентированными на эффективное и действенное сотрудничество, например SharePoint (онлайн, локально и гибридно), OneDrive и Команды (Teams).
+summary: Администраторы Microsoft 365 Teamwork настраивают, разворачивают и управляют рабочими нагрузками Office 365, ориентированными на эффективное и действенное сотрудничество, например SharePoint (онлайн, локально и гибридно), OneDrive и Команды (Teams).
 subTitle: Администраторы Microsoft 365 Teamwork настраивают, разворачивают и управляют рабочими нагрузками Office 365, ориентированными на эффективное и действенное сотрудничество, например SharePoint (онлайн, локально и гибридно), OneDrive и Команды (Teams).
 levels:
 - intermediate
@@ -44,7 +43,7 @@ exams:
 - uid: exam.ms-301
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Teamwork Administrator Associate.'
+  description: Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Teamwork Administrator Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

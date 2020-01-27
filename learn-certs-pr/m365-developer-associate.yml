@@ -1,13 +1,14 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Помощник разработчика'
+title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
-  title: 'Microsoft 365 Certified: Помощник разработчика'
+  title: 'Microsoft 365 Certified: Developer Associate'
   description: Разработчики Microsoft 365 проектируют, создают, тестируют и обслуживают приложения и решения, оптимизированные для повышения продуктивности работы и совместной работы организаций, использующих платформу Microsoft 365.
 uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   Разработчики Microsoft 365 проектируют, создают, тестируют и обслуживают приложения и решения, оптимизированные для повышения продуктивности работы и совместной работы организаций, использующих платформу Microsoft 365.
-  
+
+
   Разработчики Microsoft 365 хорошо знакомы с Microsoft и Microsoft Graph. Они имеют общими знаниями об элементах пользовательского интерфейса (в том числе Adaptive Cards и UI Fabric), точках интеграции (в том числе Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages) и определении целей платформы рабочей нагрузки.
 subTitle: Разработчики Microsoft 365 проектируют, создают, тестируют и обслуживают приложения и решения, оптимизированные для повышения продуктивности работы и совместной работы организаций, использующих платформу Microsoft 365.
 levels:
