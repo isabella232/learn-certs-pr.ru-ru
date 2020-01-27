@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Deploying SharePoint Server Hybrid
 metadata:
-  title: 'Экзамен MS-301: Развертывание гибрида сервера Deploying SharePoint'
-  description: 'Экзамен MS-301: Развертывание гибрида сервера Deploying SharePoint'
+  title: 'Экзамен MS-301: Deploying SharePoint Server Hybrid'
+  description: 'Экзамен MS-301: Deploying SharePoint Server Hybrid'
 uid: exam.ms-301
 displayName: MS-301
 summary: >-
@@ -21,7 +21,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-301&examname=Экзамен%20MS-301:%20Развертывание%20гибрида%20сервера%20Deploying%20SharePoint&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-301
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-301&examname=Экзамен%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-301
 levels:
 - intermediate
 skills:

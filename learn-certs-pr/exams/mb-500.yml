@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
 metadata:
-  title: 'MB-500: Microsoft Dynamics 365 Разработчик приложений Finance и Operations (бета)'
-  description: 'MB-500: Microsoft Dynamics 365 Разработчик приложений Finance и Operations (бета)'
+  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
 uid: exam.mb-500
 displayName: MB-500
 summary: >-
@@ -27,7 +27,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-500&examname=MB-500:%20Microsoft%20Dynamics%20365%20Разработчик%20приложений%20Finance%20и%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-500&examname=MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 levels:
 - intermediate
 skills:

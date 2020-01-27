@@ -23,7 +23,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MD-101&examname=Экзамен%20MD-101:%20Управление%20современными%20ПК&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmd-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MD-101&examname=Экзамен%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
@@ -47,7 +47,7 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Помощник администратора современного ПК.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

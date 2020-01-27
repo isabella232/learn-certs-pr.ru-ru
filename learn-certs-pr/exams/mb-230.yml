@@ -23,7 +23,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-230&examname=Экзамен%20MB-230:%20Microsoft%20Dynamics%20365%20Customer%20Service%20для%20центра%20обслуживания%20клиентов&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-230
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-230&examname=Экзамен%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 levels:
 - intermediate
 skills:
@@ -50,7 +50,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 для помощника функционального консультанта по обслуживанию клиентов.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

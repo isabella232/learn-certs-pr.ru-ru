@@ -17,6 +17,9 @@ summary: >
 subTitle: Успешные кандидаты на экзамен Access 2016 имеют фундаментальное понимание среды приложения. Они должны знать основные принципы проектирования баз данных и уметь самостоятельно выполнять задачи. Они знают и демонстрируют правильное применение основных функций Access 2016 и демонстрируют способность создавать и поддерживать базовые объекты базы данных Access, включая таблицы, связь, формы ввода данных, многоуровневые отчеты и многосетевые запросы.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -26,10 +29,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

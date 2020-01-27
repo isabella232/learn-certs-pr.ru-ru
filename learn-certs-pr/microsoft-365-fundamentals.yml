@@ -31,7 +31,7 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: Обучение для получения сертификата
-  description: Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Основы.
+  description: Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft 365 Certified Fundamentals.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

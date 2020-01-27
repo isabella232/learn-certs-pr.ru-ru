@@ -18,10 +18,10 @@ locales:
 - en
 - ja
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-900&examname=Экзамен%20MS-900:%20Основы%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-900&examname=Экзамен%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Fms-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -44,7 +44,7 @@ relatedCertifications:
     uid: certification.microsoft-365-fundamentals
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Основы.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

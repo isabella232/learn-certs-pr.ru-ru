@@ -19,7 +19,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-400&examname=Экзамен%20AZ-400:%20Решения%20Microsoft%20Azure%20DevOps&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-400&examname=Экзамен%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-400
 levels:
 - advanced
 skills:
@@ -57,7 +57,7 @@ relatedCertifications:
     uid: certification.azure-devops
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Инженер Azure DevOps уровня Эксперт'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure DevOps Engineer Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

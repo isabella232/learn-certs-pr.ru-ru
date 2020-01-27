@@ -55,7 +55,7 @@ exams:
 - uid: exam.az-203
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Помощник разработчика Azure.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

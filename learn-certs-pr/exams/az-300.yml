@@ -15,7 +15,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-300&examname=Экзамен%20AZ-300:%20Технологии%20Архитектуры%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-300&examname=Экзамен%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-300
 levels:
 - advanced
 skills:
@@ -72,7 +72,7 @@ relatedCertifications:
     uid: certification.azure-solutions-architect
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Архитектор-эксперт по решениям Azure.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure Solutions Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
