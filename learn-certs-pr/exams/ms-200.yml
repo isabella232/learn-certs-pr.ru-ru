@@ -1,25 +1,28 @@
 ### YamlMime:Examination
-title: Планирование и настройка Платформы обмена сообщениями
+title: Planning and Configuring a Messaging Platform
 metadata:
-  title: 'Экзамен MS-200: Планирование и настройка Платформы обмена сообщениями'
-  description: 'Экзамен MS-200: Планирование и настройка Платформы обмена сообщениями'
+  title: 'Экзамен MS-200: Planning and Configuring a Messaging Platform'
+  description: 'Экзамен MS-200: Planning and Configuring a Messaging Platform'
 uid: exam.ms-200
 displayName: MS-200
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются администраторы обмена сообщениями, которые развертывают, настраивают, управляют, устраняют неполадки и отслеживают получателей, разрешения, защиту почты, поток почты и общие папки как в локальных, так и в облачных корпоративных средах.
+
 
   Администраторы сообщений отвечают за управление гигиеной, инфраструктурой обмена сообщениями, гибридной конфигурацией, миграцией, аварийным восстановлением, высокой доступностью и доступом клиентов.
 
+
   Администраторы обмена сообщениями сотрудничают с Администратором безопасности и Администратором предприятия Microsoft 365 для реализации безопасной гибридной топологии, отвечающей бизнес-потребностям современной организации.
+
 
   Администратор обмена сообщениями должен иметь практические знания о типах аутентификации, лицензировании и интеграции с приложениями Microsoft 365.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: управление современной инфраструктурой обмена сообщениями; управление топологией потока почты; и управление получателями и устройствами.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-200&examname=Экзамен%20MS-200:%20Планирование%20и%20настройка%20Платформы%20обмена%20сообщениями&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-200&examname=Экзамен%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-200
 levels:
 - intermediate
 skills:
@@ -28,10 +31,10 @@ skills:
 - Управление получателями и устройствами (15-20%)
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-201
+products:
+- m365
 courses:
 - uid: course.ms-200t01
 - uid: course.ms-200t02

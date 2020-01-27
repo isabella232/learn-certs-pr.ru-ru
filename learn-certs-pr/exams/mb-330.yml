@@ -1,25 +1,29 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 по управлению цепочками поставок
+title: Microsoft Dynamics 365 Supply Chain Management​
 metadata:
-  title: 'Экзамен MB-330: Microsoft Dynamics 365 по управлению цепочками поставок'
-  description: 'Экзамен MB-330: Microsoft Dynamics 365 по управлению цепочками поставок'
+  title: 'Экзамен MB-330: Microsoft Dynamics 365 Supply Chain Management​'
+  description: 'Экзамен MB-330: Microsoft Dynamics 365 Supply Chain Management​'
 uid: exam.mb-330
 displayName: MB-330
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются Функциональные консультанты, которые анализируют бизнес-требования и переводят эти требования в полностью готовые бизнес-процессы и решения, которые реализуют лучшие практики в отрасли. Кандидаты служат ключевым ресурсом при реализации и настройке приложений для соблюдения бизнес-требований.
+
   <br/>
+
 
   Кандидаты на этот экзамен обладают фундаментальным пониманием принципов бухгалтерского учета и финансовых операций предприятий, обслуживания клиентов, обслуживания на месте, производства, розничной торговли и концепций управления цепочками поставок.
 
+
   Кандидаты на этот экзамен обычно специализируются на одном или нескольких наборах функций Microsoft Dynamics 365 Finance, включая управление финансами, производством и цепочками поставок.
+
 
   Кандидаты должны иметь некоторые знания о практике управления цепочками поставок, включая закупки, торговлю, логистику, управление складами и управление перевозками.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: осуществлять управление информацией о продукте; осуществлять управление запасами; внедрять и управлять процессами цепочки поставок; осуществлять управление складом и транспортом; и выполнять бизнес-процессы.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-330&examname=Экзамен%20MB-330:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management​%20по%20управлению%20цепочками%20поставок&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-330&examname=Экзамен%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 levels:
 - intermediate
 skills:
@@ -29,11 +33,11 @@ skills:
 - Осуществлять управление складом и транспортом и выполнять бизнес-процессы (25-30%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance-operations
 exams:
 - uid: exam.mb-300
+products:
+- dynamics
+- dynamics-finance-operations
 courses:
 - uid: course.mb-330t01
 - uid: course.mb-330t02
@@ -49,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-supply-chain-management
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Помощник функционального консультанта Dynamics 365 Supply Chain Management по управлению цепочками поставок.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

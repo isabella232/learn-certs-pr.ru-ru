@@ -1,23 +1,25 @@
 ### YamlMime:Examination
-title: Администрирование безопасности в Microsoft 365
+title: Microsoft 365 Security Administration
 metadata:
-  title: 'Экзамен MS-500: Администрирование безопасности в Microsoft 365'
-  description: 'Экзамен MS-500: Администрирование безопасности в Microsoft 365'
+  title: 'Экзамен MS-500: Microsoft 365 Security Administration'
+  description: 'Экзамен MS-500: Microsoft 365 Security Administration'
 uid: exam.ms-500
 displayName: MS-500
-summary: |-
+summary: >-
   Кандидаты на этот экзамен внедряют, управляют и контролируют решения для обеспечения безопасности и соответствия требованиям для Microsoft 365 и гибридных сред. Администратор безопасности Microsoft 365 проактивно защищает корпоративные окружения Microsoft 365, реагирует на угрозы, проводит расследования и обеспечивает управление данными. Microsoft 365 Security Administrator сотрудничает с Microsoft 365 Enterprise Administrator, заинтересованными сторонами в бизнесе и другими администраторами рабочей нагрузки для планирования и реализации стратегий безопасности и обеспечивает соответствие решений политикам и нормам организации.
+
   <br/>
+
 
   Кандидаты на этот экзамен должны быть знакомы с типичными рабочими нагрузками Microsoft 365 и должны обладать значительными навыками и опытом в области защиты идентификационных данных, защиты информации, защиты от угроз, управления безопасностью и управления данными. Эта роль ориентирована на среду Microsoft 365 и включает в себя гибридные среды.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: внедрение и управление удостоверениями и доступом; внедрение и управление защитой от угроз; внедрить и управлять защитой информации; а также управление функциями управления и соответствия в Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-500&examname=Экзамен%20MS-500:%20Администрирование%20безопасности%20в%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-500
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-500&examname=Экзамен%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:
@@ -41,7 +43,7 @@ relatedCertifications:
     uid: certification.m365-security-administrator
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Помощник администратора по безопасности.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Security Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

@@ -1,19 +1,20 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Младший администратор Teams'
+title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
-  title: 'Microsoft 365 Certified: Младший администратор Teams'
+  title: 'Microsoft 365 Certified: Teams Administrator Associate'
   description: Администратор Microsoft Teams настраивает, развертывает и управляет рабочими нагрузками Office 365 для Microsoft Teams, которые нацелены на эффективное и результативное сотрудничество и взаимодействие в корпоративной среде.
 uid: certification.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   Администратор Microsoft Teams настраивает, развертывает и управляет рабочими нагрузками Office 365 для Microsoft Teams, которые нацелены на эффективное и результативное сотрудничество и взаимодействие в корпоративной среде.
-  
+
+
   Администратор Teams должен быть способным планировать, развертывать и управлять командами в чате, приложениях, каналах, на собраниях, аудиоконференциях, интерактивных мероприятиях и вызовах.
 subTitle: Администратор Microsoft Teams настраивает, развертывает и управляет рабочими нагрузками Office 365 для Microsoft Teams, которые нацелены на эффективное и результативное сотрудничество и взаимодействие в корпоративной среде.
 levels:
 - intermediate
 skills:
-- Планирование и настройка среды для Microsoft Teams 
+- Планирование и настройка среды для Microsoft Teams
 - Управление чатом, вызовами и встречами
 - Управление политиками команд и приложений
 roles:
@@ -31,7 +32,7 @@ exams:
 - uid: exam.ms-700
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Младший администратор Teams.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft 365 Certified: Teams Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: Основы Microsoft Certified Power Platform
+title: Microsoft Certified Power Platform Fundamentals
 metadata:
-  title: Основы Microsoft Certified Power Platform
+  title: Microsoft Certified Power Platform Fundamentals
   description: Докажите, что вы понимаете основные возможности Power Platform - от ценности для бизнеса и основных продуктов до создания базового приложения Power Apps canvas app, подключения источников данных, автоматизации с помощью Microsoft Flow и создания панели мониторинга Power BI.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Докажите, что вы понимаете основные возможности Power Platform - от ценности для бизнеса и основных продуктов до создания базового приложения Power Apps canvas app, подключения источников данных, автоматизации с помощью Microsoft Flow и создания панели мониторинга Power BI.
+summary: Докажите, что вы понимаете основные возможности Power Platform - от ценности для бизнеса и основных продуктов до создания базового приложения Power Apps canvas app, подключения источников данных, автоматизации с помощью Microsoft Flow и создания панели мониторинга Power BI.
 subTitle: Докажите, что вы понимаете основные возможности Power Platform - от ценности для бизнеса и основных продуктов до создания базового приложения Power Apps canvas app, подключения источников данных, автоматизации с помощью Microsoft Flow и создания панели мониторинга Power BI.
 levels:
 - beginner

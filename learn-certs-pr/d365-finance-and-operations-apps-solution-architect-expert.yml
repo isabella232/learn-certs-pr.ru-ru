@@ -1,29 +1,27 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365: Эксперт по архитектуре приложений для финансов и операций'
+title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365: Эксперт по архитектуре приложений для финансов и операций'
+  title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
   description: Архитекторы решений для приложений для финансов и операций в Microsoft Dynamics 365 являются доверенными консультантами, которые консультируются с организациями и членами группы по внедрению для того, чтобы преобразовать бизнес-потребности в четко определенное и экономически эффективное решение.
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
+summary: >-
   Архитекторы решений для приложений для финансов и операций в Microsoft Dynamics 365 являются доверенными консультантами, которые консультируются с организациями и членами группы по внедрению для того, чтобы преобразовать бизнес-потребности в четко определенное и экономически эффективное решение.
-  
+
+
   <div style="color:red"><br/><strong>NOTE&#58; Эта сертификация будет недоступна до 27 января 2020 года</strong></div>
 subTitle: Архитекторы решений для приложений для финансов и операций в Microsoft Dynamics 365 являются доверенными консультантами, которые консультируются с организациями и членами группы по внедрению для того, чтобы преобразовать бизнес-потребности в четко определенное и экономически эффективное решение.
 levels:
 - advanced
 skills:
 - Определение гибридных требований
-- Разработка компонентов решения 
+- Разработка компонентов решения
 - Определение стратегии тестирования и управления решениями
 roles:
 - solution-architect
 type: role-based
 products:
 - dynamics
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
-exams:
-- uid: exam.mb-700
 prerequisites:
 - uid: certification.d365-functional-consultant-financials
   isOptional: false
@@ -33,6 +31,9 @@ prerequisites:
   isOptional: false
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
+exams:
+- uid: exam.mb-700
 resources:
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

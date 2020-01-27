@@ -5,22 +5,27 @@ metadata:
   description: 'Экзамен MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
 uid: exam.mb-320
 displayName: MB-320
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются Функциональные консультанты, которые анализируют бизнес-требования и переводят эти требования в полностью готовые бизнес-процессы и решения, которые реализуют лучшие практики в отрасли. Кандидаты служат ключевым ресурсом при реализации и настройке приложений для соблюдения бизнес-требований.
+
   <br/>
+
 
   Кандидаты на этот экзамен обладают фундаментальным пониманием принципов бухгалтерского учета и финансовых операций предприятий, обслуживания клиентов, обслуживания на месте, производства, розничной торговли и концепций управления цепочками поставок.
+
   <br/>
 
+
   Кандидаты на этот экзамен обычно специализируются на одном или нескольких наборах функций Microsoft Dynamics 365 Finance, включая управление финансами, производством и цепочками поставок.
+
 
   Кандидаты должны обладать знаниями об основных принципах и практиках бухгалтерского учета.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: установка и настройка производства; создание и управление производственными и экономичными заказами; создание, обработка и управление производственными групповыми заказами.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVs
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-320&examname=Экзамен%20MB-320:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management,%20Manufacturing%20для%20управление%20цепочками%20поставок,%20производством&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-320&examname=Экзамен%20MB-320:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 levels:
 - intermediate
 skills:
@@ -29,11 +34,11 @@ skills:
 - Создание, обработка и управление производственными групповыми заказами (40-45%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance-operations
 exams:
 - uid: exam.mb-300
+products:
+- dynamics
+- dynamics-finance-operations
 courses:
 - uid: course.mb-320t01
 - uid: course.mb-320t02
@@ -48,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-manufacturing
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Помощник функционального консультанта Dynamics 365 Supply Chain Management, Manufacturing по управлению цепочками поставок, производством.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

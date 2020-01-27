@@ -1,28 +1,33 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Разработчик приложений Finance и Operations (бета)'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
 metadata:
-  title: 'MB-500: Microsoft Dynamics 365 Разработчик приложений Finance и Operations (бета)'
-  description: 'MB-500: Microsoft Dynamics 365 Разработчик приложений Finance и Operations (бета)'
+  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
 uid: exam.mb-500
 displayName: MB-500
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются разработчики, которые работают с приложениями Finance и Operations в Microsoft Dynamics 365 для реализации и расширения приложений в соответствии с требованиями бизнеса. Кандидаты предоставляют полностью реализованные решения, используя стандартизированные шаблоны кодирования приложений, расширяемые функции и внешние интеграции.
+
 
   Кандидаты несут ответственность за разработку бизнес-логики с помощью X ++, за создание и изменение отчетов и рабочих пространств Finance и Operations, настройку пользовательских интерфейсов, предоставление конечных точек и API-интерфейсов для поддержки приложений и внешних систем Power Platform, за выполнение тестирования, мониторинг производительности, анализ и манипулирование данными, за создание технических проектов и внедрение деталей, а также за реализацию политик разрешений и требований безопасности.
 
+
   Кандидаты участвуют в миграции данных и объектов из устаревших и внешних систем, интеграции приложений Finance и Operations с другими системами, реализации процесса управления жизненным циклом приложений, планировании функционального дизайна для решений и управлении средами Finance и Operations с помощью Lifecycle Services (LCS).
-  
+
+
   Кандидаты должны иметь глубокие знания и опыт работы с базовой структурой, структурами данных и объектами, связанными с программами Finance и Operations.
-  
+
+
   Кандидаты должны иметь опыт работы с продуктами, включая Visual Studio, Azure DevOps, инструменты LCS или SQL Server Management Studio.
-  
+
+
   Кандидаты должны иметь опыт разработки кода с использованием объектно-ориентированных языков программирования, анализа и обработки данных с использованием кода Transact-SQL, а также создания и запуска команд и сценариев Windows PowerShell.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: планирование архитектуры и проектирование решения; применение инструментов разработчика; проектирование и разработка элементов АОТ; разработка и тестирование кода;внедрение отчетности; интеграция и управление решениями для данных; а также внедрение безопасности и оптимизация производительности.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-500&examname=MB-500:%20Microsoft%20Dynamics%20365%20Разработчик%20приложений%20Finance%20и%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-500&examname=MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 levels:
 - intermediate
 skills:
@@ -35,11 +40,11 @@ skills:
 - Внедрение безопасности и оптимизация производительности (10-15%)
 roles:
 - developer
+exams:
+- uid: exam.mb-300
 products:
 - dynamics
 - dynamics-finance-operations
-exams:
-- uid: exam.mb-300
 courses:
 - uid: course.mb-500t00
 paths:

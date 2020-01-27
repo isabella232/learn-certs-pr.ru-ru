@@ -1,24 +1,25 @@
 ### YamlMime:Examination
-title: Технологии безопасности Microsoft Azure
+title: Microsoft Azure Security Technologies
 metadata:
-  title: 'Экзамен AZ-500: Технологии безопасности Microsoft Azure'
-  description: 'Экзамен AZ-500: Технологии безопасности Microsoft Azure'
+  title: 'Экзамен AZ-500: Microsoft Azure Security Technologies'
+  description: 'Экзамен AZ-500: Microsoft Azure Security Technologies'
 uid: exam.az-500
 displayName: AZ-500
-summary: |-
+summary: >-
   Кандидатами на этот экзамен являются инженеры по безопасности Microsoft Azure, которые отвечают за средства контроля безопасности, поддерживают состояние безопасности, управляют идентификацией и доступом, а также защищают данные, приложения и сети. Кандидаты выявляют и устраняют уязвимости с помощью различных инструментов безопасности, реализуют защиту от угроз и реагируют на эскалацию инцидентов в области безопасности. В качестве инженера по безопасности Microsoft Azure кандидаты часто являются частью более крупной команды, занимающейся облачным управлением и безопасностью, а также могут защищать гибридные среды в рамках сквозной инфраструктуры.
+
 
   Кандидаты на этот экзамен должны обладать развитыми навыками в области составления сценариев и автоматизации, глубоким пониманием сетевых технологий, виртуализации и облачных N-уровневых архитектур, а также глубокими знаниями облачных возможностей, продуктов и служб Microsoft Azure и других продуктов и служб Microsoft.
 subTitle: 'Этот экзамен оценивает вашу способность выполнять следующие технические задачи: управление идентификацией и доступом; внедрение защиты платформы; управление операциями безопасности; и защита данных и приложений.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-500&examname=Экзамен%20AZ-500:%20Технологии%20безопасности%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-500&examname=Экзамен%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-500
 levels:
 - intermediate
 skills:

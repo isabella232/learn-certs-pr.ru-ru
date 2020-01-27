@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Специалист Microsoft Office: Microsoft PowerPoint 2016'
+title: 'Microsoft Office Specialist: Microsoft PowerPoint 2016'
 metadata:
-  title: 'Специалист Microsoft Office: Microsoft PowerPoint 2016'
+  title: 'Microsoft Office Specialist: Microsoft PowerPoint 2016'
   description: 'Специалист Microsoft Office: Microsoft PowerPoint 2016'
 uid: certification.mos-powerpoint-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Сертификат, свидетельствующий о том, что у вас есть навыки, необходимые для того, чтобы максимально эффективно использовать Office, после получения сертификата Специалиста  Microsoft Office (MOS) в конкретной программе Office.
+summary: Сертификат, свидетельствующий о том, что у вас есть навыки, необходимые для того, чтобы максимально эффективно использовать Office, после получения сертификата Специалиста  Microsoft Office (MOS) в конкретной программе Office.
 subTitle: Сертификат, свидетельствующий о том, что у вас есть навыки, необходимые для того, чтобы максимально эффективно использовать Office, после получения сертификата Специалиста  Microsoft Office (MOS) в конкретной программе Office.
 levels:
 - intermediate
@@ -32,4 +31,3 @@ resources:
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
-

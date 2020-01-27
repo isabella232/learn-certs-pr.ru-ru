@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Сертифицировано Microsoft: Azure Administrator Associate'
+title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
-  title: 'Сертифицировано Microsoft: Azure Administrator Associate'
-  description: 'Администраторы Azure внедряют, отслеживают и поддерживают решения Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.'
+  title: 'Microsoft Certified: Azure Administrator Associate'
+  description: Администраторы Azure внедряют, отслеживают и поддерживают решения Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Администраторы Azure внедряют, отслеживают и поддерживают решения Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью. [Узнайте больше об изменениях в этой сертификации, которые вступили в силу с 1 мая 2019 года.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
+summary: Администраторы Azure внедряют, отслеживают и поддерживают решения Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью. [Узнайте больше об изменениях в этой сертификации, которые вступили в силу с 1 мая 2019 года.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
 subTitle: Администраторы Azure внедряют, отслеживают и поддерживают решения Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
 levels:
 - intermediate
@@ -38,7 +37,7 @@ exams:
 - uid: exam.az-103
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure Administrator Associate.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

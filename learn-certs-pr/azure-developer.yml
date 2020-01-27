@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Помощник разработчика Azure'
+title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
-  title: 'Microsoft Certified: Помощник разработчика Azure'
-  description: 'Разработчики Microsoft Azure проектируют, создают, тестируют и обслуживают облачные решения, такие как приложения и службы, сотрудничая с архитекторами облачных решений, администраторами облачных вычислений, администраторами облачных сред и клиентами для реализации этих решений.'
+  title: 'Microsoft Certified: Azure Developer Associate'
+  description: Разработчики Microsoft Azure проектируют, создают, тестируют и обслуживают облачные решения, такие как приложения и службы, сотрудничая с архитекторами облачных решений, администраторами облачных вычислений, администраторами облачных сред и клиентами для реализации этих решений.
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Разработчики Microsoft Azure проектируют, создают, тестируют и обслуживают облачные решения, такие как приложения и службы, сотрудничая с архитекторами облачных решений, облако DBA, администраторами облачных сред и клиентами для реализации этих решений.
+summary: Разработчики Microsoft Azure проектируют, создают, тестируют и обслуживают облачные решения, такие как приложения и службы, сотрудничая с архитекторами облачных решений, облако DBA, администраторами облачных сред и клиентами для реализации этих решений.
 subTitle: Разработчики Microsoft Azure проектируют, создают, тестируют и обслуживают облачные решения, такие как приложения и службы, сотрудничая с архитекторами облачных решений, облако DBA, администраторами облачных сред и клиентами для реализации этих решений.
 levels:
 - intermediate
@@ -31,7 +30,6 @@ products:
 - azure-bot-service
 - azure-functions
 - azure-logic-apps
-
 courses:
 - uid: course.az-203t01
 - uid: course.az-203t02
@@ -57,7 +55,7 @@ exams:
 - uid: exam.az-203
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Помощник разработчика Azure.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

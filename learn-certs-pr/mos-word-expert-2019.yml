@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Специалист Microsoft Office: Эксперт по Microsoft Word (Word и Word 2019)'
+title: 'Microsoft Office Specialist: Microsoft Word Expert (Word and Word 2019)'
 metadata:
-  title: 'Специалист Microsoft Office: Эксперт по Microsoft Word (Word и Word 2019)'
+  title: 'Microsoft Office Specialist: Microsoft Word Expert (Word and Word 2019)'
   description: 'Продемонстрируйте наличие передовых навыков, необходимых для максимального использования возможностей пакета Office, получив сертификат Microsoft Office Specialist: Сертификат Эксперта по конкретной программе Office.'
 uid: certification.mos-word-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Продемонстрируйте наличие передовых навыков, необходимых для максимального использования возможностей пакета Office, получив сертификат Microsoft Office Specialist&#58; Сертификат Эксперта по конкретной программе Office.
+summary: Продемонстрируйте наличие передовых навыков, необходимых для максимального использования возможностей пакета Office, получив сертификат Microsoft Office Specialist&#58; Сертификат Эксперта по конкретной программе Office.
 subTitle: 'Продемонстрируйте наличие передовых навыков, необходимых для максимального использования возможностей пакета Office, получив сертификат Microsoft Office Specialist: Сертификат Эксперта по конкретной программе Office.'
 levels:
 - advanced
@@ -14,7 +13,7 @@ skills:
 - Управление параметрами и настройками документа
 - Использование расширенных функций редактирования и форматирования
 - Создание пользовательских элементов документа
-- Использование расширенных возможностей Word 
+- Использование расширенных возможностей Word
 roles:
 - business-user
 type: mos

@@ -1,26 +1,28 @@
 ### YamlMime:Examination
-title: Администратор Microsoft Azure
+title: Microsoft Azure Administrator
 metadata:
-  title: 'Экзамен AZ-103: Администратор Microsoft Azure'
-  description: 'Экзамен AZ-103: Администратор Microsoft Azure'
+  title: 'Экзамен AZ-103: Microsoft Azure Administrator'
+  description: 'Экзамен AZ-103: Microsoft Azure Administrator'
 uid: exam.az-103
 displayName: AZ-103
-summary: |-
+summary: >-
   Начиная с 1 мая 2019 года, вам нужно сдать только экзамен AZ-103, чтобы получить этот сертификат. Этот новый экзамен сочетает в себе навыки, охватываемые AZ-100 и AZ-101 (которые заканчиваются 1 мая 2019 года), при этом большая часть нового экзамена поступила от AZ-100.
 
+
   Кандидатами на этот экзамен являются Azure Administrators, которые управляют облачными службами, которые охватывают возможности хранения, безопасности, сетей и вычислений в облаке. Кандидаты имеют глубокое понимание каждой службы в течение всего жизненного цикла IT и принимают запросы на инфраструктурные услуги, приложения и среды. Они дают рекомендации по использованию услуг для обеспечения оптимальной производительности и масштаба, а также обеспечения, размера, контроля и корректировки ресурсов по мере необходимости.
+
 
   Кандидаты на этот экзамен должны обладать навыками использования PowerShell, интерфейса командной строки, портала Azure, шаблонов ARM, операционных систем, виртуализации, облачной инфраструктуры, структур хранения и сетей.
 subTitle: 'Начиная с 1 мая 2019 года, вам нужно сдать только экзамен AZ-103, чтобы получить этот сертификат. Этот новый экзамен сочетает в себе навыки, охватываемые AZ-100 и AZ-101 (которые заканчиваются 1 мая 2019 года), при этом большая часть нового экзамена поступила от AZ-100. Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: управление подписками и ресурсами Azure, реализация и управление хранилищем, развертывание и управление виртуальными машинами (VМ), настройка и управление виртуальными сетями, а также управление идентификационными данными.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-103&examname=Экзамен%20AZ-103:%20Администратор%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-103
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-103&examname=Экзамен%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-103
 levels:
 - intermediate
 skills:
@@ -50,7 +52,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Помощник администратора Azure.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

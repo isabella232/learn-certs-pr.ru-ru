@@ -1,24 +1,27 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Архитектор решений для приложений Finance и Operations (бета)'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
 metadata:
-  title: 'Экзамен MB-700: Microsoft Dynamics 365 Архитектор решений для приложений Finance и Operations (бета)'
-  description: 'Экзамен MB-700: Microsoft Dynamics 365 Архитектор решений для приложений Finance и Operations (бета)'
+  title: 'Экзамен MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+  description: 'Экзамен MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
 uid: exam.mb-700
 displayName: MB-700
-summary: |-
+summary: >-
   Архитекторы решений для приложений  Finance и Operations в Microsoft Dynamics 365 являются доверенными консультантами, которые консультируются с организациями и членами группы по внедрению, чтобы преобразовать бизнес-потребности в четко определенное и экономически эффективное решение.
+
 
   Архитектор решений несет ответственность за целостность и успешную реализацию разработки решения. Архитектор предоставляет важные рекомендации во время предпродажной подготовки и проектирования, а также консультирует на протяжении оставшейся части жизненного цикла проекта относительно решения проблем, возникающих в ходе реализации.
 
+
   Архитектор решений должен обладать обширными знаниями и опытом, охватывающими потребности бизнеса и возможности продукта. Архитектор решений должен обладать широкими функциональными и техническими знаниями в качестве разработчика или функционального консультанта в одной из следующих областей&#58; Finance, Manufacturing, или Supply Chain Management. Кроме того, они обладают обширными знаниями предметной области в одной или нескольких отраслях клиентов.
-  
+
+
   <div style="color:red"><br/><strong>NOTE&#58; Этот экзамен будет недоступен до 27 января 2020 года</strong></div>
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: определение требований решения; разработка компонентов решения; и определение стратегии тестирования решений и управления.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-700&examname=Экзамен%20MB-700:%20Microsoft%20Dynamics%20365%20Архитектор%20решений%20для%20приложений%20Finance%20и%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-700
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-700&examname=Экзамен%20MB-700:%20Microsoft%20Dynamics%20365%3A%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-700
 levels:
 - advanced
 skills:

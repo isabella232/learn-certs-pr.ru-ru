@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Сертифицировано Microsoft: Azure Data Engineer Associate'
+title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
-  title: 'Сертифицировано Microsoft: Azure Data Engineer Associate'
-  description: 'Инженеры Azure Data проектируют и внедряют управление, мониторинг, безопасность и конфиденциальность данных, используя полный стек служб данных Azure для удовлетворения потребностей бизнеса.'
+  title: 'Microsoft Certified: Azure Data Engineer Associate'
+  description: Инженеры Azure Data проектируют и внедряют управление, мониторинг, безопасность и конфиденциальность данных, используя полный стек служб данных Azure для удовлетворения потребностей бизнеса.
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Инженеры Azure Data проектируют и внедряют управление, мониторинг, безопасность и конфиденциальность данных, используя полный стек служб данных Azure для удовлетворения потребностей бизнеса.
+summary: Инженеры Azure Data проектируют и внедряют управление, мониторинг, безопасность и конфиденциальность данных, используя полный стек служб данных Azure для удовлетворения потребностей бизнеса.
 subTitle: Инженеры Azure Data проектируют и внедряют управление, мониторинг, безопасность и конфиденциальность данных, используя полный стек служб данных Azure для удовлетворения потребностей бизнеса.
 levels:
 - intermediate
@@ -51,7 +50,7 @@ exams:
 - uid: exam.dp-201
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure Data Engineer Associate.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Azure Data Engineer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

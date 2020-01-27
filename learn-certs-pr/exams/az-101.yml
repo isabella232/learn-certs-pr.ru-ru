@@ -1,19 +1,19 @@
 ### YamlMime:Examination
-title: Интеграция и безопасность Microsoft Azure 
+title: Microsoft Azure Integration and Security
 metadata:
-  title: 'Экзамен AZ-101: Интеграция и безопасность Microsoft Azure'
-  description: 'Экзамен AZ-101: Интеграция и безопасность Microsoft Azure'
+  title: 'Экзамен AZ-101: Microsoft Azure Integration and Security'
+  description: 'Экзамен AZ-101: Microsoft Azure Integration and Security'
 uid: exam.az-101
 displayName: AZ-101
-summary: |-
-  Кандидатами на этот экзамен являются Azure Administrators, которые управляют облачными службами, которые охватывают возможности хранения, безопасности, сетей и вычислений в облаке. Кандидаты имеют глубокое понимание каждой службы в течение всего жизненного цикла IT и принимают запросы на инфраструктурные услуги, приложения и среды. Они дают рекомендации по использованию услуг для обеспечения оптимальной производительности и масштаба, а также обеспечения, размера, контроля и корректировки ресурсов по мере необходимости. Кандидаты на этот экзамен должны обладать навыками использования PowerShell, интерфейса командной строки, портала Azure, шаблонов ARM, операционных систем, виртуализации, облачной инфраструктуры, структур хранения и сетей.
+summary: Кандидатами на этот экзамен являются Azure Administrators, которые управляют облачными службами, которые охватывают возможности хранения, безопасности, сетей и вычислений в облаке. Кандидаты имеют глубокое понимание каждой службы в течение всего жизненного цикла IT и принимают запросы на инфраструктурные услуги, приложения и среды. Они дают рекомендации по использованию услуг для обеспечения оптимальной производительности и масштаба, а также обеспечения, размера, контроля и корректировки ресурсов по мере необходимости. Кандидаты на этот экзамен должны обладать навыками использования PowerShell, интерфейса командной строки, портала Azure, шаблонов ARM, операционных систем, виртуализации, облачной инфраструктуры, структур хранения и сетей.
 subTitle: 'Этот экзамен предполагает проверку ваших способностей выполнять следующие технические задачи: защита идентификационных данных, оценка и выполнение миграции сервера в Azure, внедрение и управление приложениями, а также внедрение передовых виртуальных сетей.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-101_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 05/01/2019
 levels:
 - intermediate
 skills:
@@ -21,14 +21,13 @@ skills:
 - Внедрение и управление приложениями (20-25%)
 - Внедрение передовых виртуальных сетей (30-35%)
 - Безопасная идентификация (25-30%)
-retirementDate: 05/01/2019
 roles:
 - administrator
-products:
-- azure
 exams:
 - uid: exam.az-100
 - uid: exam.az-102
+products:
+- azure
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
@@ -36,7 +35,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure Administrator Associate.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

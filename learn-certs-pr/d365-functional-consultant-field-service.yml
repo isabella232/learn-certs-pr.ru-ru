@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 для помощника функционального консультанта по обслуживанию на местах'
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 для помощника функционального консультанта по обслуживанию на местах'
-  description: 'Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).'
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+  description: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
+summary: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
 subTitle: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
 levels:
 - intermediate
@@ -46,7 +45,7 @@ exams:
 - uid: exam.mb-240
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 для помощника функционального консультанта по обслуживанию на местах.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.

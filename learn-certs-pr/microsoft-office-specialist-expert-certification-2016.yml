@@ -5,8 +5,7 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Office 2016 Expert'
 uid: certification.microsoft-office-specialist-expert-certification-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Сертификат Microsoft Office Specialist Expert подтверждает наличие расширенных навыков работы с важнейшими приложениями пакета Office.
+summary: Сертификат Microsoft Office Specialist Expert подтверждает наличие расширенных навыков работы с важнейшими приложениями пакета Office.
 subTitle: Сертификат Microsoft Office Specialist Expert подтверждает наличие расширенных навыков работы с важнейшими приложениями пакета Office.
 levels:
 - advanced
@@ -33,4 +32,3 @@ resources:
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
-

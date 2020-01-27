@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Сертифицировано Microsoft: Azure DevOps Engineer Expert'
+title: 'Microsoft Certified: Azure DevOps Engineer Expert'
 metadata:
-  title: 'Сертифицировано Microsoft: Azure DevOps Engineer Expert'
-  description: 'Специалисты DevOps в Azure объединяют людей, процессы и технологии для непрерывной разработки ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям.'
+  title: 'Microsoft Certified: Azure DevOps Engineer Expert'
+  description: Специалисты DevOps в Azure объединяют людей, процессы и технологии для непрерывной разработки ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям.
 uid: certification.azure-devops
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Специалисты DevOps в Azure объединяют людей, процессы и технологии для непрерывной разработки ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям.
+summary: Специалисты DevOps в Azure объединяют людей, процессы и технологии для непрерывной разработки ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям.
 subTitle: Специалисты DevOps в Azure объединяют людей, процессы и технологии для непрерывной разработки ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям.
 levels:
 - advanced
@@ -27,11 +26,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -45,12 +39,17 @@ prerequisites:
   isOptional: false
 - uid: certification.azure-developer
   isOptional: false
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
 exams:
 - uid: exam.az-400
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure DevOps Engineer Expert.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Azure DevOps Engineer Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
