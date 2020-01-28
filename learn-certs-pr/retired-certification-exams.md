@@ -14,25 +14,25 @@ ms.author: micsullivan
 
 | Будут отменены 30 июня 2020 года | |
 | --- | --- |
-| [MB2-716](https://www.microsoft.com/ru-ru/learning/exam-mb2-716.aspx): Настройка и конфигурация Microsoft Dynamics 365 | |
-| [MB6-894](https://www.microsoft.com/ru-ru/learning/exam-mb6-894.aspx): Разработка, расширения и развертывание для Microsoft Dynamics 365 for Finance and Operations | |
+| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Настройка и конфигурация Microsoft Dynamics 365 | |
+| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Разработка, расширения и развертывание для Microsoft Dynamics 365 for Finance and Operations | |
 
 | Будут отменены 31 декабря 2019 года | |
 | --- | --- |
-| [70-348](https://www.microsoft.com/ru-ru/learning/exam-70-348.aspx): Управление проектами и портфолио с Microsoft PPM | |
-| [70-703](https://www.microsoft.com/ru-ru/learning/exam-70-703.aspx): Администрирование Microsoft System Center Configuration Manager и интеграция облачных служб | |
-| [70-713](https://www.microsoft.com/ru-ru/learning/exam-70-713.aspx): Software Asset Management (SAM) — основные сведения | |
-| [70-735](https://www.microsoft.com/ru-ru/learning/exam-70-735.aspx): Изготовление оригинального оборудования и развертывание Windows 10 | |
-| [MB2-706](https://www.microsoft.com/ru-ru/learning/exam-MB2-706.aspx): Развертывание Microsoft Dynamics CRM Online | |
-| [MB2-707](https://www.microsoft.com/ru-ru/learning/exam-MB2-707.aspx): Настройка и конфигурация Microsoft Dynamics CRM | |
-| [MB2-708](https://www.microsoft.com/ru-ru/learning/exam-MB2-708.aspx): Установка Microsoft Dynamics CRM | |
-| [MB2-710](https://www.microsoft.com/ru-ru/learning/exam-MB2-710.aspx): Развертывание Microsoft Dynamics CRM 2016 Online | |
-| [MB2-711](https://www.microsoft.com/ru-ru/learning/exam-MB2-711.aspx): Установка Microsoft Dynamics CRM 2016 | |
-| [MB2-712](https://www.microsoft.com/ru-ru/learning/exam-MB2-712.aspx): Настройка и конфигурация Microsoft Dynamics CRM 2016 | |
-| [MB2-713](https://www.microsoft.com/ru-ru/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales | |
-| [MB2-714](https://www.microsoft.com/ru-ru/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service | |
-| [MB6-897](https://www.microsoft.com/ru-ru/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail | |
-| [MB6-898](https://www.microsoft.com/ru-ru/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent | |
+| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx): Управление проектами и портфолио с Microsoft PPM | |
+| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx): Администрирование Microsoft System Center Configuration Manager и интеграция облачных служб | |
+| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx): Software Asset Management (SAM) — основные сведения | |
+| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx): Изготовление оригинального оборудования и развертывание Windows 10 | |
+| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx): Развертывание Microsoft Dynamics CRM Online | |
+| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx): Настройка и конфигурация Microsoft Dynamics CRM | |
+| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx): Установка Microsoft Dynamics CRM | |
+| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx): Развертывание Microsoft Dynamics CRM 2016 Online | |
+| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx): Установка Microsoft Dynamics CRM 2016 | |
+| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx): Настройка и конфигурация Microsoft Dynamics CRM 2016 | |
+| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales | |
+| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service | |
+| [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail | |
+| [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent | |
 
 ## Экзамены, которые были отменены недавно
 
@@ -40,68 +40,68 @@ ms.author: micsullivan
 
 | ITPro/Developer| | |
 | --- | --- | --- |
-| [AZ-100](https://www.microsoft.com/ru-ru/learning/exam-AZ-100.aspx) | Инфраструктура и развертывание Microsoft Azure | 1 мая 2019 года
-| [AZ-101](https://www.microsoft.com/ru-ru/learning/exam-AZ-101.aspx) | Интеграция и безопасность Microsoft Azure | 1 мая 2019 года
-| [AZ-102](https://www.microsoft.com/ru-ru/learning/exam-AZ-102.aspx) | Переход к сертификации администратора Microsoft Azure | 30 июня 2019 года
-| [AZ-200](https://www.microsoft.com/ru-ru/learning/exam-AZ-200.aspx) | Разработчик основных решений Microsoft Azure (выпущен 24 сентября 2018 года) | 3 января 2019 года
-| [AZ-201](https://www.microsoft.com/ru-ru/learning/exam-AZ-201.aspx) | Разработчик передовых решений Microsoft Azure (выпущен 24 сентября 2018 года) | 3 января 2019 года
-| [AZ-202](https://www.microsoft.com/ru-ru/learning/exam-AZ-202.aspx) | Переход к сертификации разработчика Microsoft Azure (выпущен 24 сентября 2018 года) | 31 марта 2019 года
-| [AZ-302](https://www.microsoft.com/ru-ru/learning/exam-AZ-302.aspx) | Переход к сертификации архитектора решений Microsoft Azure | 30 июня 2019 года
-| [MS-202](https://www.microsoft.com/ru-ru/learning/exam-MS-202.aspx) | Переход сертификации администратора сообщений Microsoft 365 | 30 сентября 2019 года
-| [MS-302](https://www.microsoft.com/ru-ru/learning/exam-MS-302.aspx) | Переход на сертификацию администратора Microsoft 365 Teamwork | 30 сентября 2019 года
+| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Инфраструктура и развертывание Microsoft Azure | 1 мая 2019 года
+| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Интеграция и безопасность Microsoft Azure | 1 мая 2019 года
+| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Переход к сертификации администратора Microsoft Azure | 30 июня 2019 года
+| [AZ-200](https://www.microsoft.com/learning/exam-AZ-200.aspx) | Разработчик основных решений Microsoft Azure (выпущен 24 сентября 2018 года) | 3 января 2019 года
+| [AZ-201](https://www.microsoft.com/learning/exam-AZ-201.aspx) | Разработчик передовых решений Microsoft Azure (выпущен 24 сентября 2018 года) | 3 января 2019 года
+| [AZ-202](https://www.microsoft.com/learning/exam-AZ-202.aspx) | Переход к сертификации разработчика Microsoft Azure (выпущен 24 сентября 2018 года) | 31 марта 2019 года
+| [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Переход к сертификации архитектора решений Microsoft Azure | 30 июня 2019 года
+| [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Переход сертификации администратора сообщений Microsoft 365 | 30 сентября 2019 года
+| [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Переход на сертификацию администратора Microsoft 365 Teamwork | 30 сентября 2019 года
 | 70-246 | Мониторинг и эксплуатация частного облака с помощью System Center 2012 | 31 декабря 2017 года
 | 70-247 | Настройка и развертывание частного облака | 31 декабря 2017 года
-| [70-331](https://www.microsoft.com/ru-ru/learning/exam-70-331.aspx) | Основные решения Microsoft SharePoint Server 2013 | 31 марта 2019 года
-| [70-332](https://www.microsoft.com/ru-ru/learning/exam-70-332.aspx) | Передовые решения Microsoft SharePoint Server 2013 | 31 марта 2019 года
-| [70-341](https://www.microsoft.com/ru-ru/learning/exam-70-341.aspx) | Основные решения Microsoft Exchange Server 2013 | 31 марта 2019 года
-| [70-342](https://www.microsoft.com/ru-ru/learning/exam-70-342.aspx) | Передовые решения Microsoft Exchange Server 2013 | 31 марта 2019 года
-| [70-346](https://www.microsoft.com/ru-ru/learning/exam-70-346.aspx) | Управление идентификациями и требованиями в Office 365 | 30 апреля 2019 года
-| [70-347](https://www.microsoft.com/ru-ru/learning/exam-70-347.aspx) | Активация служб Office 365 | 30 апреля 2019 года
+| [70-331](https://www.microsoft.com/learning/exam-70-331.aspx) | Основные решения Microsoft SharePoint Server 2013 | 31 марта 2019 года
+| [70-332](https://www.microsoft.com/learning/exam-70-332.aspx) | Передовые решения Microsoft SharePoint Server 2013 | 31 марта 2019 года
+| [70-341](https://www.microsoft.com/learning/exam-70-341.aspx) | Основные решения Microsoft Exchange Server 2013 | 31 марта 2019 года
+| [70-342](https://www.microsoft.com/learning/exam-70-342.aspx) | Передовые решения Microsoft Exchange Server 2013 | 31 марта 2019 года
+| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Управление идентификациями и требованиями в Office 365 | 30 апреля 2019 года
+| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Активация служб Office 365 | 30 апреля 2019 года
 | 70-398 | Планирование и управление устройствами на предприятии | 31 июля 2018 года
-| [70-473](https://www.microsoft.com/ru-ru/learning/exam-70-473.aspx) | Разработка и внедрение решений для облачной платформы обработки данных | 30 июня 2019 года
-| [70-475](https://www.microsoft.com/ru-ru/learning/exam-70-475.aspx) | Разработка и внедрение решений для аналитики больших объемов данных | 30 июня 2019 года
+| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Разработка и внедрение решений для облачной платформы обработки данных | 30 июня 2019 года
+| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Разработка и внедрение решений для аналитики больших объемов данных | 30 июня 2019 года
 | 70-488 | Разработка основных решений SharePoint Server 2013 | 31 июля 2018 года
 | 70-489 | Разработка передовых решений SharePoint Server 2013 | 31 июля 2018 года
-| [70-496](https://www.microsoft.com/ru-ru/learning/exam-70-496.aspx) | Администрирование Visual Studio Team Foundation Server | 31 декабря 2018 года
-| [70-497](https://www.microsoft.com/ru-ru/learning/exam-70-497.aspx) | Тестирование ПО с помощью Visual Studio | 31 декабря 2018 года
-| [70-498](https://www.microsoft.com/ru-ru/learning/exam-70-498.aspx) | Обеспечение непрерывной ценности с помощью Visual Studio | 31 декабря 2018 года
-| [70-532](https://www.microsoft.com/ru-ru/learning/exam-70-532.aspx) | Разработка решений Microsoft Azure | 31 декабря 2018 года
-| [70-533](https://www.microsoft.com/ru-ru/learning/exam-70-533.aspx) |Реализация решений Microsoft Azure Infrastructure | 31 декабря 2018 года
-| [70-534](https://www.microsoft.com/ru-ru/learning/exam-70-534.aspx) | Разработка архитектуры решений Microsoft Azure | 31 декабря 2017 года
-| [70-535](https://www.microsoft.com/ru-ru/learning/exam-70-535.aspx) | Разработка архитектуры решений Microsoft Azure | 31 декабря 2018 года
+| [70-496](https://www.microsoft.com/learning/exam-70-496.aspx) | Администрирование Visual Studio Team Foundation Server | 31 декабря 2018 года
+| [70-497](https://www.microsoft.com/learning/exam-70-497.aspx) | Тестирование ПО с помощью Visual Studio | 31 декабря 2018 года
+| [70-498](https://www.microsoft.com/learning/exam-70-498.aspx) | Обеспечение непрерывной ценности с помощью Visual Studio | 31 декабря 2018 года
+| [70-532](https://www.microsoft.com/learning/exam-70-532.aspx) | Разработка решений Microsoft Azure | 31 декабря 2018 года
+| [70-533](https://www.microsoft.com/learning/exam-70-533.aspx) |Реализация решений Microsoft Azure Infrastructure | 31 декабря 2018 года
+| [70-534](https://www.microsoft.com/learning/exam-70-534.aspx) | Разработка архитектуры решений Microsoft Azure | 31 декабря 2017 года
+| [70-535](https://www.microsoft.com/learning/exam-70-535.aspx) | Разработка архитектуры решений Microsoft Azure | 31 декабря 2018 года
 | 70-680 | Windows 7, Настройка | 31 июля 2018 года
 | 70-685 | Windows 7, Специалист поддержки ПК на предприятии | 31 июля 2018 года
 | 70-686 | Windows 7, Администратор ПК на предприятии | 31 июля 2018 года
-| [70-695](https://www.microsoft.com/ru-ru/learning/exam-70-695.aspx) | Развертывание рабочих столов Windows и корпоративных приложений | 31 марта 2019 года
+| [70-695](https://www.microsoft.com/learning/exam-70-695.aspx) | Развертывание рабочих столов Windows и корпоративных приложений | 31 марта 2019 года
 | 70-696 | Администрирование System Center Configuration Manager и Intune | 31 марта 2018 года
-| [70-697](https://www.microsoft.com/ru-ru/learning/exam-70-697.aspx) | Настройка устройств на базе Windows | 30 апреля 2019 года
-| [70-698](https://www.microsoft.com/ru-ru/learning/exam-70-698.aspx) | Установка и настройка Windows 10 | 31 марта 2019 года
-| [70-773](https://www.microsoft.com/ru-ru/learning/exam-70-773.aspx) | Анализ больших данных с помощью Microsoft R | 30 июня 2019 года
-| [70-774](https://www.microsoft.com/ru-ru/learning/exam-70-774.aspx) | Обработка и анализ облачных данных с помощью Azure Machine Learning | 30 июня 2019 года
-| [70-775](https://www.microsoft.com/ru-ru/learning/exam-70-775.aspx) | Инженерия данных в Microsoft Azure HDInsight | 30 июня 2019 года
-| [70-776](https://www.microsoft.com/ru-ru/learning/exam-70-776.aspx) | Инженерия больших данных в облачных службах Microsoft | 30 июня 2019 года
-| [74-343](https://www.microsoft.com/ru-ru/learning/exam-74-343.aspx) | Управление проектами с помощью Microsoft Project 2013 | 31 июля 2019 года
+| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Настройка устройств на базе Windows | 30 апреля 2019 года
+| [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) | Установка и настройка Windows 10 | 31 марта 2019 года
+| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Анализ больших данных с помощью Microsoft R | 30 июня 2019 года
+| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Обработка и анализ облачных данных с помощью Azure Machine Learning | 30 июня 2019 года
+| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Инженерия данных в Microsoft Azure HDInsight | 30 июня 2019 года
+| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Инженерия больших данных в облачных службах Microsoft | 30 июня 2019 года
+| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Управление проектами с помощью Microsoft Project 2013 | 31 июля 2019 года
 | 74-344 | Управление программами и проектами с помощью Project Server 2013 | 31 декабря 2017 года
 | 74-409 | Виртуализация серверов с Windows Server Hyper-V и System Center | 31 июля 2018 года
-| [98-369](https://www.microsoft.com/ru-ru/learning/exam-98-369.aspx) | Основы облакачных технологий | 30 сентября 2019 года
-| [98-380](https://www.microsoft.com/ru-ru/learning/exam-98-380.aspx) | Введение в программирование с помощью языков программирования с управляющей графикой (Touch Develop) | 7 августа 2019 года
+| [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Основы облакачных технологий | 30 сентября 2019 года
+| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Введение в программирование с помощью языков программирования с управляющей графикой (Touch Develop) | 7 августа 2019 года
 
 <br/>
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| [MB2-709](https://www.microsoft.com/ru-ru/learning/exam-MB2-709.aspx) | Microsoft Dynamics Marketing | 31 декабря 2017 года
-| [MB2-715](https://www.microsoft.com/ru-ru/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 вовлечение клиентов в онлайн-развертывание | 30 июня 2019 года
-| [MB2-717](https://www.microsoft.com/ru-ru/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | 30 июня 2019 года
-| [MB2-718](https://www.microsoft.com/ru-ru/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service для центра обслуживания клиентов | 31 августа 2019 года
-| [MB2-719](https://www.microsoft.com/ru-ru/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 31 августа 2019 года
-| [MB2-877](https://www.microsoft.com/ru-ru/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service для обслуживания на местах | 30 июня 2019 года
+| [MB2-709](https://www.microsoft.com/learning/exam-MB2-709.aspx) | Microsoft Dynamics Marketing | 31 декабря 2017 года
+| [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 вовлечение клиентов в онлайн-развертывание | 30 июня 2019 года
+| [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | 30 июня 2019 года
+| [MB2-718](https://www.microsoft.com/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service для центра обслуживания клиентов | 31 августа 2019 года
+| [MB2-719](https://www.microsoft.com/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 31 августа 2019 года
+| [MB2-877](https://www.microsoft.com/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service для обслуживания на местах | 30 июня 2019 года
 | MB6-705 | Установка и настройка Microsoft Dynamics AX 2012 R3 CU8 | 31 декабря 2017 года
 | MB6-890 | Введение в разработку Microsoft Dynamics AX | 31 декабря 2017 года
 | MB6-892 | Microsoft Dynamics AX Distribution and Trade | 31 декабря 2017 года
 | MB6-893 | Microsoft Dynamics AX Financials | 31 декабря 2017 года
-| [MB6-895](https://www.microsoft.com/ru-ru/learning/exam-MB6-895.aspx) | Финансовое управление в Microsoft Dynamics 365 для финансов и операций | 31 августа 2019 года
-| [MB6-896](https://www.microsoft.com/ru-ru/learning/exam-MB6-896.aspx) | Распространение и торговля в Microsoft Dynamics 365 для финансов и операций | 31 августа 2019 года
+| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Финансовое управление в Microsoft Dynamics 365 для финансов и операций | 31 августа 2019 года
+| [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Распространение и торговля в Microsoft Dynamics 365 для финансов и операций | 31 августа 2019 года
 
 ## Другие отмененные экзамены
 
