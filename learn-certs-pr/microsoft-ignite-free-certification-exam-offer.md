@@ -64,7 +64,7 @@ ms.author: micsullivan
 - Это предложение не подлежит передаче и становится недействительным, если вы его изменяете, пересматриваете или передаете кому-либо каким-либо образом.
 - Это предложение доступно только лицам, которые зарегистрировались и посетили официальное мероприятие Microsoft Ignite 2019 или Microsoft Ignite The Tour 2019-2020.
 
-Для дополнительной информации см. полную версию [Условия использования Microsoft](https://www.microsoft.com/ru-ru/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
+Для дополнительной информации см. полную версию [Условия использования Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
 
 ## Часто Задаваемые Вопросы - Специальное предложение: Бесплатное экзамен для участников MS Ignite и The Tour
 
@@ -76,7 +76,7 @@ ms.author: micsullivan
 
 **В: Какие сертификационные экзамены доступны по этому предложению?**
 
-**О:** В это предложение входят все сертификационные экзамены по базовым знаниям Microsoft, а также ролевым сертификациям и сертификациям по специальности. Список доступных сертификационных экзаменов см. в разделе «Экзамены, допустимые по этому предложению» на странице сведений о нашем предложении: [https://docs.microsoft.com/ru-ru/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/ru-ru/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
+**О:** В это предложение входят все сертификационные экзамены по базовым знаниям Microsoft, а также ролевым сертификациям и сертификациям по специальности. Список доступных сертификационных экзаменов см. в разделе «Экзамены, допустимые по этому предложению» на странице сведений о нашем предложении: [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
 
 **В: Могу ли я претендовать на экзамен по этому предложению, если я зарегистрировался на соответствующее мероприятие, но лично не присутствовал?**
 
@@ -98,7 +98,7 @@ ms.author: micsullivan
 
 **В: Как мне запланировать мой бесплатный экзамен по этому предложению?**
 
-**О:** Для получения инструкций по планированию бесплатного экзамена перейдите по ссылке [https://docs.microsoft.com/ru-ru/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/ru-ru/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
+**О:** Для получения инструкций по планированию бесплатного экзамена перейдите по ссылке [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
 
 **В: При проверке права на бесплатный экзамен я вижу ошибку, утверждающую, что я не отвечаю требованиям, потому что я - государственный чиновник, хотя я им не являюсь. Что мне делать?**
 
@@ -111,7 +111,7 @@ ms.author: micsullivan
 **В: Нужно ли мне сдавать запланированный экзамен лично или можно через интернет?**
 
 **О:** Да, вы можете сдать запланированный экзамен лично через Pearson Vue в местном центре тестирования или через онлайн-систему (OP). Чтобы узнать больше об онлайн-экзаменах, перейдите на
-[https://www.microsoft.com/ru-ru/learning/online-exams.aspx](https://www.microsoft.com/ru-ru/learning/online-exams.aspx)
+[https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### Политика отмены и изменения графика сдачи
 
@@ -121,14 +121,14 @@ ms.author: micsullivan
 
 **В: Взимается ли плата за перенос или отмену экзамена?**
 
-**О:** Вы можете перенести или отменить запланированный экзамен бесплатно не позже, чем за шесть рабочих дней до назначенной даты экзамена. Если вы захотите перенести экзамен за пять рабочих дней до начала экзамена, вам необходимо будет оплатить штраф за повторное планирование экзамена. Вы не сможете перенести или отменить экзамен за два дня до даты запланированного экзамена,. Если вы не явитесь на экзамен, вы потеряете свое право на бесплатный экзамен по этому предложению. Для получения дополнительной информации см. [Политику отмены и изменения графика сдачи](https://docs.microsoft.com/ru-ru/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**О:** Вы можете перенести или отменить запланированный экзамен бесплатно не позже, чем за шесть рабочих дней до назначенной даты экзамена. Если вы захотите перенести экзамен за пять рабочих дней до начала экзамена, вам необходимо будет оплатить штраф за повторное планирование экзамена. Вы не сможете перенести или отменить экзамен за два дня до даты запланированного экзамена,. Если вы не явитесь на экзамен, вы потеряете свое право на бесплатный экзамен по этому предложению. Для получения дополнительной информации см. [Политику отмены и изменения графика сдачи](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 **В: Что произойдет, если я пропущу экзамен и не перенесу/не отменю его?**
 
-**О:** Если вы пропустили день запланированного экзамена и не перенесли его или не отменили за 24 часа до назначенного срока, вы теряете свое право на бесплатный экзамен по этому предложению. Для получения дополнительной информации см. [Политику отмены и изменения графика сдачи](https://docs.microsoft.com/ru-ru/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**О:** Если вы пропустили день запланированного экзамена и не перенесли его или не отменили за 24 часа до назначенного срока, вы теряете свое право на бесплатный экзамен по этому предложению. Для получения дополнительной информации см. [Политику отмены и изменения графика сдачи](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 ### Политика повторной сдачи экзамена
 
 **В: Могу ли я сдать экзамен бесплатно, если изначально не получилось воспользоваться предложением на бесплатную сдачу сертификационного экзамена?**
 
-**О:** Нет, предложение действительно только для одной попытки, и повторную сдачу экзаменов необходимо планировать отдельно. Для получения дополнительной информации о повторной сдаче сертификационных экзаменов см. нашу [Политику повторной сдачи экзамена](https://www.microsoft.com/ru-ru/learning/certification-exam-policies.aspx#policies-1).
+**О:** Нет, предложение действительно только для одной попытки, и повторную сдачу экзаменов необходимо планировать отдельно. Для получения дополнительной информации о повторной сдаче сертификационных экзаменов см. нашу [Политику повторной сдачи экзамена](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).
