@@ -16,9 +16,9 @@ ms.author: micsullivan
 
 Найти сертификации, которые запланированы к аннулированию в течение следующих 12 месяцев. (Следующая информация может измениться.) 
 
-[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/ru-ru/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retiring on June 30, 2020  
+[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retiring on June 30, 2020  
 
-[MCSE: Business Applications](https://www.microsoft.com/ru-ru/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retiring on December 31, 2019  
+[MCSE: Business Applications](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retiring on December 31, 2019  
 
 MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retiring on December 31, 2019  
 
@@ -36,18 +36,18 @@ MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: Облачная платформа](https://www.microsoft.com/ru-ru/learning/mcsa-cloud-platform-certification.aspx)                     | 31 декабря 2018 года  |
-| [MCSA: Linux на Azure](https://www.microsoft.com/ru-ru/learning/mcsa-linux-azure-certification.aspx)                        | 31 декабря 2018 года  |
-| [MCSA: Office 365](https://www.microsoft.com/ru-ru/learning/mcsa-office365-certification.aspx)                              | 30 апреля 2019 года     |
-| [MCSA: Windows 10](https://www.microsoft.com/ru-ru/learning/mcsa-windows-10-certifications.aspx)                            | 30 апреля 2019 года     |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/ru-ru/learning/mcsa-microsoft-dynamics-365.aspx)                   | 30 июня 2019 года      |
-| [MCSA: Machine Learning](https://www.microsoft.com/ru-ru/learning/mcsa-machine-learning.aspx)                               | 30 июня 2019 года      |
-| [MCSA: Инженерия данных с помощью Azure](https://www.microsoft.com/ru-ru/learning/mcsa-data-engineering-with-azure.aspx)         | 30 июня 2019 года      |
+| [MCSA: Облачная платформа](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)                     | 31 декабря 2018 года  |
+| [MCSA: Linux на Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)                        | 31 декабря 2018 года  |
+| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)                              | 30 апреля 2019 года     |
+| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)                            | 30 апреля 2019 года     |
+| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)                   | 30 июня 2019 года      |
+| [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 30 июня 2019 года      |
+| [MCSA: Инженерия данных с помощью Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 30 июня 2019 года      |
 
 | Microsoft Certified Solutions Expert                                               |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Облачная платформа и инфраструктура](https://www.microsoft.com/ru-ru/learning/mcse-cloud-platform-infrastructure.aspx) | 31 декабря 2018 года  |
-| [MCSE: Мобильность](https://www.microsoft.com/ru-ru/learning/mcse-mobility-certification.aspx)                                 | 30 апреля 2019 года     |
+| [MCSE: Облачная платформа и инфраструктура](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 31 декабря 2018 года  |
+| [MCSE: Мобильность](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                 | 30 апреля 2019 года     |
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
