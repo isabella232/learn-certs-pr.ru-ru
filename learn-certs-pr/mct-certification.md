@@ -64,7 +64,7 @@ ms.author: micsullivan
 - Владение текущим сертификатом или квалификацией Microsoft, подходящими для программы MCT.
 (см. список квалификационных сертификатов ниже)
 
-- Соответствие минимальным требованиям по обучению (не менее одного класса), как это подтверждено [Metrics that Matter (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) ИЛИ любым другим инструментом для проведения опросов.
+- Соответствие минимальным требованиям по обучению (не менее одного класса), как это подтверждено [Metrics that Matter (MTM)](https://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) ИЛИ любым другим инструментом для проведения опросов.
 
 **Примечание** Требования к продлению могут измениться.
 
