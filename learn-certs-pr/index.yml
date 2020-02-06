@@ -35,7 +35,7 @@ roles:
 
 certificationsSection:
   title: Станьте специалистом, сертифицированным Microsoft
-  summary: "У Microsoft есть сертификации для многих технических ролей. Каждая из этих сертификаций предполагает сдачу серии экзаменов для получения сертификата."
+  summary: "Компания Microsoft предлагает пути сертификации для множества технологий. Для получения каждого их этих сертификатов необходимо сдать несколько экзаменов."
   tiers:
     - title: Сертификации по базовым знаниям 
       summary: Рекомендуется для начала. Идеально подходит для тех, кто только начинает изучать технологии и думает о смене карьеры.
@@ -56,7 +56,7 @@ certificationsSection:
         text: Смотреть ролевые сертификации
         url: /learn/certifications/browse?resource_type=certification
     - title: Дополнительные сертификации
-      summary: Узнайте больше о специализации Сертифицированный преподаватель Microsoft и технических сертификациям Microsoft Office.
+      summary: Узнайте больше о специальностях  Microsoft Certified Educator, а также о технических сертификатах Microsoft Office.
       certifications:
         - uid: certification.azure-for-sap-workloads-specialty
         - uid: certification.microsoft-certified-educator
