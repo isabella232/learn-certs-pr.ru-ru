@@ -23,7 +23,7 @@ ms.author: micsullivan
 
   Библиотеки Microsoft E-Reference Libraries содержат самые разные материалы по продуктам Microsoft и связанным с ними технологиям.  Простая в использовании коллекция электронных книг Microsoft Press, которая размещена в сети и доступна через любое подключение к Интернету, представляет собой эффективную и недорогую альтернативу использованию обычных библиотек и служит превосходным дополнением к курсам очного или электронного обучения после их завершения.
 
-  * [См. пример содержимого E-Reference Library](http://mseref.safaribooksonline.com/)
+  * [См. пример содержимого E-Reference Library](https://mseref.safaribooksonline.com/)
 
 * Ваучеры для сертификационных экзаменов Microsoft.
 
@@ -60,14 +60,14 @@ ms.author: micsullivan
   * School Enrollment (в рамках соглашения для кампусов университетов и школ)
   * Select Plus for Academic
 
-  Для получения дополнительной информации обратитесь к реселлерам по лицензированию для учебных заведений или посетите веб-страницу [программы лицензирования Microsoft для отраслей](http://www.microsoft.com/licensing/licensing-options/for-industries.aspx) page.
+  Для получения дополнительной информации обратитесь к реселлерам по лицензированию для учебных заведений или посетите веб-страницу [программы лицензирования Microsoft для отраслей](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx) page.
 
   **Дополнительные сертификационные ресурсы по корпоративному лицензированию для академических учреждений**
 
-  * [Руководство по преимуществам программы Microsoft Imagine Academy](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [Таблица данных по сертификации Microsoft для академических учреждений](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [График сертификаций Microsoft Imagine Academy](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Пакеты для подготовки к сертификационным экзаменам Microsoft, соответствующие таблице данных о корпоративном лицензировании для академических учреждений](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Руководство по преимуществам программы Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Таблица данных по сертификации Microsoft для академических учреждений](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [График сертификаций Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Пакеты для подготовки к сертификационным экзаменам Microsoft, соответствующие таблице данных о корпоративном лицензировании для академических учреждений](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * Дополнительные электронные курсы по корпоративному лицензированию для академических учреждений
 
@@ -77,14 +77,14 @@ ms.author: micsullivan
 
   Корпорация Microsoft прекратила продажу электронных курсов по корпоративному лицензированию. Приведенные далее ресурсы предназначены для клиентов, продолжающих использовать содержимое электронных курсов в рамках заключенных соглашений.  Они помогут вам в развертывании, настройке и администрировании приобретенных электронных курсов по корпоративному лицензированию.
 
-  * [Руководство по онлайн-использованию для менеджеров веб-служб корпоративного лицензирования ](http://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [Руководство по онлайн-использованию корпоративного лицензирования для конечных пользователей/учащихся](http://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Демонстрация активации электронного обучения](http://www.microsoft.com/learning/_silverlight/vl/vl.htm)
-  * [Руководство по онлайн-использованию Business Administration Center](http://www.microsoft.com/learning/_silverlight/bac/bac.htm)
-  * [Программа Microsoft Imagine Academy](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [Сертификация Microsoft для для академических учреждений](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [График сертификаций Microsoft Imagine Academy](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Пакеты для подготовки к сертификационным экзаменам Microsoft по корпоративному лицензированию для академических учреждений](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Руководство по онлайн-использованию для менеджеров веб-служб корпоративного лицензирования ](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [Руководство по онлайн-использованию корпоративного лицензирования для конечных пользователей/учащихся](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [Демонстрация активации электронного обучения](https://www.microsoft.com/learning/_silverlight/vl/vl.htm)
+  * [Руководство по онлайн-использованию Business Administration Center](https://www.microsoft.com/learning/_silverlight/bac/bac.htm)
+  * [Программа Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Сертификация Microsoft для для академических учреждений](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [График сертификаций Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Пакеты для подготовки к сертификационным экзаменам Microsoft по корпоративному лицензированию для академических учреждений](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * Свяжитесь с нами
 
@@ -147,7 +147,7 @@ ms.author: micsullivan
 
 Для учебных курсов и программ сертификаций Microsoft используется одноуровневая шкала ценообразования единого пакета.  Пакеты учебных курсов и программ сертификаций Microsoft могут заказываться в виде подписки на 12 месяцев или рассчитываться пропорционально количеству месяцев, оставшихся по основному соглашению.  Нет необходимости иметь отдельную лицензию на пользовательскую подписку (USL) или лицензию на подписку на дополнительные компоненты (ASL), которые являются обязательными для других программ в рамках веб-служб корпоративного лицензирования.
 
-**Примечание** Если вы оформляете 12-месячную подписку на учебные курсы и программы сертификации Microsoft, то срок действия всех последующих подписок будет заканчиваться одновременно со сроком действия первой 12-месячной подписки. [Ознакомьтесь с руководством по онлайн-службам](http://www.microsoft.com/learning/_silverlight/bac/bac.htm).
+**Примечание** Если вы оформляете 12-месячную подписку на учебные курсы и программы сертификации Microsoft, то срок действия всех последующих подписок будет заканчиваться одновременно со сроком действия первой 12-месячной подписки. [Ознакомьтесь с руководством по онлайн-службам](https://www.microsoft.com/learning/_silverlight/bac/bac.htm).
 
 **В: Сколько кодов необходимо приобрести?**
 
@@ -180,7 +180,7 @@ ms.author: micsullivan
 
 **В: Как учреждение, в котором я работаю, может стать центром тестирования MCP?**
 
-Если организация проводит сертификационные экзамены Microsoft по информационным технологиям и экзамены из пакетов интерактивных учебных курсов MCP, вам необходимо перейти на страницу Pearson VUE и получить информацию о процедуре присвоения вашему организацию статуса [центра тестирования Pearson VUE](http://www.pearsonvue.com/microsoft). Сертификационные экзамены MOS и MTA поставляются через Certiport.
+Если организация проводит сертификационные экзамены Microsoft по информационным технологиям и экзамены из пакетов интерактивных учебных курсов MCP, вам необходимо перейти на страницу Pearson VUE и получить информацию о процедуре присвоения вашему организацию статуса [центра тестирования Pearson VUE](https://www.pearsonvue.com/microsoft). Сертификационные экзамены MOS и MTA поставляются через Certiport.
 
 **В: Каким образом исполняется заказ на пакет очных экзаменов MCP?**
 
@@ -188,7 +188,7 @@ ms.author: micsullivan
 
 **В: Каковы требования для развертывания лицензии на интерактивные экзамены MOS или MTA?**
 
-Чтобы использовать преимущества пакетов интерактивных учебных курсов MOS или MTA и проводить экзамены по специальностям MOS или MTA, ваше учреждение должно быть авторизованным центром тестирования, зарегистрированным на веб-сайте Certiport, и отвечать техническим требованиям, опубликованным на [веб-сайте Certiport](http://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm). Если ваше учреждение не является авторизованным центром тестирования Certiport, необходимо пройти процедуру присвоения статуса [центра тестирования Certiport](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101).
+Чтобы использовать преимущества пакетов интерактивных учебных курсов MOS или MTA и проводить экзамены по специальностям MOS или MTA, ваше учреждение должно быть авторизованным центром тестирования, зарегистрированным на веб-сайте Certiport, и отвечать техническим требованиям, опубликованным на [веб-сайте Certiport](https://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm). Если ваше учреждение не является авторизованным центром тестирования Certiport, необходимо пройти процедуру присвоения статуса [центра тестирования Certiport](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101).
 
 **В: Как узнать о наличии доступа к экзаменационным ваучерам после заказа пакетов интерактивных учебных курсов MOS или MTA в рамках программ корпоративного лицензирования?**
 
