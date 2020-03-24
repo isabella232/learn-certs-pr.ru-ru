@@ -1,12 +1,13 @@
 ### YamlMime:Certification
-title: Microsoft Certified Power Platform Fundamentals
+title: 'Microsoft Certified: Power Platform Fundamentals'
 metadata:
-  title: Microsoft Certified Power Platform Fundamentals
-  description: Докажите, что вы понимаете основные возможности Power Platform - от ценности для бизнеса и основных продуктов до создания базового приложения Power Apps canvas app, подключения источников данных, автоматизации с помощью Microsoft Flow и создания панели мониторинга Power BI.
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: Докажите, что вы понимаете основные возможности Power Platform–от коммерческой ценности и основных возможностей до создания базового приложения Power Apps, подключения источников данных, автоматизации с помощью Microsoft Automate и создания панели мониторинга Power BI.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Докажите, что вы понимаете основные возможности Power Platform - от ценности для бизнеса и основных продуктов до создания базового приложения Power Apps canvas app, подключения источников данных, автоматизации с помощью Microsoft Flow и создания панели мониторинга Power BI.
-subTitle: Докажите, что вы понимаете основные возможности Power Platform - от ценности для бизнеса и основных продуктов до создания базового приложения Power Apps canvas app, подключения источников данных, автоматизации с помощью Microsoft Flow и создания панели мониторинга Power BI.
+summary: |-
+  Докажите, что вы понимаете основные возможности Power Platform–от коммерческой ценности и основных возможностей до создания базового приложения Power Apps, подключения источников данных, автоматизации с помощью Microsoft Automate и создания панели мониторинга Power BI.
+subTitle: Докажите, что вы понимаете основные возможности Power Platform–от коммерческой ценности и основных возможностей до создания базового приложения Power Apps, подключения источников данных, автоматизации с помощью Microsoft Automate и создания панели мониторинга Power BI.
 levels:
 - beginner
 skills:
@@ -14,7 +15,7 @@ skills:
 - Понимание основных компонентов Power Platform
 - Демонстрация бизнес-ценности Power BI
 - Демонстрация бизнес-ценности Power Apps
-- Демонстрация бизнес-ценности Microsoft Flow
+- Продемонстрируйте коммерческую ценность Power Automate.
 roles:
 - business-user
 - functional-consultant
@@ -29,17 +30,20 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KL
 exams:
 - uid: exam.pl-900
 resources:
+- title: Обучение для получения сертификата
+  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Power Platform Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: Руководство по обучению и сертификации
-  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: deals.md
-- title: Поддержка сертификационных
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+- title: Поддержка по вопросам сертификации
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
