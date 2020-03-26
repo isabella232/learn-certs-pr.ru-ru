@@ -5,12 +5,12 @@ metadata:
   description: MCSE Productivity Solutions Expert
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
-summary: >-
-  Данная сертификация подтверждает, что у его обладателя есть все необходимые навыки для переноса работы компании в среду облачных вычислений, повышения производительности труда пользователей и расширения их возможностей, сокращения потерь данных и повышения уровня их защиты в масштабе организации. Эта сертификация может использоваться для удовлетворения одного из требований, чтобы стать [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
-
-
-  Чтобы стать экспертом по MCSE Productivity Solutions, выполните следующие требования&#58;
-
+summary: |-
+  <div style='color&#58; red;'>ЭКЗАМЕН БЫЛ ОТМЕНЕН 30 Июнь 2020 года. Экзамен для замены может быть доступен. Чтобы узнать больше, посетите наш блог&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> и просмотрите наши объявления об экзаменах. Примечание&#58; Экзамен будет отменен в 23&#58;59 по центральному стандартному времени<br/><br/></div>
+  
+  Данная сертификация подтверждает, что у его обладателя есть все необходимые навыки для переноса работы компании в среду облачных вычислений, повышения производительности труда пользователей и расширения их возможностей, сокращения потерь данных и повышения уровня их защиты в масштабе организации. Эта сертификация может использоваться для удовлетворения одного из требований, чтобы стать [Администратором-экспертом Microsoft 365 Certified&#58; Enterprise](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
+  
+  Чтобы стать MCSE Productivity Solutions Expert, выполните следующие требования&#58;
   - Получите одну обязательную сертификацию
     - Пример обязательной сертификации 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - Пример обязательной сертификации 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
@@ -19,7 +19,7 @@ summary: >-
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
     - [70-345&#58; Designing and Deploying Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
-subTitle: Данная сертификация подтверждает, что у его обладателя есть все необходимые навыки для переноса работы компании в среду облачных вычислений, повышения производительности труда пользователей и расширения их возможностей, сокращения потерь данных и повышения уровня их защиты в масштабе организации. Эту сертификацию можно использовать, чтобы удовлетворить одно из требований, чтобы стать Microsoft 365 Certified Enterprise Administrator Expert
+subTitle: 'Данная сертификация подтверждает, что у его обладателя есть все необходимые навыки для переноса работы компании в среду облачных вычислений, повышения производительности труда пользователей и расширения их возможностей, сокращения потерь данных и повышения уровня их защиты в масштабе организации. Эту сертификацию можно использовать, чтобы удовлетворить одно из требований, чтобы стать Microsoft 365 Certified: Enterprise Administrator Expert.'
 levels:
 - advanced
 skills:
@@ -41,17 +41,17 @@ exams:
 - uid: exam.70-339
 - uid: exam.70-333
 resources:
-- title: Руководство по образовательным курсам и сертификациям
+- title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Повтор экзамена
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: deals.md
-- title: Поддержка по вопросам сертификации
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+- title: Поддержка сертификационных
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

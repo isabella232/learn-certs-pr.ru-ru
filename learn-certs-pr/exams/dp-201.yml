@@ -1,40 +1,39 @@
 ### YamlMime:Examination
 title: Designing an Azure Data Solution
 metadata:
-  title: 'Экзамен DP-201: Designing an Azure Data Solution'
-  description: 'Экзамен DP-201: Designing an Azure Data Solution'
+  title: 'Exam DP-201: Designing an Azure Data Solution'
+  description: 'Exam DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: >-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>Содержание этого экзамена будет обновлено 26 марта 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.<br/><br/></div>
+  
   Кандидатами на этот экзамен являются инженеры по работе с данными Microsoft Azure, которые совместно с представителями бизнеса определяют и выполняют требования к данным для проектирования решений по работе с данными, использующих службы данных Azure.
-
   <br/>
 
+  Инженеры данных Azure отвечают за задачи, проектных связанные с данными, включая разработку решений для хранения данных Azure, использующих реляционные и нереляционные хранилища данных, решения для пакетной обработки данных и обработки данных в реальном времени, а также решения для обеспечения безопасности и соответствия требованиям.
 
-  Инженеры данных Azure отвечают за задачи, связанные с данными, включая разработку решений для хранения данных Azure, использующих реляционные и нереляционные хранилища данных, решения для пакетной обработки данных и обработки данных в реальном времени, а также решения для обеспечения безопасности и соответствия требованиям.
-
-
-  Кандидаты на этот экзамен должны уметь проектировать решения по работе с данными, использующие следующие службы Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure SQL Data Warehouse, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, и хранилище Azure Blob.
+  Кандидаты на этот экзамен должны уметь разработать решения для данных, использующие следующие службы Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, и хранилище BLOB-объектов Azure.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: разработка решений для хранения данных Azure; решения для обработки проектных данных; и проектирование для обеспечения безопасности данных и соответствия требованиям.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-201&examname=Exam%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-201&examname=Экзамен%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 levels:
 - intermediate
 skills:
+- Содержание этого экзамена будет обновлено 26 марта 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.
+- 'NOTE: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Разработка решений для хранения данных Azure (40-45%)
 - Решения для обработки проектных данных (25-30%)
 - Проектирование для обеспечения безопасности данных и соответствия требованиям (25-30%)
 roles:
 - data-engineer
-exams:
-- uid: exam.dp-200
 products:
 - azure
 - azure-cosmos-db
@@ -47,6 +46,8 @@ products:
 - azure-storage
 - azure-monitor
 - azure-hdinsight
+exams:
+- uid: exam.dp-200
 courses:
 - uid: course.dp-201t01
 paths:
@@ -66,21 +67,24 @@ resources:
 - title: Обучение для получения сертификата
   description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure Data Engineer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
-- title: Руководство по образовательным курсам и сертификациям
+- title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Повтор экзамена
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Запрос специальных условий
   description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
