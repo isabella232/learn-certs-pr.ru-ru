@@ -509,7 +509,7 @@ AZ-201: Microsoft Azure Developer Advanced Solutions
 
 Мы ценим ваши отзывы и надеемся, что они помогут сделать сертификационные экзамены Microsoft максимально эффективными и релевантными.
 
-## <a name="#special-accommodations-when-taking-exams"></a> Специальные условия при приеме экзаменов
+## <a name="special-accommodations-when-taking-exams"></a> Специальные условия при приеме экзаменов
 
 ### Для экзаменов, которые сдаются через Pearson VUE:
 
