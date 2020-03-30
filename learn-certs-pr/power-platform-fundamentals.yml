@@ -1,7 +1,7 @@
-### YamlMime:Certification
-title: 'Microsoft Certified: Power Platform Fundamentals'
+﻿### YamlMime:Certification
+title: Microsoft Certified Power Platform Fundamentals
 metadata:
-  title: 'Microsoft Certified: Power Platform Fundamentals'
+  title: Microsoft Certified Power Platform Fundamentals
   description: Докажите, что вы понимаете основные возможности Power Platform–от коммерческой ценности и основных возможностей до создания базового приложения Power Apps, подключения источников данных, автоматизации с помощью Microsoft Automate и создания панели мониторинга Power BI.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -31,19 +31,19 @@ exams:
 - uid: exam.pl-900
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Power Platform Fundamentals.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

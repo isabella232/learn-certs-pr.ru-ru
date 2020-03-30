@@ -1,4 +1,4 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Planning and Administering Microsoft Azure for SAP Workloads
 metadata:
   title: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
@@ -14,7 +14,7 @@ summary: |-
 subTitle: 'Этот экзамен помогает оценить вашу способность выполнять следующие технические задачи: Перенос SAP Workloads в Azure; разработка решения Azure для поддержки SAP Workloads; построение и развертывание Azure SAP Workloads; проверка инфраструктуры Azure для SAP Workloads; и ввод в эксплуатацию архитектуры Azure SAP.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
 levels:
@@ -34,8 +34,9 @@ products:
 courses:
 - uid: course.az-120t00
 paths:
-- uid: learn-pr.wwl.planning-azure-sap-workloads
 - uid: learn.wwl.sap-certified-offerings-azure
+- uid: learn-pr.wwl.planning-azure-sap-workloads
+- uid: learn.wwl.run-azure-sap-workloads
 relatedCertifications:
 - related:
     uid: certification.azure-for-sap-workloads-specialty

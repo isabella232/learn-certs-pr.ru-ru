@@ -1,8 +1,8 @@
-### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+﻿### YamlMime:Examination
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer'
 metadata:
-  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
-  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
 uid: exam.mb-500
 displayName: MB-500
 summary: |-
@@ -17,12 +17,10 @@ summary: |-
   Кандидаты должны иметь опыт работы с продуктами, включая Visual Studio, Azure DevOps, инструменты LCS или SQL Server Management Studio.
   
   Кандидаты должны иметь опыт разработки кода с использованием объектно-ориентированных языков программирования, анализа и обработки данных с использованием кода Transact-SQL, а также создания и запуска команд и сценариев Windows PowerShell.
-  
-  <div style='color&#58; red;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</div>
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: планирование архитектуры и проектирование решения; применение инструментов разработчика; проектирование и разработка элементов АОТ; разработка и тестирование кода;внедрение отчетности; интеграция и управление решениями для данных; а также внедрение безопасности и оптимизация производительности.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 locales:
 - en
 levels:
@@ -58,13 +56,13 @@ resources:
 - title: Обучение для получения сертификата
   description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j5
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов

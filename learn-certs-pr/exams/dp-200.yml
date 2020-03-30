@@ -1,4 +1,4 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Implementing an Azure Data Solution
 metadata:
   title: 'Exam DP-200: Implementing an Azure Data Solution'
@@ -8,16 +8,16 @@ displayName: DP-200
 summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>Содержание этого экзамена будет обновлено 31 марта 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.<br/><br/></div>
   
-  Кандидатами на этот экзамен являются инженеры по обработке данных Microsoft Azure, которые совместно с представителями бизнеса определяют и выполняют требования к данным для реализации решений по работе с данными, использующих службы данных Azure....
+  Кандидатами на этот экзамен являются инженеры по обработке данных Microsoft Azure, которые совместно с представителями бизнеса определяют и выполняют требования к данным для реализации решений по работе с данными, использующих службы данных Azure.
 
-  Специалисты по обработке данных Azure отвечают за реализацию задач, связанных с данными, которые включают предоставление услуг хранения данных, прием потоковых и пакетных данных, преобразование данных, внедрение требований безопасности, реализацию политик хранения данных, выявление узких мест производительности и доступ к внешним источникам данных.
+   Специалисты по обработке данных Azure отвечают за реализацию задач, связанных с данными, которые включают предоставление услуг хранения данных, прием потоковых и пакетных данных, преобразование данных, внедрение требований безопасности, реализацию политик хранения данных, выявление узких мест производительности и доступ к внешним источникам данных.
 
   Кандидаты на этот экзамен должны уметь реализовать решения по работе с данными, использующие следующие службы Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (бывший Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, и хранилище Azure Blob.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: внедрение решений для хранения данных; управление и развитие обработки данных; мониторинг и оптимизация решений по работе с данными.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
 - ja
@@ -57,16 +57,11 @@ paths:
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
 relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
-- title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure Data Engineer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией

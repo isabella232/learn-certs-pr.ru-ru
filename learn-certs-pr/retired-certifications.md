@@ -1,12 +1,12 @@
----
-title: Microsoft Retired Certifications | Microsoft Docs
-description: Microsoft Retired Certifications
+﻿---
+title: Отмененные сертификации Microsoft | Microsoft Docs
+description: Отмененные сертификации Microsoft
 documentationcenter: NA
 author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 30.07.2019
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # Информация об отмене сертификации
@@ -77,6 +77,6 @@ NOTE: После аннулирования сертификации компа�
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                                                             | 30 сентября 2018 года |
-| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                                        | 7 августа 2019 года     |
+| MTA: 98-369: Cloud Fundamentals                                                                                             | 30 сентября 2019 года |
+| MTA: 98-380: Введение в программирование с помощью языков программирования с управляющей графикой (Touch Develop)                                       | 7 августа 2019 года     |
 ___
