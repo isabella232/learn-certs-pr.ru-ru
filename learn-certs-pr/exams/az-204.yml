@@ -1,4 +1,4 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Developing Solutions for Microsoft Azure (beta)
 metadata:
   title: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
@@ -12,6 +12,8 @@ summary: |-
   <br/>
   
   Кандидаты должны иметь не менее 1-2 лет опыта разработки на профессиональном уровне и опыт работы с Microsoft Azure. Они также должны уметь программировать на поддерживаемом языке Azure.
+  
+  <div style='color&#58; red;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</div>
 subTitle: 'Этот экзамен предполагает проверку ваших способностей выполнять следующие технические задачи: разработка Azure вычислительных служб; разработка для службы хранилища Azure; внедрение безопасности Azure; мониторинг, устранение неполадок и оптимизация решений; а также подключение и использование служб Azure и сторонних служб.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
@@ -19,7 +21,7 @@ locales:
 - en
 providers:
   - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
 levels:
 - intermediate
 skills:

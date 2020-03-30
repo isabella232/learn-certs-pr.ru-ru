@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Станьте сертифицированным инструктором Microsoft | Microsoft Docs'
 description: 'Станьте сертифицированным инструктором Microsoft' 
 documentationcenter: NA 
@@ -37,6 +37,7 @@ ms.author: micsullivan
 
 
 ### Требования к новым участникам программы MCT
+
 - Владение текущим сертификатом или квалификацией Microsoft, подходящими для программы MCT. 
 (см. список квалификационных сертификатов ниже)
 - Демонстрация навыков в области обучения, подтвержденных одним из следующих способов.
@@ -76,7 +77,7 @@ ms.author: micsullivan
 - [Microsoft Certified: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx)
 - [Microsoft Certified: Azure Developer Associate](https://www.microsoft.com/learning/azure-developer.aspx)
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
-- [Microsoft Certified: Azure DevOps Expert](https://www.microsoft.com/learning/azure-devops.aspx)
+- [Microsoft Certified: Azure DevOps Engineer Expert](https://www.microsoft.com/learning/azure-devops.aspx)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
@@ -97,13 +98,13 @@ ms.author: micsullivan
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/powerapps-and-d365-developer-associate)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
 - [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): Отчетность BI (Выбывает 30 июня 2020 г.), Microsoft Dynamics 365 для операций (Выбывает 30 июня 2020 г.), разработка SQL 2016 BI (Выбывает 30 июня 2020 г.), Управление базами данных SQL 2016 (Выбывает 30 июня 2020 г.), Разработка баз данных SQL 2016 (Выбывает 30 июня 2020 г.), SQL Server 2012/2014 (Выбывает 30 июня 2020 г.), Универсальная платформа Windows Platform (Выбывает 30 июня 2020 г.), Сетевые приложения (Выбывает 30 июня 2020 г.), Windows Server 2012 (Выбывает 30 июня 2020 г.), или Windows Server 2016 (Выбывает 30 июня 2020 г.)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Бизнес-приложения (Выбывает 30 июня 2020 г.), Управление данными и аналитика (Выбывает 30 июня 2020 г.), Производительность (Выбывает 30 июня 2020 г.) или Основная инфраструктура (Выбывает 30 июня 2020 г.)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): Конструктор приложений (Выбывает 30 июня 2020 г.)
 - Dynamics CRM Dynamics Technical (отменяется 31 декабря 2019 года) - [Понимание требований, связанных с каждой квалификацией и сертификацией Microsoft Dynamics](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
-- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Мастер 2016, Мастер 2013, Эксперт Excel 2016, Эксперт Excel 2013, Эксперт Word 2016, Эксперт Word 2013, [Партнер Word (Word и Word 2019)](https://www.microsoft.com/learning/mos -word -2019.aspx), [Партнер Excel (Excel и Excel 2019)](https://www.microsoft.com/learning/mos -excel -2019.aspx), [Партнер PowerPoint (PowerPoint и PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Специалист Microsoft Office: Партнер (Office 365 и Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate -2019.aspx), [Эксперт Word (Word и Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos -excel -expert -2019) or [Специалист Microsoft Office: Expert (Office 365 и Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
+- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Мастер 2016, Мастер 2013, Эксперт Excel 2016, Эксперт Excel 2013, Эксперт Word 2016, Эксперт Word 2013, [Партнер Word (Word и Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Партнер Excel (Excel и Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [Партнер PowerPoint (PowerPoint и PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Специалист Microsoft Office: Партнер (Office 365 и Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Эксперт Word (Word и Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) or [Специалист Microsoft Office: Expert (Office 365 и Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
 **Примечание** Сертификаты и квалификации Microsoft, подходящие для программы MCT, могут изменяться. Все новые ролевые сертификаты будут подходить для программы MCT, как только они будут выпущены. Сертификаты, срок действия которых истек, будут подходить для программы MCT в течение 6 месяцев после даты истечения срока. [Узнайте больше о сертификации выбывания](https://www.microsoft.com/learning/retired-certifications.aspx).
 
