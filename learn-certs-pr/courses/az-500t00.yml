@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Технологии безопасности Microsoft Azure
+title: Microsoft Azure Security Technologies
 metadata:
-  title: 'Курс AZ-500T00-A: Технологии безопасности Microsoft Azure'
-  description: 'Курс AZ-500T00-A: Технологии безопасности Microsoft Azure'
+  title: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
+  description: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
 uid: course.az-500t00
 courseNumber: 'AZ-500T00-A'
 hoursToComplete: 96
@@ -38,7 +38,7 @@ summary: |-
 
   #### Профиль аудитории
   Слушатели должны иметь по крайней мере один год практического опыта защиты рабочих нагрузок Azure и иметь опыт управления безопасностью рабочих нагрузок в Azure.
-prerequisitesSection: |-  
+prerequisitesSection: |-
   [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
   ### Модуль 1&#58; Идентификация и доступ
@@ -58,7 +58,7 @@ outlineSection: |-
   - Реализация безопасности подписок
 
 
-  ### Модуль 3&#58; Операции безопасности
+  ### Модуль 3&#58; Управление безопасностью
   #### Уроки
   - Настройка служб безопасности
   - Настройка политик безопасности с использованием Azure Security Center
@@ -76,3 +76,4 @@ outlineSection: |-
   - Реализация безопасности для жизненного цикла приложения
   - Защита приложений
   - Настройка и управление хранилищем ключей Azure (Azure Key Vault)
+
