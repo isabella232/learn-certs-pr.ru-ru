@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Управление Office 365
+title: Office 365 Management
 metadata:
-  title: 'Курс MS-100T01-A: Управление Office 365'
-  description: 'Курс MS-100T01-A: Управление Office 365'
+  title: 'Course MS-100T01-A: Office 365 Management'
+  description: 'Course MS-100T01-A: Office 365 Management'
 uid: course.ms-100t01
 courseNumber: 'MS-100T01-A'
 hoursToComplete: 48
@@ -39,16 +39,15 @@ outlineSection: |-
   #### Уроки
   - Exchange Online
   - SharePoint Online
-  - Команды
+  - Teams
   - Дополнительные ресурсы
-
 
   ### Модуль 2&#58; Настройка арендатора Microsoft 365 Tenant
   #### Уроки
   - Планирование сети с помощью Office 365
   - Планирование настройки вашего сервиса
   - Планирование вашей гибридной среды
-  - Планирование миграции в Office 365
+  - Планирование миграции на Office 365
 
 
   ### Модуль 3&#58; Настройка Office 365
@@ -67,9 +66,10 @@ outlineSection: |-
 
   ### Модуль 5&#58; Лабораторный практикум 
 
-  #### Лабораторная работа&#58; Управление Office 365
+  #### Лабораторная &#58; Управление Office 365
   - Упражнение 1&#58; Настройка пробного арендатора Microsoft 365
   - Упражнение 2&#58; Подготовка управляемой установки Office 365 ProPlus 
   - Упражнение 3&#58; Управление пользовательскими установками Office 365 ProPlus
   - Упражнение 4&#58; Управление централизованными установками Office 365 ProPlus
   - Упражнение 5&#58; Развертывание и настройка компонентов офисной телеметрии
+

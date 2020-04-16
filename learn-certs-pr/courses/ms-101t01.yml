@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Управление безопасностью в Microsoft 365
+title: Microsoft 365 Security Management
 metadata:
-  title: 'Курс MS-101T01-A: Управление безопасностью в Microsoft 365'
-  description: 'Курс MS-101T01-A: Управление безопасностью в Microsoft 365'
+  title: 'Course MS-101T01-A: Microsoft 365 Security Management'
+  description: 'Course MS-101T01-A: Microsoft 365 Security Management'
 uid: course.ms-101t01
 courseNumber: 'MS-101T01-A'
 hoursToComplete: 24
@@ -59,12 +59,13 @@ outlineSection: |-
   ### Модуль 3&#58; Управление арендатором Microsoft 365 Tenant
   #### Уроки
   - Настройка ролей арендатора
-  - Управление здоровьем и услугами арендатора
+  - Управление состоянием и сервисами арендатора
 
 
   ### Модуль 4&#58; Лабораторный практикум
 
-  #### Лабораторная работа&#58; Управление безопасностью Microsoft 365
+  #### Lab &#58; Управление безопасностью Microsoft 365
   - Упражнение 1&#58; Настройка вашей лабораторной среды
   - Упражнение 2&#58; Редактирование политики безопасных ссылок ATP и создание политики безопасных вложений
   - Упражнение 3&#58; Установка и включение центра ATA
+
