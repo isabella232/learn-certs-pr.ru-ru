@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Analyzing Data with Microsoft Power BI (beta)
+metadata:
+  title: 'Exam DA-100: Analyzing Data with Microsoft Power BI (beta)'
+  description: 'Exam DA-100: Analyzing Data with Microsoft Power BI (beta)'
+uid: exam.da-100
+displayName: DA-100
+summary: |-
+  Data Analysts помогают компаниям максимизировать стоимость своих активов данных с помощью Microsoft Power BI. Являясь экспертом в данной области, Data Analyst отвечает за проектирование и построение масштабируемых моделей данных, очистку и преобразование данных, а также за предоставление расширенных аналитических возможностей, которые обеспечивают значимую ценность для бизнеса с помощью простой для понимания визуализации данных. Data Analyst также сотрудничает с ключевыми заинтересованными сторонами в отраслевой вертикали для предоставления соответствующей информации на основе определенных бизнес-требований.
+  <br/>
+
+  Data Analyst должен иметь общее представление о хранилищах данных и их обработке как в производственных условиях, так и в облаке.
+
+  <div style='color&#58; red;'><br/><strong>Примечание&#58; Этот бета-экзамен не будет доступен до 2 апреля 2020 года. Эта информация не является окончательной, и после официального выпуска экзамена возможны незначительные изменения.</div>
+subTitle: 'Этот экзамен позволяет оценить вашу способность понимать следующие технические задачи: подготовка данных; моделирование данных; визуализация данных; анализ данных; и развертывание и поддержка поставляемых продуктов.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Подготовка данных (20-25%)
+- Моделирование данных (25-30%)
+- Визуализация данных (20-25%)
+- Анализ данных(10-15%)
+- Развертывание и поддержка поставляемых продуктов (10-15%)
+roles:
+- data-analyst
+products:
+- power-bi
+relatedCertifications:
+- related:
+    uid: certification.data-analyst-associate
+resources:
+- title: Руководство по обучению и сертификации
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md

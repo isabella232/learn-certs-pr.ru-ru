@@ -1,0 +1,68 @@
+﻿### YamlMime:Examination
+title: Microsoft Azure Administrator (beta)
+metadata:
+  title: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
+  description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
+uid: exam.az-104
+displayName: AZ-104
+summary: |-
+  Azure Administrator внедряет, управляет и следит за удостоверениями, управлением, хранением, вычислениями и виртуальными сетями в облачной среде. Администратор Azure обеспечивает, измеряет, отслеживает и корректирует ресурсы в зависимости от ситуации.
+  
+  Кандидаты должны иметь минимум шесть месяцев практического опыта администриования Azure. Кандидаты должны хорошо понимать основные службы Azure, рабочие нагрузки Azure, безопасность и управление. Кандидаты на этот экзамен должны иметь опыт использования PowerShell, интерфейса командной строки, портала Azure и шаблонов ARM.
+  
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>ПРИМЕЧАНИЕ&#58; Этот экзамен станет доступен ориентировочно 31 марта 2020 года.</div>
+subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: управление удостоверениями  Azure; реализвация и управление хранилищем; развертывание вычислительных ресурсов Azure и управляение ими; настройка и управление виртуальными сетями; отслеживание и резервное сохранение ресурсов Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Управление безопасностью и управления Azure (15-20%) 
+- Внедрение и управление хранилищем (10-15%)
+- Развертывание и управление вычислительными ресурсами Azure (25-30%) 
+- Настройка и управление виртуальными сетями (30-35%) 
+- Мониторинг и резервное копирование ресурсов Azure (10-15%)
+roles:
+- administrator
+products:
+- azure
+paths:
+- uid: learn.administer-infrastructure-resources-in-azure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-migration-bcdr
+- uid: learn.manage-resources-in-azure
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+- uid: learn.security.implement-resource-mgmt-security
+- uid: learn.administer-containers-in-azure
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md

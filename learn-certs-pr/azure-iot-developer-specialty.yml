@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure IoT Developer Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure IoT Developer Specialty'
+  description: 'Этот экзамен позволяет оценить вашу способность понимать следующие концепции: внедрение служб Azure, которые формируют IoT решение, включая анализ данных, обработку данных, параметры хранения данных и параметры Платформа как услуга. IoT Developer должен уметь распознавать параметры конфигурации службы IoT Azure в части кода решения IoT.'
+uid: certification.azure-iot-developer-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Этот экзамен позволяет оценить вашу способность понимать следующие концепции: внедрение служб Azure, которые формируют IoT решение, включая анализ данных, обработку данных, параметры хранения данных и параметры Платформа как услуга. IoT Developer должен уметь распознавать параметры конфигурации службы IoT Azure в части кода решения IoT.
+subTitle: 'Этот экзамен позволяет оценить вашу способность понимать следующие концепции: внедрение служб Azure, которые формируют IoT решение, включая анализ данных, обработку данных, параметры хранения данных и параметры Платформа как услуга. IoT Developer должен уметь распознавать параметры конфигурации службы IoT Azure в части кода решения IoT.'
+levels:
+- intermediate
+skills:
+- 'NOTE: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
+- Внедрение инфраструктуры IoT-решения
+- Обеспечение и управление устройствами
+- Внедрение Edge
+- Обработка и управление данными
+- Мониторинг, устранение неполадок и оптимизация решений IoT 
+- Реализация безопасности
+roles:
+- developer
+type: specialty
+products:
+- azure
+- azure-iot-central
+- azure-iot-hub
+courses:
+- uid: course.az-220t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
+exams:
+- uid: exam.az-220
+resources:
+- title: Руководство по обучению и сертификации
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: deals.md
+- title: Поддержка сертификационных
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx

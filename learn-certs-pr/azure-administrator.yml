@@ -1,20 +1,21 @@
-### YamlMime:Certification
+﻿### YamlMime:Certification
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: Администраторы Azure внедряют, отслеживают и поддерживают решения Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
+  description: 'Azure Administrators [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.'
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Администраторы Azure внедряют, отслеживают и поддерживают решения Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью. [Узнайте больше об изменениях в этой сертификации, которые вступили в силу с 1 мая 2019 года.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
-subTitle: Администраторы Azure внедряют, отслеживают и поддерживают решения Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
+summary: |-
+  Azure Administrators [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
+subTitle: Azure Administrators [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
 levels:
 - intermediate
 skills:
-- Управление подписками и ресурсами Azure
-- Внедрение и управление хранилищем
-- Развертывание виртуальных машин (VMs)
-- Настройка и управление виртуальными сетями
-- Управление идентификационными данными
+- Управлять подписками и ресурсами Azure
+- Внедрять и управлять хранилищем
+- Развертывание виртуальных машин (VM)
+- Настраивать и управлять виртуальными сетями
+- Управление удостоверениями
 roles:
 - administrator
 type: role-based
@@ -28,28 +29,32 @@ products:
 courses:
 - uid: course.az-103t00
 paths:
-- uid: learn.secure-your-cloud-data
 - uid: learn.administer-infrastructure-resources-in-azure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-migration-bcdr
 - uid: learn.manage-resources-in-azure
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+- uid: learn.security.implement-resource-mgmt-security
 - uid: learn.administer-containers-in-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
 - uid: exam.az-103
 resources:
-- title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Azure Administrator Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

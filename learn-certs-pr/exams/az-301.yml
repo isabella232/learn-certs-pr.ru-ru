@@ -1,24 +1,29 @@
 ### YamlMime:Examination
 title: Microsoft Azure Architect Design
 metadata:
-  title: 'Экзамен AZ-301: Microsoft Azure Architect Design'
-  description: 'Экзамен AZ-301: Microsoft Azure Architect Design'
+  title: 'Exam AZ-301: Microsoft Azure Architect Design'
+  description: 'Exam AZ-301: Microsoft Azure Architect Design'
 uid: exam.az-301
 displayName: AZ-301
-summary: Кандидатами на этот экзамен являются архитекторы решений Azure, которые консультируют заинтересованные стороны и преобразуют бизнес-требования в безопасные, масштабируемые и надежные решения. Кандидаты должны обладать передовым опытом и знаниями по различным аспектам IT-операций, включая создание сетей, виртуализацию, идентификацию, безопасность, непрерывность бизнеса, аварийное восстановление, управление данными, бюджетирование и управление. Эта роль требует управления тем, как решения в каждой области влияют на общее решение. Кандидаты должны обладать знаниями в области управления Azure, разработки Azure и DevOps и обладать навыками на уровне экспертов по крайней мере в одном из этих доменов.
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>НОВАЯ ВЕРСИЯ ЭТОГО ЭКЗАМЕНА, AZ-304, СТАНЕТ ДОСТУПНА ОРИЕНТИРОВОЧНО 28 АПРЕЛЯ 2020 ГОДА. Вы сможете сдать этот экзамен до того, как он будет отменен ориентировочно 28 июля 2020. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.<br/><br/></div>
+  
+  Кандидатами на этот экзамен являются архитекторы решений Azure, которые консультируют заинтересованные стороны и преобразуют бизнес-требования в безопасные, масштабируемые и надежные решения. Кандидаты должны обладать передовым опытом и знаниями по различным аспектам ИТ-операций, включая создание сетей, виртуализацию, идентификацию, безопасность, непрерывность бизнеса, аварийное восстановление, управление данными, бюджетирование и управление. Эта роль требует управления тем, как решения в каждой области влияют на общее решение. Кандидаты должны обладать знаниями в области управления Azure, разработки Azure и DevOps и обладать навыками на уровне экспертов по крайней мере в одном из этих доменов.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: определение требований к рабочей нагрузке; проектирование для идентификации и безопасности; проектирование решения для платформы данных; разработка стратегии обеспечения непрерывности деятельности; проектирование развертывания, миграции и интеграции; а также разработка стратегии инфраструктуры.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-301&examname=Exam%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-301
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-301&examname=Экзамен%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Faz-301
 levels:
 - advanced
 skills:
+- НОВАЯ ВЕРСИЯ ЭТОГО ЭКЗАМЕНА, AZ-304, СТАНЕТ ДОСТУПНА ОРИЕНТИРОВОЧНО 28 АПРЕЛЯ 2020 ГОДА. Вы сможете сдать этот экзамен до того, как он будет отменен ориентировочно 28 июля 2020. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.
+- 'NOTE: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Определение требований рабочей нагрузки (10-15%)
 - Проектирование для идентификации и безопасности (20-25%)
 - Проектирование решения для платформы данных (15-20%)
@@ -27,8 +32,6 @@ skills:
 - Разработка стратегии развития инфраструктуры (15-20%)
 roles:
 - solution-architect
-exams:
-- uid: exam.az-300
 products:
 - azure
 - azure-active-directory
@@ -51,6 +54,8 @@ products:
 - azure-cosmos-db
 - azure-sql-database
 - azure-event-hubs
+exams:
+- uid: exam.az-300
 courses:
 - uid: course.az-301t01
 - uid: course.az-301t02
@@ -75,20 +80,23 @@ resources:
   description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure Solutions Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Руководство по обучению и сертификации
-  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Запрос специальных условий
   description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md

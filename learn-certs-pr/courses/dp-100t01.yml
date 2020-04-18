@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Разработка и внедрение решения обработки и анализа данных Azure
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: 'Курс DP-100T01-A: Разработка и внедрение решения обработки и анализа данных Azure'
-  description: 'Курс DP-100T01-A: Разработка и внедрение решения обработки и анализа данных Azure'
+  title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -26,7 +26,7 @@ summary: |-
   Этот курс предназначен для специалистов по данным и тех, кто несет значительную ответственность за обучение и развертывание моделей машинного обучения.
 prerequisitesSection: |-
   Перед посещением этого курса студенты должны иметь&#58;
-  - Наличие [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
+  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - Понимание data science, в том числе знание процесса подготовки данных, обучения моделей и оценки конкурирующих моделей, для того, чтобы выбрать лучшую.
   - Умение программировать на языке программирования Python и использовать библиотеки Python&#58; pandas, scikit-learn, matplotlib и seaborn.
 outlineSection: |-
@@ -34,7 +34,7 @@ outlineSection: |-
   Слушатели узнают о data science и роли Data Scientist.  Затем эти знания понадобятся, чтобы понять, как службы Azure могут поддерживать и расширять процесс обработки данных.
   #### Уроки
   - Знакомство с Data Science Process
-  - Обзор вариантов Azure Data Science 
+  - Обзор вариантов  Azure Data Science 
   - Знакомство с Azure Notebooks
 
 
@@ -56,3 +56,4 @@ outlineSection: |-
   В этом модуле слушатели узнают, как автоматически управлять и отслеживать модели машинного обучения в службе AML.
   #### Уроки
   - Управление и контроль моделей машинного обучения
+

@@ -1,27 +1,31 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: 'Экзамен DP-100: Designing and Implementing a Data Science Solution on Azure'
-  description: 'Экзамен DP-100: Designing and Implementing a Data Science Solution on Azure'
+  title: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
 uid: exam.dp-100
 displayName: DP-100
-summary: "Кандидаты на этот экзамен должны применять научную строгость и методы исследования данных, чтобы получить полезную информацию и сообщить результаты заинтересованным сторонам. Кандидаты должны использовать методы машинного обучения для тренировки, оценки и развертывания моделей для создания AI-решений, соответствующих бизнес-целям. Кандидаты должны использовать приложения, которые включают обработку естественного языка, речь, компьютерное зрение и прогнозную аналитику. \n\nКандидаты являются частью междисциплинарной команды, которая учитывает этические аспекты, вопросы конфиденциальности и управления в решении. Кандидаты обычно должны иметь опыт работы в области математики, статистики и информатики."
-subTitle: 'Этот экзамен предполагает проверку ваших способностей выполнять следующие технические задачи: определение и подготовка среды разработки; подготовка данных для моделирования; выполнение инженерных функций; разработка моделей.'
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>Фаза 1&#58; - Содержание этого экзамена будет обновлено 22 мая 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.<br/><br/></div>
+  
+  Azure Data Scientist применяет свои знания в области data science и машинного обучения для внедрения и выполнения рабочих нагрузок машинного обучения в Azure; в частности, с помощью службы машинного обучения Azure. Это включает планирование и создание подходящей рабочей среды для специалистов в области data science в Azure, проведение экспериментов с данными и обучение прогнозным моделям, управление моделями и их оптимизацию, а также внедрение моделей машинного обучения в производство.
+subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: настройка рабочего пространства в Azure Machine Learning; проводение экспериментов и моделей обучения; оптимизация и управление моделями; и развертывание и использование модели.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-100&examname=Экзамен%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 levels:
 - intermediate
 skills:
-- Определение и подготовка среды разработки (15-20%)
-- Подготовка данные для моделирования (25-30%)
-- Выполнение инженерных функций (15-20%)
-- Разработка моделей (40-45%)
+- Содержание этого экзамена будет обновлено 22 мая 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.
+- Настройка рабочего пространства в Azure Machine Learning (30-35%). 
+- Проводение экспериментов и моделей обучения (25-30%) 
+- Оптимизация и управление моделями (20-25%) 
+- Развертывание и использование модели (20-25%)
 roles:
 - data-scientist
 products:
@@ -30,34 +34,29 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
-- title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure Data Scientist Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
-- title: Руководство по обучению и сертификации
-  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Запрос специальных условий
   description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md

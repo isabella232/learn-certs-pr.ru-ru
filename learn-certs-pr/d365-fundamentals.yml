@@ -2,44 +2,46 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals'
-  description: Докажите, что вы разбираетесь в Microsoft Dynamics 365, Power Platform, облачных концепциях, параметрах лицензирования, а также параметрах развертывания и выпуска.
+  description: 'Этот экзамен позволяет оценить ваши знания в следующем: Microsoft Dynamics 365; искусственный интеллект (AI); гибридная реальность (MR);  Power Platform; облачные концепции; облачная безопасность; безопасность Dynamics 365; Common Data Service; отчеты в Dynamics 365; интеграции в Dynamics 365; и облачные развертывания.'
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Докажите, что вы разбираетесь в Microsoft Dynamics 365, Power Platform, облачных концепциях, параметрах лицензирования, а также параметрах развертывания и выпуска.
-subTitle: Докажите, что вы разбираетесь в Microsoft Dynamics 365, Power Platform, облачных концепциях, параметрах лицензирования, а также параметрах развертывания и выпуска.
+summary: |-
+  Этот экзамен позволяет оценить ваши знания в следующем: Microsoft Dynamics 365; искусственный интеллект (ИИ); гибридная реальность (MR);  Power Platform; облачные концепции; облачная безопасность; безопасность Dynamics 365; Common Data Service; отчеты в Dynamics 365; интеграции в Dynamics 365; и облачные развертывания.
+subTitle: 'Этот экзамен позволяет оценить ваши знания в следующем: Microsoft Dynamics 365; искусственный интеллект (AI); гибридная реальность (MR);  Power Platform; облачные концепции; облачная безопасность; безопасность Dynamics 365; Common Data Service; отчеты в Dynamics 365; интеграции в Dynamics 365; и облачные развертывания.'
 levels:
 - beginner
 skills:
-- Понимание Dynamics 365
-- Понимание облачных концептов
-- Понимание развертываний и релизов
+- Определение компонентов платформы Microsoft для Dynamics 365
+- Понимание ИИ и гибридной реальности для Dynamics 365
+- Понимание приложений на основе моделей
+- Понимание приложения Dynamics 365 Finance and Operations
 roles:
 - functional-consultant
 type: fundamentals
 products:
 - dynamics
 courses:
-- uid: course.mb-900t01
+- uid: course.mb-901t00
 paths:
 - uid: learn-dynamics.wwl.dynamics-365-fundamentals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
 exams:
-- uid: exam.mb-900
+- uid: exam.mb-901
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft Certified: Dynamics 365 Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
-- title: Руководство по образовательным курсам и сертификациям
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365 Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
+- title: Руководство по обучению и сертификации
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Повтор экзамена
+- title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

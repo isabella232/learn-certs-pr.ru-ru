@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Понимание современной инфраструктуры обмена сообщениями
+title: Understanding the Modern Messaging Infrastructure
 metadata:
-  title: 'Курс MS-200T01-A: Понимание современной инфраструктуры обмена сообщениями'
-  description: 'Курс MS-200T01-A: Понимание современной инфраструктуры обмена сообщениями'
+  title: 'Course MS-200T01-A: Understanding the Modern Messaging Infrastructure'
+  description: 'Course MS-200T01-A: Understanding the Modern Messaging Infrastructure'
 uid: course.ms-200t01
 courseNumber: 'MS-200T01-A'
 hoursToComplete: 48
@@ -80,9 +80,10 @@ outlineSection: |-
 
   ### Модуль 5&#58; Завершение курса
 
-  #### Лабораторная работа&#58; Управление инфраструктурой получателей
+  #### Lab &#58; Управление инфраструктурой получателей
   - Создание локального получателя
   - Создание облачного получателя 
   - Создание локальной группы рассылки
   - Создание облачной группы рассылки
   - Создание группы Office 365
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Разработка и реализация решения Azure AI
+title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: 'Курс AI-100T01-A: Разработка и реализация решения Azure AI'
-  description: 'Курс AI-100T01-A: Разработка и реализация решения Azure AI'
+  title: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
+  description: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
 uid: course.ai-100t01
 courseNumber: 'AI-100T01-A'
 hoursToComplete: 72
@@ -31,7 +31,7 @@ summary: |-
 prerequisitesSection: |-
   Перед посещением этого курса студенты должны иметь&#58;
   - Azure Fundamentals
-  - Понимание технологий хранилища Azure 
+  - Понимание технологий хранилища Azure
   - Знание C#
 outlineSection: |-
   ### Модуль 1&#58; Введение в Azure Cognitive Services
@@ -80,3 +80,4 @@ outlineSection: |-
   - Анализ мнений для бота с аналитикой текста
   - Определение языка в боте с использование языковой когнитивной службой
   - Интеграция Computer Vision с ботом
+
