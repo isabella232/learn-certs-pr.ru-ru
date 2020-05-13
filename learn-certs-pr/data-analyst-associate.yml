@@ -2,13 +2,13 @@
 title: 'Microsoft Certified: Data Analyst Associate'
 metadata:
   title: 'Microsoft Certified: Data Analyst Associate'
-  description: 'Data Analysts помогает компании максимизировать стоимость ее массивов данных с помощью Microsoft Power BI.'
+  description: 'Data Analysts помогают компаниям максимизировать стоимость своих активов данных с помощью Microsoft Power BI.'
 uid: certification.data-analyst-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
   Data Analysts помогают компаниям максимизировать стоимость своих активов данных с помощью Microsoft Power BI. Являясь экспертом в данной области, Data Analyst отвечает за проектирование и построение масштабируемых моделей данных, очистку и преобразование данных, а также за предоставление расширенных аналитических возможностей, которые обеспечивают значимую ценность для бизнеса с помощью простой для понимания визуализации данных.
-  
-  <div style='color&#58; red;'><br/><strong>Примечание&#58; Эта сертификация не будет доступна до 2 апреля 2020 года. Эта информация не является окончательной, и после официального выпуска сертификации возможны незначительные изменения.
 subTitle: Data Analysts помогают компаниям максимизировать стоимость своих активов данных с помощью Microsoft Power BI.
 levels:
 - intermediate
@@ -27,7 +27,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu
 exams:
 - uid: exam.da-100
 resources:
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
@@ -42,3 +42,4 @@ resources:
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

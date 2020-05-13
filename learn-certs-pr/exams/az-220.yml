@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Azure IoT Developer (beta)
+title: Microsoft Azure IoT Developer
 metadata:
-  title: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
-  description: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
+  title: 'Exam AZ-220: Microsoft Azure IoT Developer'
+  description: 'Exam AZ-220: Microsoft Azure IoT Developer'
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
   Azure IoT Developer занимается реализацией и кодированием, необходимыми для создания и поддержки облачной и пограничной части решения IoT. Помимо настройки и обслуживания устройств с помощью облачных служб, IoT Developer также настраивает физические устройства. Разработчик IoT отвечает за обслуживание устройств в течение всего жизненного цикла.
 
   IoT Developer реализует проекты для решений IoT, включая топологию устройств, возможности подключения, отладку и безопасность. IoT Developer развертывает вычисления/контейнеры и настраивает сетевые устройства. IoT Developer реализует проекты для решений по управлению конвейерами данных, включая мониторинг и преобразование данных в части, касающейся IoT. IoT Developer работает с инженерами данных и другими заинтересованными сторонами, чтобы обеспечить успешную интеграцию бизнеса.
 
   IoT Developer должен хорошо понимать, как реализовать службы Azure, которые формируют решение IoT, включая параметры хранения данных, анализ данных, обработку данных и параметры Платформа как услуга. IoT Developer должен уметь распознавать параметры конфигурации службы IoT Azure в части кода решения IoT и выполнять конкретные задачи по кодированию IoT как минимум на одном языке, поддерживаемом Azure, включая C #, Node, C, или Python.
-  
-  <div style='color&#58; red;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</div>
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие задачи: реализация инфраструктуры IoT-решений; обеспечение и управление устройствами; внедрение решений на устройствах Azure IoT Edge; обработка и управление данными; отслеживание, устранение неполадок и оптимизация решений IoT; и обеспечение безопасности.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
@@ -22,9 +22,8 @@ locales:
 levels:
 - intermediate
 skills:
-- 'NOTE: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Внедрение инфраструктуры IoT-решения (15-20%)
-- Обеспечение и управление устройствами (20-25%) 
+- Обеспечение и управление устройствами (20-25%)
 - Внедрение Edge (15-20%)
 - Обработка и управление данными (15-20%)
 - Мониторинг, устранение неполадок и оптимизация решений IoT (15-20%)
@@ -37,11 +36,16 @@ products:
 - azure-iot-hub
 courses:
 - uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
 relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
 resources:
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
@@ -62,3 +66,4 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

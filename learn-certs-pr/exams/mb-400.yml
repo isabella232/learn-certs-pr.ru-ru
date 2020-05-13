@@ -1,41 +1,45 @@
 ### YamlMime:Examination
-title: Microsoft Power Apps + Dynamics 365 Developer (beta)
+title: 'Microsoft Power Apps + Dynamics 365 Developer'
 metadata:
-  title: 'Экзамен MB-400: Microsoft Power Apps + Dynamics 365 Developer (beta)'
-  description: 'Экзамен MB-400: Microsoft Power Apps + Dynamics 365 Developer (beta)'
+  title: 'Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer'
+  description: 'Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer'
 uid: exam.mb-400
 displayName: MB-400
-summary: >-
-  Кандидатами на этот экзамен являются разработчики, которые работают с управляемыми моделями приложениями Microsoft Power Apps в Dynamics 365 для проектирования, разработки, защиты и расширения реализации Dynamics 365. Кандидаты внедряют компоненты решения, которые включают в себя усовершенствования приложений, пользовательский интерфейс, системные интеграции, преобразования данных, пользовательскую автоматизацию процессов и пользовательские визуализации.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Содержание этого экзамена будет обновлено 22 мая 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.<br/><br/></div>
+  </div>
 
+  Кандидатами на этот экзамен являются разработчики, которые работают с управляемыми моделями приложениями Microsoft Power Apps в Dynamics 365 для проектирования, разработки, защиты и расширения реализации Dynamics 365. Кандидаты внедряют компоненты решения, которые включают в себя усовершенствования приложений, пользовательский интерфейс, системные интеграции, преобразования данных, пользовательскую автоматизацию процессов и пользовательские визуализации.
 
   Кандидаты должны обладать глубокими прикладными знаниями о приложениях Power Apps, управляемых моделями в Dynamics 365, включая глубокое понимание настройки, конфигурации, интеграции и расширяемости, а также границ и ограничений. Кандидаты должны иметь общее представление о методах DevOps для приложений на основе моделей Power Apps в Dynamics 365. Кандидаты должны уметь раскрывать, хранить и сообщать о данных.
 
-
-  Кандидаты должны иметь опыт разработки, который включает JavaScript, TypeScript, C #, HTML, .NET, Microsoft Azure, Office 365, веб-службы RESTful, ASP.NET и PowerBI.
+  Кандидаты должны иметь опыт разработки, который включает JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, веб-службы RESTful, ASP.NET и Power BI.
 subTitle: 'Этот позволяет оценить вашу способность выполнять следующие технические задачи: создание технических проектов; настройка общих служб данных (CDS); создание и настройка Power Apps; настройка автоматизации бизнес-процессов; улучшение опыта работы пользователей; расширение платформы; и развитие интеграций.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-400&examname=Экзамен%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 levels:
 - intermediate
 skills:
-- Создание технических проектов (10-15 %)
-- Настройка общих служб данных (CDS) (15-20 %)
-- Создание и настройка Power Apps (10-15 %)
-- Настройка автоматизации бизнес-процессов (10-15 %)
-- Улучшение опыта работы пользователей (15-20 %)
-- Расширение платформы (15-20 %)
-- Развитие интеграций (10-15 %)
+- Содержание этого экзамена будет обновлено 22 мая 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.
+- Создание технического дизайна (10-15%)
+- Настройка общих служб данных (CDS) (15-20%)
+- Создание и настройка приложений Power (10-15%)
+- Настройка автоматизации бизнес-процессов (10-15%)
+- Улучшение опыта работы пользователей (15-20%)
+- Расширение платформы (15-20%)
+- Разработка интеграций (10-15%)
 roles:
 - developer
-exams:
-- uid: exam.mb-200
 products:
 - dynamics
 - dynamics-customer-engagement
+exams:
+- uid: exam.mb-200
 courses:
 - uid: course.mb-400t00
 paths:
@@ -47,21 +51,28 @@ relatedCertifications:
 - related:
     uid: certification.power-apps-and-d365-developer-associate
 resources:
-- title: Руководство по обучению и сертификации
-  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+- title: Обучение для получения сертификата
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Power Apps + Dynamics 365 Developer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Запрос специальных условий
   description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

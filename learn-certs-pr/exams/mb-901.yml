@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Microsoft Dynamics 365 Fundamentals
 metadata:
   title: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
@@ -6,31 +6,37 @@ metadata:
 uid: exam.mb-901
 displayName: MB-901
 summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Содержание этого экзамена было обновлено 17 апреля. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.<br/><br/></div>
+  </div>
+
   Данный экзамен охватывает позиционирование и преимущества применения Dynamics 365.
-  
+
   Кандидаты должны понимать функциональные возможности Dynamics 365 и облачных вычислений Microsoft.
 
   Кандидаты на сдачу этого экзамена должны иметь общие знания или соответствующий опыт работы в среде информационных технологий (IT). Кандидаты также должны иметь базовые знания бизнес-сценариев и опыт работы с бизнес-требованиями, законодательными требованиями и требованиями к безопасности для IT-проектов.
-subTitle: Данный экзамен оценивает ваше понимание Microsoft Dynamics 365; искусственного интеллекта (ИИ); смешанной реальности (СР); Платформы Power; концепции облачных вычислений; безопасности облачных решений; ролевой системы безопасности в Dynamics 365; Common Data Service; платформы управления данными; отчетности Dynamics 365; интеграций Dynamics 365 и развертывания облачных решений.
+subTitle: Данный экзамен оценивает ваше понимание Microsoft Dynamics 365; искусственного интеллекта; смешанной реальности; Платформы Power; концепции облачных вычислений; безопасности облачных решений; ролевой системы безопасности в Dynamics 365; Common Data Service; платформы управления данными; отчетности Dynamics 365; интеграций Dynamics 365 и развертывания облачных решений.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
 locales:
 - en
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
+- Содержание этого экзамена было обновлено 17 апреля.  Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.
 - Определение компонентов платформы Microsoft для Dynamics 365 (30-35%)
-- Понимание AI и смешанной реальности для Dynamics 365 (10-15%)
-- Понимание приложений на основе модели (25-30%)
-- Понимание приложений Dynamics 365 Finance and Operations (25-30%)
+- Описание искусственного интеллекта и смешанной реальности в Dynamics 365 (10-15%)
+- Описание управляемых моделями приложений (25-30%)
+- Описание приложений для финансов и операций (25-30%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-901t00
@@ -61,3 +67,4 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

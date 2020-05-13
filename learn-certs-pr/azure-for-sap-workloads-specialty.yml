@@ -1,20 +1,22 @@
-﻿### YamlMime:Certification
+### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
   description: Архитекторы Azure для SAP Workloads обладают обширным опытом и знаниями в области процесса сертификации SAP Landscape и отраслевых стандартов, необходимых для долгосрочной работы решения SAP.
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
   Архитекторы Azure для SAP Workloads обладают обширным опытом и знаниями в области процесса сертификации SAP Landscape и отраслевых стандартов, необходимых для долгосрочной работы решения SAP.
 subTitle: Архитекторы Azure для SAP Workloads обладают обширным опытом и знаниями в области процесса сертификации SAP Landscape и отраслевых стандартов, необходимых для долгосрочной работы решения SAP.
 levels:
 - advanced
 skills:
-- 'NOTE: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
+- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Перенос SAP Workloads в Azure
 - Разработка решения Azure для поддержки SAP Workloads
-- Построение и развертывание Azure SAP Workloads
+- Построение и развертывание для Azure SAP Workloads
 - Проверка инфраструктуры Azure для SAP Workloads
 - Ввод в эксплуатацию архитектуры Azure SAP
 roles:
@@ -23,6 +25,7 @@ roles:
 type: specialty
 products:
 - azure
+- azure-sap
 courses:
 - uid: course.az-120t00
 paths:
@@ -48,3 +51,4 @@ resources:
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

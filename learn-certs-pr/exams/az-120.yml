@@ -1,11 +1,13 @@
-﻿### YamlMime:Examination
-title: Planning and Administering Microsoft Azure for SAP Workloads
+### YamlMime:Examination
+title: 'Planning and Administering Microsoft Azure for SAP Workloads'
 metadata:
   title: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
   description: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
   Кандидатами на этот экзамен являются архитекторы и инженеры, хорошо знакомые с процессом сертификации SAP ландшафтов и отраслевыми стандартами, которые характерны для долгосрочной работы с решениями SAP. Кандидаты дают рекомендации по службам и корректируют ресурсы соответствующим образом для обеспечения оптимальной отказоустойчивости, производительности, масштаба, предоставления, размера и мониторинга.
 
   Архитекторы Azure для рабочих нагрузок SAP должны обладать обширным опытом и знаниями в области приложений SAP, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, серверов OS для приложений и баз данных SAP, портала Azure, шаблонов ARM, операционных систем, виртуализации, облачной инфраструктуры, структуры хранения данных, проектировании высокой доступности, проектировании восстановления в аварийных ситуациях, концепций защиты данных и организации сети.
@@ -14,16 +16,19 @@ summary: |-
 subTitle: 'Этот экзамен помогает оценить вашу способность выполнять следующие технические задачи: Перенос SAP Workloads в Azure; разработка решения Azure для поддержки SAP Workloads; построение и развертывание Azure SAP Workloads; проверка инфраструктуры Azure для SAP Workloads; и ввод в эксплуатацию архитектуры Azure SAP.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - advanced
 skills:
-- 'NOTE: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
+- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Перенос SAP Workloads в Azure (10-15%)
 - Разработка решения Azure для поддержки SAP Workloads (20-25%)
-- Построение и развертывание для SAP Workloads (35-40%)
+- Построение и развертывание для Azure SAP Workloads (35-40%)
 - Проверка инфраструктуры Azure для SAP Workloads (10-15%)
 - Ввод в эксплуатацию архитектуры Azure SAP (10-15%)
 roles:
@@ -31,6 +36,7 @@ roles:
 - devops-engineer
 products:
 - azure
+- azure-sap
 courses:
 - uid: course.az-120t00
 paths:
@@ -62,3 +68,4 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+
