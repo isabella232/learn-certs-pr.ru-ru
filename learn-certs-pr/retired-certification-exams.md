@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Найдите экзамены, которые будут отменены в течение следующих 12 месяцев, перечисленные по технологиям. (Следующая информация может измениться.)
 
-| Будут отменены 30 июня 2020 года | |
+| Будут отменены 31 января 2021 года | |
 | --- | --- |
 | [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 |  |
 | [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 |  |
@@ -37,7 +37,7 @@ ms.author: micsullivan
 | [70-483](https://www.microsoft.com/learning/exam-70-483.aspx): Programming in C# |  |
 | [70-486](https://www.microsoft.com/learning/exam-70-486.aspx): Developing ASP.NET MVC Web Applications |  |
 | [70-487](https://www.microsoft.com/learning/exam-70-487.aspx): Developing Microsoft Azure and Web Services |  |
-| [70-537](https://www.microsoft.com/learning/exam-70-537.aspx): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack |  |
+| [70-537](https://www.microsoft.com/learning/exam-70-537.aspx): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub |  |
 | [70-705](https://www.microsoft.com/learning/exam-70-705.aspx): Designing and Providing Microsoft Licensing Solutions to Large Organizations |  |
 | [70-740](https://www.microsoft.com/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016 |  |
 | [70-741](https://www.microsoft.com/learning/exam-70-741.aspx): Networking with Windows Server 2016 |  |
@@ -58,11 +58,20 @@ ms.author: micsullivan
 | [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |  |
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
 
-| Будут отменены 31 май 2020 года | |
+| Будут отменены 30 сентября 2020 года | |
 | --- | --- |
+| [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
+| [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
+
+| Будут отменены 31 августа 2020 года | |
+| --- | --- |
+| [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
+
+| Будут отменены 30 июня 2020 года | |
+| --- | --- |
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
 
 ## Экзамены, которые были отменены недавно
 
@@ -298,7 +307,7 @@ ms.author: micsullivan
 | 70-557 | TS: Microsoft Forefront Client and Server, Configuring | 30 июня 2011 года
 | 70-558 | UPGRADE: MCAD Skills to MCTS Windows Applications by Using the Microsoft .NET Framework | 30 июня 2011 года
 | 70-559 | UPGRADE: MCAD Skills to MCTS Web Applications by Using the Microsoft .NET Framework | 30 июня 2011 года
-| 70-561 | TS: Microsoft .NET Framework 3.5, ADO.NET Application DevelopmentT | 31 июля 2013 года
+| 70-561 | TS: Microsoft .NET Framework 3.5, ADO.NET Application Development | 31 июля 2013 года
 | 70-562 | TS: Microsoft .NET Framework 3.5, ASP.NET Application Development | 31 июля 2013 года
 | 70-563 | Pro: Designing and Developing Windows Applications Using the Microsoft .NET Framework 3.5 | 31 июля 2013 года
 | 70-564 | PRO: Designing and Developing ASP.NET Applications Using the Microsoft .NET Framework 3.5 | 31 июля 2013 года

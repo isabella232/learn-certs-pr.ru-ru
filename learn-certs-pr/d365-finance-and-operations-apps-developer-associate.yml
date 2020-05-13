@@ -2,25 +2,28 @@
 title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
-  description: Developers who work with Finance and Operations apps in Microsoft Dynamics 365 implement and extend applications to meet the requirements of the business. Candidates provide fully realized solutions by using standardized application coding patterns, extensible features, and external integrations.
+  description: Разработчики, которые работают с приложениями для финансов и операций в Microsoft Dynamics 365, внедряют и расширяют приложения в соответствии с требованиями бизнеса. Кандидаты предоставляют полностью реализованные решения, используя стандартизированные шаблоны кодирования приложений, расширяемые функции и внешние интеграции.
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Developers who work with Finance and Operations apps in Microsoft Dynamics 365 implement and extend applications to meet the requirements of the business. Candidates provide fully realized solutions by using standardized application coding patterns, extensible features, and external integrations.
-subTitle: Developers who work with Finance and Operations apps in Microsoft Dynamics 365 implement and extend applications to meet the requirements of the business.
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Разработчики, которые работают с приложениями для финансов и операций в Microsoft Dynamics 365, внедряют и расширяют приложения в соответствии с требованиями бизнеса. Кандидаты предоставляют полностью реализованные решения, используя стандартизированные шаблоны кодирования приложений, расширяемые функции и внешние интеграции.
+subTitle: Разработчики, которые работают с приложениями для финансов и операций в Microsoft Dynamics 365, внедряют и расширяют приложения в соответствии с требованиями бизнеса.
 levels:
 - intermediate
 skills:
-- Use common functionality and implementation tools
-- Configure security, processes, and options
-- Perform data migration
-- Validate and support the solution
-- Plan Architecture and Solution Design
-- Apply Developer Tools
-- Design and Develop AOT Elements
-- Develop and Test Code
-- Implement Reporting
-- Integrate and Manage Data Solutions
-- Implement Security and Optimize Performance
+- Использование общих инструментов функциональности и внедрения
+- Настройка безопасности, процессов и параметров
+- Выполнение миграции данных
+- Валидация и поддержка решений
+- Планирование архитектуры и проектирование решения
+- Применение инструментов разработчика
+- Проектирование и разработка элементов АОТ
+- Разработка и тестирование кода
+- Внедрение отчетности
+- Интеграция и управление данными
+- Внедрение безопасности и оптимизация производительности
 roles:
 - developer
 type: role-based
@@ -46,18 +49,22 @@ exams:
 - uid: exam.mb-300
 - uid: exam.mb-500
 resources:
-- title: Руководство по обучению и сертификации
-  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+- title: Обучение для получения сертификата
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j5
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: deals.md
-- title: Поддержка сертификационных
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+- title: Поддержка по вопросам сертификации
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+
