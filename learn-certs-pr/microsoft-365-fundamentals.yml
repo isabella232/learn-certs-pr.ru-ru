@@ -1,19 +1,22 @@
 ### YamlMime:Certification
-title: Microsoft 365 Certified Fundamentals
+title: 'Microsoft 365 Certified: Fundamentals'
 metadata:
-  title: Microsoft 365 Certified Fundamentals
-  description: Докажите, что вы понимаете опции, доступные в Microsoft 365, и преимущества использования облачных сервисов, облачной модели «Программное обеспечение как услуга» (SaaS) и реализации облачной службы Microsoft 365.
+  title: 'Microsoft 365 Certified: Fundamentals'
+  description: 'Докажите, что вы понимаете опции, доступные в Microsoft 365, и преимущества использования облачных сервисов, облачной модели Программное обеспечение как услуга (SaaS) и реализации облачной службы Microsoft 365.'
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Докажите, что вы понимаете опции, доступные в Microsoft 365, и преимущества использования облачных сервисов, облачной модели «Программное обеспечение как услуга» (SaaS) и реализации облачной службы Microsoft 365.
-subTitle: Докажите, что вы понимаете опции, доступные в Microsoft 365, и преимущества использования облачных сервисов, облачной модели «Программное обеспечение как услуга» (SaaS) и реализации облачной службы Microsoft 365.
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Докажите, что вы понимаете опции, доступные в Microsoft 365, и преимущества использования облачных сервисов, облачной модели Программное обеспечение как услуга (SaaS) и реализации облачной службы Microsoft 365.
+subTitle: Докажите, что вы понимаете опции, доступные в Microsoft 365, и преимущества использования облачных сервисов, облачной модели Программное обеспечение как услуга (SaaS) и реализации облачной службы Microsoft 365.
 levels:
 - beginner
 skills:
-- Понимание облачных концептов
-- Понимание основных сервисов и концептов Microsoft 365
-- Понимание безопасности, соответствия требованиям, конфиденциальности и доверия в Microsoft 365
-- Понимание ценообразования и поддержки Microsoft 365
+- Описание облачных концепций
+- Описание основных служб и концепций Microsoft 365
+- Описание параметров безопасности, соответствия, конфиденциальности и доверия в Microsoft 365
+- Описание опций ценообразования и поддержки Microsoft 365
 roles:
 - business-user
 - administrator
@@ -31,7 +34,7 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: Обучение для получения сертификата
-  description: Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft 365 Certified Fundamentals.
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
@@ -39,12 +42,13 @@ resources:
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Повтор экзамена
+- title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

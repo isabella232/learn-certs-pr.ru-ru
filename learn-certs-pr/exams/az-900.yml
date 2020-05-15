@@ -6,8 +6,11 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Содержание этого экзамена будет обновлено 28 мая 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.</div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Содержание этого экзамена будет обновлено 28 мая 2020 года. ПРИМЕЧАНИЕ&#58; Все обновления, объявленные до 15 апреля 2020 года, будут введены 15 сентября 2020 года. Обновления, запланированные на 28 мая, являются незначительными обновлениями формулировок; Пожалуйста, загрузите документ, содержащий список оцениваемых навыков ниже, чтобы увидеть, что изменится 28 мая.</div>
+  </div>
+
   Этот экзамен предназначен для кандидатов, желающих продемонстрировать базовые знания облачных сервисов, а также того, как сервисы представлены в Microsoft Azure. Экзамен предназначен для кандидатов, не имеющих технического опыта, например, тех кто занимается продажей или покупкой облачных решений и услуг, или тех, кто имеет хоть какое-то отношение к облачным решениям и службам, а также тех, кто имеет технический опыт и хочет подтвердить свой базовый уровень знаний облачных сервисов. Технический опыт в области IT не требуется, однако некоторые общие знания или опыт в области IT могли бы быть полезны.
 
   Этот экзамен можно использовать в качестве первого шага в изучении облачных сервисов и того, как эти концепции воплощены в Microsoft Azure. Его можно использовать в качестве предварительного экзамена по облачным сервисам Microsoft Azure или Microsoft. В то же время он может стать полезным первым шагом, подтверждающим знания базового уровня. Сдача этого экзамена не является обязательным условием перед получением каких-либо других сертификатов Azure.
@@ -16,10 +19,10 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -28,7 +31,7 @@ locales:
 levels:
 - beginner
 skills:
-- Содержание этого экзамена будет обновлено 28 мая 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.
+- 'Содержание этого экзамена будет обновлено 28 мая 2020 года. ПРИМЕЧАНИЕ: Все обновления, объявленные до 15 апреля 2020 года, будут введены 15 сентября 2020 года. Обновления, запланированные на 28 мая, являются незначительными обновлениями формулировок; Пожалуйста, загрузите документ, содержащий список оцениваемых навыков ниже, чтобы увидеть, что изменится 28 мая.'
 - Понимание концепции облачных вычислений (15-20%)
 - Понимание основных служб Azure (30-35%)
 - Понимание концепции облачной безопасности, конфиденциальности, соответствия требованиям и доверия (25-30%)
@@ -46,9 +49,9 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить сертификат Microsoft: Azure Fundamentals.'
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Azure Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
@@ -66,3 +69,4 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

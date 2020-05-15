@@ -1,34 +1,31 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Microsoft Azure Administrator (beta)
 metadata:
   title: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
   description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
 uid: exam.az-104
 displayName: AZ-104
-summary: |-
-  Azure Administrator внедряет, управляет и следит за удостоверениями, управлением, хранением, вычислениями и виртуальными сетями в облачной среде. Администратор Azure обеспечивает, измеряет, отслеживает и корректирует ресурсы в зависимости от ситуации.
-  
-  Кандидаты должны иметь минимум шесть месяцев практического опыта администриования Azure. Кандидаты должны хорошо понимать основные службы Azure, рабочие нагрузки Azure, безопасность и управление. Кандидаты на этот экзамен должны иметь опыт использования PowerShell, интерфейса командной строки, портала Azure и шаблонов ARM.
-  
-  <div style='color&#58; red; font-weight&#58; bold;'><br/>ПРИМЕЧАНИЕ&#58; Этот экзамен станет доступен ориентировочно 31 марта 2020 года.</div>
+summary: "<div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>\r\n  \r\nAzure Administrator внедряет, управляет и следит за удостоверениями, управлением, хранением, вычислениями и виртуальными сетями в облачной среде. Администратор Azure обеспечивает, измеряет, отслеживает и корректирует ресурсы в зависимости от ситуации.\r\n\r\nКандидаты должны иметь минимум шесть месяцев практического опыта администриования Azure. Кандидаты должны хорошо понимать основные службы Azure, рабочие нагрузки Azure, безопасность и управление. Кандидаты на этот экзамен должны иметь опыт использования PowerShell, интерфейса командной строки, портала Azure и шаблонов ARM.\r\n\r\n<div style='font-weight&#58; bold;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">ценности и важности бета-версий экзаменов</a>.</div>"
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: управление удостоверениями  Azure; реализвация и управление хранилищем; развертывание вычислительных ресурсов Azure и управляение ими; настройка и управление виртуальными сетями; отслеживание и резервное сохранение ресурсов Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Управление безопасностью и управления Azure (15-20%) 
+- Управление безопасностью и управления Azure (15-20%)
 - Внедрение и управление хранилищем (10-15%)
-- Развертывание и управление вычислительными ресурсами Azure (25-30%) 
-- Настройка и управление виртуальными сетями (30-35%) 
+- Развертывание и управление вычислительными ресурсами Azure (25-30%)
+- Настройка и управление виртуальными сетями (30-35%)
 - Мониторинг и резервное копирование ресурсов Azure (10-15%)
 roles:
 - administrator
 products:
 - azure
+courses:
+- uid: course.az-104t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -43,7 +40,7 @@ paths:
 - uid: learn.administer-containers-in-azure
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.azure-administrator
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
@@ -66,3 +63,4 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
+

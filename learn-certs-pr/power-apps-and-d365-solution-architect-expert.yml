@@ -5,11 +5,12 @@ metadata:
   description: Архитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "Архитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.  \n\n<div style=\"color:red\"><br/><strong>NOTE&#58; Эта сертификация будет недоступна до 27 января 2020 года</strong></div>"
+summary: "<div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>\r\n\r\nАрхитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.  "
 subTitle: Архитекторы решений для приложений, основанных на моделях Microsoft Power Apps в Dynamics 365, ведут успешные реализации и фокусируются на том, чтобы решения удовлетворяли более широкие деловые и технические потребности организаций.
 levels:
 - advanced
 skills:
+- 'Примечание: Тезисы, отображаемые под каждым из навыков в приведенном ниже документе с оцениваемыми навыками, предназначены для иллюстрации того, как мы оцениваем эти навыки. Этот список не является окончательным или исчерпывающим.'
 - Выполнение анализа решений и анализа требований
 - Разработка решения
 - Внедрение решения
@@ -19,6 +20,13 @@ type: role-based
 products:
 - dynamics
 - power-apps
+courses:
+- uid: course.mb-600t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
 prerequisites:
 - uid: certification.power-apps-and-d365-developer-associate
   isOptional: false
@@ -30,22 +38,23 @@ prerequisites:
   isOptional: false
 - uid: certification.d365-functional-consultant-field-service
   isOptional: false
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
-exams:
-- uid: exam.mb-600
 resources:
-- title: Руководство по обучению и сертификации
-  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+- title: Обучение для получения сертификата
+  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Повтор экзамена
-  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: deals.md
-- title: Поддержка сертификационных
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+- title: Поддержка по вопросам сертификации
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

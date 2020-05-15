@@ -1,4 +1,4 @@
-﻿### YamlMime:Certification
+### YamlMime:Certification
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
@@ -6,16 +6,18 @@ metadata:
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
   Azure Administrators [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
 subTitle: Azure Administrators [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft Azure, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
 levels:
 - intermediate
 skills:
-- Управлять подписками и ресурсами Azure
-- Внедрять и управлять хранилищем
-- Развертывание виртуальных машин (VM)
-- Настраивать и управлять виртуальными сетями
-- Управление удостоверениями
+- Управление безопасностью и управления Azure
+- Внедрение и управление хранилищем
+- Развертывание и управление вычислительными ресурсами Azure
+- Настройка и управление виртуальными сетями
+- Мониторинг и резервное копирование ресурсов Azure
 roles:
 - administrator
 type: role-based
@@ -27,7 +29,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
-- uid: course.az-103t00
+- uid: course.az-104t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -42,16 +44,16 @@ paths:
 - uid: learn.administer-containers-in-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
-- uid: exam.az-103
+- uid: exam.az-104
 resources:
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [Повтор экзамена]
-  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
   description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
@@ -59,3 +61,4 @@ resources:
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

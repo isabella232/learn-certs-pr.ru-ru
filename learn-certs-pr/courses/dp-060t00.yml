@@ -1,4 +1,4 @@
-﻿### YamlMime:Course
+### YamlMime:Course
 title: Migrate NoSQL workloads to Azure Cosmos DB
 metadata:
   title: 'Course DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
@@ -42,6 +42,7 @@ outlineSection: |-
   - Cosmos DB APIs
   - Обеспечение пропускной способности
   - Лучшие методы разбиения/разделения
+
 
   ### Модуль 2&#58; Перенос рабочих нагрузок MongoDB в Cosmos DB
   Перенос рабочих нагрузок MongoDB в базу данных Cosmos
@@ -92,3 +93,4 @@ outlineSection: |-
 
   #### Дополнительные сведения
   Для прохождения этого курса не требуется какого-либо дополнительного чтения.
+

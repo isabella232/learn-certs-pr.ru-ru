@@ -6,34 +6,37 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  'Azure Database Administrator внедряет и управляет функциональными аспектами облачных и гибридных решений на платформе данных, созданными на основе служб данных Microsoft Azure и Microsoft SQL Server.' Azure Database Administrator должен уметь использовать различные методы и инструменты для выполнения повседневных операций, включая применение знаний об использовании T-SQL для административного управления.
-  
-  <div style='color&#58; red;'><br/><strong>Примечание&#58; Эта сертификация не будет доступна до 2 апреля 2020 года. Эта информация не является окончательной, и после официального выпуска сертификации возможны незначительные изменения.
-subTitle: 'Azure Database Administrator внедряет и управляет функциональными аспектами облачных и гибридных решений на платформе данных, созданными на основе служб данных Microsoft Azure и Microsoft SQL Server.'
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Azure Database Administrator внедряет и управляет функциональными аспектами облачных и гибридных решений на платформе данных, созданными на основе служб данных Microsoft Azure и Microsoft SQL Server. Azure Database Administrator должен уметь использовать различные методы и инструменты для выполнения повседневных операций, включая применение знаний об использовании T-SQL для административного управления.
+subTitle: Azure Database Administrator внедряет и управляет функциональными аспектами облачных и гибридных решений на платформе данных, созданными на основе служб данных Microsoft Azure и Microsoft SQL Server.
 levels:
 - intermediate
 skills:
-- Планирование и реализация ресурсов платформы данных 
-- Внедрение безопасной среды 
-- Отслеживание и оптимизация операционных ресурсов 
-- Оптимизация производительности запросов 
+- Планирование и реализация ресурсов платформы данных
+- Внедрение безопасной среды
+- Контроль и оптимизация операционных ресурсов
+- Оптимизация производительности запросов
 - Осуществление автоматизации задач
-- Планирование и внедрение среды высокой доступности и аварийного восстановления (HADR) 
+- Планирование и внедрение среды высокой доступности и аварийного восстановления (HADR)
 - Осуществление администрирования с помощью T-SQL
 roles:
-- administrator
+- database-administrator
 type: role-based
 products:
 - azure
 - azure-automation
+- azure-database-mysql
+- azure-database-postgresql
 - azure-sql-database
 - azure-storage
 - azure-virtual-machines
+- sql-server
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
 exams:
 - uid: exam.dp-300
 resources:
-- title: Руководство по обучению и сертификации
+- title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
@@ -48,3 +51,4 @@ resources:
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+
