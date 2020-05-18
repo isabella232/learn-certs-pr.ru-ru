@@ -377,8 +377,8 @@ outlineSection: |-
   ### Модуль 16&#58; Модели и службы развертывания Azure
   #### Уроки
   - Модели и опции развертывания
-  - Службы Azure \"Инфраструктура как услуга\" (Infrastructure-as-a-Service, IaaS)
-  - Службы Azure \"Платформа как услуга\" (Platform-as-a-Service, PaaS);
+  - Службы Azure "Инфраструктура как услуга" (Infrastructure-as-a-Service, IaaS)
+  - Службы Azure "Платформа как услуга" (Platform-as-a-Service, PaaS);
   - Бессерверные службы и службы HPC Computer
   - Azure Service Fabric 
 
