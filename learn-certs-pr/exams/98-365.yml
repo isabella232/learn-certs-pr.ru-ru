@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Windows Server Administration Fundamentals
+metadata:
+  title: 'Exam 98-365: Windows Server Administration Fundamentals'
+  description: 'Exam 98-365: Windows Server Administration Fundamentals'
+uid: exam.98-365
+displayName: 98-365
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидаты на прохождение этого экзамена знакомы с понятиями и технологиями администрирования Windows Server. Экзамен рассчитан на кандидатов, имеющих опыт практической работы с Windows Server, сетями на платформе Windows, Active Directory, средствами управления учетными записями и средствами восстановления системы.
+
+  <div style='font-weight&#58; bold;'><br/>Начиная с 31 январь 2018 года, экзамены обновляются. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене 98-365.</div>
+subTitle: Кандидаты на прохождение этого экзамена знакомы с понятиями и технологиями администрирования Windows Server. Экзамен рассчитан на кандидатов, имеющих опыт практической работы с Windows Server, сетями на платформе Windows, Active Directory, средствами управления учетными записями и средствами восстановления системы.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjL
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Сведения об установке сервера (10-15%)
+- Сведения о ролях сервера (25-30%)
+- Сведения об Active Directory (20-25%)
+- Сведения о хранении данных (10-15%)
+- Сведения об управлении производительностью сервера (10-15%)
+- Сведения об обслуживании сервера (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+relatedCertifications:
+- related:
+    uid: certification.mta-windows-server-administration-fundamentals
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

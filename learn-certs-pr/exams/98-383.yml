@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using HTML and CSS
+metadata:
+  title: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+  description: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+uid: exam.98-383
+displayName: 98-383
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидаты на прохождение этого экзамена должны уметь распознавать и писать синтаксический правильный код HTML и CSS, структурировать данные с помощью элементов HTML, а также создавать и применять стили с помощью CSS.
+
+  Экзамен рассчитан на кандидатов, имеющих не менее 100 часов образовательного или практического опыта работы с HTML и CSS, знающих их функции и возможности, а также понимающих, как писать, отлаживать и надлежащим образом форматировать код HTML и CSS.
+subTitle: Кандидаты на прохождение этого экзамена должны уметь распознавать и писать синтаксический правильный код HTML и CSS, структурировать данные с помощью элементов HTML, а также создавать и применять стили с помощью CSS.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyQ
+practiceTestUrl: https://www.mindhub.com/mta-98-383-introduction-to-programming-using-html-and-css-microsoft-official-practice-test/p/MU-98-383?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- Базовые принципы работы с HTML (10-15%)
+- Базовые принципы работы с CSS (15-20%)
+- Структурирование документов с помощью HTML (30-35%)
+- Воспроизведение мультимедийных ресурсов с помощью HTML (10-15%)
+- Применение стилей для веб-страниц с помощью CSS (20-25%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-html-and-css
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

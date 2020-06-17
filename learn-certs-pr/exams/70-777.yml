@@ -1,0 +1,51 @@
+### YamlMime:Examination
+title: Implementing Microsoft Azure Cosmos DB Solutions
+metadata:
+  title: 'Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions'
+  description: 'Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions'
+uid: exam.70-777
+displayName: 70-777
+summary: |-
+  <div><div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
+  </div>
+
+  Кандидатами на этот экзамен являются разработчики и архитекторы, которые используют Azure Cosmos DB. Кандидаты должны понимать основные принципы секционирования, репликации и управления ресурсами для создания и настройки масштабируемых приложений, которые являются агностиками API-интерфейса Cosmos DB. Кандидаты также должны иметь базовые знания SQL API Cosmos DB.
+
+  Кандидаты на этот экзамен проектируют, строят и устраняют проблемы с решениями Cosmos DB, которые отвечают бизнес-требованиям и техническим требованиям.
+subTitle: Кандидатами на этот экзамен являются разработчики и архитекторы, которые используют Azure Cosmos DB. Кандидаты должны понимать основные принципы секционирования, репликации и управления ресурсами для создания и настройки масштабируемых приложений, которые являются агностиками API-интерфейса Cosmos DB. Кандидаты также должны иметь базовые знания SQL API Cosmos DB.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Данные разделов и моделей
+- Репликация данных по всему миру
+- Настройка и отладка решений Azure Cosmos DB
+- Осуществление интеграции и разработка решений
+roles:
+- data-analyst
+products:
+- sql-server
+courses:
+- uid: course.20777
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

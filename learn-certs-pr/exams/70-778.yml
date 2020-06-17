@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: Analyzing and Visualizing Data with Microsoft Power BI
+metadata:
+  title: 'Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI'
+  description: 'Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI'
+uid: exam.70-778
+displayName: 70-778
+summary: |-
+  <div><div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
+  </div>
+
+  Кандидаты на прохождение этого экзамены должны понимать, как использовать Power BI для анализа данных. Кандидаты должны быть специалистами в соединении источников данных и выполнении преобразования данных, моделировании и визуализации данных с помощью Microsoft Power BI Desktop, а также настройке информационных панелей с помощью службы Power BI. Кандидаты также должны быть специалистами по внедрению прямого подключения к Microsoft SQL Azure и SQL Server Analysis Services (SSAS), и реализации анализа данных в Microsoft Excel. Кандидатами также могут быть специалисты по бизнес-аналитике, анализу данных или иметь другие роли, которые несут ответственность за создание отчетов с помощью Power BI.
+subTitle: Кандидаты на прохождение этого экзамены должны понимать, как использовать Power BI для анализа данных. Кандидаты должны быть специалистами в соединении источников данных и выполнении преобразования данных, моделировании и визуализации данных с помощью Microsoft Power BI Desktop, а также настройке информационных панелей с помощью службы Power BI. Кандидаты также должны быть специалистами по внедрению прямого подключения к Microsoft SQL Azure и SQL Server Analysis Services (SSAS), и реализации анализа данных в Microsoft Excel. Кандидатами также могут быть специалисты по бизнес-аналитике, анализу данных или иметь другие роли, которые несут ответственность за создание отчетов с помощью Power BI.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJB
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Использование и преобразование данных с помощью Power BI Desktop (20-25%)
+- Моделирование и визуализация данных (45-50%)
+- Настройка информационных панелей, отчетов и приложений в службе Power BI (25-35%)
+roles:
+- data-analyst
+products:
+- sql-server
+courses:
+- uid: course.20778
+relatedCertifications:
+- related:
+    uid: certification.mcsa-bi-reporting
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

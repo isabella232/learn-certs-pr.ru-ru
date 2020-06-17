@@ -1,0 +1,70 @@
+### YamlMime:Examination
+title: Programming in C#
+metadata:
+  title: 'Exam 70-483: Programming in C#'
+  description: 'Exam 70-483: Programming in C#'
+uid: exam.70-483
+displayName: 70-483
+summary: |+
+  <div><div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
+  </div>
+
+  Кандидатами на прохождение этого экзамена являются разработчики с опытом программирования необходимой бизнес-логики для различных типов приложений, оборудования и программных платформ с помощью C# не менее одного года.
+
+  Кандидаты также должны иметь глубокое понимание следующих тем&#58;
+  - Управление потоком и событиями программы
+  - Асинхронное программирование и потоки
+  - Проверка данных и работа с коллекциями данных, включая LINQ
+  - Обработка ошибок и исключений
+  - Работа с массивами и коллекциями
+  - Работа с переменными, операторами и выражениями
+  - Работа с классами и методами
+  - Операторы принятия решения и итеративные операторы
+
+  <div style='font-weight&#58; bold;'><br/>Обратите внимание&#58; Некоторые обновления экзамена вступят в силу с 14 декабрь 2017 г. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене 483.</div>
+subTitle: Кандидатами на прохождение этого экзамена являются разработчики с опытом программирования необходимой бизнес-логики для различных типов приложений, оборудования и программных платформ с помощью C# не менее одного года.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMh
+practiceTestUrl: https://www.mindhub.com/70-483-Programming-in-C-p/mu-70-483_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-483&examname=Programming%20in%20C#&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-483
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Управление программным потоком (25-30%)
+- Создание и использование типов (25-30%)
+- Отладка приложений и реализация функций безопасности (25-30%)
+- Реализация доступа к данным (25-30%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.20483
+relatedCertifications:
+- related:
+    uid: certification.mcsa-universal-windows-platform
+- related:
+    uid: certification.mcsa-web-applications-certification
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

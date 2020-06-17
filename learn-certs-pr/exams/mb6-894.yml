@@ -1,0 +1,54 @@
+### YamlMime:Examination
+title: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance
+metadata:
+  title: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+  description: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+uid: exam.mb-6-894
+displayName: MB6-894
+summary: |-
+  <div><div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
+  </div>
+
+  Кандидатами на прохождение этого экзамена являются технические консультанты, программисты и IT-специалисты, которые выполняют базовые технические задачи и задачи разработки, необходимые для настройки Microsoft Dynamics 365 Finance и Microsoft Dynamics 365 Commerce.
+
+  Кандидаты должны обладать базовыми знаниями в отношении Microsoft Dynamics 365 Finance и Microsoft Dynamics 365 Commerce. Кроме того, требуется опыт работы с Visual Studio и знание объектно-ориентированного программирования.
+
+  У кандидатов на прохождение этого экзамена по разработке должно быть общее понимание понятий и процессов программирования, а также понимание изменений, улучшений и новых проектов разработки для решений Finance и Commerce, которые применимы к различным сценариям бизнес-процессов.
+
+  <div style='font-weight&#58; bold;'><br/>4 февраля 2020 года этот экзамен был обновлен. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене MB6-894.</div>
+subTitle: Кандидатами на прохождение этого экзамена являются технические консультанты, программисты и IT-специалисты, которые выполняют базовые технические задачи и задачи разработки, необходимые для настройки Microsoft Dynamics 365 Finance и Microsoft Dynamics 365 Commerce.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=MB6-894&examname=Development,%20Extensions,%20and%20Deployment%20for%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-894
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Понимание архитектуры и среды разработки (20-25%)
+- Разработка новых элементов с помощью Application Explorer (20-25%)
+- Основы чтения и записи в X++ (20-25%)
+- Управление пользовательским интерфейсом и безопасностью для разработчиков (20-25%)
+- Разработка и расширение компонентов розничной торговли (15-20%)
+roles:
+- business-analyst
+products:
+- dynamics-finance
+relatedCertifications:
+- related:
+    uid: certification.mcsa-microsoft-dynamics-365-for-operations
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+
