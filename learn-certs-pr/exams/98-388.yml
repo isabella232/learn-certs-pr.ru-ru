@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Java
+metadata:
+  title: 'Exam 98-388: Introduction to Programming Using Java'
+  description: 'Exam 98-388: Introduction to Programming Using Java'
+uid: exam.98-388
+displayName: 98-388
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидатами на прохождение этого экзамена являются разработчики приложений, которые работают с Java 6 SE или более поздней версии, студенты вузов или выпускники школ, прослушавшие курсы по разработке программного обеспечения, или разработчики программного обеспечения начального уровня.
+
+  Кандидаты должны иметь не менее 150 часов образовательного или практического опыта работы с Java, знать функции и возможности этого языка, а также понимать, как писать, отлаживать, надлежащим образом форматировать и документировать код Java.
+subTitle: Кандидатами на прохождение этого экзамена являются разработчики приложений, которые работают с Java 6 SE или более поздней версии, студенты вузов или выпускники школ, прослушавшие курсы по разработке программного обеспечения, или разработчики программного обеспечения начального уровня.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyR
+practiceTestUrl: https://www.mindhub.com/product-p/mu-98-388_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-388&examname=Introduction%20to%20Programming%20Using%20Java&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-388
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- Базовые принципы работы с Java (15-20%)
+- Работа с типами данных, переменными и выражениями (40-45%)
+- Реализация управления потоками (15-20%)
+- Выполнить Объектно-ориентированное программирование (10-15%)
+- Компиляция и отладка кода (5-10%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-java
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

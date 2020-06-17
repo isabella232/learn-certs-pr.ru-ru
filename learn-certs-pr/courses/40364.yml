@@ -1,0 +1,44 @@
+### YamlMime:Course
+title: 'Database Administration Fundamentals: MTA Exam 98-364'
+metadata:
+  title: 'Course 40364-A: Database Administration Fundamentals: MTA Exam 98-364'
+  description: 'Course 40364-A: Database Administration Fundamentals: MTA Exam 98-364'
+uid: course.40364
+courseNumber: '40364-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Понимать основные концепции базы данных
+- skill: Создать объекты базы данных
+- skill: Манипулировать данными
+- skill: Понимать хранение данных
+- skill: Администрирование базы данных
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- sql-server
+exams:
+- uid: exam.98-364
+summary: |-
+  Этот трехдневный учебный курс MTA поможет вам подготовиться к экзамену Microsoft Technology Associate 98-364 и получить представление о следующих темах&#58; основные понятия базы данных, создание объектов базы данных, управление данными, хранение данных и администрирование базы данных. Этот курс использует то же содержимое, что и в Официальном академическом курсе Microsoft (MOAC) для этого экзамена.
+
+  #### Профиль аудитории
+  Microsoft Technology Associate (MTA) - это новейший набор сертификационных экзаменов Microsoft, подтверждающих фундаментальные знания, необходимые для начала карьеры с использованием технологий Microsoft. Эта программа обеспечивает подходящую отправную точку для будущей карьеры в области технологий и предполагает некоторые навыки или обучение, но не предполагает практического опыта.
+prerequisitesSection: |-
+  Для этого курса нет никаких предварительных условий.
+outlineSection: |-
+  ### Модуль 1&#58; Понимание основных концепций баз данных
+
+  ### Модуль 2&#58; Создание объектов базы данных
+
+  ### Модуль 3&#58; Манипулирование данными
+
+  ### Модуль 4&#58; Понимание хранения данных
+
+  ### Модуль 5&#58; Администрирование баз данных
+

@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Software Development Fundamentals
+metadata:
+  title: 'Exam 98-361: Software Development Fundamentals'
+  description: 'Exam 98-361: Software Development Fundamentals'
+uid: exam.98-361
+displayName: 98-361
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Целью этого экзамена является подтверждение базового уровня умений в области разработки программного обеспечения. Кандидатам рекомендуется изучить теоретические основы представленных здесь технологий и приобрести практический опыт работы с ними либо с помощью соответствующих учебных курсов, либо самостоятельно с помощью учебных пособий и примеров, представленных на сайте MSDN и входящих в состав Microsoft Visual Studio. Предполагается наличие опыта работы с C# или Microsoft Visual Basic .NET.
+subTitle: Целью этого экзамена является подтверждение базового уровня умений в области разработки программного обеспечения. Кандидатам рекомендуется изучить теоретические основы представленных здесь технологий и приобрести практический опыт работы с ними либо с помощью соответствующих учебных курсов, либо самостоятельно с помощью учебных пособий и примеров, представленных на сайте MSDN и входящих в состав Microsoft Visual Studio. Предполагается наличие опыта работы с C# или Microsoft Visual Basic .NET.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIO
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Принципы основного программирования (15-20%)
+- Понимание Объектно-ориентированное программирование (20-25%)
+- Понимание Общие принципы разработки программного обеспечения (15-20%)
+- Принципы работы веб-приложений (15-20%)
+- Принципы настольных приложений (15-20%)
+- Принципы работы с базами данных (15-20%)
+roles:
+- developer
+products:
+- dotnet
+courses:
+- uid: course.40361
+- uid: course.40035
+- uid: course.40034
+relatedCertifications:
+- related:
+    uid: certification.mta-software-development-fundamentals
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+
