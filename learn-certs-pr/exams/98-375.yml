@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: HTML5 Application Development Fundamentals
+metadata:
+  title: 'Exam 98-375: HTML5 Application Development Fundamentals'
+  description: 'Exam 98-375: HTML5 Application Development Fundamentals'
+uid: exam.98-375
+displayName: 98-375
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидаты на прохождение этого экзамена подтверждают базовый уровень навыков разработки клиентских приложений HTML5, которые будут работать на современных устройствах с сенсорным экраном (ПК, планшеты и телефоны). Хотя HTML часто воспринимается как веб-технология, готовая к просмотру в браузере и предназначенная для создания интерфейса пользователя, данный экзамен посвящен использованию HTML5, CSS3 и JavaScript для разработки клиентских приложений. Перед прохождением экзамена кандидаты должны получить глубокие базовые знания по темам, представленным в руководстве по подготовке, включая CSS и JavaScript. Кандидатам рекомендуется изучить теоретические основы соответствующих технологий и приобрести практический опыт работы с ними либо с помощью соответствующих учебных курсов, либо самостоятельно с помощью учебных пособий и примеров, представленных на сайте MSDN и входящих в состав Microsoft Visual Studio.
+subTitle: Кандидаты на прохождение этого экзамена подтверждают базовый уровень навыков разработки клиентских приложений HTML5, которые будут работать на современных устройствах с сенсорным экраном (ПК, планшеты и телефоны). Хотя HTML часто воспринимается как веб-технология, готовая к просмотру в браузере и предназначенная для создания интерфейса пользователя, данный экзамен посвящен использованию HTML5, CSS3 и JavaScript для разработки клиентских приложений. Перед прохождением экзамена кандидаты должны получить глубокие базовые знания по темам, представленным в руководстве по подготовке, включая CSS и JavaScript. Кандидатам рекомендуется изучить теоретические основы соответствующих технологий и приобрести практический опыт работы с ними либо с помощью соответствующих учебных курсов, либо самостоятельно с помощью учебных пособий и примеров, представленных на сайте MSDN и входящих в состав Microsoft Visual Studio.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJs
+practiceTestUrl: https://www.mindhub.com/MTA-98-375-HTML5-Application-Development-Fundame-p/mu-98-375_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-375&examname=HTML5%20Application%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-375
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Управление жизненным циклом приложения (20-25%)
+- Создание пользовательского интерфейса (UI) на базе HTML5 (25-30%)
+- Форматирование пользовательского интерфейса с помощью каскадных таблиц стилей (CSS) (20-25%)
+- Кодирование JavaScript (30-35%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.40375
+- uid: course.40034
+relatedCertifications:
+- related:
+    uid: certification.mta-html5-application-development-fundamentals
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

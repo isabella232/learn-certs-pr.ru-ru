@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Python
+metadata:
+  title: 'Exam 98-381: Introduction to Programming Using Python'
+  description: 'Exam 98-381: Introduction to Programming Using Python'
+uid: exam.98-381
+displayName: 98-381
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидаты на прохождение этого экзамена должны уметь распознавать и писать синтаксический правильный код Python, использовать типы данных, поддерживаемые в Python, а также уметь распознавать и писать код Python, который логическим путем решает поставленную задачу.
+
+  Экзамен рассчитан на кандидатов, имеющих, как минимум, около 100 часов образовательного или практического опыта работы с языком программирования Python, знакомых с его функциями и возможностями, а также понимающих, как писать, отлаживать, правильно форматировать и надлежащим образом документировать код Python.
+subTitle: Кандидаты на прохождение этого экзамена должны уметь распознавать и писать синтаксический правильный код Python, использовать типы данных, поддерживаемые в Python, а также уметь распознавать и писать код Python, который логическим путем решает поставленную задачу.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
+practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- Выполнение операций с применением типов данных и операторов (20-25%)
+- Поток команд управления на основе операторов принятия решений и циклов (25-30%)
+- Выполнение операций ввода-вывода (20-25%)
+- Код документа и структуры (15-20%)
+- Поиск и устранение неполадок, а также обработка ошибок (5-10%)
+- Выполнение операций с помощью модулей и инструментов (1-5%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.55264
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-python
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

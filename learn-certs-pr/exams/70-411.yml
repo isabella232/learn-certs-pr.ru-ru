@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Administering Windows Server 2012
+metadata:
+  title: 'Exam 70-411: Administering Windows Server 2012'
+  description: 'Exam 70-411: Administering Windows Server 2012'
+uid: exam.70-411
+displayName: 70-411
+summary: |-
+  <div><div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
+  </div>
+
+  Этот экзамен — второй в серии из трех экзаменов, которые служат для проверки навыков и знаний, необходимых для администрирования инфраструктуры Windows Server 2012 в корпоративной среде. Сдав этот экзамен, кандидат подтвердит свою способность администрировать задачи, требующиеся для обслуживания инфраструктуры Windows Server 2012, например управление пользователями и группами, доступ к сети и безопасность данных. Сдача этого экзамена и двух других экзаменов подтвердит, что кандидат имеет квалификационные навыки и знания, необходимые для внедрения, управления, обслуживания и подготовки служб и инфраструктуры в среде Windows Server 2012.
+
+  <div style='font-weight&#58; bold;'><br/>Начиная с 19 апреля 2018 года, экзамены обновляются. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене 411.</div>
+subTitle: Этот экзамен — второй в серии из трех экзаменов, которые служат для проверки навыков и знаний, необходимых для администрирования инфраструктуры Windows Server 2012 в корпоративной среде. Сдав этот экзамен, кандидат подтвердит свою способность администрировать задачи, требующиеся для обслуживания инфраструктуры Windows Server 2012, например управление пользователями и группами, доступ к сети и безопасность данных. Сдача этого экзамена и двух других экзаменов подтвердит, что кандидат имеет квалификационные навыки и знания, необходимые для внедрения, управления, обслуживания и подготовки служб и инфраструктуры в среде Windows Server 2012.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7jV
+practiceTestUrl: https://www.mindhub.com/70-411-Administering-Windows-Server-2012-p/mu-70-411_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-411&examname=Administering%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-411
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Развертывание, управление и обслуживание серверов
+- Настройка файловых служб и служб печати
+- Настройка сетевых служб и доступа к сети
+- Настройка инфраструктуры сервера сетевых политик
+- Настройка и управление Active Directory
+- Настройка и управление групповой политикой
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20411
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-certification
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

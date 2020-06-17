@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Networking Fundamentals
+metadata:
+  title: 'Exam 98-366: Networking Fundamentals'
+  description: 'Exam 98-366: Networking Fundamentals'
+uid: exam.98-366
+displayName: 98-366
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Кандидаты на прохождение этого экзамена должны быть знакомы с общими понятиями и технологиями в отношении сетей. У кандидатов должен быть практический опыт работы с Windows Server, сетью на основе Windows, средствами управления сетью, DNS, TCP/IP, процессом разрешения имен, а также протоколами и топологиями.
+
+  <div style='font-weight&#58; bold;'><br/>Начиная с 31 январь 2018 года, экзамены обновляются. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене 98-366.</div>
+subTitle: Кандидаты на прохождение этого экзамена должны быть знакомы с общими понятиями и технологиями в отношении сетей. У кандидатов должен быть практический опыт работы с Windows Server, сетью на основе Windows, средствами управления сетью, DNS, TCP/IP, процессом разрешения имен, а также протоколами и топологиями.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr
+practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Сведения о сетевой инфраструктуре (30-35%)
+- Сведения о сетевом оборудовании (20-25%)
+- Сведения о протоколах и службах (45-50%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.40032
+- uid: course.40366
+relatedCertifications:
+- related:
+    uid: certification.mta-networking-fundamentals
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

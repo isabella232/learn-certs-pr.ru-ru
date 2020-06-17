@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Installation, Storage, and Compute with Windows Server 2016
+metadata:
+  title: 'Exam 70-740: Installation, Storage, and Compute with Windows Server 2016'
+  description: 'Exam 70-740: Installation, Storage, and Compute with Windows Server 2016'
+uid: exam.70-740
+displayName: 70-740
+summary: |-
+  <div><div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
+  </div>
+
+  Кандидаты на прохождение этого экзамена используют функции установки, хранения и вычисления, доступные в Windows Server 2016. Кандидаты выполняют общие задачи по установке, а также создают и управляют образами для развертывания.
+
+  У кандидатов должен быть опыт работы с решениями для локальных хранилищ и хранения на сервере, включая настройку дисков и томов, решения для дедупликации данных, высокой доступности, аварийного восстановления, локальных дисковых пространств и отказоустойчивого кластера. Кроме того, кандидаты должны быть знакомы с управлением Hyper-V и контейнеров, а также обслуживанием и мониторингом серверов в физических и вычислительных средах.
+
+  <div style='font-weight&#58; bold;'><br/>Обратите внимание&#58; Некоторые обновления экзамена вступят в силу с 13 март 2019 г. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене 740.</div>
+subTitle: Кандидаты на прохождение этого экзамена используют функции установки, хранения и вычисления, доступные в Windows Server 2016. Кандидаты выполняют общие задачи по установке, а также создают и управляют образами для развертывания.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IGlV
+practiceTestUrl: https://www.mindhub.com/70-740-Windows-Server-2016-p/mu-70-740_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-740&examname=Installation,%20Storage,%20and%20Compute%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-740
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Установка ПО Windows Server в среде узла и вычислительной среде (10-15%)
+- Внедрение решений для хранилищ (15-20%)
+- Внедрение Hyper-V (20–25%)
+- Внедрение контейнеров Windows (5–10%)
+- Внедрение высокой доступности (30-35%)
+- Обслуживание и мониторинг серверных сред (10-15%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20740
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-2016-certification
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+

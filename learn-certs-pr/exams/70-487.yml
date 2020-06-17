@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Developing Microsoft Azure and Web Services
+metadata:
+  title: 'Exam 70-487: Developing Microsoft Azure and Web Services'
+  description: 'Exam 70-487: Developing Microsoft Azure and Web Services'
+uid: exam.70-487
+displayName: 70-487
+summary: |+
+  <div><div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
+  </div>
+
+  ‘Кандидатами на получение этой сертификации являются профессиональные разработчики, которые используют Visual Studio 2017 и Microsoft® .NET Core Framework для проектирования и разработки веб-решений. У кандидатов должен быть опыт разработки решений на базе ASP.NET MVC не менее трех–пяти лет. Кроме того, кандидаты должны продемонстрировать следующее&#58;
+  - Опыт проектирования и разработки веб-приложений, которые получают доступ к различными (локальным и удаленным) данным и службам, включая Windows Azure
+  - Опыт участия в полном жизненном цикле разработки ПО для решений в отношении данных и служб
+  - Опыт проектирования и развертывания в многоуровневых средах, включая Windows Azure
+  - Опыт проектирования и разработки асинхронных решений
+  - Опыт создания и использования служб HTTP
+subTitle: 'Кандидатами на получение этой сертификации являются профессиональные разработчики, которые используют Visual Studio 2017 и Microsoft® .NET Core Framework для проектирования и разработки веб-решений. У кандидатов должен быть опыт разработки решений на базе ASP.NET MVC не менее трех–пяти лет.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
+practiceTestUrl: https://www.mindhub.com/70-487-developing-microsoft-azure-and-web-services/p/MU-70-487?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-487&examname=Developing%20Microsoft%20Azure%20and%20Web%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-487
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Доступ к данным (20-25%)
+- Запрос данных и манипуляции с ними с помощью Entity Framework (20-25%)
+- Создание и использование служб на базе веб-API (20-25%)
+- Разработка и реализация веб-служб (15-20%)
+- Развертывание веб-приложений и служб (15-20%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.20487
+relatedCertifications:
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: ../certification-exam-policies.md
+
