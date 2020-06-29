@@ -12,9 +12,9 @@ ms.author: micsullivan
 
 # Доступ к Microsoft Learning Azure Pass для студентов авторизованных партнеров Microsoft Learning
 
-<div style='color&#58; red;'><font color="red">Ввиду с распространением коронавируса (COVID-19) компания Microsoft <a href="https://azure.microsoft.com/blog/">приоритизирует возможности Azure</a> распределяя их туда, где они больше всего нужны. В поддержку этой политики мы удалили подписки Azure Pass с Courseware Marketplace и портала MCT Azure Pass на неопределенный срок.</font></div>
+<div style='color&#58; red;'><font color="red">Microsoft WWL восстановил доступ к пропускам Azure. Обратите внимание, что это решение не поддерживается SLA, и в некоторых регионах могут по-прежнему существовать ограничения на ресурсы.<br/><br/>Интерфейс Azure обеспечит обратную связь и проинформирует о том, какие регионы и размеры поддерживаются и есть ли какие-либо существенные требования к выбранному региону. Рассмотрите возможность использования другого региона, поддерживаемого подпиской, на который не распространяются значительные требования или ограничения по размеру.<br/><br/>Для получения дополнительной информации об альтернативных решениях, поддерживаемых SLA, обратитесь к одному из авторизованных хостеров лаборатории (ALH), которые в настоящее время предоставляют доступ к Azure.</font></div>
 
-Последнее обновление: **26 марта 2020 г.**
+Последнее обновление: **5 июня 2020 г.**
 
 Microsoft предлагает вашим студентам бесплатный 30-дневный допуск Microsoft Azure Pass при регистрации на соответствующие курсы Azure, с использованием официальных курсов Microsoft. Допуски для студентов могут быть получены только авторизованным партнером по обучению Microsoft через Courseware Marketplace. Они напрямую связаны с покупкой курса MOC и имеют ограничение - один допуск на один заказанный курс MOC. Никаких других способов получения допусков для студентов не будет. Если Партнер по обучению заказывает курс MOC, но не выбирает допуск в Azure, который доступен с курсом на момент покупки, у Партнера будет возможность вернуться на Courseware Marketplace и впоследствии при необходимости заказать этот допуск.
 
@@ -42,7 +42,6 @@ Microsoft предлагает вашим студентам бесплатны�
 - 40501 Microsoft Cloud Workshop: Cloud-native applications
 - 40502 Microsoft Cloud Workshop: Big Data & Visualization
 - 40503 Microsoft Cloud Workshop: Enterprise-ready Cloud
-- 40504 Microsoft Cloud Workshop: Intelligent Vending Machines
 - 40505 Microsoft Cloud Workshop: Internet of Things
 - 40508 Microsoft Cloud Workshop: Modern Cloud Apps
 - 40510 Microsoft Cloud Workshop: SQL Server Hybrid Cloud
@@ -50,10 +49,8 @@ Microsoft предлагает вашим студентам бесплатны�
 - 40512 Microsoft Cloud Workshop: App Modernization
 - 40513 Microsoft Cloud Workshop: Building a Resilient IaaS Architecture
 - 40514 Microsoft Cloud Workshop: Data Platform Upgrade and Migration
-- 40516 Microsoft Cloud Workshop: Intelligent Analytics
 - 40515 Microsoft Cloud Workshop: Enterprise-Class Networking in Azure
 - 40516 Microsoft Cloud Workshop: Intelligent Analytics
-- 40517 Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse
 - 40519 Microsoft Cloud Workshop: SAP on Azure
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
@@ -62,12 +59,9 @@ Microsoft предлагает вашим студентам бесплатны�
 - 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
-- 40532 Microsoft Cloud Workshop: Mobile App Innovation
-- 40532 Microsoft Cloud Workshop: Mobile App Innovation
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
 - 40534 Microsoft Cloud Workshop: Securing PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
-- 40550 Microsoft Cloud Workshop: Windows Server and SQL Server 2008-R2 end of support planning
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
 - 40559 Microsoft Cloud Workshop: MLOps
@@ -77,7 +71,7 @@ Microsoft предлагает вашим студентам бесплатны�
 - 40563 Microsoft Cloud Workshop: Real-time data with Azure Database for PostgreSQL Hyperscale
 - 40564 Microsoft Cloud Workshop: Securing the IoT end-to-end
 - 40565 Microsoft Cloud Workshop: Modernizing Data Analytics with SQL Server 2019
-- 40573 Microsoft Cloud Workshop: Hybrid identity
+- 40573 Microsoft Cloud Workshop: гибридной идентификации
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (basics)
 - 55224-1 Microsoft Azure Big Data Analytics Solutions
@@ -85,7 +79,9 @@ Microsoft предлагает вашим студентам бесплатны�
 - 55247 Designing and Implementing Cloud Data Platform Solutions
 - 55264 Introduction to Programming Using Python
 - AI-100T01 Designing and Implementing an Azure AI Solution
+- AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
+- AZ-020T00 Microsoft Azure solutions for AWS developers
 - AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
@@ -94,8 +90,9 @@ Microsoft предлагает вашим студентам бесплатны�
 - AZ-220T00 Microsoft Azure IoT Developer
 - AZ-300T0X Azure Solutions Architect - Technologies courses
 - AZ-301T0X Azure Solutions Architect - Design courses
+- AZ-303T00 Microsoft Azure Architect Technologies
+- AZ-304T00 Microsoft Azure Architect Design
 - AZ-400T00 Designing and Implementing Microsoft DevOps Solutions
-- AZ-400T0X Azure DevOps Engineer courses
 - AZ-500T00 Microsoft Azure Security Technologies
 - AZ-900T00 Microsoft Azure Fundamentals (2 Day)
 - DP-050T00 Migrate SQL workloads to Azure
@@ -104,10 +101,8 @@ Microsoft предлагает вашим студентам бесплатны�
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
-- MB-300T00 Microsoft Finance and Operations Core
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
-- MB-700T00 Microsoft Dynamics 365: Finance and Operations Apps Solution Architect
 - WS-050T00 Migrating Application Workloads to Azure
 
 Примечание: Этот список может изменяться, и названия курсов могут, как добавляться, так и удаляться по мере выпуска новых версий или курсов, а также удаления старых версий и курсов.
@@ -122,7 +117,7 @@ Microsoft предлагает вашим студентам бесплатны�
 
 Этот допуск, доступный для партнеров по обучению Microsoft, работает так же, как и [общедоступная пробная подписка Microsoft Azure](https://azure.microsoft.com/pricing/free-trial/) с аналогичными ограничениями. Для получения этого допуска не нужны никакие платежные инструменты, то есть для активации допуска реквизиты кредитной карты указывать не надо. Ниже приводится краткое описание функциональности Microsoft Learning Azure Pass для использования нашими партнерами и преподавателями Microsoft Learning:
 
-| Допуск Learning Partner Microsoft Student Azure Pass |
+| Learning Partner Microsoft Student Azure Pass |
 | --- |
 | Для получения Microsoft Learning Azure Pass данные кредитной карты указывать не надо |
 | Ограничение в долларах - будет ограничение в долларах, связанное с допуском. Сумма определяется по рассматриваемому курсу. |
