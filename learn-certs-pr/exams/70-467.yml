@@ -16,7 +16,7 @@ summary: |-
 subTitle: Этот экзамен предназначен для архитекторов бизнес-аналитики (BI), которые отвечают за проект инфраструктуры BI в целом и его отношений с другими используемыми системами данных.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
 locales:
 - en
 - zh-cn
