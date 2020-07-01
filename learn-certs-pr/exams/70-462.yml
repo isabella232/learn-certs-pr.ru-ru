@@ -16,7 +16,7 @@ summary: |-
 subTitle: Этот экзамен предназначен для специалистов по базам данных, которые выполняют задачи установки, обслуживания и конфигурации. В число прочих обязанностей входит установка систем баз данных, проверка эффективности работы систем, регулярное сохранение, архивация и обеспечение безопасности данных от несанкционированного доступа.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
 locales:
 - en
 - zh-cn

@@ -16,7 +16,7 @@ summary: |-
 subTitle: Этот экзамен предназначен для разработчиков бизнес-аналитики (BI), в число задач которых входит создание решений BI, требующих внедрение многомерных моделей данных, внедрение и обслуживание кубов OLAP, и создание информационных дисплеев, используемых при принятии бизнес-решений.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
 locales:
 - en
 - zh-cn

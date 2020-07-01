@@ -14,7 +14,7 @@ summary: |-
 subTitle: Кандидаты на прохождение этого экзамены должны понимать, как использовать Power BI для анализа данных. Кандидаты должны быть специалистами в соединении источников данных и выполнении преобразования данных, моделировании и визуализации данных с помощью Microsoft Power BI Desktop, а также настройке информационных панелей с помощью службы Power BI. Кандидаты также должны быть специалистами по внедрению прямого подключения к Microsoft SQL Azure и SQL Server Analysis Services (SSAS), и реализации анализа данных в Microsoft Excel. Кандидатами также могут быть специалисты по бизнес-аналитике, анализу данных или иметь другие роли, которые несут ответственность за создание отчетов с помощью Power BI.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJB
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
 locales:
 - en
 levels:
