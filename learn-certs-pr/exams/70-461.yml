@@ -16,7 +16,7 @@ summary: |-
 subTitle: Этот экзамен предназначен для администраторов баз данных SQL Server, системных инженеров и разработчиков, имеющих не менее двух лет опыта работы, которые хотят подтвердить навыки и знания, необходимые для написания запросов.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54W
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
 locales:
 - en
 - zh-cn

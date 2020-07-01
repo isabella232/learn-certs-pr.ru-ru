@@ -16,7 +16,7 @@ summary: |-
 subTitle: Кандидатами на этот экзамен являются разработчики и архитекторы, которые используют Azure Cosmos DB. Кандидаты должны понимать основные принципы секционирования, репликации и управления ресурсами для создания и настройки масштабируемых приложений, которые являются агностиками API-интерфейса Cosmos DB. Кандидаты также должны иметь базовые знания SQL API Cosmos DB.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
 locales:
 - en
 levels:

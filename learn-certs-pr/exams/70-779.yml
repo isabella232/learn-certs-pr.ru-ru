@@ -14,7 +14,7 @@ summary: |-
 subTitle: Кандидаты на этот экзамен должны иметь четкое представление о том, как использовать Microsoft Excel для выполнения анализа данных. Кандидаты должны уметь использовать, преобразовывать, моделировать и визуализировать данные в Excel. Кандидаты также должны уметь настраивать данные и управлять ими в PowerPivot, PivotTables и PivotCharts. Кандидатами могут быть специалисты по бизнес-аналитике (BI), анализу данных или иметь другие роли, которые несут ответственность за анализ данных с помощью Excel.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t555
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
 locales:
 - en
 levels:

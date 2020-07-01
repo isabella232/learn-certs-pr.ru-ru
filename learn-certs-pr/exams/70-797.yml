@@ -20,7 +20,7 @@ summary: |-
 subTitle: На этом экзамене проверяются базовые знания и навыки кандидата по построению надежных идентификационных данных, защите содержимого (защите от потери данных), политике управления мобильным устройством, виртуализации с Hyper-V, управлению приложениями при помощи корпоративного портала и магазина Windows. Будут проверяться знания кандидатов по безопасности в Windows 10 и интегрированным функциям Azure.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
 locales:
 - en
 levels:

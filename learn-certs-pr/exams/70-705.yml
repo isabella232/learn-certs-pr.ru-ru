@@ -16,7 +16,7 @@ summary: |-
 subTitle: Кандидатами на прохождение этого экзамена являются специалисты по продажам, которые продают лицензированные решения крупным предприятиям. Предприятия в этой категории обычно имеют 250 или более устройств или пользователей. У кандидатов должен быть опыт продаж лицензионных решений Microsoft не менее шести месяцев, а также базовое понимание всех корпоративных лицензионных решений Microsoft, включая Enterprise Agreement, Enterprise Subscription Agreement, Cloud Solution Provider (CSP), MPSA, OEM, Open и Open Value.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=70-705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
 locales:
 - en
 - zh-cn
