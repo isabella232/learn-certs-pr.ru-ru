@@ -14,7 +14,6 @@ summary: |-
 subTitle: Кандидаты на прохождение экзамена Microsoft SharePoint 2013 должны иметь четкое понимание среды SharePoint и возможность выполнения всех задач на уровне сайта. Кандидаты должны знать правила применения основных функций сайта, библиотеки и списка SharePoint 2013 и демонстрировать эти знания на практике. Кандидаты должны уметь оптимизировать и настраивать сайты SharePoint для создания структуры, решения проблем, упрощения совместной работы и повышения производительности. К соответствующим примерам относятся управление разрешениями на доступ к спискам, добавление содержимого на панель быстрого запуска, создание групповых сайтов и изменение представлений библиотеки. Экзамен рассчитан на персонал службы технической поддержки, руководителей проектов, начальников групп, руководителей отделов и других специалистов.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toX6
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-419&examname=Microsoft%20SharePoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-419
 locales:
 - en
 levels:
