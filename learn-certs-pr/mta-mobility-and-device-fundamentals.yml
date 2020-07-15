@@ -1,0 +1,41 @@
+### YamlMime:Certification
+title: 'MTA: Mobility and Device Fundamentals'
+metadata:
+  title: 'MTA: Mobility and Device Fundamentals'
+  description: 'MTA: Mobility and Device Fundamentals'
+uid: certification.mta-mobility-and-device-fundamentals
+iconUrl: /media/learn/certification/badges/mta-badge.svg
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  
+  Сертификации MTA — отличная стартовая площадка для освоения технической специализации. Сертификации MTA охватывает широкий спектр основных технических понятий, оценивает и подтверждает ваши основные технические знания, а также помогает упрочить вашу репутацию как технического специалиста. Обратите внимание&#58; Экзамены MTA не предназначены для получения сертификации MCP. Они также не являются предварительным условием для получения сертификации MCSA или MCSD.
+subTitle: 'Сертификации MTA — отличная стартовая площадка для освоения технической специализации. Сертификации MTA охватывает широкий спектр основных технических понятий, оценивает и подтверждает ваши основные технические знания, а также помогает упрочить вашу репутацию как технического специалиста. Обратите внимание: Экзамены MTA не предназначены для получения сертификации MCP. Они также не являются предварительным условием для получения сертификации MCSA или MCSD.'
+levels:
+- beginner
+skills:
+- не требуется
+roles:
+- administrator
+type: mta
+products:
+- windows
+courses:
+- uid: course.40368
+exams:
+- uid: exam.98-368
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx

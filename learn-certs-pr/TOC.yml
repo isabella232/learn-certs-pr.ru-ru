@@ -1,13 +1,15 @@
 - name: Сертификации Microsoft
   href: index.yml
-- name: Предложения
+- name: Offers
   href: deals.md
 - name: Корпоративное лицензирование
   href: volume-licensing-program.md
+- name: Microsoft Learning Partners
+  href: partners.md
 - name: Отмененные сертификации, экзамены и курсы
-  expanded: false
+  expanded: ложный
   items:
-  - name: Отмененные сертификации
+  - name: Аннулированные сертификации
     href: retired-certifications.md
   - name: Отмененные экзамены
     href: retired-certification-exams.md 
@@ -17,9 +19,15 @@
   href: mct-certification.md
 - name: О сертификационных экзаменах Microsoft
   href: certification-exams.md
+- name: Значки экзаменационной сертификации Microsoft
+  href: badges.md
 - name: Про онлайн-экзамены
   href: online-exams.md
 - name: Правила проведения экзаменов и часто задаваемые вопросы
   href: certification-exam-policies.md
 - name: Помощь по сертификации
   href: help.md
+- name: Microsoft Certification program FAQs 
+  href: microsoft-certification-program-faqs.md
+- name: Поиск на Microsoft Learning.
+  href: learnfaq.md
