@@ -32,6 +32,8 @@ roles:
 - administrator
 products:
 - m365
+courses:
+- uid: course.ms-203t00
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator

@@ -1,35 +1,28 @@
 ### YamlMime:Certification
-title: 'MTA: Certification'
+title: 'MTA: Introduction to Programming Using Python'
 metadata:
-  title: 'MTA: Certification'
-  description: 'MTA: Certification'
-uid: certification.mta-it-infrastructure-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+  title: 'MTA: Introduction to Programming Using Python'
+  description: 'MTA: Introduction to Programming Using Python'
+uid: certification.mta-introduction-to-programming-using-python
+iconUrl: /media/learn/certification/badges/mta-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  
   Сертификации MTA — отличная стартовая площадка для освоения технической специализации. Сертификации MTA охватывает широкий спектр основных технических понятий, оценивает и подтверждает ваши основные технические знания, а также помогает упрочить вашу репутацию как технического специалиста. Обратите внимание&#58; Экзамены MTA не предназначены для получения сертификации MCP. Они также не являются предварительным условием для получения сертификации MCSA или MCSD.
 subTitle: 'Сертификации MTA — отличная стартовая площадка для освоения технической специализации. Сертификации MTA охватывает широкий спектр основных технических понятий, оценивает и подтверждает ваши основные технические знания, а также помогает упрочить вашу репутацию как технического специалиста. Обратите внимание: Экзамены MTA не предназначены для получения сертификации MCP. Они также не являются предварительным условием для получения сертификации MCSA или MCSD.'
 levels:
 - beginner
 skills:
-- none
+- не требуется
 roles:
-- administrator
+- developer
 type: mta
 products:
-- windows
-- sql-server
+- vs
 courses:
-- uid: course.40349
-- uid: course.40364
-- uid: course.40368
-- uid: course.40035
-- uid: course.40034
+- uid: course.55264
 exams:
-- uid: exam.98-349
-- uid: exam.98-361
-- uid: exam.98-364
+- uid: exam.98-381
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
@@ -46,4 +39,3 @@ resources:
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
-
