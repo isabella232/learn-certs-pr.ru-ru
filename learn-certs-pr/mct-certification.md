@@ -23,7 +23,7 @@ ms.author: micsullivan
 
 ## Преимущества программы MCT
 
-Специалистам квалификации Microsoft Certified Trainer предоставляется доступ к персонализированной [панели](https://www.microsoft.com/learning/dashboard.aspx), где можно найти разнообразные полезные ресурсы для MCT, загрузить сертификационное свидетельство MCT, а также увидеть списки, доступные для вас!
+Специалистам квалификации Microsoft Certified Trainer предоставляется доступ к персонализированной [панели]https://www.microsoft.com/learning/dashboard.aspx), где можно найти разнообразные полезные ресурсы для MCT, загрузить сертификационное свидетельство MCT, а также увидеть списки, доступные для вас!
 
 Кроме того, у вас будет доступ к [Центральному MCT](https://www.microsoft.com/en-us/learning/mct-central.aspx), который помогает MCT оставаться в курсе последних новостей, найти работу, связаться с другими MCT по всему миру или обратиться к региональному руководителю MCT.
 
@@ -80,6 +80,10 @@ ms.author: micsullivan
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
 - [Microsoft Certified: Azure DevOps Engineer Expert](https://www.microsoft.com/learning/azure-devops.aspx)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
+- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
+- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
+- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
+- [Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
 - [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(Будут отменены 31 августа 2020 года)
@@ -87,9 +91,6 @@ ms.author: micsullivan
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
-- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
-- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
-- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)

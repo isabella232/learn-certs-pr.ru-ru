@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
-  description: 'Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по маркетингу реализуют решения, которые привлекают и конвертируют лидов, повышают узнаваемость бренда, стандартизируют многоканальный обмен сообщениями и предоставляют маркетинговые идеи.'
+  description: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по маркетингу реализуют решения, которые привлекают и конвертируют лидов, повышают узнаваемость бренда, стандартизируют многоканальный обмен сообщениями и предоставляют маркетинговые идеи.
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -37,6 +37,13 @@ courses:
 - uid: course.mb-200t00
 - uid: course.mb-220t00
 paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.get-started-portals
+- uid: learn-dynamics.work-with-portals
 - uid: learn-dynamics.set-up-dynamics-365-marketing
 - uid: learn-dynamics.work-core-features-marketing
 - uid: learn-dynamics.manage-events-dynamics-marketing
@@ -55,7 +62,7 @@ resources:
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации

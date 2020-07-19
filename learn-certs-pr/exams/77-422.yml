@@ -8,17 +8,11 @@ displayName: 77-422
 summary: |-
   <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
 
-  Учебное пособие MOS 2013 для Microsoft PowerPoint Опубликовано&#58; октября 2013
-
   Продемонстрируйте свой опыт в PowerPoint. Подготовьтесь к экзамену 2013 PowerPoint Microsoft Office Specialist (MOS), используя это учебное пособие. Это пособие полностью охватывает все темы экзамена, а также содержит простые в использовании процедуры и иллюстрации для отработки основных навыков. Кроме того, вы получите практические задачи, которые позволят вам применить полученные знания на практике. Пособие включает загружаемые файлы для выполнения практических заданий.
-
-  Купить книгу в магазине Microsoft Press Store
-
-  Кандидатами на прохождение этого экзамена являются IT-специалисты, которые используют пакет Office для разработки безопасных и гибких приложений.
 subTitle: 'Кандидатами на прохождение этого экзамена являются IT-специалисты, которые используют пакет Office для разработки безопасных и гибких приложений.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
 locales:
 - en
 - zh-cn
@@ -34,6 +28,7 @@ locales:
 - pl
 - pt-br
 - ru
+- ar-sa
 levels:
 - beginner
 skills:
@@ -52,7 +47,7 @@ relatedCertifications:
 - related:
     uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
-- title: Exam Replay
+- title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Панель управления сертификацией

@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
-  description: 'Azure Data Scientist применяет свои знания в области data science и машинного обучения для внедрения и выполнения рабочих нагрузок машинного обучения в Azure; в частности, с помощью службы машинного обучения Azure.'
+  description: Azure Data Scientist применяет свои знания в области data science и машинного обучения для внедрения и выполнения рабочих нагрузок машинного обучения в Azure; в частности, с помощью службы машинного обучения Azure.
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -23,9 +23,13 @@ type: role-based
 products:
 - azure
 - azure-data-science-vm
+- azure-machine-learning
+- azure-machine-learning-service
+- azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
 paths:
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
 exams:
@@ -40,7 +44,7 @@ resources:
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
