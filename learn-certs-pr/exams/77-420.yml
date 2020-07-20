@@ -12,7 +12,7 @@ summary: |-
 subTitle: От кандидатов базового уровня, намеревающихся сдать экзамен по Microsoft Excel 2013, требуются знания основ работы в среде Excel и способность самостоятельно выполнять задачи. Кандидаты должны знать правила применения основных функций Excel 2013 и продемонстрировать эти знания на практике. Необходимо подтвердить способность создать и отредактировать книгу из нескольких листов для различных целей и ситуаций. Примерами могут служить сметы, диаграммы контроля производительности труда рабочей группы, накладные по заказам на продажу и дневники тренировок, оформленные на профессиональном уровне. Экзамен рассчитан на учащихся, конторских работников, бухгалтеров, преподавателей и представителей других профессий.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXa
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-420&examname=Excel%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-420
 locales:
 - en
 - zh-cn
@@ -28,6 +28,8 @@ locales:
 - pl
 - pt-br
 - ru
+- ar-sa
+- el-gr
 levels:
 - beginner
 skills:
@@ -44,7 +46,7 @@ relatedCertifications:
 - related:
     uid: certification.microsoft-office-specialist-certification-2013
 resources:
-- title: Exam Replay
+- title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Панель управления сертификацией

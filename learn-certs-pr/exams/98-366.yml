@@ -15,7 +15,11 @@ subTitle: Кандидаты на прохождение этого экзаме
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr
 practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -34,7 +38,7 @@ levels:
 skills:
 - Сведения о сетевой инфраструктуре (30-35%)
 - Сведения о сетевом оборудовании (20-25%)
-- Сведения о протоколах и службах (45-50%)
+- Сведения о протоколах и службах (45-50 %)
 roles:
 - administrator
 products:
@@ -46,8 +50,8 @@ relatedCertifications:
 - related:
     uid: certification.mta-networking-fundamentals
 resources:
-- title: Exam Replay
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
