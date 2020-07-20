@@ -15,7 +15,11 @@ subTitle: Кандидаты на прохождение этого экзаме
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
 practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -29,8 +33,8 @@ locales:
 levels:
 - beginner
 skills:
-- Выполнение операций с применением типов данных и операторов (20-25%)
-- Поток команд управления на основе операторов принятия решений и циклов (25-30%)
+- Выполнение операций с применением типов данных и операторов (20–25%)
+- Поток команд управления на основе операторов принятия решений и циклов (25–30%)
 - Выполнение операций ввода-вывода (20-25%)
 - Код документа и структуры (15-20%)
 - Поиск и устранение неполадок, а также обработка ошибок (5-10%)
@@ -45,8 +49,8 @@ relatedCertifications:
 - related:
     uid: certification.mta-introduction-to-programming-using-python
 resources:
-- title: Exam Replay
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

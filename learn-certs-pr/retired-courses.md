@@ -13,6 +13,8 @@ ms.author: micsullivan
 
 В следующих таблицах представлены отмененные и запланированные к отмене учебные пособия. После даты отмены курсы больше не продаются.
 
+Если вы ищете уже отмененные курсы MOC по требованию, перейдите по этой ссылке: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+
 ## Отмененные курсы: Обучение под руководством инструктора
 
 * Отмены курсов на 30 июня 2020 года
@@ -519,7 +521,7 @@ ms.author: micsullivan
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | Немецкий | 30 июня 2018
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | Французский | 30 июня 2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | Немецкий | 30 июня 2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | Французский | 30 июня 2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | Французский | 30 июня 2018
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | Немецкий | 30 июня 2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | Французский | 30 июня 2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | Португальский | 30 июня 2018

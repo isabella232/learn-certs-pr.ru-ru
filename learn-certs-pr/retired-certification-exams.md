@@ -73,15 +73,11 @@ ms.author: micsullivan
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
-| Будут отменены 30 июня 2020 года | |
-| --- | --- |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
-
 ## Экзамены, которые были отменены недавно
 
 Для справки, экзамены, которые были отменены в течение прошлого года, будут содержать ссылку на страницу подробных сведений об экзамене в течение 12 месяцев.
 
-| ITPro/Developer| | |
+| На основе ролей| | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 1 май 2019
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 1 май 2019 года
@@ -92,6 +88,11 @@ ms.author: micsullivan
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 30 июня 2019 года
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 30 сентября 2019 года
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 30 сентября 2019 года
+
+<br/>
+
+| ITPro/Developer| | |
+| --- | --- | --- |
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 31 декабря 2017 года
 | 70-247 | Configuring and Deploying a Private Cloud | 31 декабря 2017 года
 | 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 31 марта 2019 года
@@ -130,6 +131,7 @@ ms.author: micsullivan
 | [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 31 июля 2019 года
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 31 декабря 2017 года
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 31 июля 2018 года
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 | 30 июня 2020 года
 | [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 30 сентября 2019 года
 | [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 7 августа 2019 года
 
