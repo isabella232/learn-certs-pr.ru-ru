@@ -1,0 +1,55 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
+  description: Эта сертификация станет доступна в октябре 2020 года. Power Platform Functional Consultant должен обладать глубокими практическими знаниями о Power Platform, включая практическое понимание возможностей и ограничений.
+uid: certification.power-platform-functional-consultant-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></font></div>
+
+  Power Platform Functional Consultant должен обладать глубокими практическими знаниями о Power Platform, включая практическое понимание возможностей и ограничений. Они должны иметь практический опыт, используя инструменты производителя Power Platform для создания решений, использующих Power Platform и Microsoft 365. Сертифицированные функциональные консультанты должны обладать навыками моделирования данных, проектирования пользовательского интерфейса, анализа требований и анализа процессов.
+
+  <div><br/><strong>Примечание&#58; Эта сертификация станет доступна в октябре 2020 года.</strong></div>
+subTitle: Эта сертификация станет доступна в октябре 2020 года. Power Platform Functional Consultant должен обладать глубокими практическими знаниями о Power Platform, включая практическое понимание возможностей и ограничений.
+levels:
+- intermediate
+skills:
+- Настройка общих служб данных
+- Создание Power App
+- Создание автоматизации с помощью Power Automate
+- Настройка виртуальных агентов Power Virtual Agents
+- Создание визуализации с помощью Power BI
+roles:
+- business-analyst
+- developer
+- functional-consultant
+type: role-based
+products:
+- power-apps
+- power-bi
+- power-automate
+- common-data-service
+- ai-builder
+- power-platform
+- office-teams
+- power-virtual-agents
+exams:
+- uid: exam.pl-200
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

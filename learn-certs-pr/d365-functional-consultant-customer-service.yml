@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: Microsoft Dynamics 365 для функциональных консультантов по обслуживанию клиентов создают решения CX, которые являются быстрыми, гибкими и используют AI, чтобы обеспечить действенное понимание, предвосхищающее потребности клиентов.
+  description: 'Microsoft Dynamics 365 для функциональных консультантов по обслуживанию клиентов создают решения CX, которые являются быстрыми, гибкими и используют AI, чтобы обеспечить действенное понимание, предвосхищающее потребности клиентов.'
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -38,8 +38,8 @@ paths:
 - uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.get-started-portals
-- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
@@ -58,7 +58,7 @@ resources:
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
