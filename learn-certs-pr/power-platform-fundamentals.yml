@@ -15,9 +15,9 @@ levels:
 skills:
 - Описание деловой ценности Power Platform
 - Определение основных компонентов Power Platform
-- Описание деловой ценности Power BI
-- Описание деловой ценности Power Apps
-- Описание деловой ценности Power Automate
+- Демонстрация возможностей Power BI
+- Описание возможностей Power Apps
+- Демонстрация возможностей Power Automate
 - Демонстрация деловой ценности мощных виртуальных агентов Power Virtual Agents
 roles:
 - business-user

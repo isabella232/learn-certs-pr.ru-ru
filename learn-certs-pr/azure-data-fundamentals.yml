@@ -22,6 +22,9 @@ products:
 - azure
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+- uid: learn.wwl.azure-data-fundamentals-explore-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-non-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
 exams:
 - uid: exam.dp-900
@@ -29,6 +32,9 @@ resources:
 - title: Плакат с сертификатами Azure
   description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию в качестве Azure Data Fundamentals, и какие ресурсы помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

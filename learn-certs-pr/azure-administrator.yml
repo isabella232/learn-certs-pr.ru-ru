@@ -35,8 +35,8 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
-- uid: course.az-010t00
 - uid: course.az-104t00
+- uid: course.az-010t00
 paths:
 - uid: learn.az104-admin-prerequisites
 - uid: learn.az-104-manage-identities-governance
@@ -51,6 +51,9 @@ resources:
 - title: Плакат с сертификатами Azure
   description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию в качестве ассоциированного Администратор Azure, и какие ресурсы помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
