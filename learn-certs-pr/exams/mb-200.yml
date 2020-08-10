@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена было обновлено 1 июля2020 года. Пожалуйста, загрузите схему навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что изменилось.
+- Содержание этого экзамена было обновлено 1 июля 2020 года. Пожалуйста, загрузите схему навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что изменилось.
 - Осуществление обнаружения, планирования и анализа (5-10%)
 - Управление пользовательским интерфейсом (20-25%)
 - Управление объектами и данными (15-20%)
@@ -55,8 +55,8 @@ paths:
 - uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.get-started-portals
-- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-sales

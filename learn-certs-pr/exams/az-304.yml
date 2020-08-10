@@ -28,13 +28,23 @@ levels:
 skills:
 - Проектирование мониторинга (10-15%)
 - Проектирование удостоверений и безопасности (25-30%)
-- Хранение проектных данных (15-20%)
+- Разработка хранилища данных (15-20%)
 - Разработка обеспечения непрерывности деятельности (10-15%)
-- инфраструктуры мониторинга (25-30%)
+- Разработка инфраструктуры (25-30%)
 roles:
 - solution-architect
 products:
 - azure
+paths:
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
 exams:
 - uid: exam.az-303
 courses:
@@ -43,13 +53,16 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию на Azure Solutions Architect Expert, а также о ресурсах, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов

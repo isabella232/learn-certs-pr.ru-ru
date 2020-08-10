@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Functional Consultant (beta)'
+metadata:
+  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+uid: exam.pl-200
+displayName: PL-200
+summary: |-
+  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+
+  Power Platform Functional Consultant отвечает за обнаружение, сбор требований, привлечение экспертов и заинтересованных сторон, перевод требований и настройку решений и приложений Power Platform.
+
+  Функциональный консультант внедряет компоненты решения, которые включают в себя доработку приложений, пользовательский интерфейс, системные интеграции, преобразования данных, пользовательскую автоматизацию процессов и пользовательские визуализации.
+
+  <div style='font-weight&#58; bold;'><br/>Примечание&#58; Этот экзамен станет доступен в октябре 2020 года.</div>
+subTitle: 'Этот экзамен станет доступен в октябре 2020 года. Этот экзамен позволит оценить вашу способность выполнять следующие технические задачи: настройка общей службы данных; создание приложения Power App; создание автоматизации с помощью Power Automate; настройка виртуальных агентов Power Virtual Agents; и создание визуализации с помощью Power BI.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Настройка общих служб данных
+- Создание Power App
+- Создание автоматизации с помощью Power Automate
+- Настройка виртуальных агентов Power Virtual Agents
+- Создание визуализации с помощью Power BI
+roles:
+- business-analyst
+- developer
+- functional-consultant
+products:
+- power-apps
+- power-bi
+- power-automate
+- common-data-service
+- ai-builder
+- power-platform
+- office-teams
+- dynamics-virtual-agent
+relatedCertifications:
+- related:
+    uid: certification.power-platform-functional-consultant-associate
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md
+
