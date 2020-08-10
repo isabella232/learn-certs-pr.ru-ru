@@ -25,7 +25,7 @@ levels:
 - intermediate
 skills:
 - Содержание этого экзамена было обновлено 22 мая 2020 года. Пожалуйста, загрузите схему навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что изменилось.
-- Настройка рабочего пространства в Azure Machine Learning (30-35%).
+- Настройка рабочего пространства в Azure Machine Learning (30-35%)
 - Проводение экспериментов и моделей обучения (25-30%)
 - Оптимизация и управление моделями (20-25%)
 - Развертывание и использование модели (20-25%)
@@ -46,13 +46,16 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию на Azure Data Scientist Associate, а также о ресурсах, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов

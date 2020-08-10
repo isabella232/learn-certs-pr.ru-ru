@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: Специалисты DevOps в Azure объединяют людей, процессы и технологии для непрерывной разработки ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям.
+  description: 'Специалисты DevOps в Azure объединяют людей, процессы и технологии для непрерывной разработки ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям.'
 uid: certification.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -34,10 +34,12 @@ products:
 - azure-container-instances
 - azure-automation
 paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.az-400-develop-instrumentation-strategy
+- uid: learn.az-400-develop-sre-strategy
+- uid: learn.az-400-develop-security-compliance-plan
+- uid: learn.az-400-manage-source-control
+- uid: learn.az-400-facilitate-communication-collaboration
+- uid: learn.az-400-define-implement-continuous-integration
 courses:
 - uid: course.az-400t00
 prerequisites:
@@ -61,7 +63,7 @@ resources:
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации

@@ -9,7 +9,11 @@ summary: "<div style='color&#58; red;'><strong>Ввиду ситуации с р
 subTitle: 'Докажите, что вы можете описать следующее: основные понятия данных; как работать с реляционными данными в Azure; как работать с нереляционными данными в Azure; аналитическая нагрузка на Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -26,10 +30,16 @@ products:
 - azure
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+- uid: learn.wwl.azure-data-fundamentals-explore-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-non-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics
 relatedCertifications:
 - related:
     uid: certification.azure-data-fundamentals
 resources:
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию в качестве Azure Data Fundamentals, и какие ресурсы помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

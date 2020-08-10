@@ -49,6 +49,9 @@ resources:
 - title: Плакат с сертификатами Azure
   description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию на Azure Security Engineer Associate, а также о ресурсах, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

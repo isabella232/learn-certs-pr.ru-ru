@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Analyzing Data with Microsoft Power BI (beta)
+title: Analyzing Data with Microsoft Power BI
 metadata:
-  title: 'Exam DA-100: Analyzing Data with Microsoft Power BI (beta)'
-  description: 'Exam DA-100: Analyzing Data with Microsoft Power BI (beta)'
+  title: 'Exam DA-100: Analyzing Data with Microsoft Power BI'
+  description: 'Exam DA-100: Analyzing Data with Microsoft Power BI'
 uid: exam.da-100
 displayName: DA-100
 summary: |-
@@ -12,16 +12,14 @@ summary: |-
   <br/>
 
   Data Analyst должен иметь общее представление о хранилищах данных и их обработке как в производственных условиях, так и в облаке.
-
-  <div style='font-weight&#58; bold;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</div>
 subTitle: 'Этот экзамен позволяет оценить вашу способность понимать следующие технические задачи: подготовка данных; моделирование данных; визуализация данных; анализ данных; и развертывание и поддержка поставляемых продуктов.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
-  - providerType: gsi
-    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -30,7 +28,7 @@ skills:
 - Подготовка данных (20-25%)
 - Моделирование данных (25-30%)
 - Визуализация данных (20-25%)
-- Анализ данных(10-15%)
+- Анализ данных (10-15%)
 - Развертывание и поддержка поставляемых продуктов (10-15%)
 roles:
 - data-analyst
@@ -38,10 +36,20 @@ products:
 - power-bi
 courses:
 - uid: course.da-100t00
+paths:
+- uid: learn-bizapps.get-started-data-analytics
+- uid: learn-bizapps.data-preparation-in-power-bi
+- uid: learn-bizapps.model-power-bi
+- uid: learn-bizapps.visual-data-power-bi
+- uid: learn-bizapps.data-analysis-power-bi
+- uid: learn-bizapps.manage-workspaces-datasets-power-bi
 relatedCertifications:
 - related:
     uid: certification.data-analyst-associate
 resources:
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию на Data Analyst Associate, а также о ресурсах, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -41,12 +41,11 @@ paths:
 - uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.get-started-portals
-- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 - uid: learn-dynamics.introduction-development
 - uid: learn-dynamics.extend-power-platform-model-driven-apps
 - uid: learn-dynamics.extend-power-platform-common-data-service
-- uid: learn-dynamics.extend-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42Fcm
 exams:
 - uid: exam.mb-200
@@ -61,7 +60,7 @@ resources:
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
