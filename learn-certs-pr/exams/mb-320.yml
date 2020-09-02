@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-320
 displayName: MB-320
 summary: |-
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Кандидатами на этот экзамен являются Функциональные консультанты, которые анализируют бизнес-требования и переводят эти требования в полностью готовые бизнес-процессы и решения, которые реализуют лучшие практики в отрасли. Кандидаты служат ключевым ресурсом при реализации и настройке приложений для соблюдения бизнес-требований.
   <br/>
@@ -32,7 +32,7 @@ skills:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-300
@@ -48,15 +48,15 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-manufacturing
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
-  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов

@@ -4,14 +4,20 @@ metadata:
   title: 'MCSA: Web Applications'
   description: 'MCSA: Web Applications'
 uid: certification.mcsa-web-applications-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
   <div><strong>Данная сертификация будет аннулирована 31 января 2021 года. Вы больше не сможете получить данный сертификат после этой даты. Любые сертификаты, полученные вами до даты отмены сертификации, будут по-прежнему отображаться в вашей выписке об успеваемости в <a href='https://www.microsoft.com/learning/dashboard.aspx'>панели Сертификации</a>. Вы также можете <a href='/learn/certifications/retired-certifications'>просмотреть все отмененные сертификации</a>.</strong><br/><br/></div>.
   </div>
 
   Подтвердите свои знания в сфере разработки современных веб-приложений.
+
+  Для получения сертификации MCSA&#58; Web Applications необходимо выполнить следующие требования&#58;
+  - Сдать экзамен [70-486&#58; Разработка веб-приложений ASP.NET MVC](/learn/certifications/exams/70-486)
+  - И сдать один из следующих экзаменов&#58;
+    - [70-480&#58; Программирование в HTML5 с JavaScript и CSS3](/learn/certifications/exams/70-480)
+    - [70-483&#58; Программирование в C#](/learn/certifications/exams/70-483)
 subTitle: Подтвердите свои знания в сфере разработки современных веб-приложений.
 levels:
 - intermediate
@@ -32,16 +38,16 @@ exams:
 - uid: exam.70-486
 resources:
 - title: Руководство по образовательным курсам и сертификациям
-  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации
-  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.

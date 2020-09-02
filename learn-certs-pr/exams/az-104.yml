@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Кандидаты на этот экзамен должны обладать специальными знаниями по внедрению, управлению и мониторингу среды Microsoft Azure в организации.
 
@@ -26,6 +26,9 @@ providers:
   examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
+- zh-cn
+- ko
+- ja
 levels:
 - intermediate
 skills:

@@ -1,11 +1,20 @@
 ### YamlMime:Examination
-title: 'Microsoft Azure Data Fundamentals (beta)'
+title: 'Microsoft Azure Data Fundamentals'
 metadata:
-  title: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
-  description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+  title: 'Exam DP-900: Microsoft Azure Data Fundamentals'
+  description: 'Exam DP-900: Microsoft Azure Data Fundamentals'
 uid: exam.dp-900
 displayName: DP-900
-summary: "<div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>\r\n\r\nКандидаты на этот экзамен должны иметь базовые знания основных понятий данных и того, как они реализуются с использованием служб данных Microsoft Azure.\r\n\r\nЭтот экзамен предназначен для кандидатов, начинающих работать с данными в облаке.\r\n\r\nКандидаты должны быть знакомы с понятиями реляционных и нереляционных данных, а также с различными типами рабочих нагрузок данных, такими как транзакционные или аналитические.\r\n\r\nСертификацию “Основы данных Azure” можно использовать для подготовки к получению других сертификатов Azure на основе ролей, таким как Azure Database Administrator Associate или Azure Data Engineer Associate, но это не является обязательным условием для любого из них.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">ценности и важности бета-версий экзаменов</a>.</div>"
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
+  Кандидаты на этот экзамен должны иметь базовые знания основных понятий данных и того, как они реализуются с использованием служб данных Microsoft Azure.
+
+  Этот экзамен предназначен для кандидатов, начинающих работать с данными в облаке.
+
+  Кандидаты должны быть знакомы с понятиями реляционных и нереляционных данных, а также с различными типами рабочих нагрузок данных, такими как транзакционные или аналитические.
+
+  Сертификацию “Основы данных Azure” можно использовать для подготовки к получению других сертификатов Azure на основе ролей, таким как Azure Database Administrator Associate или Azure Data Engineer Associate, но это не является обязательным условием для любого из них.
 subTitle: 'Докажите, что вы можете описать следующее: основные понятия данных; как работать с реляционными данными в Azure; как работать с нереляционными данными в Azure; аналитическая нагрузка на Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
@@ -28,6 +37,8 @@ roles:
 - database-administrator
 products:
 - azure
+courses:
+- uid: course.dp-900t00
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 - uid: learn.wwl.azure-data-fundamentals-explore-relational-data

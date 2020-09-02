@@ -7,8 +7,8 @@ uid: exam.mb-500
 displayName: MB-500
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Содержание этого экзамена было обновлено 22 мая 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.<br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Содержание этого экзамена было обновлено 22 мая 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
   </div>
 
   Кандидатами на этот экзамен являются разработчики, которые работают с приложениями Finance и Operations в Microsoft Dynamics 365 для реализации и расширения приложений в соответствии с требованиями бизнеса. Кандидаты подготавливают полностью реализованные решения, используя стандартизированные шаблоны кодирования приложений, расширяемые функции и внешние интеграции.
@@ -42,7 +42,7 @@ skills:
 roles:
 - developer
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-300
@@ -59,14 +59,14 @@ relatedCertifications:
     uid: certification.d365-finance-and-operations-apps-developer-associate
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j5
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
-  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
