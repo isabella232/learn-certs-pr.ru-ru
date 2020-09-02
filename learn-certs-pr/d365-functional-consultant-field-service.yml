@@ -6,7 +6,9 @@ metadata:
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>MB-200 БУДЕТ ЗАМЕНЕН НА НОВЫЙ ЭКЗАМЕН, <a href="/learn/certifications/exams/pl-200">PL-200</a>, В СЕНТЯБРЕ 2020 ГОДА. Вы сможете получить этот сертификат, сдав экзамены MB-200 или PL-200, а также MB-240, до тех пор, пока экзамен MB-200 не будет отменен 31 декабря 2020 года. После отмены экзамена MB-200 для получения этого сертификата необходимо будет сдать экзамен PL-200 и MB-240.</strong><br/><br/></div></div>
 
   Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
 subTitle: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
@@ -29,7 +31,7 @@ roles:
 - functional-consultant
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-field-service
 courses:
 - uid: course.mb-200t00
@@ -49,22 +51,25 @@ exams:
 - uid: exam.mb-200
 - uid: exam.mb-240
 resources:
-- title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Путешествие к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Плакат с сертификацией
-  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Обучение для получения сертификата
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
-- title: Поддержка по вопросам сертификации
-  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
-  href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
 

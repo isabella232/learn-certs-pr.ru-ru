@@ -7,8 +7,8 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Содержание этого экзамена будет обновлено 30 июля 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.<br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Содержание этого экзамена было обновлено 30 июля 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
   </div>
 
   Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
@@ -25,14 +25,14 @@ locales:
 levels:
 - advanced
 skills:
-- Содержание этого экзамена будет обновлено 30 июля 2020 года. Пожалуйста, скачайте список навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что меняется.
+- Содержание этого экзамена было обновлено 30 июля 2020 года. Пожалуйста, загрузите схему навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что изменилось.
 - Выполнение анализа решений и анализа требований (30-35%)
 - Разработка решения (45-50%)
 - Внедрение решения (20-25%)
 roles:
 - solution-architect
 products:
-- dynamics
+- dynamics-365
 - power-apps
 courses:
 - uid: course.mb-600t00
@@ -43,15 +43,15 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7FB
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
-  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов

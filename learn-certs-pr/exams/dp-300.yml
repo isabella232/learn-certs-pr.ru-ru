@@ -1,12 +1,12 @@
 ### YamlMime:Examination
-title: Administering Relational Databases on Microsoft Azure (beta)
+title: Administering Relational Databases on Microsoft Azure
 metadata:
-  title: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
-  description: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
+  title: 'DP-300: Administering Relational Databases on Microsoft Azure'
+  description: 'DP-300: Administering Relational Databases on Microsoft Azure'
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Кандидатами на этот экзамен являются администраторы баз данных и специалисты по управлению данными, которые управляют производственными площадками и облачными реляционными базами данных, созданных на основе служб данных Microsoft Azure и Microsoft SQL Server.
 
@@ -14,7 +14,7 @@ summary: |-
 
   Эта роль отвечает за управление, доступность, безопасность и мониторинг производительности, а также оптимизацию современных решений для реляционных баз данных. Специалисты этой роли работают с совместно ролью Azure Data Engineer для управления функциональными аспектами решений на платформе данных.
 
-  <div style='font-weight&#58; bold;'><br/>Баллы за бета-версии экзаменов не выставляются сразу, поскольку мы собираем информацию о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</div>
+  <div><strong><br/>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</strong></div>
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: планирование и реализация ресурсов платформы данных; внедрение безопасной среды; контроль и оптимизация операционных ресурсов; оптимизация производительности запросов; автоматизация задач; планирование и внедрение среды высокой доступности и аварийного восстановления (HADR); и осуществление администрирования с помощью T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -44,6 +44,14 @@ products:
 - sql-server
 courses:
 - uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate

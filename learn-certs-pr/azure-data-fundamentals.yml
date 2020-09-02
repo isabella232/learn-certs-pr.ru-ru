@@ -20,6 +20,8 @@ roles:
 type: fundamentals
 products:
 - azure
+courses:
+- uid: course.dp-900t00
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 - uid: learn.wwl.azure-data-fundamentals-explore-relational-data

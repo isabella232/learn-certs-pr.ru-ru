@@ -28,43 +28,45 @@ roles:
 - developer
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 courses:
 - uid: course.mb-500t00
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
+- uid: course.mb-300t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
 - uid: learn-dynamics.configure-your-organization-in-finance-and-ops
-- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.configure-analytics-reporting-finance-operations
 - uid: learn-dynamics.introduction-develop-dynamics-365-finance-operations
 - uid: learn-dynamics.build-dynamics-365-finance-operations
 - uid: learn-dynamics.extending-dynamics-365-finance-operations
 - uid: learn-dynamics.connect-to-dynamics-365-finance-operations
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42MYW
 exams:
 - uid: exam.mb-300
 - uid: exam.mb-500
 resources:
-- title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j5
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Путешествие к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rP
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Плакат с сертификацией
-  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+- title: Обучение для получения сертификата
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
-- title: Поддержка по вопросам сертификации
-  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
-  href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
 

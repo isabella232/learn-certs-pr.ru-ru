@@ -29,6 +29,7 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
+- uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
