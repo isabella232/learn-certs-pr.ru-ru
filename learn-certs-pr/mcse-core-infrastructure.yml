@@ -7,23 +7,27 @@ uid: certification.mcse-core-infrastructure
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
   <div><strong>Данная сертификация будет аннулирована 31 января 2021 года. Вы больше не сможете получить данный сертификат после этой даты. Любые сертификаты, полученные вами до даты отмены сертификации, будут по-прежнему отображаться в вашей выписке об успеваемости в <a href='https://www.microsoft.com/learning/dashboard.aspx'>панели Сертификации</a>. Вы также можете <a href='/learn/certifications/retired-certifications'>просмотреть все отмененные сертификации</a>.</strong><br/><br/></div>.
   </div>
 
   Эта сертификация подтверждает, что у вас есть навыки, необходимые для запуска высокоэффективного и современного центра обработки данных, управления идентификацией, управления системами, виртуализации, хранения и работы в сети.
 
-  Чтобы получить сертификат MCSE&#58; Core Infrastructure, сдайте один из следующих экзаменов&#58;
-  - [70-744&#58; Securing Windows Server 2016](/learn/certifications/exams/70-744)
-  - [70-745&#58; Implementing a Software-Defined Datacenter](/learn/certifications/exams/70-745)
-  - [70-413&#58; Designing and Implementing a Server Infrastructure](/learn/certifications/exams/70-413)
-  - [70-414&#58; Implementing an Advanced Server Infrastructure](/learn/certifications/exams/70-414)
-  - [70-537&#58; Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](/learn/certifications/exams/70-537)
+  Для получения сертификации MCSE&#58; Core Infrastructure необходимо выполнить следующие требования&#58;
+  - Получить один обязательный сертификат&#58;
+    - Обязательный сертификат, Вариант 1&#58; [MCSA&#58; Windows Server 2012](/learn/certifications/mcsa-windows-server-certification)
+    - Обязательный сертификат, Вариант 2&#58; [MCSA&#58; Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification)
+  - И сдать один из экзаменов на выбор&#58;
+    - [70-744&#58; Securing Windows Server 2016](/learn/certifications/exams/70-744)
+    - [70-745&#58; Implementing a Software-Defined Datacenter](/learn/certifications/exams/70-745)
+    - [70-413&#58; Designing and Implementing a Server Infrastructure](/learn/certifications/exams/70-413)
+    - [70-414&#58; Implementing an Advanced Server Infrastructure](/learn/certifications/exams/70-414)
+    - [70-537&#58; Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](/learn/certifications/exams/70-537)
 subTitle: Эта сертификация подтверждает, что у вас есть навыки, необходимые для запуска высокоэффективного и современного центра обработки данных, управления идентификацией, управления системами, виртуализации, хранения и работы в сети.
 levels:
 - advanced
 skills:
-- не требуется
+- none
 roles:
 - administrator
 type: mcse
@@ -40,6 +44,11 @@ exams:
 - uid: exam.70-744
 - uid: exam.70-745
 - uid: exam.70-413
+prerequisites:
+- uid: certification.mcsa-windows-server-certification
+  isOptional: false
+- uid: certification.mcsa-windows-server-2016-certification
+  isOptional: false
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
@@ -47,7 +56,7 @@ resources:
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
 - title: Поддержка по вопросам сертификации

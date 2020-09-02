@@ -7,8 +7,8 @@ uid: exam.mb-230
 displayName: MB-230
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Содержание этого экзамена было обновлено 1 июля 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.<br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Содержание этого экзамена будет обновлено 2 октября 2020 года. Пожалуйста, загрузите документ оцениваемых навыков ниже, чтобы узнать об изменениях.</strong><br/><br/></div>
   </div>
 
   Кандидатами на этот экзамен являются функциональные консультанты Dynamics 365 с опытом работы с клиентами. Кандидаты несут ответственность за внедрение многоканальных решений, ориентированных на обслуживание, качество, надежность, эффективность и удовлетворенность клиентов.
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена было обновлено 1 июля 2020 года. Пожалуйста, загрузите схему навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что изменилось.
+- Содержание этого экзамена будет обновлено 2 октября 2020 года. Пожалуйста, скачайте список навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что меняется.
 - Выполнение настройки (25-30%)
 - Управление случаями и базой знаний (30-35%)
 - Управление очередями, правами и SLA (25-30%)
@@ -37,7 +37,7 @@ skills:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
@@ -47,20 +47,20 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-dynamics.create-forms
+- uid: learn-dynamics.create-surveys
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
-  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

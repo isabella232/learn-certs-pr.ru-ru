@@ -6,7 +6,9 @@ metadata:
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Данная сертификация будет аннулирована 31 август 2020 года. Вы больше не сможете получить данный сертификат после этой даты. Любые сертификаты, полученные вами до даты отмены сертификации, будут по-прежнему отображаться в вашей выписке об успеваемости в<a href="https://aka.ms/certdashboard"> панели Сертификации</a>.</strong><br/><br/></div></div>
 
   Разработчики, работающие с Microsoft Power Apps и Dynamics 365, несут ответственность за проектирование, разработку, защиту и расширение реализации Dynamics 365. Кандидаты внедряют компоненты решения, включая усовершенствование приложений, пользовательский интерфейс, системные интеграции, преобразование данных, пользовательскую автоматизацию процессов и пользовательские визуализации.
 subTitle: Разработчики, работающие с Microsoft Power Apps и Dynamics 365, несут ответственность за проектирование, разработку, защиту и расширение реализации Dynamics 365.
@@ -30,7 +32,7 @@ roles:
 - developer
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-customer-engagement
 courses:
 - uid: course.mb-400t00
@@ -51,22 +53,25 @@ exams:
 - uid: exam.mb-200
 - uid: exam.mb-400
 resources:
-- title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Power Apps + Dynamics 365 Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Путешествие к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkSW
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Плакат с сертификацией
-  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Обучение для получения сертификата
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rO
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: deals.md
-- title: Поддержка по вопросам сертификации
-  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
-  href: help.md
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
 

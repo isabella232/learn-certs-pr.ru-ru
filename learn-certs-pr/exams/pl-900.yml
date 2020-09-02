@@ -6,8 +6,8 @@ metadata:
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
-  <div><div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Содержание этого экзамена было обновлено 13 июля 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.<br/><br/></div>
+  <div><div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Содержание этого экзамена было обновлено 13 июля 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
   </div>
 
   Кандидаты на сдачу этого экзамена стремятся повысить свою производительность за счет понимания возможностей Power Platform, автоматизации основных бизнес-процессов с помощью Power Automate, выполнения базового анализа данных с помощью Power BI, более эффективной работы за счет создания простых приложений Power Apps и создания мощных чат-ботов с использованием Power Virtual Agents.
@@ -17,6 +17,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nn
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
+- es
+- de
+- zh-cn
+- fr
+- ko
+- ja
 providers:
 - providerType: pearson-vue
   examUrl: 'https://examregistration.microsoft.com/?locale=ru-ru&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
@@ -47,14 +53,14 @@ relatedCertifications:
     uid: certification.power-platform-fundamentals
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Power Platform Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
-  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

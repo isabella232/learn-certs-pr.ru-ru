@@ -7,15 +7,15 @@ uid: exam.mb-400
 displayName: MB-400
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Содержание этого экзамена было обновлено 22 мая 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.<br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>ЭТОТ ЭКЗАМЕН БУДЕТ ОТМЕНЕН 31 ДЕКАБРЯ 2020 ГОДА. Для того, чтобы узнать больше <a href="https://aka.ms/microsoftlearncommunity">перейдите в наш блог</a> и посмотрите наши посты об отмене экзаменов. Примечание&#58; Экзамены будут отменены в 23&#58;59 по CST.</strong><br/><br/></div>
   </div>
 
   Кандидатами на этот экзамен являются разработчики, которые работают с управляемыми моделями приложениями Microsoft Power Apps в Dynamics 365 для проектирования, разработки, защиты и расширения реализации Dynamics 365. Кандидаты внедряют компоненты решения, которые включают в себя усовершенствования приложений, пользовательский интерфейс, системные интеграции, преобразования данных, пользовательскую автоматизацию процессов и пользовательские визуализации.
 
   Кандидаты должны обладать глубокими прикладными знаниями о приложениях Power Apps, управляемых моделями в Dynamics 365, включая глубокое понимание настройки, конфигурации, интеграции и расширяемости, а также границ и ограничений. Кандидаты должны иметь общее представление о методах DevOps для приложений на основе моделей Power Apps в Dynamics 365. Кандидаты должны уметь раскрывать, хранить и сообщать о данных.
 
-  Кандидаты должны иметь опыт разработки, который включает JavaScript, TypeScript, C #, HTML, .NET, Microsoft Azure, Office 365, веб-службы RESTful, ASP.NET и Power BI.
+  Кандидаты должны иметь опыт разработки, который включает JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, веб-службы RESTful, ASP.NET и Power BI.
 subTitle: 'Этот позволяет оценить вашу способность выполнять следующие технические задачи: создание технических проектов; настройка общих служб данных (CDS); создание и настройка Power Apps; настройка автоматизации бизнес-процессов; улучшение опыта работы пользователей; расширение платформы; и развитие интеграций.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
@@ -29,37 +29,38 @@ skills:
 - Создание технического дизайна (10-15%)
 - Настройка общих служб данных (15-20%)
 - Создание и настройка приложений Power (10-15%)
-- Настройка автоматизации бизнес-процессов (10-15 %)
-- Улучшение опыта работы пользователей (15-20 %)
-- Расширение платформы (15-20 %)
+- Настройка автоматизации бизнес-процессов (10-15%)
+- Улучшение опыта работы пользователей (15-20%)
+- Расширение платформы (15-20%)
 - Разработка интеграций (10-15%)
+retirementDate: 12/31/2020
 roles:
 - developer
 products:
-- dynamics
+- dynamics-365
 - dynamics-customer-engagement
 exams:
 - uid: exam.mb-200
 courses:
 - uid: course.mb-400t00
 paths:
-- uid: learn-dynamics.extend-power-platform-common-data-service
-- uid: learn-dynamics.extend-power-platform-model-driven-apps
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
 - uid: learn-dynamics.introduction-development
-- uid: learn-dynamics.extend-portals
+- uid: learn-dynamics.extend-power-platform-model-driven-apps
+- uid: learn-dynamics.extend-power-platform-common-data-service
 relatedCertifications:
 - related:
     uid: certification.power-apps-and-d365-developer-associate
 resources:
 - title: Обучение для получения сертификата
-  description: 'Откройте для себя учебные ресурсы, чтобы получить Microsoft Certified: Power Apps + Dynamics 365 Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rO
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
-  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
