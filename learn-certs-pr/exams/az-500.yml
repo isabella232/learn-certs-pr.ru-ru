@@ -8,7 +8,7 @@ displayName: AZ-500
 summary: |-
   <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
-  <div><strong>Содержание этого экзамена было обновлено 29 июля 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
+  <div><strong>Содержание этого экзамена будет обновлено 24 сентябре 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.</strong><br/><br/></div>
   </div>
 
   Кандидаты на этот экзамен должны обладать специальными знаниями в области управления безопасностью и защиты от угроз, управления идентификацией и доступом, а также защиты данных, приложений и сетей в облачной и гибридной средах как части комплексной инфраструктуры.
@@ -26,7 +26,7 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-500&provider=psi&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
@@ -35,7 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена было обновлено 29 июля 2020 года. Пожалуйста, загрузите схему навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что изменилось.
+- Содержание этого экзамена будет обновлено 24 сентябре 2020 года. Пожалуйста, скачайте список навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что меняется.
 - Управление идентификацией и доступом (30-35%)
 - Внедрение защиты платформы (15-20%)
 - Управление операциями безопасности (25-30%)
