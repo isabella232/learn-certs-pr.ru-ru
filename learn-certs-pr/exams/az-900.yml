@@ -8,12 +8,12 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
-  <div><strong>Содержание этого экзамена будет обновлено 15 сентябре 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать, что изменится.</strong><br/><br/></div>
+  <div><strong>Выпуск нового экзамена OD, экзамена и соответствующего обучения перенесен с 15 сентября 2020 года на начало ноября. Пожалуйста, проверьте для получения дополнительной информации. Мы будем уверены, что вы получите уведомление не менее чем за 30 дней до публикации новой версии экзамена. </strong><br/><br/></div> 
   </div>
-
-  Кандидаты на этот экзамен должны иметь базовые знания облачных служб и того, как эти службы предоставляются в Microsoft Azure. Экзамен рассчитан на кандидатов, которые только начинают работать с облачными решениями и службами или плохо знакомы с Azure.
-
-  Экзамен по основам Azure позволяет подтвердить знания облачных концепций, служб Azure, рабочих нагрузок Azure, безопасности и конфиденциальности в Azure, а также процессов ценообразования и поддержки в Azure. Кандидаты должны быть знакомы с общими концепциями технологий, включая концепции сетей, хранения, вычислений, поддержки приложений и разработки приложений.
+  
+  Кандидаты на этот экзамен должны иметь базовые знания облачных служб и того, как эти службыы предоставляются в Microsoft Azure. Экзамен предназначен для кандидатов, которые только начинают работать с облачными решениями и сервисами или являются новичками в Azure.
+  
+  Экзамен по основам Azure - это возможность подтвердить знание облачных концепций, служб Azure, рабочих нагрузок Azure, безопасности и конфиденциальности в Azure, а также ценообразования и поддержки Azure. Candidates should be familiar with the general technology concepts, including concepts of networking, storage, compute, application support, and application development.
 
   Основы Azure можно использовать для подготовки к получению других ролевых или специальных сертификатов Azure, но это не является обязательным условием для любого из них.
 subTitle: 'Этот экзамен позволяет оценить вашу способность понимать следующие концепции: концепции облачных вычислений, основные службы Azure, концепции облачной безопасности, конфиденциальности, соответствия требованиям и доверия, а также цены и поддержку Azure.'
@@ -21,12 +21,12 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
-- providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-900&provider=psi&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-900&provider=psi&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
@@ -38,7 +38,6 @@ locales:
 levels:
 - beginner
 skills:
-- Содержание этого экзамена будет обновлено 15 сентябре 2020 года. Пожалуйста, скачайте список навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что меняется.
 - Описание облачных концепций (15-20%)
 - Описание основных служб Azure (30-35%)
 - Описание безопасности, конфиденциальности, соответствия и доверия (25-30%)
@@ -80,4 +79,3 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
-
