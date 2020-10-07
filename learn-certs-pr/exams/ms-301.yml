@@ -7,8 +7,8 @@ uid: exam.ms-301
 displayName: MS-301
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Содержание этого экзамена было обновлено 31 август 2020 года. Примечание&#58; Экзамен будет отменен в 23&#58;59 по центральному стандартному времени.<br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Этот экзамен прошел 31 август 2020 года. Для получения информации о доступных на данный момент параметрах см. страницу <a href="/learn/certifications/browse/">Сертификация и Экзамены</a>.</strong><br/><br/></div>
   </div>
 
   Кандидатами на этот экзамен являются администраторы совместной работы, которые отвечают за настройку, развертывание и управление рабочими нагрузками Office 365 и Azure, ориентированными на эффективную совместную работу и внедрение. Администраторы совместной работы управляют приложениями, службами и вспомогательной инфраструктурой в соответствии с бизнес-требованиями. Администратор совместной работы должен иметь возможность развертывать, управлять, переносить и защищать SharePoint (в сети, локально и гибридно), OneDrive и группы.
@@ -20,7 +20,6 @@ summary: |-
 subTitle: 'Этот экзамен позволят оценить вашу способность выполнять следующие технические задачи: настройка и управление локальным SharePoint и настройка и управление гибридными сценариями; а также перенос в SharePoint Online.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8S
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-301&examname=Exam%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-301
 locales:
 - en
 - ja
@@ -30,6 +29,7 @@ skills:
 - Настройка и управление SharePoint on-premises (55-60%)
 - Настройка и управление гибридными сценариями (30-35%)
 - Перенос в SharePoint Online (5-10%)
+retirementDate: 08/31/2020
 roles:
 - administrator
 products:
@@ -58,7 +58,7 @@ resources:
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Повтор экзамена]
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Поддержка сертификационных экзаменов

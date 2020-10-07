@@ -1,15 +1,15 @@
 ### YamlMime:Role 
-title: Разработчик  
+title: Developer [Разработчик] 
 metadata: 
-  title: Разработчик  
+  title: Developer [Разработчик] 
   description: Разработчики проектируют, создают, тестируют и обслуживают решения. Разработчики внедряют приложения и службы, сотрудничая с архитекторами решений и клиентами.
 uid: role.developer 
 summary: | 
   Разработчики проектируют, создают, тестируют и обслуживают решения. Разработчики внедряют приложения и службы, сотрудничая с архитекторами решений и клиентами. 
-subTitle: Разработчики проектируют, создают, тестируют и обслуживают облачные решения.
+subTitle: Developers [Разработчики] проектируют, создают, тестируют и поддерживают облачные решения.
 certificationPaths: 
-- title: Разработчик Azure
-  linkedInKeywords: Разработчик Azure
+- title: Azure Developer
+  linkedInKeywords: Azure Developer
   uid: certification-path.developer 
   prerequisites: 
   - uid: certification.azure-fundamentals
@@ -30,8 +30,8 @@ certificationPaths:
   - uid: certification.d365-finance-and-operations-apps-developer-associate
     levels:
     - intermediate 
-- title: Разработчик Microsoft 365
-  linkedInKeywords: Разработчик Microsoft 365
+- title: Microsoft 365 Developer
+  linkedInKeywords: Microsoft 365 Developer
   uid: certification.m365-developer-associate
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -41,8 +41,8 @@ certificationPaths:
   - uid: certification.m365-developer-associate
     levels:
     - intermediate 
-- title: Разработчик приложений Microsoft Power Apps + Dynamics 365
-  linkedInKeywords: Разработчик приложений Microsoft Power Apps + Dynamics 365
+- title: Power Apps + Dynamics 365 Developer
+  linkedInKeywords: Power Apps + Dynamics 365 Developer
   uid: certification.power-apps-and-d365-developer-associate
   prerequisites: 
   - uid: certification.power-platform-fundamentals
@@ -55,7 +55,7 @@ certificationPaths:
 certifications:
 - uid: certification.azure-developer
   requiredExams:
-  - uid: exam.az-203
+  - uid: exam.az-204
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   requiredExams:
   - uid: exam.mb-300
@@ -65,14 +65,20 @@ certifications:
   - uid: exam.ms-600
 - uid: certification.power-apps-and-d365-developer-associate
   requiredExams:
-  - uid: exam.pl-900
+  - uid: exam.mb-400
+- uid: certification.power-platform-developer-associate
+  requiredExams:
+  - uid: exam.pl-400
+- uid: certification.azure-iot-developer-specialty
+  requiredExams:
+  - uid: exam.az-220
 resources:
-- title: Руководство по образовательным курсам и сертификациям Microsoft 
+- title: Руководство по образовательным курсам и сертификациям Microsoft
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Буклет по образовательным курсам и сертификациям
   description: Выберите свой путь к успеху с этим буклетом по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Поддержка сертификационных
+- title: Поддержка по вопросам сертификации
   href: ../help.md
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
