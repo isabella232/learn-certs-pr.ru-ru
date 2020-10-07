@@ -1,12 +1,12 @@
 ### YamlMime:Role 
-title: Администратор 
+title: Administrator 
 metadata: 
-  title: Администратор 
-  description: Администратор отвечает за реализацию, мониторинг и обслуживание решений Microsoft, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
+  title: Administrator 
+  description: Administrator [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
 uid: role.administrator 
-summary: | 
-  Администратор отвечает за реализацию, мониторинг и обслуживание решений Microsoft, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
-subTitle: Администратор отвечает за реализацию, мониторинг и обслуживание решений Microsoft.
+summary: |-
+  Administrator [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft, включая основные службы, связанные с вычислениями, хранением, сетью и безопасностью.
+subTitle: Administrator [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft.
 certificationPaths: 
 - title: Azure Administrator
   linkedInKeywords: Azure Administrator
@@ -19,11 +19,11 @@ certificationPaths:
   - uid: certification.azure-administrator
     levels:
     - intermediate
-  - uid: certification.azure-devops
+  - uid: certification.devops-engineer
     levels:
     - advanced      
-- title: 'Microsoft 365 Certified: Помощник администратора обмена сообщениями'
-  linkedInKeywords: 'Microsoft 365 Certified: Помощник администратора обмена сообщениями'
+- title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+  linkedInKeywords: 'Microsoft 365 Certified: Messaging Administrator Associate'
   uid: certification.m365-messaging-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -36,8 +36,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft 365 Certified Modern Desktop Administrator Associate
-  linkedInKeywords: Microsoft 365 Certified Modern Desktop Administrator Associate
+- title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  linkedInKeywords: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
   uid: certification.modern-desktop
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -50,8 +50,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft 365 Certified Security Administrator Associate
-  linkedInKeywords: Microsoft 365 Certified Security Administrator Associate
+- title: 'Microsoft 365 Certified: Security Administrator Associate'
+  linkedInKeywords: 'Microsoft 365 Certified: Security Administrator Associate'
   uid: certification.m365-security-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -64,8 +64,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft 365 Certified Помощник администратора по безопасности 
-  linkedInKeywords: Microsoft 365 Certified Помощник администратора по безопасности  Associate
+- title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
+  linkedInKeywords: 'Microsoft 365 Certified: Teamwork Administrator Associate'
   uid: certification.m365-teamwork-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -78,8 +78,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Администратор Групп Microsoft 
-  linkedInKeywords: Администратор Групп Microsoft 
+- title: Microsoft Teams Administrator
+  linkedInKeywords: Microsoft Teams Administrator
   uid: certification.m365-teams-administrator-associate
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -92,14 +92,13 @@ certificationPaths:
 certifications:
 - uid: certification.azure-administrator
   requiredExams:
-  - uid: exam.az-103 
-- uid: certification.azure-devops
+  - uid: exam.az-104
+- uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
-  - uid: exam.az-400
+  - uid: exam.az-120
 - uid: certification.m365-messaging-administrator
   requiredExams:
-  - uid: exam.ms-200
-  - uid: exam.ms-201
+  - uid: exam.ms-203
 - uid: certification.modern-desktop
   requiredExams:
   - uid: exam.md-100
@@ -107,10 +106,6 @@ certifications:
 - uid: certification.m365-security-administrator
   requiredExams:
   - uid: exam.ms-500
-- uid: certification.m365-teamwork-administrator
-  requiredExams:
-  - uid: exam.ms-300
-  - uid: exam.ms-301
 - uid: certification.m365-enterprise-administrator
   requiredExams:
   - uid: exam.ms-100
@@ -119,12 +114,12 @@ certifications:
   requiredExams:
   - uid: exam.ms-700
 resources:
-- title: Руководство по образовательным курсам и сертификациям Microsoft 
+- title: Руководство по образовательным курсам и сертификациям Microsoft
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Буклет по образовательным курсам и сертификациям 
+- title: Буклет по образовательным курсам и сертификациям
   description: Выберите свой путь к успеху с этим буклетом по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Поддержка сертификационных
+- title: Поддержка по вопросам сертификации
   href: ../help.md
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.

@@ -1,12 +1,12 @@
 ---
-title: Microsoft certification help | Microsoft Docs
-description: Помощь по Microsoft Certification
+title: Microsoft Certification help | Microsoft Docs
+description: Microsoft Certification help
 documentationcenter: NA
 author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 07/30/2019
+ms.date: 08/20/2020
 ms.author: micsullivan
 ---
 # Помощь по Microsoft Certification
@@ -19,5 +19,5 @@ ms.author: micsullivan
 
 | Область поддержки | Контактная информация |
 | ------------- | --- |
-| **Сертификационные экзамены Microsoft и сертификаты Microsoft** | Возможно, на ваш вопрос уже есть ответ в нашем разделе [Обзор сертификации](/learn/certifications/). <br/><br/> **Форумы поддержки по вопросам сертификации:** <br/>Получите помощь через модерируемые [форумы поддержки по вопросам сертификации](https://aka.ms/MCPForum).<br/><br/> Модератор форума ответит вам в течение одного рабочего дня. |
-| **Программа Microsoft Certified Trainer (MCT)** | Возможно, на ваш вопрос уже ответили в нашем [Обзоре программы MCT](/learn/certifications/mct-certification)<br/><br/> **Форумы поддержки MCT:** <br/> Получите помощь через модерируемые [Форумы поддержки MCT](https://aka.ms/MCTForum).<br/><br/> Модератор форума ответит вам в течение одного рабочего дня. |
+| **Сертификационные экзамены Microsoft и сертификаты Microsoft** | Возможно, на ваш вопрос уже есть ответ в нашем разделе [Обзор сертификации](/learn/certifications/). <br/><br/>  **Обновите свое официальное имя:** <br/>Отправьте запрос через [форму обновления официального имени](https://aka.ms/MSCertificationLegalNamechange).<br/><br/>  **Все остальные вопросы о поддержке:** <br/>Получите помощь через модерируемые [форумы поддержки по вопросам сертификации](https://aka.ms/MCPForum).<br/><br/> Чтобы связаться с оператором службы поддержки, нажмите на кнопку Задать вопрос вверху страницы и заполните форму.  Оператор службы поддержки ответит вам в течение 1 рабочего дня. |
+| **Программа Microsoft Certified Trainer (MCT)** | Возможно, на ваш вопрос уже ответили в нашем [Обзоре программы MCT](/learn/certifications/mct-certification)<br/><br/> **Форумы поддержки MCT:** <br/> Получите помощь через модерируемые [Форумы поддержки MCT](https://aka.ms/MCTForum).<br/><br/> Чтобы связаться с оператором службы поддержки, нажмите на кнопку Задать вопрос вверху страницы и заполните форму.  Оператор службы поддержки ответит вам в течение 1 рабочего дня. |
