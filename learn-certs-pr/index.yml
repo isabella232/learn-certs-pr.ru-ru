@@ -4,13 +4,13 @@ title: Microsoft Certifications
 summary: Получите сертификаты, подтверждающие, что вы идете в ногу с современными техническими ролями и требованиями. Выберите роль, чтобы узнать о сертификациях.
 
 roles:
-  - name: разработчик
+  - name: developer
     summary: Developers [Разработчики] проектируют, создают, тестируют и поддерживают облачные решения.
     url: /learn/certifications/roles/developer
-  - name: администратор
+  - name: administrator
     summary: Administrator [Администратор] отвечает за реализацию, мониторинг и обслуживание решений Microsoft.
     url: /learn/certifications/roles/administrator
-  - name: архитектор решений
+  - name: solution-architect
     summary: Solutions Architects [Архитектор решений] должен обладать опытом в области вычислений, сети, хранения и безопасности.
     url: /learn/certifications/roles/solutions-architect
   - name: data-engineer
@@ -25,10 +25,10 @@ roles:
   - name: devops-engineer
     summary: DevOps Engineers [Специалисты DevOps] объединяют людей, процессы и технологии для непрерывной разработки ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям.
     url: /learn/certifications/roles/devops-engineer
-  - name: инженеры по безопасности
+  - name: security-engineer
     summary: Security Engineers [Инженеры по безопасности] внедряют средства управления безопасностью и защиты от угроз, управляют удостоверениями и доступом, а также защищают данные, приложения и сети.
     url: /learn/certifications/roles/security-engineer
-  - name: функциональные консультанты
+  - name: functional-consultant
     summary: Функциональные консультанты используют Microsoft Dynamics 365 и Microsoft Power Platform для прогнозирования и планирования потребностей клиентов.
     url: /learn/certifications/roles/functional-consultant
 
