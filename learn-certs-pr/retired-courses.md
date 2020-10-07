@@ -17,6 +17,111 @@ ms.author: micsullivan
 
 ## Отмененные курсы: Обучение под руководством инструктора
 
+* Отмены курсов на 31 декабря 2020 года
+
+    | Курс № | Версия | Название | Язык | Дата отмены |
+    | --- | --- | --- | --- | --- |
+    | MB-200T00 | A | Microsoft Power Platform + Dynamics 365 Core | Английский | 31/12/2020 |
+    | MB-400T00 | A | Microsoft Power Apps + Dynamics 365 Developer | Английский | 31/12/2020 |
+
+* Отмены курсов на 30 ноября 2020 года
+
+    | Курс № | Версия | Название | Язык | Дата отмены |
+    | --- | --- | --- | --- | --- |
+    | 40512 | G | App modernization | Английский | 30/11/2020 |
+    | 40528 | G | Business continuity and disaster recovery | Английский | 30/11/2020 |
+    | 40503 | G | Enterprise-ready cloud | Английский | 30/11/2020 |
+    | 40565 | G | Modernizing Data Analytics with SQL Server 2019 | Английский | 30/11/2020 |
+    | 40533 | G | OSS PaaS and DevOps | Английский | 30/11/2020 |
+    | 40563 | G | Real-time data with Azure Database for PostgreSQL Hyperscale | Английский | 30/11/2020 |
+
+* Прекращение курсов 30 сентября 2020 г. и соответствующее прекращение поддержки курсов 30 октября 2020 г.
+
+    | Курс № | Версия | Название | Язык | Дата отмены |
+    | --- | --- | --- | --- | --- |
+    | AZ-300T01 | A | Deploying and Configuring Infrastructure | Английский | 30/09/2020 |
+    | AZ-300T01ZH | A | Deploying and Configuring Infrastructure | Китайский Упрощенный | 30/10/2020 |
+    | AZ-300T01KO | A | Deploying and Configuring Infrastructure | Корейский | 30/10/2020 |
+    | AZ-300T01JA | A | Deploying and Configuring Infrastructure | Японский | 30/10/2020 |
+    | AZ-300T02 | A | Implementing Workloads and Security | Английский | 30/09/2020 |
+    | AZ-300T02ZH | A | Implementing Workloads and Security | Китайский Упрощенный | 30/10/2020 |
+    | AZ-300T02KO | A | Implementing Workloads and Security | Корейский | 30/10/2020 |
+    | AZ-300T02JA | A | Implementing Workloads and Security | Японский | 30/10/2020 |
+    | AZ-300T03 | A | Understanding Cloud Architect Technology Solutions | Английский | 30/09/2020 |
+    | AZ-300T03ZH | A | Understanding Cloud Architect Technology Solutions | Китайский Упрощенный | 30/10/2020 |
+    | AZ-300T03KO | A | Understanding Cloud Architect Technology Solutions | Корейский | 30/10/2020 |
+    | AZ-300T03JA | A | Understanding Cloud Architect Technology Solutions | Японский | 30/10/2020 |
+    | AZ-300T04 | A | Creating and Deploying Apps | Английский | 30/09/2020 |
+    | AZ-300T04ZH | A | Creating and Deploying Apps | Китайский Упрощенный | 30/10/2020 |
+    | AZ-300T04KO | A | Creating and Deploying Apps | Корейский | 30/10/2020 |
+    | AZ-300T04JA | A | Creating and Deploying Apps | Японский | 30/10/2020 |
+    | AZ-300T06 | A | Developing for the Cloud | Английский | 30/09/2020 |
+    | AZ-300T06ZH | A | Developing for the Cloud | Китайский Упрощенный | 30/10/2020 |
+    | AZ-300T06KO | A | Developing for the Cloud | Корейский | 30/10/2020 |
+    | AZ-300T06JA | A | Developing for the Cloud | Японский | 30/10/2020 |
+    | AZ-301T01 | A | Designing for Identity and Security | Английский | 30/09/2020 |
+    | AZ-301T01ZH | A | Designing for Identity and Security | Китайский Упрощенный | 30/10/2020 |
+    | AZ-301T01KO | A | Designing for Identity and Security | Корейский | 30/10/2020 |
+    | AZ-301T01JA | A | Designing for Identity and Security | Японский | 30/10/2020 |
+    | AZ-301T02 | A | Designing a Data Platform Solution | Английский | 30/09/2020 |
+    | AZ-301T02ZH | A | Designing a Data Platform Solution | Китайский Упрощенный | 30/10/2020 |
+    | AZ-301T02KO | A | Designing a Data Platform Solution | Корейский | 30/10/2020 |
+    | AZ-301T02JA | A | Designing a Data Platform Solution | Японский | 30/10/2020 |
+    | AZ-301T03 | A | Design for Deployment, Migration, and Integration | Английский | 30/09/2020 |
+    | AZ-301T03ZH | A | Design for Deployment, Migration, and Integration | Китайский Упрощенный | 30/10/2020 |
+    | AZ-301T03KO | A | Design for Deployment, Migration, and Integration | Корейский | 30/10/2020 |
+    | AZ-301T03JA | A | Design for Deployment, Migration, and Integration | Японский | 30/10/2020 |
+    | AZ-301T04 | A | Designing an Infrastructure Strategy | Английский | 30/09/2020 |
+    | AZ-301T04ZH | A | Designing an Infrastructure Strategy | Китайский Упрощенный | 30/10/2020 |
+    | AZ-301T04KO | A | Designing an Infrastructure Strategy | Корейский | 30/10/2020 |
+    | AZ-301T04JA | A | Designing an Infrastructure Strategy | Японский | 30/10/2020 |
+
+* Отмены курсов на 31 августа 2020 года
+
+    | Курс № | Версия | Название | Язык | Дата отмены |
+    | --- | --- | --- | --- | --- |
+    | AZ-103T00 | A | Microsoft Azure Administrator | Английский | 31/08/2020 |
+    | AZ-103T00ZH | A | Microsoft Azure Administrator | Китайский Упрощенный | 31/08/2020 |
+    | AZ-103T00KO | A | Microsoft Azure Administrator | Корейский | 31/08/2020 |
+    | AZ-103T00JA | A | Microsoft Azure Administrator | Японский | 31/08/2020 |
+    | AZ-203T01 | A | Develop Azure Infrastructure as a Service compute solutions | Английский | 31/08/2020 |
+    | AZ-203T01ZH | A | Develop Azure Infrastructure as a Service compute solutions | Китайский Упрощенный | 31/08/2020 |
+    | AZ-203T01KO | A | Develop Azure Infrastructure as a Service compute solutions | Корейский | 31/08/2020 |
+    | AZ-203T01JA | A | Develop Azure Infrastructure as a Service compute solutions | Японский | 31/08/2020 |
+    | AZ-203T02 | A | Develop Azure Platform as a Service compute solutions | Английский | 31/08/2020 |
+    | AZ-203T02ZH | A | Develop Azure Platform as a Service compute solutions | Китайский Упрощенный | 31/08/2020 |
+    | AZ-203T02KO | A | Develop Azure Platform as a Service compute solutions | Корейский | 31/08/2020 |
+    | AZ-203T02JA | A | Develop Azure Platform as a Service compute solutions | Японский | 31/08/2020 |
+    | AZ-203T03 | A | Develop for Azure storage | Английский | 31/08/2020 |
+    | AZ-203T03ZH | A | Develop for Azure storage | Китайский Упрощенный | 31/08/2020 |
+    | AZ-203T03KO | A | Develop for Azure storage | Корейский | 31/08/2020 |
+    | AZ-203T03JA | A | Develop for Azure storage | Японский | 31/08/2020 |
+    | AZ-203T04 | A | Implement Azure security | Английский | 31/08/2020 |
+    | AZ-203T04ZH | A | Implement Azure security | Китайский Упрощенный | 31/08/2020 |
+    | AZ-203T04KO | A | Implement Azure security | Корейский | 31/08/2020 |
+    | AZ-203T04JA | A | Implement Azure security | Японский | 31/08/2020 |
+    | AZ-203T05 | A | Monitor, troubleshoot, and optimize Azure solutions | Английский | 31/08/2020 |
+    | AZ-203T05ZH | A | Monitor, troubleshoot, and optimize Azure solutions | Китайский Упрощенный | 31/08/2020 |
+    | AZ-203T05KO | A | Monitor, troubleshoot, and optimize Azure solutions | Корейский | 31/08/2020 |
+    | AZ-203T05JA | A | Monitor, troubleshoot, and optimize Azure solutions | Японский | 31/08/2020 |
+    | AZ-203T06 | A | Connect to and consume Azure and third-party services | Английский | 31/08/2020 |
+    | AZ-203T06ZH | A | Connect to and consume Azure and third-party services | Китайский Упрощенный | 31/08/2020 |
+    | AZ-203T06KO | A | Connect to and consume Azure and third-party services | Корейский | 31/08/2020 |
+    | AZ-203T06JA | A | Connect to and consume Azure and third-party services | Японский | 31/08/2020 |
+    | MS-200T01 | A | Understanding the Modern Messaging Infrastructure | Английский | 31/08/2020 |
+    | MS-200T02 | A | Managing Client Access and Mail Flow | Английский | 31/08/2020 |
+    | MS-200T03 | A | Managing Messaging High Availability and Disaster Recovery | Английский | 31/08/2020 |
+    | MS-201T01 | A | Defining a Hybrid Messaging Strategy | Английский | 31/08/2020 |
+    | MS-201T02 | A | Managing Messaging Security, Hygiene, and Compliance | Английский | 31/08/2020 |
+    | MS-300T01 | A | Managing Office 365 Content Services | Английский | 31/08/2020 |
+    | MS-300T02 | A | Managing SharePoint Online | Английский | 31/08/2020 |
+    | MS-300T03 | A | Enabling Microsoft Teams for Collaboration | Английский | 31/08/2020 |
+    | MS-300T04 | A | Enabling Office 365 Workloads for Collaboration | Английский | 31/08/2020 |
+    | MS-301T01 | A | Implementing SharePoint 2019 Infrastructure | Английский | 31/08/2020 |
+    | MS-301T02 | A | Implementing SharePoint 2019 Service Applications | Английский | 31/08/2020 |
+    | MS-301T03 | A | Implementing SharePoint Hybrid Scenarios | Английский | 31/08/2020 |
+    | MS-301T04 | A | Migrating to SharePoint Online | Английский | 31/08/2020 |
+
 * Отмены курсов на 30 июня 2020 года
 
     | Курс № | Версия | Название | Язык | Дата отмены |
@@ -521,7 +626,7 @@ ms.author: micsullivan
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | Немецкий | 30 июня 2018
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | Французский | 30 июня 2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | Немецкий | 30 июня 2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | Французский | 30 июня 2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | Французский | 30 июня 2018
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | Немецкий | 30 июня 2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | Французский | 30 июня 2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | Португальский | 30 июня 2018

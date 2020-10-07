@@ -1,15 +1,15 @@
 ### YamlMime:Role 
-title: Архитектор решений  
+title: Solutions Architect 
 metadata: 
-  title: Архитектор решений 
-  description: Архитектор решений должен обладать опытом в области вычислений, сети, хранения и безопасности.
+  title: Solutions Architect
+  description: Solutions Architects [Архитектор решений] должен обладать опытом в области вычислений, сети, хранения и безопасности. 
 uid: role.solution-architect  
 summary: | 
-  Архитектор решений должен обладать опытом в области вычислений, сети, хранения и безопасности.
-subTitle: Архитектор решений должен обладать опытом в области вычислений, сети, хранения и безопасности.
+  Solutions Architects [Архитектор решений] должен обладать опытом в области вычислений, сети, хранения и безопасности.
+subTitle: Solutions Architects [Архитектор решений] должен обладать опытом в области вычислений, сети, хранения и безопасности.
 certificationPaths: 
-- title: Архитектор решений Azure 
-  linkedInKeywords: Архитектор решений Azure 
+- title: Azure Solutions Architect
+  linkedInKeywords: Azure Solutions Architect
   uid: certification-path.azure-solutions-architect 
   prerequisites: 
   - uid: certification.azure-fundamentals
@@ -19,8 +19,8 @@ certificationPaths:
   - uid: certification.azure-solutions-architect
     levels:
     - advanced    
-- title: Архитектор решений для приложений Finance и  Operations Dynamics 365
-  linkedInKeywords: Архитектор решений для приложений Finance и  Operations Dynamics 365
+- title: Архитектор решений для приложений Finance и Operations Dynamics 365
+  linkedInKeywords: Архитектор решений для приложений Finance и Operations Dynamics 365
   uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -56,7 +56,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
-    - uid: certification.d365-functional-consultant-marketing
+  - uid: certification.d365-functional-consultant-marketing
     levels:
     - intermediate
   - uid: certification.d365-functional-consultant-customer-service
@@ -71,21 +71,24 @@ certificationPaths:
 certifications:
 - uid: certification.azure-solutions-architect
   requiredExams:
-  - uid: exam.az-300
-  - uid: exam.az-301
+  - uid: exam.az-303
+  - uid: exam.az-304
 - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   requiredExams:
   - uid: exam.mb-700
 - uid: certification.power-apps-and-d365-solution-architect-expert
   requiredExams:
   - uid: exam.mb-600
+- uid: certification.azure-for-sap-workloads-specialty
+  requiredExams:
+  - uid: exam.az-120
 resources:
 - title: Руководство по образовательным курсам и сертификациям Microsoft
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Буклет по образовательным курсам и сертификациям 
+- title: Буклет по образовательным курсам и сертификациям
   description: Выберите свой путь к успеху с этим буклетом по образовательным курсам и сертификациям.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Поддержка сертификационных
+- title: Поддержка по вопросам сертификации
   href: ../help.md
-  description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
