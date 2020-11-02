@@ -14,10 +14,11 @@ summary: |-
 
   Кандидаты активно сотрудничают с членами группы обеспечения качества, чтобы гарантировать соответствие решений функциональным и нефункциональным требованиям. Они выявляют, создают и доставляют артефакты для упаковки и развертывания инженерам DevOps, а также проводят обучение по эксплуатации и обслуживанию администраторов Power Platform.
 
-  <div><strong><br/>Примечание&#58; Этот экзамен будет доступен 25 сентябре 2020 года или около того.</strong></div>
-subTitle: 'Этот экзамен будет доступен 25 сентябре 2020 года или около того. Этот экзамен позволяет оценить вашу способность выполнять следующие задачи: настройка Common Data Service; создание приложения с помощью Power Apps; создание Power Automate и управление им; внедрение чат-ботов Power Virtual Agents; и интеграция Power Apps с другими приложениями и службами.'
+  <div><strong><br/>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</strong></div>
+subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие задачи: настройка Common Data Service; создание приложения с помощью Power Apps; создание Power Automate и управление им; внедрение чат-ботов Power Virtual Agents; и интеграция Power Apps с другими приложениями и службами.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 levels:
@@ -41,6 +42,20 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate

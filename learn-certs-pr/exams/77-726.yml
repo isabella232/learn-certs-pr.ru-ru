@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: |+
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Экспертные кандидаты на экзамен Word 2016 успешно используют расширенные функции Word 2016 для управления документами и контентом и для расширенного форматирования.
 
@@ -35,16 +35,18 @@ levels:
 - intermediate
 skills:
 - Управление параметрами и настройками документа (35-40%)
-- Разработка дополнительных документов (20-25%)
-- Создание расширенные ссылки (20-25%)
-- Создание пользовательских элементов Word (15-20%)
+- Управление и обмен документами (20-25%)
+- Создание сложных источников (20-25%)
+- Создание специальных элементов Word (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office
 relatedCertifications:
 - related:
     uid: certification.mos-word-2016-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

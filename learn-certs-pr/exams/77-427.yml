@@ -1,17 +1,17 @@
 ### YamlMime:Examination
-title: Excel 2013 Expert Part One
+title: Microsoft Excel 2013 Expert Part One
 metadata:
-  title: 'Exam 77-427: Excel 2013 Expert Part One'
-  description: 'Exam 77-427: Excel 2013 Expert Part One'
+  title: 'Exam 77-427: Microsoft Excel 2013 Expert Part One'
+  description: 'Exam 77-427: Microsoft Excel 2013 Expert Part One'
 uid: exam.77-427
 displayName: 77-427
 summary: |-
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Кандидаты уровня Expert (Эксперт) на прохождение экзамена Excel 2013 должны хорошо знать основы работы в среде Excel и быть способны обучать других специалистов правильному использованию возможностей Excel 2013 пакета Office Professional Plus. Кандидаты должны знать и уметь использовать расширенные и специализированные функций приложения.
 
   Кандидаты должны уметь создавать, контролировать и распространять профессиональные электронные таблицы, предназначенные для различных специализированных целей и областей применения. Кроме того, они должны уметь настраивать среды Excel для обеспечения соответствия требованиям и повышения эффективности. Примеры книги содержат пользовательские бизнес-шаблоны, несколько осевых финансовых диаграмм, таблицы амортизации и расписания инвентаризации. Экзамен рассчитан на бухгалтеров, финансовых аналитиков, специалистов по анализу данных, представителей коммерческих банков и других специалистов.
-subTitle: Кандидаты уровня Expert (Эксперт) на прохождение экзамена Excel 2013 должны хорошо знать основы работы в среде Excel и быть способны обучать других специалистов правильному использованию возможностей Excel 2013 пакета Office Professional Plus. Кандидаты должны знать и уметь использовать расширенные и специализированные функций приложения.
+subTitle: Кандидаты уровня Expert (Эксперт) на прохождение экзамена Excel 2013 должны хорошо знать основы работы в среде Excel и быть способны обучать других специалистов правильному использованию возможностей Excel 2013 пакета Office Professional Plus.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t557
 scheduleExamUrl: https://www.certiport.com/locator
@@ -28,20 +28,23 @@ locales:
 - nl
 - pt-br
 - ru
+- ar-sa
 levels:
 - beginner
 skills:
 - Управление книгами и общий доступ к книгам
 - Применение пользовательских форматов и макетов
-- Создание расширенных формул
-- Создание расширенных диаграмм и таблиц
+- Создание сложных формул
+- Создание расширенные диаграммы и таблицы
 roles:
 - business-user
 products:
 - office-excel
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.mos-excel-2013-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.

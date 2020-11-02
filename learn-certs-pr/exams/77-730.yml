@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
 uid: exam.77-730
 displayName: 77-730
-summary: |+
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Успешные кандидаты на экзамен Access 2016 имеют фундаментальное понимание среды приложения. Они должны знать основные принципы проектирования баз данных и уметь самостоятельно выполнять задачи. Они знают и демонстрируют правильное применение основных функций Access 2016 и демонстрируют способность создавать и поддерживать базовые объекты базы данных Access, включая таблицы, связь, формы ввода данных, многоуровневые отчеты и многосетевые запросы.
 
@@ -37,7 +37,7 @@ skills:
 - Создание форм (15-20%)
 - Создание отчетов (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office-access
 relatedCertifications:
