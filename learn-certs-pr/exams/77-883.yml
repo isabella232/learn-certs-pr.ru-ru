@@ -6,7 +6,7 @@ metadata:
 uid: exam.77-883
 displayName: 77-883
 summary: |-
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Типичным кандидатом на экзамен является студент, офисный работник или преподаватель, которому необходимо знать PowerPoint 2010 на функциональном уровне.
 
@@ -14,31 +14,20 @@ summary: |-
 subTitle: Типичным кандидатом на экзамен является студент, офисный работник или преподаватель, которому необходимо знать PowerPoint 2010 на функциональном уровне.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-cn
-- zh-tw
-- de
-- es
-- fr
-- ja
-- ko
-- nl
-- ru
 - ar-sa
-- it
-- pt-br
 levels:
 - beginner
 skills:
 - Управление средой PowerPoint
-- Создание презентации слайдов
+- Создание слайд-презентации
 - Работа с графическими и мультимедийными элементами
-- Создание диаграмм и таблиц
-- применять переходы и анимацию
+- Создание диаграммы и таблицы
+- Применение переходов и анимации
 - Совместная работа над презентациями
-- Подготовка презентаций к представлению
-- Представление презентаций
+- Подготовка презентаций
+- Проведение презентаций
 roles:
 - business-user
 products:
@@ -47,7 +36,7 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Exam Replay [Повтор экзамена]
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Панель управления сертификацией

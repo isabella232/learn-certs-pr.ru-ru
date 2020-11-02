@@ -16,8 +16,8 @@ summary: |-
 
   Кандидаты на этот экзамен обычно специализируются на одном или нескольких наборах функций Business Central. Они понимают роль взаимосвязи Business Central и набора приложений Dynamics 365.
 
-  <div><strong><br/>Примечание&#58; Этот экзамен станет доступен в октябре 2020 года.</strong></div>
-subTitle: 'Этот экзамен станет доступен в октябре 2020 года. Этот экзамен позволяет оценить вашу способность выполнять следующие задачи: настройка Business Central; настройка финансовых данных; настройка продаж и закупок; и выполнение операций Business Central.'
+  <div><strong><br/>Примечание&#58; Этот экзамен будет доступен 6 октября 2020 года или около того.</strong></div>
+subTitle: 'Этот экзамен будет доступен 6 октября 2020 года или около того. Этот экзамен позволяет оценить вашу способность выполнять следующие задачи: настройка Business Central; настройка финансовых данных; настройка продаж и закупок; и выполнение операций Business Central.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
@@ -34,6 +34,19 @@ roles:
 products:
 - dynamics-business-central
 - power-platform
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate

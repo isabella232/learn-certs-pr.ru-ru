@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
 uid: exam.77-729
 displayName: 77-729
-summary: |+
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Успешные кандидаты будут иметь фундаментальное понимание среды PowerPoint и продемонстрировать правильное применение PowerPoint 2016. Кандидаты должны уметь создавать, редактировать и улучшать презентации и слайд-шоу. Примеры презентаций включают презентации профессионального уровня, обучение сотрудников, учебные материалы и слайд-шоу в киосках.
 
@@ -41,18 +41,20 @@ locales:
 levels:
 - intermediate
 skills:
-- Создание и управление презентациями (30-35%)
-- Вставьте и отформатируйте текст, фигуры и изображения (20-25%)
+- Создание презентаций и управление ими (30-35%)
+- Вставка и форматирование текста, фигур и изображений (20-25%)
 - Вставка таблиц, диаграмм, SmartArt и мультимедийных объектов (20-25%)
-- применять переходы и анимацию (10-15%)
+- Применение переходов и анимации (10-15%)
 - Управление несколькими презентациями (5-10%)
 roles:
-- developer
+- business-user
 products:
 - office-powerpoint
 relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2016
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

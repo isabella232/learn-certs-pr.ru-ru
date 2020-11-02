@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights'
 uid: exam.77-728
 displayName: 77-728
-summary: |+
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Экспертные кандидаты на экзамен Excel 2016 имеют передовое понимание среды Excel и имеют возможность направлять других к правильному использованию функций программы.
 
@@ -36,15 +36,17 @@ levels:
 skills:
 - Управление параметрами и настройками книги (10-15%)
 - Применение пользовательских форматов данных и макетов (20-25%)
-- Создание расширенных формул (35-40%)
-- Создание расширенных графиков и таблиц (25-30%)
+- Создание сложных формул (35-40%)
+- Создание расширенные диаграммы и таблицы (25-30%)
 roles:
-- developer
+- business-user
 products:
 - office
 relatedCertifications:
 - related:
     uid: certification.mos-excel-2016-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.

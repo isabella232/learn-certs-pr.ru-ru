@@ -2,12 +2,13 @@
 title: Microsoft Learning Azure Passes | Microsoft Docs
 description: Microsoft Learning Azure Passes
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 04/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 
 # Доступ к Microsoft Learning Azure Pass для студентов авторизованных партнеров Microsoft Learning
@@ -19,8 +20,6 @@ ms.author: micsullivan
 Microsoft предлагает вашим студентам бесплатный 30-дневный допуск Microsoft Azure Pass при регистрации на соответствующие курсы Azure, с использованием официальных курсов Microsoft. Допуски для студентов могут быть получены только авторизованным партнером по обучению Microsoft через Courseware Marketplace. Они напрямую связаны с покупкой курса MOC и имеют ограничение - один допуск на один заказанный курс MOC. Никаких других способов получения допусков для студентов не будет. Если Партнер по обучению заказывает курс MOC, но не выбирает допуск в Azure, который доступен с курсом на момент покупки, у Партнера будет возможность вернуться на Courseware Marketplace и впоследствии при необходимости заказать этот допуск.
 
 Партнеры, ознакомьтесь с Условиями использования допусков в Azure, распространяемых через Coursewareа Marketplace [здесь](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions). Допуск будет действителен в течение 90 дней с момента его приобретения на Courseware Marketplace. Допуски с истекшим сроком действия не могут быть переизданы
-
-Допуски не предоставляются и не могут быть использованы для курсов или тренингов, которые проводят не Партнеры по обучению или MCT преподаватели, не связанные с текущим партнером по обучению. Допуск не может быть получен или использован для несоответствующих курсов, таких как Community Courseware.
 
 Преподавателям MCT разрешено запрашивать один допуск для подготовки к своему курсу по Azure. Это предложение по-прежнему актуально, и MCT могут запросить допуск свой допуск для подготовки к курсу по Azure [здесь](https://vouchers.cloudapp.net/AzurePass/), однако оно может быть прекращено в любое время.
 

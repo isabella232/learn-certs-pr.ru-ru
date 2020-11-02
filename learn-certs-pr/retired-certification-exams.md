@@ -2,12 +2,13 @@
 title: Microsoft Retired Exam | Microsoft Docs
 description: Microsoft Retired Exam
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Запланированные к отмене экзамены
 
@@ -42,7 +43,7 @@ ms.author: micsullivan
 | [70-740](/learn/certifications/exams/70-740): Installation, Storage, and Compute with Windows Server 2016 |
 | [70-741](/learn/certifications/exams/70-741): Networking with Windows Server 2016 |
 | [70-742](/learn/certifications/exams/70-742): Identity with Windows Server 2016 |
-| [70-743](/learn/certifications/exams/70-743): Upgrading Your Skills to MCSA: Windows Server 2016'
+| [70-743](/learn/certifications/exams/70-743): Upgrading Your Skills to MCSA: Windows Server 2016 |
 | [70-744](/learn/certifications/exams/70-744): Securing Windows Server 2016 |
 | [70-745](/learn/certifications/exams/70-745): Implementing a Software-Defined Datacenter |
 | [70-761](/learn/certifications/exams/70-761): Querying Data with Transact-SQL |
@@ -59,16 +60,10 @@ ms.author: micsullivan
 | [MB6-897](/learn/certifications/exams/mb6-897): Microsoft Dynamics 365 for Retail |
 | [MB6-898](/learn/certifications/exams/mb6-898): Microsoft Dynamics 365 for Talent |
 
-| Retiring on December 31, 2020 |
+| Будут отменены 31 Декабрь 2020 года |
 | --- |
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
-
-| Будут отменены 30 сентябрь 2020 года |
-| --- |
-| [AZ-300](/learn/certifications/exams/AZ-300): Microsoft Azure Architect Technologies |
-| [AZ-301](/learn/certifications/exams/AZ-301): Microsoft Azure Architect Design |
-
 
 ## Экзамены, которые были отменены недавно
 
@@ -84,6 +79,8 @@ ms.author: micsullivan
 | AZ-201 | Microsoft Azure Developer Advanced Solutions (выпущено 24 сентябрь 2018 г) | 3 январь 2019 года
 | AZ-202 | Microsoft Azure Developer Certification Transition (выпущен 24 сентября 2018 года) | 31 марта 2019 года
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | 31 август 2020 года
+| [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 30, сентябре 2020
+| [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | 30 сентябрь 2020
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 30 июня 2019 года
 | [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | 31 август 2020 года
 | [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | 31 август 2020 года

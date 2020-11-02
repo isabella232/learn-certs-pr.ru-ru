@@ -2,16 +2,14 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: Эта сертификация будет доступна 25 сентябре 2020 года или около того. Power Platform Functional Consultant должен обладать глубокими практическими знаниями о Power Platform, включая практическое понимание возможностей и ограничений.
+  description: Power Platform Functional Consultant должен обладать глубокими практическими знаниями о Power Platform, включая практическое понимание возможностей и ограничений.
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></font></div>
 
   Power Platform Functional Consultant должен обладать глубокими практическими знаниями о Power Platform, включая практическое понимание возможностей и ограничений. Они должны иметь практический опыт, используя инструменты производителя Power Platform для создания решений, использующих Power Platform и Microsoft 365. Сертифицированные функциональные консультанты должны обладать навыками моделирования данных, проектирования пользовательского интерфейса, анализа требований и анализа процессов.
-
-  <div><br/><strong>Примечание&#58; Эта сертификация будет доступна 25 сентябре 2020 года или около того.</strong></div>
-subTitle: Эта сертификация будет доступна 25 сентябре 2020 года или около того. Power Platform Functional Consultant должен обладать глубокими практическими знаниями о Power Platform, включая практическое понимание возможностей и ограничений.
+subTitle: Power Platform Functional Consultant должен обладать глубокими практическими знаниями о Power Platform, включая практическое понимание возможностей и ограничений.
 levels:
 - intermediate
 skills:
@@ -34,6 +32,20 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4D1eL
 exams:
 - uid: exam.pl-200
@@ -43,7 +55,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Путешествие к сертификации
   description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Gn93
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

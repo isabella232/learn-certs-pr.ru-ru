@@ -2,12 +2,13 @@
 title: Microsoft Certification help | Microsoft Docs
 description: Microsoft Certification help
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/20/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Помощь по Microsoft Certification
 

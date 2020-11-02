@@ -1,11 +1,11 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform App Maker (beta)'
+title: 'Microsoft Power Platform App Maker'
 metadata:
-  title: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
-  description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+  title: 'Exam PL-100: Microsoft Power Platform App Maker'
+  description: 'Exam PL-100: Microsoft Power Platform App Maker'
 uid: exam.pl-100
 displayName: PL-100
-summary: "<div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>\r\n  \r\nПроизводители приложений создают решения для упрощения, автоматизации и преобразования задач и процессов для себя и своей команды, и в этом они обладают глубокими знаниями в области решений. Кандидаты должны разбираться в ключевых задачах технического бизнес-аналитика, таких как моделирование данных, базовый дизайн UX, анализ требований, анализ процессов и т. д.<br/><br/>\r\n\r\nКонструктор приложений App Maker создает и поддерживает бизнес-процессы, структурирует цифровой сбор информации, повышает эффективность повторяемых задач и автоматизирует бизнес-процессы.\r\n\r\nКонструктор приложений App Maker использует инструменты конструктора Power Platform для решения бизнес-задач. Они могут иметь опыт работы с Visual Basic для приложений, сводными таблицами Excel, командами и другими инструментами. Они должны иметь базовое понимание моделей данных, пользовательского интерфейса и процессов. App Maker знают о возможностях и ограничениях доступных инструментов и понимают, как их применять.\r\n\r\nApp Maker является самостоятельным и ориентированным на решение. Возможно они не проходили формальное обучение по ИТ, но им удобно использовать технологии для решения бизнес-задач и они настроены на личностный рост. Они понимают оперативную потребность и видят желаемый результат. Они подходят к проблемам с использованием поэтапных и итеративных стратегий.\r\n\r\n<div><strong><br/>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. Узнайте больше о <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">ценности и важности бета-версий экзаменов</a>.</strong></div>"
+summary: "<div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>\n  \nКонструктор приложений App Maker создает решения для упрощения, автоматизации и преобразования задач и процессов для себя и своей команды, обладая глубокими знаниями в области бизнес-решений. Кандидаты должны разбираться в ключевых задачах технического бизнес-аналитика, таких как моделирование данных, базовый дизайн UX, анализ требований, анализ процессов и т. д.<br/><br/>\n\nКонструктор приложений App Maker создает и поддерживает бизнес-процессы, структурирует цифровой сбор информации, повышает эффективность повторяемых задач и автоматизирует бизнес-процессы.\n\nКонструктор приложений App Maker использует инструменты конструктора Power Platform для решения бизнес-задач. Они могут иметь опыт работы с Visual Basic для приложений, сводными таблицами Excel, командами и другими инструментами. Они должны иметь базовое понимание моделей данных, пользовательского интерфейса и процессов. App Maker знают о возможностях и ограничениях доступных инструментов и понимают, как их применять.\n\nApp Maker является самостоятельным и ориентированным на решение. Возможно они не проходили формальное обучение по ИТ, но им удобно использовать технологии для решения бизнес-задач и они настроены на личностный рост. Они понимают оперативную потребность и видят желаемый результат. Они подходят к проблемам с использованием поэтапных и итеративных стратегий."
 subTitle: 'Этот экзамен оценивает вашу способность выполнять следующие технические задачи: проектирование решений; создание решений; анализ данных; внедрение решений и управление ими.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
@@ -13,16 +13,16 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=PL-100&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=PL-100&provider=psi&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Проектирование решений (10-15%)
+- Разработка решений (10-15%)
 - Создание решений (55-60%)
 - Анализ и визуализация данных (5-10%)
-- Внедрение решений и управление ими (15-20%)
+- Внедрение и управление решениями (15-20%)
 roles:
 - business-analyst
 - business-owner

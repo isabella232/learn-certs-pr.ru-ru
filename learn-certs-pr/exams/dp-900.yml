@@ -6,7 +6,10 @@ metadata:
 uid: exam.dp-900
 displayName: DP-900
 summary: |-
+  <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Содержание этого экзамена будет обновлено 22 октября 2020 года. Пожалуйста, загрузите документ оцениваемых навыков ниже, чтобы узнать об изменениях.</strong><br/><br/></div>
+  </div>
 
   Кандидаты на этот экзамен должны иметь базовые знания основных понятий данных и того, как они реализуются с использованием служб данных Microsoft Azure.
 
@@ -18,17 +21,27 @@ summary: |-
 subTitle: 'Докажите, что вы можете описать следующее: основные понятия данных; как работать с реляционными данными в Azure; как работать с нереляционными данными в Azure; аналитическая нагрузка на Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+practiceTestUrl: https://in.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 - providerType: gsi
   examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-900&provider=psi&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- fr
+- de
+- es
 levels:
 - beginner
 skills:
-- Описание основных понятий данных (15-20%)
+- Содержание этого экзамена будет обновлено 22 октября 2020 года. Пожалуйста, скачайте список навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что меняется.
+- описывать основные концепции данных (15-20%)
 - Описание того, как работать с реляционными данными в Azure (25-30%)
 - Описание того, как работать с нереляционными данными в Azure (25-30%)
 - Описание рабочую нагрузку аналитики в Azure (25-30%)

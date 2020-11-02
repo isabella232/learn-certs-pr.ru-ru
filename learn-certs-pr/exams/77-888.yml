@@ -6,29 +6,25 @@ metadata:
 uid: exam.77-888
 displayName: 77-888
 summary: |-
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Пользователи Microsoft Office Excel 2010 экспертного уровня могут уверенно использовать программное обеспечение Excel 2010 на функциональном уровне. Пользователи экспертного уровня могут работать с расширенными, функциями, формулами и инструментами анализа данных. Пользователи экспертного уровня могут работать с данными для целей анализа, презентации и совместной работы. Кроме того, пользователи экспертного уровня могут управлять параметрами Excel для настройки среды в соответствии с различными потребностями и с целью повышения производительности.
 subTitle: Пользователи Microsoft Office Excel 2010 экспертного уровня могут уверенно использовать программное обеспечение Excel 2010 на функциональном уровне. Пользователи экспертного уровня могут работать с расширенными, функциями, формулами и инструментами анализа данных. Пользователи экспертного уровня могут работать с данными для целей анализа, презентации и совместной работы. Кроме того, пользователи экспертного уровня могут управлять параметрами Excel для настройки среды в соответствии с различными потребностями и с целью повышения производительности.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=77-888&examname=Excel%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-888
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - zh-cn
 - zh-tw
-- de
-- es
-- fr
 - ja
 - ko
 - nl
 - ar-sa
-- it
 - pt-br
 levels:
 - beginner
 skills:
-- Совместное использование и ведение рабочих книг
+- Совместное использование и ведение книг
 - Применение формул и функций
 - Визуальное представление данных
 - Работа с макросами и формами
@@ -40,7 +36,7 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Exam Replay [Повтор экзамена]
+- title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
 - title: Панель управления сертификацией

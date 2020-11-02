@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
-  description: Эта сертификация будет доступна 25 сентябре 2020 года или около того. Кандидаты на сертификацию Microsoft Power Platform Developer Associate умеют проектировать, разрабатывать, обеспечивать защиту и устранять неполадки решений Power Platform.
+  description: Кандидаты на сертификацию Microsoft Power Platform Developer Associate умеют проектировать, разрабатывать, обеспечивать защиту и устранять неполадки решений Power Platform.
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -13,15 +13,13 @@ summary: |-
   Кандидаты должны иметь глубокие практические знания о службах Power Platform. Кандидаты также должны иметь глубокое понимание своих возможностей и ограничений. Они должны иметь общее представление о применении DevOps для платформы Power Platform.
 
   Их опыт разработки для этой роли должен включать службы Power Platform, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, веб-службы RESTful, ASP.NET и Power BI.
-
-  <div><br/><strong>Примечание&#58; Эта сертификация будет доступна 25 сентябре 2020 года или около того.</strong></div>
-subTitle: Эта сертификация будет доступна 25 сентябре 2020 года или около того. Кандидаты на сертификацию Microsoft Power Platform Developer Associate умеют проектировать, разрабатывать, обеспечивать защиту и устранять неполадки решений Power Platform.
+subTitle: Кандидаты на сертификацию Microsoft Power Platform Developer Associate умеют проектировать, разрабатывать, обеспечивать защиту и устранять неполадки решений Power Platform.
 levels:
 - intermediate
 skills:
 - Создание технического дизайна
 - Настройка общих служб данных
-- Создание и настройка приложений Power
+- Создание и настройка Power Apps
 - Настройка автоматизации бизнес-процессов
 - Улучшение опыта работы пользователей
 - Расширение платформы
@@ -33,6 +31,16 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
 exams:
 - uid: exam.pl-400

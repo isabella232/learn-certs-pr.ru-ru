@@ -7,7 +7,8 @@ uid: exam.da-100
 displayName: DA-100
 summary: |-
   <div>
-  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Подробнее</a>.</strong></font><br/><br/></div><div><strong>Содержание этого экзамена будет обновлено 24 сентябре 2020 года. Пожалуйста, загрузите документ оцениваемых навыков ниже, чтобы узнать об изменениях.</strong><br/><br/></div>
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Содержание этого экзамена было обновлено 24 сентябрь 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
   </div>
 
   Data Analysts помогают компаниям максимизировать стоимость своих активов данных с помощью Microsoft Power BI. Являясь экспертом в данной области, Data Analyst отвечает за проектирование и построение масштабируемых моделей данных, очистку и преобразование данных, а также за предоставление расширенных аналитических возможностей, которые обеспечивают значимую ценность для бизнеса с помощью простой для понимания визуализации данных. Data Analyst также сотрудничает с ключевыми заинтересованными сторонами в отраслевой вертикали для предоставления соответствующей информации на основе определенных бизнес-требований.
@@ -21,7 +22,7 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DA-100&provider=psi&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 locales:
 - en
 - zh-cn
@@ -30,9 +31,9 @@ locales:
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена будет обновлено 24 сентябре 2020 года. Пожалуйста, скачайте список навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что меняется.
+- Содержание этого экзамена было обновлено 24 сентябрь 2020 года. Пожалуйста, загрузите схему навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что изменилось.
 - Подготовка данных (20-25%)
-- Моделирование данных (25-30%)
+- Смоделируйте данные (25-30%)
 - Визуализация данных (20-25%)
 - Анализ данных (10-15%)
 - Развертывание и поддержка поставляемых продуктов (10-15%)
