@@ -5,15 +5,18 @@ metadata:
   description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>\r\n\r\nКандидаты на этот экзамен должны обладать базовыми знаниями о понятиях машинного обучения (ML) и искусственного интеллекта (AI) и связанных с этим службах Microsoft Azure.\r\n\r\nЭтот экзамен дает возможность продемонстрировать знания об общих рабочих нагрузках ML и AI и о том, как их реализовать в Azure.  \r\n\r\nЭтот экзамен предназначен для кандидатов с техническим и нетехническим образованием. Опыт работы с данными и разработки программного обеспечения не требуется; однако, некоторые общие знания или опыт программирования будут полезны.  \r\n\r\nОсновы Azure AI можно использовать для подготовки к получению других сертификатов на основе ролей Azure, таким как Azure Data Scientist Associate или Azure AI Engineer Associate, но это не является обязательным условием для любого из них."
+summary: "<div>\n<div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>\n<div><strong>Содержание этого экзамена будет обновлено 22 октября 2020 года. Пожалуйста, загрузите документ оцениваемых навыков ниже, чтобы узнать об изменениях.</strong><br/><br/></div>\n</div>\n\nКандидаты на этот экзамен должны обладать базовыми знаниями о понятиях машинного обучения (ML) и искусственного интеллекта (AI) и связанных с этим службах Microsoft Azure.\n\nЭтот экзамен дает возможность продемонстрировать знания об общих рабочих нагрузках ML и AI и о том, как их реализовать в Azure.  \n\nЭтот экзамен предназначен для кандидатов с техническим и нетехническим образованием. Опыт работы с данными и разработки программного обеспечения не требуется; однако, некоторые общие знания или опыт программирования будут полезны.  \n\nОсновы Azure AI можно использовать для подготовки к получению других сертификатов на основе ролей Azure, таким как Azure Data Scientist Associate или Azure AI Engineer Associate, но это не является обязательным условием для любого из них."
 subTitle: 'Докажите, что вы можете описать следующее: Рабочая нагрузка и особенности AI; фундаментальные принципы машинного обучения на Azure; особенности рабочих нагрузок компьютерного зрения на Azure; особенности рабочих нагрузок естественной языковой обработки Natural Language Processing (NLP) в Azure; и особенности диалоговых рабочих нагрузок AI в Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+practiceTestUrl: https://www.mindhub.com/p/MU-AI-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 locales:
 - en
 - ja
@@ -25,10 +28,11 @@ locales:
 levels:
 - beginner
 skills:
+- Содержание этого экзамена будет обновлено 22 октября 2020 года. Пожалуйста, скачайте список навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что меняется.
 - Описание рабочих нагрузок и особенностей AI (15-20%)
 - Описание основных принципов машинного обучения на Azure (30-35%)
 - Описание особенностей рабочих нагрузок компьютерного зрения в Azure (15-20%)
-- Описание особенностей рабочих нагрузок обработки естественного языка Natural Language Processing (NLP) в Azure (15–20%)
+- Описание особенностей рабочих нагрузок обработки естественного языка Natural Language Processing (NLP) в Azure (15-20%)
 - Описание особенностей рабочих нагрузок диалогового AI в Azure (15-20%)
 roles:
 - ai-engineer

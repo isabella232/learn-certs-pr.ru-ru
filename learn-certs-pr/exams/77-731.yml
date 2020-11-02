@@ -1,12 +1,12 @@
 ### YamlMime:Examination
-title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
+title: 'Outlook 2016: Core Communication, Collaboration, and Email Skills'
 metadata:
-  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
-  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills'
+  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: |+
-  <div style='color&#58; red;'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
 
   Успешные кандидаты будут создавать и редактировать профессионально выглядящие сообщения электронной почты, вести календари в часовых поясах и планировать задания для различных целей и ситуаций. Кандидаты должны уметь создавать профессионально оформленные письма и календари и планировать встречи в Outlook 2016. Примеры приложений включают координацию ресурсов здания, отправку сообщений для маркетинговых кампаний, планирование собраний персонала и назначение элементов мероприятия собрания.
 
@@ -35,10 +35,10 @@ levels:
 skills:
 - Управление средой Outlook для производительности (20-25%)
 - Управление сообщениями (35-40%)
-- Управление расписаниями (35-40%)
+- Управление планирования (35-40%)
 - Управление контактами и группами (10-15%)
 roles:
-- developer
+- business-user
 products:
 - office-outlook
 relatedCertifications:

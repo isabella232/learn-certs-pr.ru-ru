@@ -1,19 +1,19 @@
 - name: Сертификации Microsoft
   href: index.yml
-- name: Offers
+- name: Предложения
   href: deals.md
 - name: Корпоративное лицензирование
   href: volume-licensing-program.md
 - name: Microsoft Learning Partners
   href: partners.md
 - name: Отмененные сертификации, экзамены и курсы
-  expanded: ложный
+  expanded: false
   items:
   - name: Аннулированные сертификации
     href: retired-certifications.md
   - name: Отмененные экзамены
     href: retired-certification-exams.md 
-  - name: Отставные курсы
+  - name: Отмененные курсы
     href: retired-courses.md
 - name: Станьте сертифицированным инструктором Microsoft
   href: mct-certification.md
@@ -21,13 +21,38 @@
   href: certification-exams.md
 - name: Значки экзаменационной сертификации Microsoft
   href: badges.md
-- name: Про онлайн-экзамены
+- name: Об онлайн-экзаменах с Pearson VUE
   href: online-exams.md
+- name: Об онлайн-экзаменах с PSI
+  href: online-exams-psi.md
 - name: Правила проведения экзаменов и часто задаваемые вопросы
-  href: certification-exam-policies.md
+  expanded: false
+  items:
+  - name: Краткий обзор процедуры экзамена
+    href: exam-process-overview.md  
+  - name: Правила безопасности экзамена и порядок повторной сдачи экзамена
+    href: exam-security-policy-and-exam-retake-policy.md
+  - name: Порядок переноса и отмены экзаменов
+    href: exam-reschedule-and-cancellation-policy.md
+  - name: Соглашение о программе сертификации Microsoft
+    href: microsoft-certification-program-agreement.md
+  - name: Соглашение о неразглашении информации об экзамене Microsoft
+    href: microsoft-exam-non-disclosure-agreement.md
+  - name: Запрос специальных условий
+    href: request-accommodations.md
+  - name: Процедура оспаривания экзаменационных заданий
+    href: exam-item-challenge-process.md
+  - name: Бета-экзамены
+    href: beta-exams.md
+  - name: Получение кредитов за сертификационные экзамены
+    href: college-credit-for-certification-exams.md
+  - name: Студенческие скидки
+    href: student-discounts.md
 - name: Помощь по сертификации
   href: help.md
-- name: Microsoft Certification program FAQs 
+- name: Помощь по Microsoft Official Courseware (MOC)
+  href: certification-and-training-help.md
+- name: Часто задаваемые вопросы о программе сертификации Microsoft 
   href: microsoft-certification-program-faqs.md
-- name: Поиск на Microsoft Learning.
+- name: Перемещение Microsoft Learning ...
   href: learnfaq.md

@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
-  description: Эта сертификация станет доступна в октябре 2020 года. Функциональные консультанты Dynamics 365 Business Central отвечают за внедрение основных процессов настройки приложений для малого и среднего бизнеса.
+  description: Эта сертификация будет доступна 6 октября 2020 года или около того. Функциональные консультанты Dynamics 365 Business Central отвечают за внедрение основных процессов настройки приложений для малого и среднего бизнеса.
 uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -10,8 +10,8 @@ summary: |-
 
   Функциональные консультанты Dynamics 365 Business Central отвечают за внедрение основных процессов настройки приложений для малого и среднего бизнеса.
 
-  <div><br/><strong>Примечание&#58; Эта сертификация станет доступна в октябре 2020 года.</strong></div>
-subTitle: Эта сертификация станет доступна в октябре 2020 года. Функциональные консультанты Dynamics 365 Business Central отвечают за внедрение основных процессов настройки приложений для малого и среднего бизнеса.
+  <div><br/><strong>Примечание&#58; Эта сертификация будет доступна 6 октября 2020 года или около того.</strong></div>
+subTitle: Эта сертификация будет доступна 6 октября 2020 года или около того. Функциональные консультанты Dynamics 365 Business Central отвечают за внедрение основных процессов настройки приложений для малого и среднего бизнеса.
 levels:
 - intermediate
 skills:
@@ -25,6 +25,19 @@ type: role-based
 products:
 - dynamics-business-central
 - power-platform
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSG
 exams:
 - uid: exam.mb-800

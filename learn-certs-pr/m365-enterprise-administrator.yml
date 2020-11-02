@@ -10,18 +10,18 @@ summary: |-
 
   Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
 
-  <div><br/><strong>Сертификация MCSE Productivity Solutions Expert будет прекращена 31 января 2021 года. Следовательно, сертификация MCSE Productivity Solutions Expert не будет считаться обязательным параметром для сертификации Microsoft 365 Certified&#58; Enterprise Administrator Expert после 31 января 2022 г. (через 1 год после прекращения MCSE).</strong></div>
+  <div><br/><strong>MCSE&#58; Productivity Solutions Expert будет прекращена 31 января 2021 года. Он будет по-прежнему квалифицироваться как предварительный вариант для этой сертификации до 31 января 2022 года. (через год после отмены этой сертификации).</strong></div>
 subTitle: Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
 levels:
 - advanced
 skills:
-- Проектирование и внедрение служб Microsoft 365
+- Разработка и внедрение служб Microsoft 365
 - Управление идентификацией и ролями пользователей
 - Управление доступом и аутентификацией
-- Планирование рабочих пространств и приложений Office 365
+- Планирование рабочих нагрузок и приложений Office 365
 - Внедрение служб современных устройств
-- Внедрение Microsoft 365 для обеспечения безопасности и управления угрозами
-- Управление руководством и соответствием в Microsoft 365
+- Внедрение функций безопасности Microsoft 365 и управления угрозами
+- Управление инструментами корпоративного управления и соответствия Microsoft 365
 roles:
 - administrator
 type: role-based
@@ -32,8 +32,6 @@ courses:
 - uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
-  isOptional: false
-- uid: certification.m365-teamwork-administrator
   isOptional: false
 - uid: certification.m365-security-administrator
   isOptional: false

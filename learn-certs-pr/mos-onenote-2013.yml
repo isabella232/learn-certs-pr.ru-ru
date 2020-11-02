@@ -1,0 +1,42 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: OneNote 2013'
+metadata:
+  title: 'Microsoft Office Specialist: OneNote 2013'
+  description: 'Специалист Microsoft Office: OneNote 2013'
+uid: certification.mos-onenote-2013
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+
+  Эта сертификация демонстрирует, что вы имеете фундаментальное представление о среде Microsoft OneNote 2013 и можете выполнять задачи независимо. Кандидаты должны знать и демонстрировать правильное применение основных функций OneNote 2013.
+subTitle: Эта сертификация демонстрирует, что вы имеете фундаментальное представление о среде Microsoft OneNote 2013 и можете выполнять задачи независимо. Кандидаты должны знать и демонстрировать правильное применение основных функций OneNote 2013.
+levels:
+- intermediate
+skills:
+- Работа со средой OneNote
+- Общий доступ и совместная работа с другими пользователями
+- Организация и поиск примечаний
+- Редактирование и присоединение содержимого в OneNote
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-onenote
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkE
+exams:
+- uid: exam.77-421
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+
