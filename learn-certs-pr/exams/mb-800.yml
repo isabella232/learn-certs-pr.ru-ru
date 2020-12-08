@@ -16,10 +16,11 @@ summary: |-
 
   Кандидаты на этот экзамен обычно специализируются на одном или нескольких наборах функций Business Central. Они понимают роль взаимосвязи Business Central и набора приложений Dynamics 365.
 
-  <div><strong><br/>Примечание&#58; Этот экзамен будет доступен 6 октября 2020 года или около того.</strong></div>
-subTitle: 'Этот экзамен будет доступен 6 октября 2020 года или около того. Этот экзамен позволяет оценить вашу способность выполнять следующие задачи: настройка Business Central; настройка финансовых данных; настройка продаж и закупок; и выполнение операций Business Central.'
+  <div><strong><br/>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. Узнайте больше <a href="/learn/certifications/certification-exams#participating-in-beta-exams">о ценности и важности бета-версий экзаменов</a>.</strong></div>
+subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие задачи: настройка Business Central; настройка финансовых данных; настройка продаж и закупок; и выполнение операций Business Central.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-800&examname=Exam%20MB-800:%20Microsoft%20Dynamics%20365%20Business%20Central%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-800
 locales:
 - en
 levels:
@@ -51,12 +52,15 @@ relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate
 resources:
+- title: Обучение для получения сертификата
+  description: 'Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GHuX
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
