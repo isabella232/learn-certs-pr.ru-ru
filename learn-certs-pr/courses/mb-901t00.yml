@@ -32,7 +32,7 @@ summary: |-
   Этот курс предоставляет учащимся широкий обзор приложений Dynamics 365. Мы познакомим вас с каждым из приложений, сформулируем их ценность для бизнеса, а также продемонстрируем и обсудим основные функции. Также мы расскажем о безопасности и отчетности Dynamics 365 и познакомим вас с доступными интеграциями данных и продуктов.
 
   #### Профиль аудитории
-  Этот курс предназначен для учащихся, которые хотят получить хорошие базовые знания основ Dynamics 365.
+  Целевой аудиторией этого курса являются учащиеся, желающие получить высокий уровень подготовки в основах Dynamics 365.
 prerequisitesSection: |-
   Нет
 outlineSection: |-
@@ -83,7 +83,7 @@ outlineSection: |-
   - Управление процессом продаж и воронкой
   - Преимущества Microsoft Relationship Sales Solution (MRSS)
   - Идеи продаж Dynamics 365 Sales Insights
-  - Microsoft Forms Pro
+  - Dynamics 365 Customer Voice
   - Dynamics 365 Product Visualize
   - Резюме
 
@@ -97,7 +97,7 @@ outlineSection: |-
   - Сформулируйте, как управлять процессом продаж в Dynamics 365 Sales
   - Исследуйте решение для продаж Microsoft Relationship Sales Solution (MRSS)
   - Объясните коммерческую ценность Dynamics 365 Sales Insights
-  - Объясните коммерческую ценность Microsoft Forms Pro
+  - Объяснение ценности для бизнеса Dynamics 365 Customer Voice
 
 
   ### Модуль 4&#58; Введение в Dynamics 365 Marketing

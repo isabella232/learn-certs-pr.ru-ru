@@ -41,12 +41,7 @@ ms.author: micsullivan
 </div>
 
 
-## Экономьте деньги со студенческой скидкой
-Воспользуйтесь выгодными скидками на экзамены Microsoft Certified Professional при подтверждении статуса учащегося до регистрации для прохождения экзамена. *Примечание. Студенческие скидки на экзамены Microsoft Certified Professional недоступны в Индии и Китае.*
-
-[**Узнать больше**](/learn/certifications/certification-exam-policies)
-
-## Часто задаваемые вопросы
+## <a name="frequently-asked-questions"></a>Часто задаваемые вопросы
 
 **Q. Что такое Exam Replay?**
 
