@@ -26,7 +26,7 @@ skills:
 - Планирование и диспетчеризации заказов на выполнение работ
 - Управление мобильностью обслуживания на местах
 - Управление запасами и закупками
-- Управление активами и соглашениями
+- Реализовывать Connected Field Service.
 roles:
 - functional-consultant
 type: role-based
@@ -56,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Путешествие к сертификации
   description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

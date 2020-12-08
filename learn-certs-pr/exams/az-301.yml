@@ -8,7 +8,7 @@ displayName: AZ-301
 summary: |-
   <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
-  <div><strong>Проведение этого экзамена на английском языке будет прекращено 30 сентября 2020 года. Взамен доступен, <a href="/learn/certifications/exams/az-304">AZ-304</a>, экзамен. Локализованные версии этого экзамена будут доступны до 30 октября 2020 года.</strong><br/><br/></div>
+  <div><strong>ЭТОТ ЭКЗАМЕН БЫЛ ОТМЕНЕН. Вместо него доступен новый экзамен AZ-304. Более подробную информацию можно найти на <a href="/learn/certifications/exams/az-304">странице сведений об экзамене AZ-304</a></strong><br/><br/></div>
   </div>
 
   Кандидаты на этот экзамен должны обладать специальными знаниями в области разработки и внедрения решений, работающих в Microsoft Azure, включая такие аспекты, как вычисления, сеть, хранилище и безопасность.
@@ -19,17 +19,10 @@ summary: |-
 
   Кандидат на этот экзамен должен обладать передовым опытом и знаниями по различным аспектам ИТ-операций, в том числе по сетям, виртуализации, идентификации, безопасности, непрерывности бизнеса, аварийному восстановлению, управлению данными, бюджетированию и управлению - эта роль подразумевает понимание того, как принятие решений в каждой области повлияет на общее решение. Кроме того, эта роль подразумевает квалификацию как минимум в одной из следующих областей знаний Azure&#58; администрирование, разработка или DevOps.
 
-  <div><strong><br/>Примечание&#58; Вы получите сертификат эксперта по архитектуре <a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; Azure Solutions Architect Expert</a>, если сдадите одну из следующих комбинаций экзаменов&#58; <ul>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> и <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
-  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> и <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> и <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> и <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
-  </ul></strong></div>
 subTitle: 'Этот экзамен предполагает проверку ваших способностей выполнять следующие технические задачи: определение требований рабочей нагрузки; проектирование для идентификации и безопасности; проектирование решения для платформы данных; разработка стратегии обеспечения непрерывности деятельности; проектирование развертывания, миграции и интеграции; а также разработка стратегии развития инфраструктуры.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-301&examname=Exam%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-301
 locales:
 - ja
 - zh-cn
@@ -37,13 +30,13 @@ locales:
 levels:
 - advanced
 skills:
-- Проведение этого экзамена на английском языке будет прекращено 30 сентября 2020 года. Взамен доступен, AZ-304, экзамен. Локализованные версии этого экзамена будут доступны до 30 октября 2020 года. Пожалуйста, загрузите документ с оцениваемыми навыками ниже, чтобы узнать подробную информацию об изменениях.
 - Определение требований рабочей нагрузки (10-15%)
 - Проектирование для идентификации и безопасности (20-25%)
 - Проектирование решения для платформы данных (15-20%)
 - Разработка стратегии обеспечения непрерывности деятельности (15-20%)
 - Проектирование развертывания, миграции и интеграции (10-15%)
 - Разработка стратегии развития инфраструктуры (15-20%)
+retirementDate: 09/30/2020
 roles:
 - solution-architect
 products:

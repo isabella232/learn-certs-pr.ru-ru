@@ -14,6 +14,8 @@ summary: |-
 
   Кандидаты активно сотрудничают с членами группы обеспечения качества, чтобы гарантировать соответствие решений функциональным и нефункциональным требованиям. Они выявляют, создают и доставляют артефакты для упаковки и развертывания инженерам DevOps, а также проводят обучение по эксплуатации и обслуживанию администраторов Power Platform.
 
+  Консультанты по функциональным возможностям платформы Power должны быть знакомы с приложениями на основе модели Dynamics 365 и должны обладать опытом использования компонентов платформы Power для расширения и настройки приложений на основе модели Dynamics 365.
+
   <div><strong><br/>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. Узнайте больше о <a href="/learn/certifications/certification-exams#participating-in-beta-exams">ценности и важности бета-версий экзаменов</a>.</strong></div>
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие задачи: настройка Common Data Service; создание приложения с помощью Power Apps; создание Power Automate и управление им; внедрение чат-ботов Power Virtual Agents; и интеграция Power Apps с другими приложениями и службами.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -42,6 +44,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
@@ -60,6 +64,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
 resources:
+- title: Обучение для получения сертификата
+  description: 'Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

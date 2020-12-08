@@ -28,8 +28,8 @@
 - name: Правила проведения экзаменов и часто задаваемые вопросы
   expanded: false
   items:
-  - name: Краткий обзор процедуры экзамена
-    href: exam-process-overview.md  
+  - name: Часто задаваемые вопросы
+    href: frequently-asked-questions.md  
   - name: Правила безопасности экзамена и порядок повторной сдачи экзамена
     href: exam-security-policy-and-exam-retake-policy.md
   - name: Порядок переноса и отмены экзаменов
