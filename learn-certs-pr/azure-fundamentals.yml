@@ -17,12 +17,18 @@ subTitle: Сертификат “Основы Azure” подтверждает
 levels:
 - beginner
 skills:
-- Описание облачных концепций
+- Описание понятий cloud
 - Описание основных служб Azure
-- Описание безопасности, конфиденциальности, соответствия и доверия
-- Описание соглашения об уровне обслуживания Azure и жизненных циклов
+- Описание основных решений и средств управления в Azure
+- Описание функций общей безопасности и функций безопасности сети
+- Описание функций удостоверения, управления, конфиденциальности и соответствия
+- Описание управления затратами Azure и Service Level Agreements
 roles:
+- administrator
+- business-user
 - developer
+- student
+- technology-manager
 type: fundamentals
 products:
 - azure
@@ -30,10 +36,12 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
-- uid: learn.wwl.distinguish-microsoft-azure-core-services
-- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
-- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
+- uid: learn.az-900-describe-cloud-concepts
+- uid: learn.az-900-describe-core-azure-services
+- uid: learn.az-900-describe-core-solutions-management-tools-azure
+- uid: learn.az-900-describe-general-security-network-security-features
+- uid: learn.az-900-describe-identity-governance-privacy-compliance-features
+- uid: learn.az-900-describe-azure-cost-management-service-level-agreements
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900
