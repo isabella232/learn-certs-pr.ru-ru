@@ -57,6 +57,8 @@ ms.prod: non-product-specific
 	- Основные навыки обучения Microsoft
     - Сертификат New Horizons Instructional Skills
     - PrepMasters USA
+    - Modern Classroom Certified Trainer (MCCT®)
+    - Certified Virtual Educator
   
   OR<br/><br/>
 

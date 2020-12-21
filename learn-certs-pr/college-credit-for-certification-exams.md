@@ -1,6 +1,6 @@
 ---
-title: 'College credit for certification exams | Microsoft Docs'
-description: 'College credit for certification exams' 
+title: 'Кредиты колледжа NCCRS за сертификационные экзамены | Microsoft Docs'
+description: 'Кредиты колледжа NCCRS за сертификационные экзамены' 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,7 +10,7 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Получение зачетных единиц за сертификационные экзамены
+# Кредиты колледжа NCCRS за сертификационные экзамены
 
 ## Сертификация для студентов
 

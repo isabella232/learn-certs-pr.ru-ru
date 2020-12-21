@@ -8,12 +8,12 @@ displayName: MS-101
 summary: |-
   <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
-  <div><strong>Содержание этого экзамена будет обновлено 24 ноября 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong><br/><br/></div>
+  <div><strong>Содержание этого экзамена было обновлено 24 ноября 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
   </div>
 
   Кандидатами на этот экзамен являются сертифицированные администраторы Microsoft 365 Enterprise, которые участвуют в оценке, планировании, переносе, развертывании и управлении службами Microsoft 365. Они выполняют задачи по управлению арендой в Microsoft 365 для организаций, в том числе управление идентификациями, безопасностью, соответствием стандартам и поддержкой технологий.
 
-   Кандидаты должны знать рабочие пространства Microsoft 365 и должны иметь опыт администрирования хотя бы одного рабочего пространства Microsoft 365 (Exchange, SharePoint, Skype for Business, или Windows as a Service). Кандидаты должны обладать познаниями в проектировании сетей, серверном администрировании и основных понятиях IT, таких как DNS, активная директория и PowerShell.
+  Кандидаты должны знать рабочие пространства Microsoft 365 и должны иметь опыт администрирования хотя бы одного рабочего пространства Microsoft 365 (Exchange, SharePoint, Skype for Business, или Windows as a Service). Кандидаты должны обладать познаниями в проектировании сетей, серверном администрировании и основных понятиях IT, таких как DNS, активная директория и PowerShell.
 subTitle: 'Этот экзамен предполагает проверку ваших способностей выполнять следующие технические задачи: внедрение служб современных устройств; внедрение Microsoft 365 Security and Threat Management; и управление руководством и соответствием в Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -25,7 +25,7 @@ locales:
 levels:
 - advanced
 skills:
-- Содержание этого экзамена будет обновлено 24 ноября 2020 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
+- Содержание этого экзамена было обновлено 24 ноября 2020 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменилось.
 - Внедрение служб современных устройств (30-35%)
 - Внедрение функций безопасности Microsoft 365 и управления угрозами (30-35%)
 - Управление инструментами корпоративного управления и соответствия Microsoft 365 (35-40%)
@@ -39,6 +39,17 @@ exams:
 - uid: exam.ms-100
 courses:
 - uid: course.ms-101t00
+paths:
+- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn-m365.identity-and-access
+- uid: learn-m365.m365-cloud-security
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-security-management
+- uid: learn.security.manage-security-operations
+- uid: learn-m365.m365-messaging-secure-environment
+- uid: learn-m365.m365-compliance-information
+- uid: learn-m365.audit-safeguard-customer-data
+- uid: learn-m365.compliance-discover
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

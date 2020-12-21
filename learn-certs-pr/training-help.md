@@ -52,18 +52,9 @@ ms.prod: non-product-specific
 			<td>
 				<ul>
 					<li>Просмотрите ответы на <a href="/learn/certifications/training-faq">часто задаваемые вопросы</a>.</li>
-					<li>Если вы не нашли ответа на свой вопрос, разместите его в расписании курса под руководством инструктора <a href="https://trainingsupport.microsoft.com/iltvilt/forum">Learning Partner на форуме поддержки Learn</a>.
+					<li>Если вы не нашли ответа на свой вопрос, разместите его в расписании курса под руководством инструктора <a href="https://trainingsupport.microsoft.com/en-us/iltvilt/forum">Learning Partner на форуме поддержки Learn</a>.
 </li>
 				</ul>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><strong><em>Общая обратная связь</em></strong> для улучшения пользовательского опыта или обслуживания.</p>
-            </td>
-            <td>
-                <p> <a href="/learn/support/troubleshooting#report-feedback">Отправьте отзыв с помощью этой формы Выберите</a> ‘Продукт или функциональность’, затем ‘Обучение под руководством инструктора’ (Instructor-led training) и оставьте подробный отзыв.</p>
-				<p>Будьте уверены, ваш отзыв будет рассмотрен, хотя вы и не получите на него ответа.</p>
             </td>
         </tr>
         <tr>
