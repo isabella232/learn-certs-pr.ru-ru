@@ -11,6 +11,8 @@ summary: |-
   </div>
 
   Кандидаты на сдачу этого экзамена стремятся повысить свою производительность за счет понимания возможностей Power Platform, автоматизации основных бизнес-процессов с помощью Power Automate, выполнения базового анализа данных с помощью Power BI, более эффективной работы за счет создания простых приложений Power Apps и создания мощных чат-ботов с использованием Power Virtual Agents.
+
+  У вас может быть право на получение кредитов колледжа от ACE после сдачи этого сертификационного экзамена. Перейдите на страницу [«Кредиты колледжа от ACE за сертификационные экзамены»](/learn/certifications/ace-credit-for-certification-exams), чтобы узнать больше.
 subTitle: Этот экзамен позволяет оценить вашу способность описать деловую ценность Power Platform; определить основные компоненты Power Platform; демонстрировать возможности Power BI; описывать возможности Power Apps; демонстрировать возможности Power Automate; и демонстрировать деловую ценность Power Virtual Agents.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -41,7 +43,9 @@ skills:
 - Демонстрация возможностей Power Automate (15-20%)
 - Демонстрация деловой ценности мощных виртуальных агентов Power Virtual Agents (10-15%)
 roles:
-- developer
+- business-user
+- functional-consultant
+- student
 products:
 - power-platform
 courses:

@@ -5,7 +5,15 @@ metadata:
   description: Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "<div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>\r\n\r\nАрхитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций."
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  
+  Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
+
+  <div>ПРИМЕЧАНИЕ: получение следующих двух сертификаций считается необходимым условием для этой сертификации. Это необходимое условие не указано ниже из-за отсутствия достаточного количества места.<ul>
+  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified: Power Platform Functional Consultant Associate</a></li>
+  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified: Power Platform Developer Associate</a></li>
+  </ul></div>
 subTitle: Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
 levels:
 - advanced
