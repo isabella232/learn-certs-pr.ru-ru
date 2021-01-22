@@ -6,13 +6,16 @@ metadata:
 uid: exam.77-881
 displayName: 77-881
 summary: |-
+  <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Этот экзамен был отменен. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href="/learn/certifications/browse/">страницу «Обзор сертификаций и экзаменов»</a>.</strong><br/><br/></div>
+  </div>
 
   Пользователь Microsoft Office Word 2010 базового уровня должен уметь пользоваться программным обеспечением Microsoft Office Word 2010 на функциональном уровне. Он должен знать и уметь использовать не менее 80 процентов функций и возможностей Microsoft Office Word 2010. Пользователь базового уровня должен уметь использовать Microsoft Office Word 2010 для создания и редактирования профессионально выглядящих документов для различных целей и ситуаций. Пользователи включают людей самых разных профессий и должностей почти из всех областей профессиональной, студенческой и личной жизни.
 subTitle: Пользователь Microsoft Office Word 2010 базового уровня должен уметь пользоваться программным обеспечением Microsoft Office Word 2010 на функциональном уровне. Он должен знать и уметь использовать не менее 80 процентов функций и возможностей Microsoft Office Word 2010. Пользователь базового уровня должен уметь использовать Microsoft Office Word 2010 для создания и редактирования профессионально выглядящих документов для различных целей и ситуаций. Пользователи включают людей самых разных профессий и должностей почти из всех областей профессиональной, студенческой и личной жизни.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjX
-scheduleExamUrl: https://www.certiport.com/locator
+
 locales:
 - en
 - ar-sa
@@ -37,6 +40,7 @@ skills:
 - Вычитка документов
 - Применение ссылок и гиперссылок
 - Выполнение операций слияния писем
+retirementDate: none
 roles:
 - business-user
 products:

@@ -8,19 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
-  <div><strong> MB-200 БУДЕТ ЗАМЕНЕН НА НОВЫЙ ЭКЗАМЕН, <a href="/learn/certifications/exams/pl-200"> PL-200</a>, В СЕНТЯБРЕ 2020 ГОДА. Вы сможете получить этот сертификат, сдав экзамены MB-200 или PL-200, а также MB-230, до тех пор, пока экзамен MB-200 не будет отменен 31 декабря 2020 года. После отмены экзамена MB-200 для получения этого сертификата необходимо будет сдать экзамен PL-200 и MB-230.</strong><br/><br/></div></div>
+  <div><strong> ЭКЗАМЕН <a href="/learn/certifications/exams/mb-200">MB-200</a> ЗАМЕНЯЕТСЯ НОВЫМ ЭКЗАМЕНОМ, <a href="/learn/certifications/exams/pl-200">PL-200</a>. Вы сможете получить этот сертификат, сдав экзамен MB-200 или PL-200, а также экзамен MB-230, пока экзамен MB-200 не будет отменен 31 декабря 2020 года. После отмены экзамена MB-200 для получения этого сертификата нужно будет сдать экзамены PL-200 и MB-230. Примечание&#58; экзамены отменяются в 23:59 по центральному времени.</strong><br/><br/></div></div>
 
   Microsoft Dynamics 365 для функциональных консультантов по обслуживанию клиентов создают решения CX, которые являются быстрыми, гибкими и используют AI, чтобы обеспечить действенное понимание, предвосхищающее потребности клиентов.
 subTitle: Microsoft Dynamics 365 для функциональных консультантов по обслуживанию клиентов создают решения CX, которые являются быстрыми, гибкими и используют AI, чтобы обеспечить действенное понимание, предвосхищающее потребности клиентов.
 levels:
 - intermediate
 skills:
-- Выполнение обнаружения, планирования и анализа
-- Управление проектированием пользовательского опыта
-- Управление объектами и данными
-- Обеспечение безопасности
-- Реализация интеграции
-- Выполнение развертывания и тестирование решений
+- Настраивать Common Data Service 
+- Создавать приложения с использованием Power Apps 
+- Создавать и управлять Power Automate 
+- Реализовывать чат-ботов Power Virtual Agents 
+- Интегрировать Power Apps с другими приложениями и службами
 - Управление кейсами и управление знаниями
 - Управление очередями, правами и соглашениями об уровне обслуживания (SLA)
 - Реализация планирования
@@ -33,23 +32,29 @@ products:
 - dynamics-365
 - dynamics-customer-service
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-230t01
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
 - uid: learn-dynamics.create-surveys
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-230
 resources:
 - title: Плакат с сертификацией
