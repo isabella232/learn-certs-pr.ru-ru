@@ -119,7 +119,7 @@ ms.author: micsullivan
                 <p><strong>Интернет браузер</strong></p>
             </td>
             <td>
-                <p>Последняя версия Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong> и <strong>Firefox</strong> для веб-регистраций, либо загрузите безопасный браузер или <strong>Internet Explorer 11</strong>.</p>
+                <p>Последние версии Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong> и <strong>Firefox</strong>.</p>
             </td>
         </tr>
         <tr>

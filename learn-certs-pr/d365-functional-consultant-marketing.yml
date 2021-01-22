@@ -8,19 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
-  <div><strong>MB-200 БУДЕТ ЗАМЕНЕН НА НОВЫЙ ЭКЗАМЕН, <a href="/learn/certifications/exams/pl-200">PL-200</a>, В СЕНТЯБРЕ 2020 ГОДА. Вы сможете получить этот сертификат, сдав экзамены MB-200 или PL-200, а также MB-220, до тех пор, пока экзамен MB-200 не будет отменен 31 декабря 2020 года. После отмены экзамена MB-200 для получения этого сертификата необходимо будет сдать экзамен PL-200 и MB-220.</strong><br/><br/></div></div>
+  <div><strong>ЭКЗАМЕН <a href="/learn/certifications/exams/mb-200">MB-200</a> ЗАМЕНЯЕТСЯ НОВЫМ ЭКЗАМЕНОМ, <a href="/learn/certifications/exams/pl-200">PL-200</a>. Вы сможете получить этот сертификат, сдав экзамен MB-200 или PL-200, а также экзамен MB-220, пока экзамен MB-200 не будет отменен 31 декабря 2020 года. После отмены экзамена MB-200 для получения этого сертификата нужно будет сдать экзамены PL-200 и MB-220. Примечание&#58; экзамены отменяются в 23:59 по центральному времени.</strong><br/><br/></div></div>
 
   Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по маркетингу реализуют решения, которые привлекают и конвертируют лидов, повышают узнаваемость бренда, стандартизируют многоканальный обмен сообщениями и предоставляют маркетинговые идеи.
 subTitle: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по маркетингу реализуют решения, которые привлекают и конвертируют лидов, повышают узнаваемость бренда, стандартизируют многоканальный обмен сообщениями и предоставляют маркетинговые идеи.
 levels:
 - intermediate
 skills:
-- Осуществление обнаружения, планирования и анализа
-- Управление пользовательским интерфейсом
-- Управление объектами и данными
-- Реализация безопасности
-- Реализация интеграции
-- Выполнение развертывания и тестирования решений
+- Настраивать Common Data Service 
+- Создавать приложения с использованием Power Apps 
+- Создавать и управлять Power Automate 
+- Реализовывать чат-ботов Power Virtual Agents 
+- Интегрировать Power Apps с другими приложениями и службами
 - Настройка маркетинговых приложений
 - Управление сегментами и списками
 - Создание и управление маркетинговыми формами и страницами
@@ -36,23 +35,29 @@ products:
 - dynamics-365
 - dynamics-marketing
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-220t00
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-dynamics.set-up-dynamics-365-marketing
 - uid: learn-dynamics.work-core-features-marketing
 - uid: learn-dynamics.manage-events-dynamics-marketing
 - uid: learn-dynamics.analyze-marketing-insights
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj1
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-220
 resources:
 - title: Плакат с сертификацией

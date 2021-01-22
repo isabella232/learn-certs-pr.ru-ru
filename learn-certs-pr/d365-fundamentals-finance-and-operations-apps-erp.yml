@@ -1,0 +1,61 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  description: 'Эта сертификация будет доступна в феврале 2021 года. Если вы обладаете глубоким знанием возможностей Dynamics 365 для планирования ресурсов предприятия (ERP) и понимаете основы того, как приложения для финансов и операций вписываются в общую экосистему Microsoft, эта сертификация для вас.'
+uid: certification.d365-fundamentals-finance-and-operations-apps-erp
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  
+  Если вы обладаете глубоким знанием возможностей Dynamics 365 для планирования ресурсов предприятия (ERP) и понимаете основы того, как приложения для финансов и операций вписываются в общую экосистему Microsoft, эта сертификация для вас.
+
+  Люди, которые знакомы с бизнес-операциями, обладают фундаментальным пониманием финансовых принципов и разбираются в информационных технологиях — в связи с жизненным или рабочим опытом — могут использовать эту сертификацию для подтверждения соответствующих навыков и открытия карьерных дверей.
+  
+  Эта сертификация по базовым знаниям может быть использована людьми различными способами и на различных этапах карьеры. Вот несколько примеров&#58;
+  - IT-специалисты, которые хотят подчеркнуть глубокое понимание приложений, с которыми работают;
+  - технические специалисты и люди, ответственные за принятие бизнес-решений, которые исследуют, как функции Dynamics 365 могут быть интегрированы с приложениями, которые они используют;
+  - участники бизнеса и иные лица, которые используют Dynamics 365 и хотят продемонстрировать свое понимание основ платформы;
+  - разработчики, которые хотят показать более глубокое понимание бизнес-операций, финансов и ERP;
+  - студенты, недавние выпускники вузов и меняющие карьеру люди, которые хотят использовать приложения Dynamics 365 для финансов и операций с целью выхода на новый уровень.
+  
+  <div><br/><strong>Note&#58; This certification will be available in February 2021.</strong></div>
+subTitle: 'Эта сертификация будет доступна в феврале 2021 года. Если вы обладаете глубоким знанием возможностей Dynamics 365 для планирования ресурсов предприятия (ERP) и понимаете основы того, как приложения для финансов и операций вписываются в общую экосистему Microsoft, эта сертификация для вас.'
+levels:
+- beginner
+skills:
+- Описание Dynamics 365 Supply Chain Management.
+- Описание Dynamics Finance.
+- Описание Dynamics 365 Commerce.
+- Описание Dynamics 365 Human Resources.
+- Описание Project Operations.
+- Описание Dynamics 365 Business Central.
+- Описание общих функций.
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products: 
+- dynamics-365
+- dynamics-finance-operations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JKOU
+exams:
+- uid: exam.mb-920
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md

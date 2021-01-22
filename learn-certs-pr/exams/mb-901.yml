@@ -8,6 +8,7 @@ displayName: MB-901
 summary: |-
   <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>ЭТОТ ЭКЗАМЕН БУДЕТ ОТМЕНЕН 30 ИЮНЯ 2021 ГОДА. Вместо него доступны два новых экзамена: MB-910 и MB-920. Более подробную информацию можно найти на страницах сведений об экзаменах <a href="/learn/certifications/exams/mb-910">MB-910</a> и <a href="/learn/certifications/exams/mb-920">MB-920</a>. Примечание&#58; экзамены отменяются в 23:59 по центральному времени.</strong><br/><br/></div>
   <div><strong>Содержание этого экзамена было обновлено 10 июля 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
   </div>
 
@@ -19,7 +20,7 @@ summary: |-
 
   У вас может быть право на получение кредитов колледжа от ACE после сдачи этого сертификационного экзамена. Перейдите на страницу [«Кредиты колледжа от ACE за сертификационные экзамены»](/learn/certifications/ace-credit-for-certification-exams), чтобы узнать больше.
 
-  <div><br/><strong>ПРИМЕЧАНИЕ&#58; Microsoft не будет менять упоминания Common Data Service на Microsoft Dataverse в настоящее время.</strong></div>
+  <div><br/><strong>В связи с отменой этого экзамена 30 июня 2021 года Microsoft не будет менять упоминания Common Data Service на Microsoft Dataverse.</strong></div>
 subTitle: Данный экзамен оценивает ваше понимание Microsoft Dynamics 365; искусственного интеллекта; смешанной реальности; Платформы Power; концепции облачных вычислений; безопасности облачных решений; ролевой системы безопасности в Dynamics 365; Common Data Service; платформы управления данными; отчетности Dynamics 365; интеграций Dynamics 365 и развертывания облачных решений.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -44,6 +45,7 @@ skills:
 - Описание искусственного интеллекта и смешанной реальности в Dynamics 365 (10-15%)
 - Описание управляемых моделями приложений (25-30%)
 - Описание приложений для финансов и операций (25-30%)
+retirementDate: 06/30/2021
 roles:
 - business-owner
 - business-user

@@ -107,21 +107,21 @@ resourcesSection:
       url: /learn/certifications/browse
 
 statisticsSection:
-  title: Зачем нужна сертификация
-  summary: Сертификаты дают вам профессиональное преимущество с доказательством наличия необходимых ролевых навыков в отрасли.
+  title:  Сертификации Microsoft
+  summary: сертификации Microsoft дают профессиональное преимущество посредством предоставления всемирно признаваемого и соответствующего отраслевым стандартам подтверждения владения навыками в цифровом бизнесе и бизнесе cloud.
   video:
-    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    pdfDownloadUrl: https://home.pearsonvue.com/voc
     iframeTitle: Microsoft Certifications
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Преимущества Microsoft Certifications [Сертификации Microsoft]
-    summary: После получения сертификата 23% сертифицированных технологов Microsoft сообщили о повышении зарплаты до 20%. Помимо этого, сертифицированные сотрудники нередко курируют своих коллег, получая возможность быстрого повышения. — технический документ 2017 Pearson VUE 2017 «Значение сертификации» (Value of Certification).
+    title: Преимущества сертификаций
+    summary:  После прохождения сертификации 67% технических специалистов увереннее чувствуют себя в отношении своей способности выполнять свою работу, 41% получают большее удовлетворение от работы, а 35% сообщают об увеличении зарплаты.- 2018 год, Pearson VUE, отчет о ценности IT-сертификации
   items:
-    - title: 38%
-      summary: ИТ-позиций будут связаны с облачными технологиями к 2021 году.
-      note: IDC/Microsoft, облачные навыки и организационное влияние *Как облачные навыки способствуют росту карьеры ИТ-специалиста, май 2017 г.
-    - title: 35%
-      summary: ИТ-специалистов говорят, что они имеют больше влияния в облачных развертываниях, чем их коллеги во время развертываний других технологий.
-      note: IDC/Microsoft, облачные навыки и организационное влияние *Как облачные навыки способствуют росту карьеры ИТ-специалиста, май 2017 г
-    - title: 36,9%
-      summary: ИТ-специалистов заявили, что сертификация помогла им выполнить сложные задачи более уверенно.
-      note: Pearson VUE, The Value of IT Certification Survey, январь 2017 г
+    - title: 91%
+      summary: сертифицированных IT-специалистов говорят, что сертификация обеспечивает повышение к ним уровня доверия как к профессионалам.
+      note: 2018 год, Pearson VUE, отчет о ценности сертификации
+    - title: 52%
+      summary: сертифицированных IT-специалистов говорят, что к их мнению больше прислушиваются в рамках их организации.
+      note: Global Knowledge, 2019 год, отчет о навыках и зарплате в IT
+    - title: 93%
+      summary: принимающих решений лиц соглашаются, что сертифицированные сотрудники обеспечивают дополнительную ценность.
+      note: Global Knowledge 2019 IT Decision Makers Insights
