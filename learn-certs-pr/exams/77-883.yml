@@ -6,7 +6,10 @@ metadata:
 uid: exam.77-883
 displayName: 77-883
 summary: |-
+  <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  <div><strong>Этот экзамен был отменен. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href="/learn/certifications/browse/">страницу «Обзор сертификаций и экзаменов»</a>.</strong><br/><br/></div>
+  </div>
 
   Типичным кандидатом на экзамен является студент, офисный работник или преподаватель, которому необходимо знать PowerPoint 2010 на функциональном уровне.
 
@@ -14,7 +17,7 @@ summary: |-
 subTitle: Типичным кандидатом на экзамен является студент, офисный работник или преподаватель, которому необходимо знать PowerPoint 2010 на функциональном уровне.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://www.certiport.com/locator
+
 locales:
 - en
 - ar-sa
@@ -39,6 +42,7 @@ skills:
 - Совместная работа над презентациями
 - Подготовка презентаций
 - Проведение презентаций
+retirementDate: none
 roles:
 - business-user
 products:

@@ -65,6 +65,11 @@ ms.prod: non-product-specific
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
 
+| Отменяется 30 июня 2021 г. |
+| --- |
+| [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
+
+
 ## Экзамены, которые были отменены недавно
 
 Для справки, экзамены, которые были отменены в течение прошлого года, будут содержать ссылку на страницу подробных сведений об экзамене в течение 12 месяцев.

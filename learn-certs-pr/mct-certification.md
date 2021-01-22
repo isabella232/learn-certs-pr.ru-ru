@@ -44,7 +44,7 @@ ms.prod: non-product-specific
   - Сертификация навыков в области обучения
     - CompTIA CTT+
     - Essential Educate Trainer (внутренняя сертификация Microsoft)
-	- Fourth Dimension Technologies, Inc.
+	  - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Сертификат Global Knowledge Instructional Skills
     - IAMCT Approved Technical Trainer (IAMCT ATT)
@@ -53,12 +53,12 @@ ms.prod: non-product-specific
     - Сертификат программы Learning Tree Train the Trainer
     - Marcom Deli
     - Microsoft Certified Trainer Instructional Skills Certification (MCT-ISC)
-	- Сертификация инструктора по обслуживанию и поддержке клиентов Microsoft (CSS)
-	- Основные навыки обучения Microsoft
+	  - Сертификация инструктора по обслуживанию и поддержке клиентов Microsoft (CSS)
+	  - Основные навыки обучения Microsoft
     - Сертификат New Horizons Instructional Skills
     - PrepMasters USA
-    - Modern Classroom Certified Trainer (MCCT®)
-    - Certified Virtual Educator
+    - Modern Classroom Certified Trainer (MCCT®) [Только для профессоров или сотрудников университетов]
+    - Certified Virtual Educator [Только для профессоров или сотрудников университетов]
   
   OR<br/><br/>
 
@@ -96,7 +96,9 @@ ms.prod: non-product-specific
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
+- [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
+- [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
