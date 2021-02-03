@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+title: 'Microsoft Dynamics 365 Business Central Functional Consultant'
 metadata:
-  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
-  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
@@ -15,8 +15,6 @@ summary: |-
   Кандидаты должны иметь прикладные знания об удовлетворении потребностей пользователей с помощью приложения Business Central, включая базовые знания в области финансового управления, продаж, закупок и запасов.
 
   Кандидаты на этот экзамен обычно специализируются на одном или нескольких наборах функций Business Central. Они понимают роль взаимосвязи Business Central и набора приложений Dynamics 365.
-
-  <div><strong><br/>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. Узнайте больше <a href="/learn/certifications/certification-exams#participating-in-beta-exams">о ценности и важности бета-версий экзаменов</a>.</strong></div>
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие задачи: настройка Business Central; настройка финансовых данных; настройка продаж и закупок; и выполнение операций Business Central.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
@@ -35,8 +33,6 @@ roles:
 products:
 - dynamics-business-central
 - power-platform
-courses:
-- uid: course.mb-800t00
 paths:
 - uid: learn-dynamics.get-started-dynamics-365-business-central
 - uid: learn-dynamics.deploy-configure-dynamics-365-business-central

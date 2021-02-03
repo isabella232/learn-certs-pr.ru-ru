@@ -8,7 +8,7 @@ displayName: MB-400
 summary: |-
   <div>
   <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
-  <div><strong>ЭТОТ ЭКЗАМЕН БУДЕТ ОТМЕНЕН 31 ДЕКАБРЯ 2020 ГОДА. Новый экзамен <a href="/learn/certifications/exams/pl-400"> PL-400</a> стал доступен в сентябре 2020 года. Примечание&#58; Экзамены будут отменены в 23&#58;59 по CST.</strong><br/><br/></div>
+  <div><strong>Этот экзамен был отменен 31 декабря 2020 года. Вместо него доступен новый экзамен PL-400. Более подробную информацию можно найти на <a href="/learn/certifications/exams/pl-400">странице сведений об экзамене PL-400</a>.</strong><br/><br/></div>
   </div>
 
   Кандидатами на этот экзамен являются разработчики, которые работают с управляемыми моделями приложениями Microsoft Power Apps в Dynamics 365 для проектирования, разработки, защиты и расширения реализации Dynamics 365. Кандидаты внедряют компоненты решения, которые включают в себя усовершенствования приложений, пользовательский интерфейс, системные интеграции, преобразования данных, пользовательскую автоматизацию процессов и пользовательские визуализации.
@@ -16,18 +16,14 @@ summary: |-
   Кандидаты должны обладать глубокими прикладными знаниями о приложениях Power Apps, управляемых моделями в Dynamics 365, включая глубокое понимание настройки, конфигурации, интеграции и расширяемости, а также границ и ограничений. Кандидаты должны иметь общее представление о методах DevOps для приложений на основе моделей Power Apps в Dynamics 365. Кандидаты должны уметь раскрывать, хранить и сообщать о данных.
 
   Кандидаты должны иметь опыт разработки, который включает JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, веб-службы RESTful, ASP.NET и Power BI.
-
-  <div><strong><br/>В связи с отменой этого экзамена 31 декабря 2020 года Microsoft не будет менять упоминания Common Data Service на Microsoft Dataverse.</strong></div>
 subTitle: 'Этот позволяет оценить вашу способность выполнять следующие технические задачи: создание технических проектов; настройка общих служб данных (CDS); создание и настройка Power Apps; настройка автоматизации бизнес-процессов; улучшение опыта работы пользователей; расширение платформы; и развитие интеграций.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена было обновлено 22 мая 2020 года. Пожалуйста, загрузите схему навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что изменилось.
 - Создание технического дизайна (10-15%)
 - Настройка общих служб данных (15-20%)
 - Создание и настройка Power Apps (10-15%)
@@ -43,8 +39,6 @@ products:
 - dynamics-customer-engagement
 exams:
 - uid: exam.mb-200
-courses:
-- uid: course.mb-400t00
 paths:
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
 - uid: learn-dynamics.introduction-development
