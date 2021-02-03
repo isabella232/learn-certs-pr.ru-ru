@@ -60,15 +60,9 @@ ms.prod: non-product-specific
 | [MB6-897](/learn/certifications/exams/mb6-897): Microsoft Dynamics 365 for Retail |
 | [MB6-898](/learn/certifications/exams/mb6-898): Microsoft Dynamics 365 for Talent |
 
-| Будут отменены 31 Декабрь 2020 года |
-| --- |
-| [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
-| [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
-
-| Отменяется 30 июня 2021 г. |
+| Будет отменено 30 июня 2021 г. |
 | --- |
 | [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
-
 
 ## Экзамены, которые были отменены недавно
 
@@ -144,6 +138,8 @@ ms.prod: non-product-specific
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
+| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | отменено 31 декабря 2020 г
+| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | отменено 31 декабря 2020 г
 | [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 31 Декабрь 2019 года
 | [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 31 Декабрь 2019 года
 | [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 31 Декабрь 2019 года
