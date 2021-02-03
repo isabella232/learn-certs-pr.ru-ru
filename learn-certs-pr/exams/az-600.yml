@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)
+metadata:
+  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
+  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
+uid: exam.az-600
+displayName: AZ-600
+summary: |-
+  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
+  
+  Кандидаты на экзамен AZ-600 являются Azure administrators или операторами Azure Stack Hub, предоставляющими службы cloud конечным пользователям или клиентам из собственного центра обработки данных с использованием Azure Stack Hub.
+  
+  Кандидаты на этот экзамен должны обладать значительным опытом управления и эксплуатации сред Azure Stack Hub. Кандидаты на этот экзамен также должны обладать углубленными знаниями Azure и некоторыми знаниями виртуализации, работы с сетями и управления удостоверениями. Кандидатам на этот экзамен необходимо понимать, каким образом Azure Stack Hub позволяет включать процессы DevOps, и разбираться в модели гибридной разработки.
+  
+  <div><strong><br/>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзаменов. Узнайте больше <a href="/learn/certifications/certification-exams#participating-in-beta-exams">о ценности и важности бета-версий экзаменов</a>.</strong></div>
+subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: предоставлять службы, реализовывать интеграцию центра обработки данных, управлять удостоверениями и доступом, управлять инфраструктурой.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Lwq9
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
+locales:
+- en
+levels:
+- advanced
+skills:
+- Предоставление служб (30-35%)
+- Реализация интеграции центра обработки данных (15-20%)
+- Управление удостоверениями и доступом (10-15%)
+- Управление инфраструктурой (30-35%)
+roles:
+- administrator
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+relatedCertifications:
+- related:
+    uid: certification.azure-stack-hub-operator
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: ../request-accommodations.md
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md

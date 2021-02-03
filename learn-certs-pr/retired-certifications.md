@@ -34,8 +34,8 @@ ms.author: micsullivan
 | [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | Будут отменены 31 января 2021 года |
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Будут отменены 31 января 2021 года |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Будут отменены 31 января 2021 года |
-| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | будет отменен 31 декабря 2020 года
-| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Отменяется 30 июня 2021 г. |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 
+Будет отменено 30 июня 2021 г. |
 
 ## Аннулированные сертификации
 
@@ -45,6 +45,7 @@ ms.author: micsullivan
 
 | На основе ролей                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31 декабря 2020 г. |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 31 августа 2020 года |
 
 | Microsoft Certified Solutions Developer                                            |

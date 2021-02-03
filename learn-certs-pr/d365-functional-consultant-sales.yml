@@ -4,9 +4,10 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
   description: 'Microsoft Dynamics 365 для функциональных консультантов по продажам внедряет решения, которые предвидят и планируют связи с клиентами, управляют сделками посредством обработки и закрытия, а также ускоряют работу группы продаж с помощью анализа данных.'
 uid: certification.d365-functional-consultant-sales
+certificationRenewalUid: renewal.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div><div><strong>ЭКЗАМЕН <a href="/learn/certifications/exams/mb-200">MB-200</a> ЗАМЕНЯЕТСЯ НОВЫМ ЭКЗАМЕНОМ, <a href="/learn/certifications/exams/pl-200">PL-200</a>. Вы сможете получить этот сертификат, сдав экзамен MB-200 или PL-200, а также экзамен MB-210, пока экзамен MB-200 не будет отменен 31 декабря 2020 года. После отмены экзамена MB-200 для получения этого сертификата нужно будет сдать экзамены PL-200 и MB-210. Примечание&#58; экзамены отменяются в 23:59 по центральному времени.</strong><br/><br/></div></div>
+  <div><div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div></div>
 
   Microsoft Dynamics 365 для функциональных консультантов по продажам внедряет решения, которые предвидят и планируют связи с клиентами, управляют сделками посредством обработки и закрытия, а также ускоряют работу группы продаж с помощью анализа данных.
 subTitle: Microsoft Dynamics 365 для функциональных консультантов по продажам внедряет решения, которые предвидят и планируют связи с клиентами, управляют сделками посредством обработки и закрытия, а также ускоряют работу группы продаж с помощью анализа данных.
