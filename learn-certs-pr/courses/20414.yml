@@ -21,7 +21,7 @@ skillsGained:
 - skill: Планирование и реализация развертывания сервера AD FS и доступ к приложениям с учетом требований.
 - skill: Планирование и реализация динамического контроля доступа, объединения рабочих мест и рабочих папок.
 - skill: Планирование и реализация развертывания AD RMS, планирование и управление шаблонами и доступом AD RMS, а также планирование и реализация внешнего доступа к службам AD RMS.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

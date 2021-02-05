@@ -20,7 +20,7 @@ skillsGained:
 - skill: Знать, что такое управление жизненным циклом приложения ALM
 - skill: Определять возможности для автоматизированного тестирования и использования RSAT
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

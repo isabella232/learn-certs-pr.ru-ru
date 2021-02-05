@@ -21,7 +21,7 @@ skillsGained:
 - skill: Интегрирация неуправляемых библиотек и динамических компонентов в приложение Visual C
 - skill: Изучение метаданные типов с помощью отражения, создание и использование пользовательских атрибутов, генерация кода во время выполнения и управление версиями сборок.
 - skill: Шифрование и дешифрование данных с использованием симметричного и асимметричного шифрования.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -12,7 +12,7 @@ skillsGained:
 - skill: Работа с Microsoft Graph
 - skill: Определение целевых рабочих нагрузок платформы
 - skill: Точки интеграции, включая Microsoft Teams, надстройки Office и SharePoint Framework
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

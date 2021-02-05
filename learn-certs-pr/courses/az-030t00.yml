@@ -15,7 +15,7 @@ skillsGained:
 - skill: Администрирование Azure с помощью Resource Manager, Azure portal, Cloud Shell, и CLI
 - skill: Настройка межсайтовых решений для подключения, таких как пиринг виртуальных сетей и шлюзы виртуальных сетей
 - skill: Администрирование Azure App Service, Azure Container Instances и Kubernetes
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

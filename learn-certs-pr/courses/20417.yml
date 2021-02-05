@@ -20,7 +20,7 @@ skillsGained:
 - skill: Внедрение доменных служб Active Directory® (AD DS).
 - skill: Внедрение служб федерации Active Directory (AD FS).
 - skill: Мониторинг и поддержка Windows Server 2012.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

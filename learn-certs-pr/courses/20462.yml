@@ -21,7 +21,7 @@ skillsGained:
 - skill: Выполнение постоянного обслуживания базы данных.
 - skill: Автоматизация обслуживания SQL Server с применением заданий в SQL Server Agent .
 - skill: Настройка почты базы данных, оповещений и уведомлений.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

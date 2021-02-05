@@ -19,7 +19,7 @@ skillsGained:
 - skill: Мониторинг, регистрация и устранение неполадок служб.
 - skill: Описание концепций и стандартов идентификации на основе утверждений и внедрение проверки подлинности и авторизации с помощью Azure Active Directory.
 - skill: Создание масштабируемых сервисных приложений.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

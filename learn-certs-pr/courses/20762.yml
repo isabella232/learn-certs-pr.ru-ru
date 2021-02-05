@@ -21,7 +21,7 @@ skillsGained:
 - skill: Хранение и запрос данных XML.
 - skill: Работа с пространственными данными.
 - skill: Хранение и запрос объектов BLOB и текстовых документов.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

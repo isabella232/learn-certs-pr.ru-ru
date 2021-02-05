@@ -20,7 +20,7 @@ skillsGained:
 - skill: Отслеживать инфраструктуру виртуализации с помощью System Center Operations Manager.
 - skill: Внедрять и управлять репликой Microsoft Hyper-V и Microsoft Azure Site Recovery.
 - skill: Защита инфраструктуры виртуализации с помощью Data Protection Manager.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

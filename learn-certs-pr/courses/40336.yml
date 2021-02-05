@@ -17,7 +17,7 @@ skillsGained:
 - skill: Понимать функции общей безопасности Windows 10
 - skill: Перечислять функции Device Guard
 - skill: Понимать методологию развертывания Device Guard
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -11,7 +11,7 @@ skillsGained:
 - skill: Создание глобально распределенных приложений с помощью Cosmos DB
 - skill: Перенос рабочих нагрузок MongoDB в базу данных Cosmos
 - skill: Перенос рабочих нагрузок Cassandra DB на Cosmos DB
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

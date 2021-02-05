@@ -20,7 +20,7 @@ skillsGained:
 - skill: Реализация удаленного доступа и веб-служб
 - skill: Внедрение мониторинга служб и мониторинг производительности, а также применение поиска неисправностей
 - skill: Выполнение обновлений и миграций, связанных с AD DS и хранилищем
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

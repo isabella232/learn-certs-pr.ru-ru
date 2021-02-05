@@ -16,7 +16,7 @@ skillsGained:
 - skill: Создавать решения с использованием службы «Когнитивный поиск Azure» и управлять ими.
 - skill: Создавать интеллектуальных агентов с использованием Bot Framework.
 - skill: Реализовывать решения с использованием компьютерного зрения.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

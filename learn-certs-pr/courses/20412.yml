@@ -22,7 +22,7 @@ skillsGained:
 - skill: Внедрение отказоустойчивого кластера, настройка и проверка сетевой службы высокой доступности.
 - skill: Развертывание и управление виртуальными машинами Hyper-V в отказоустойчивом кластере.
 - skill: Внедрение решения для резервного копирования и аварийного восстановления на основе бизнес-требований и технических требований.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

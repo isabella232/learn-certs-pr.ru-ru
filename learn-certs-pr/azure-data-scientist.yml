@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
-
   Azure Data Scientist применяет свои знания в области data science и машинного обучения для внедрения и выполнения рабочих нагрузок машинного обучения в Azure; в частности, с помощью службы машинного обучения Azure.
 subTitle: Azure Data Scientist применяет свои знания в области data science и машинного обучения для внедрения и выполнения рабочих нагрузок машинного обучения в Azure; в частности, с помощью службы машинного обучения Azure.
 levels:

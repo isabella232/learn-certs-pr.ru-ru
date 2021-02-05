@@ -21,7 +21,7 @@ skillsGained:
 - skill: Расширение служб SSIS с помощью пользовательских сценариев и компонентов
 - skill: Развертывание и настройка пакетов SSIS
 - skill: Описание того, как решения BI могут использовать данные из хранилища данных
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

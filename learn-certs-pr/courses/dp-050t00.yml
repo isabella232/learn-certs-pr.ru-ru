@@ -13,7 +13,7 @@ skillsGained:
 - skill: Перенос рабочих нагрузок SQL на виртуальные машины Azure
 - skill: Перенос рабочих нагрузок SQL в базы данных SQL Azure
 - skill: Перенос рабочих нагрузок SQL в управляемый экземпляр базы данных SQL Azure
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

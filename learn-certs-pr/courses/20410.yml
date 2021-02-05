@@ -21,7 +21,7 @@ skillsGained:
 - skill: Внедрение групповой политики.
 - skill: Защита серверов Windows с помощью объектов групповой политики (GPO).
 - skill: Внедрение виртуализации серверов с помощью Hyper-V.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -20,7 +20,7 @@ skillsGained:
 - skill: Настройка кластера балансировки сетевой нагрузки (NLB) и планирование внедрения NLB.
 - skill: Создание представлений развертывания и управление ими.
 - skill: Управление, мониторинг и обслуживание установок виртуальных машин.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

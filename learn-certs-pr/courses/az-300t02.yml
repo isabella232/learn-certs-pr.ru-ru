@@ -12,7 +12,7 @@ skillsGained:
 - skill: Внедрение и управление службами приложений
 - skill: Внедрение современных виртуальных сетей
 - skill: Защита удостоверений с помощью Azure AD
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

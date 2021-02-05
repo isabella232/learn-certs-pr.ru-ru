@@ -14,7 +14,7 @@ skillsGained:
 - skill: Разработка набора доступности для одной или нескольких виртуальных машин.
 - skill: Описание различия между доменами сбоя и обновления.
 - skill: Написание шаблона ARM Scale Set ARM.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
