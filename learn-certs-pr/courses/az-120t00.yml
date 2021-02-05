@@ -12,7 +12,7 @@ skillsGained:
 - skill: Использование портала Azure, облачной оболочки, Azure PowerShell, интерфейса командной строки и диспетчера ресурсов
 - skill: Использование функций межсайтового подключения, включая пиринговое соединение VNet и соединения VNet-VNet
 - skill: Работа с Azure Active Directory (AAD) и Azure AD Connect
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

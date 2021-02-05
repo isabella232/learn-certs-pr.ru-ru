@@ -17,7 +17,7 @@ skillsGained:
 - skill: Разрабатывать схему оповещения для решения, размещенного в Azure
 - skill: Выбирать подходящий вариант резервного копирования для инфраструктуры и данных, размещенных в Azure
 - skill: Автоматизация развертывания будущих ресурсов для восстановления или масштабирования резервных копий
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -14,7 +14,7 @@ skillsGained:
 - skill: Понимать таксономию Azure Stack (клиенты, регионы, подписки, предложения, планы, службы и квоты)
 - skill: Описывать поставщиков ресурсов, доступных для использования с Azure Stack
 - skill: Разрабатывать и развертывать гибридное соединение между общедоступным облаком Azure и Azure Stack
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

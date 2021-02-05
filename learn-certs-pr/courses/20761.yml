@@ -24,7 +24,7 @@ skillsGained:
 - skill: Преобразование данных путем реализации pivot, unpivot, накопления и куба.
 - skill: Создание и внедрение хранимых процедур.
 - skill: Добавление в код T-SQL таких программных конструкций, как переменные, условия и циклы.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

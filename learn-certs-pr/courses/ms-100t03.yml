@@ -20,7 +20,7 @@ skillsGained:
 - skill: Настройка прокси приложения Azure AD Application Proxy
 - skill: Проектирование решения для доступ извне
 - skill: Управление состоянием и службами арендаторов Microsoft 365
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

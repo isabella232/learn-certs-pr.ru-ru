@@ -14,7 +14,7 @@ skillsGained:
 - skill: Настройка правил условного доступа на основе политик соответствия.
 - skill: Описать различные инструменты, используемые для защиты устройств и данных.
 - skill: Реализовать расширенная защиту от угроз Windows Defender.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -16,7 +16,7 @@ skillsGained:
 - skill: Практика с надежными коллекциями
 - skill: Понимание реестра контейнеров Azure
 - skill: Использование экземпляров контейнеров Azure
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

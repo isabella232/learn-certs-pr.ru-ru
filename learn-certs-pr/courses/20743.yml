@@ -20,7 +20,7 @@ skillsGained:
 - skill: Развертывание и управление контейнерами Windows и Hyper-V.
 - skill: Внедрение отказоустойчивой кластеризации.
 - skill: Реализация отказоустойчивой кластеризации с использованием виртуальных машин.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

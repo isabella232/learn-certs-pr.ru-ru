@@ -18,7 +18,7 @@ skillsGained:
 - skill: Управляйте обновлениями в Microsoft Azure Stack.
 - skill: Выполните мониторинг и устранение неполадок в Microsoft Azure Stack.
 - skill: Поймите, как работает лицензирование и биллинг в Microsoft Azure Stack.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

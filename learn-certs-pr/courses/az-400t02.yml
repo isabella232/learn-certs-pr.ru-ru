@@ -21,7 +21,7 @@ skillsGained:
 - skill: Добавление инструментов для оценки технических недоработок
 - skill: Обнаружение открытого исходного кода и других проблем с лицензированием
 - skill: Внедрение стратегии построения контейнера
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

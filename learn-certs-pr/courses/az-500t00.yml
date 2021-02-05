@@ -24,7 +24,7 @@ skillsGained:
 - skill: Внедрение Azure Monitor, включая подключенные источники, аналитику журналов и предупреждения.
 - skill: Внедрение Центра безопасности Azure Security Center, включая политики, рекомендации и своевременный доступ к виртуальной машине.
 - skill: Внедрение Azure Sentinel, включая книги, экземпляры и учебники.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -13,7 +13,7 @@ skillsGained:
 - skill: Описание особенностей рабочих нагрузок компьютерного зрения в Azure
 - skill: Описание особенностей рабочих нагрузок обработки естественного языка Natural Language Processing (NLP) в Azure
 - skill: Описание особенностей рабочих нагрузок диалогового AI в Azure
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

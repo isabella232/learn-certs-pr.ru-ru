@@ -21,7 +21,7 @@ skillsGained:
 - skill: Внедрение и администрирование AD FS.
 - skill: Реализация синхронизации между AD DS и Azure AD.
 - skill: Мониторинг, устранение неполадок и обеспечение непрерывности бизнеса для служб AD DS.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

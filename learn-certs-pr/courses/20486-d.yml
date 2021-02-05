@@ -26,7 +26,7 @@ skillsGained:
 - skill: Использование SignalR для обеспечения двусторонней связи между клиентом и сервером.
 - skill: Описать, что такое Web API и почему разработчики могут добавлять Web API в приложение.
 - skill: Дать описание того, как упаковать и развернуть веб-приложение ASP.NET Core MVC с компьютера разработчика на веб-сервер.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

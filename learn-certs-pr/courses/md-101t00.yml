@@ -14,7 +14,7 @@ skillsGained:
 - skill: Управление и развертывание приложений и планирование стратегии управления мобильными приложениями.
 - skill: Управление пользователями и проверкой подлинности с помощью Azure AD и Active Directory DS.
 - skill: Опишите и внедрите методы, используемые для защиты устройств и данных.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

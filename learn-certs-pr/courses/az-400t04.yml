@@ -17,7 +17,7 @@ skillsGained:
 - skill: Проверка пакетов программного обеспечения с открытым исходным кодом на соответствие требованиям безопасности и лицензий в соответствии с корпоративными стандартами.
 - skill: Настройка конвейера сборки для получения доступа к безопасности пакета и рейтингу лицензии.
 - skill: Настройка безопасного доступа к пакетным потокам
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

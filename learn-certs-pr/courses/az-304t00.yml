@@ -21,7 +21,7 @@ skillsGained:
 - skill: Рекомендовать решения для сетевой безопасности
 - skill: Рекомендовать решения для миграции приложений и виртуальных машин
 - skill: Рекомендовать решения для миграции баз данных
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -19,7 +19,7 @@ skillsGained:
 - skill: Реализовывать мониторинг решений, ведение журналов и диагностическое тестирование.
 - skill: Распознавать и устранять угрозы безопасности и применять Центр безопасности Azure для Интернета вещей.
 - skill: Строить решения Интернета вещей с использованием Azure IoT Central и распознавать возможности SaaS для Интернета вещей.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

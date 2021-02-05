@@ -13,7 +13,7 @@ skillsGained:
 - skill: Доступ к данным, подлежащим миграции, с помощью средства оценки миграции SharePoint (SMAT).
 - skill: Перенос контента в облако с помощью средства миграции SharePoint (SPMT).
 - skill: Управление и мониторинг процесса миграции.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

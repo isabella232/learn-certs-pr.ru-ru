@@ -18,7 +18,7 @@ skillsGained:
 - skill: Планировать и реализовывать гибридные и только облачные сценарии миграции, резервного копирования и восстановления.
 - skill: Развертывать виртуальные машины Azure c Windows Server 2019 и осуществлять конфигурацию сети, хранения и безопасности.
 - skill: Управлять виртуальными машинами Azure c Windows Server 2019 и обслуживать их.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

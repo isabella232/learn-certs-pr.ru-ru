@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong><br/><br/></font></div>
-
   Кандидаты на сертификацию разработчика Azure Developer Associate должны иметь опыт разработки, создания, тестирования и обслуживания облачных приложений и служб в Microsoft Azure.
 
   Обязанности этой роли включают участие во всех этапах разработки облачных вычислений, от определения требований и проектирования до разработки, развертывания и обслуживания. настройки производительности и мониторинга.

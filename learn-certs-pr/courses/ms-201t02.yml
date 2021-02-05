@@ -18,7 +18,7 @@ skillsGained:
 - skill: Управление правами администратора на основе ролей
 - skill: Управление допусками на основе ролей пользователей
 - skill: Планирование установки Exchange - допуски разделения RBAC и AD
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

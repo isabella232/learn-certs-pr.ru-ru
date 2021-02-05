@@ -13,7 +13,7 @@ skillsGained:
 - skill: Настроить SQL Server
 - skill: Управление базами данных и файлами (общий доступ)
 - skill: Предоставление, миграция и управление базами данных в облаке
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
