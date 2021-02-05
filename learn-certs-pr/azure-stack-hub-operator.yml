@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-stack-hub-operator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
-  
   Кандидаты на сертификацию Azure Stack Hub Operator Associate являются администраторами Azure или операторами Azure Stack Hub, предоставляющими службы cloud конечным пользователям или клиентам из собственного центра обработки данных с использованием Azure Stack Hub.
   
   Кандидаты на эту сертификацию отвечают за планирование, развертывание, упаковку, обновление и обслуживание инфраструктуры Azure Stack Hub. Они также предлагают гибридные ресурсы cloud и запрашиваемые службы и управляют инфраструктурой как услугой (IaaS) и платформой как услугой (PaaS).

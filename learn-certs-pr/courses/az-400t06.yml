@@ -22,7 +22,7 @@ skillsGained:
 - skill: Анализ телеметрии для задания базовой линии
 - skill: Проведение оценки живого сайта и сбор отзывов по сбоям в системе
 - skill: Проведение непрерывной оптимизации для сокращения бессмысленных оповещений и оповещений, на которые невозможно ответить
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

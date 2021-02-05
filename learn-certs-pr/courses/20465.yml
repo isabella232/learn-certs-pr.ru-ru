@@ -12,7 +12,7 @@ skillsGained:
 - skill: Планирование и внедрение управления, основанного на политиках.
 - skill: Рекомендации по консолидации рабочих нагрузок с SQL Server 2014.
 - skill: Соображения по включению SQL Server 2014 в частное облако.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

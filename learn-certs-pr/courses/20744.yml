@@ -21,7 +21,7 @@ skillsGained:
 - skill: Оптимизация и защита файловых служб.
 - skill: Обеспечение безопасности сетевого трафика с помощью брандмауэров и шифрования.
 - skill: Обеспечение безопасности сетевого трафика с использованием DNSSEC и Message Analyzer.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

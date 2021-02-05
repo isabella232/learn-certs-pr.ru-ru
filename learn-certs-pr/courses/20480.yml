@@ -24,7 +24,7 @@ skillsGained:
 - skill: Использование веб-сокетов для отправки и получения данных между веб-приложением и сервером.
 - skill: Повышение скорости отклика веб-приложения, выполняющего длительные операции, с помощью процессов Web Worker.
 - skill: Использование WebPack для упаковки веб-приложений для производства.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

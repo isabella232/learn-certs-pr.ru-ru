@@ -7,10 +7,6 @@ uid: certification.d365-functional-consultant-field-service
 certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div>
-  <div><font color='red'><strong>Ввиду ситуации с распространением коронавируса (COVID-19) компания Microsoft вносит некоторые временные изменения в свою программу обучения и сертификации. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Узнать больше</a>.</strong></font><br/><br/></div>
-  </div>
-
   Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
 subTitle: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
 levels:

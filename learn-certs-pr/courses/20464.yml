@@ -26,7 +26,7 @@ skillsGained:
 - skill: Определение подходящего использования для интеграции SQL CLR и внедрение существующей сборки .NET в SQL Server.
 - skill: Хранение данных и схем XML на SQL Server.
 - skill: Выполнение основных запросов к данным XML в SQL Server.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

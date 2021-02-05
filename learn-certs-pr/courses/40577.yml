@@ -16,7 +16,7 @@ skillsGained:
 - skill: Развертывать модель в экземпляре контейнера Azure
 - skill: Генерировать прогнозы с осуществлением Функциями Azure доступа к каналу изменений Cosmos DB
 - skill: Модернизировать приложения и интегрировать в приложение искусственный интеллект
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

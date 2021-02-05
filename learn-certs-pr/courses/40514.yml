@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: После прохождения этого семинара вы сможете лучше проводить анализ сайта с целью сравнения цен, производительности и оценки объема работ, необходимых для миграции из Oracle в SQL Server или PostgreSQL. Учитывая время, необходимое для прохождения семинара, рекомендуется, чтобы учащийся и преподаватель выбрали один путь миграции.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

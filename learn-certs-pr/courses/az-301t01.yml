@@ -16,7 +16,7 @@ skillsGained:
 - skill: Умение подробно рассказывать о различных API, доступных в Cognitive Services
 - skill: Умение определять, когда следует использовать сервис Face API, Speech API или Language Understanding (LUIS)
 - skill: Умение описывать отношение к Bot Framework и Azure Bot Services
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

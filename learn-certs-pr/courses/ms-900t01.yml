@@ -18,7 +18,7 @@ skillsGained:
 - skill: Описание защиты данных, включая использование Azure Information Protection.
 - skill: Описание соответствия в целом и функции соответствия в Microsoft 365.
 - skill: Описание подписок, лицензий, выставления счетов и поддержки Microsoft 365.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -23,7 +23,7 @@ skillsGained:
 - skill: Мониторинг инфраструктуры SQL Server
 - skill: Устранение неполадок инфраструктуры SQL Server
 - skill: Импорт и экспорт данных
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

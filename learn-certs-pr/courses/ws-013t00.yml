@@ -16,7 +16,7 @@ skillsGained:
 - skill: Планировать и реализовывать хранение Azure Stack HCI, включая аспекты работы с качеством обслуживания хранилища и репликацией хранилища.
 - skill: Осуществлять планирование для подключение к сети Azure Stack HCI.
 - skill: Реализовывать программно-определяемые сети в Azure Stack HCI.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -11,7 +11,7 @@ skillsGained:
 - skill: Планирование, развертывание и настройка предложений Azure SQL
 - skill: Мониторинг производительности базы данных и настройка базы данных и запросов для оптимальной производительности
 - skill: Планирование и настройка решения высокой доступности
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
