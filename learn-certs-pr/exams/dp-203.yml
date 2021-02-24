@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Data Engineering on Microsoft Azure (beta)
+metadata:
+  title: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+  description: 'Exam DP-203: Data Engineering on Microsoft Azure (beta)'
+uid: exam.dp-203
+displayName: DP-203
+summary: |-
+  Инженеры данных Azure интегрируют, преобразовывают и консолидируют данные из различных систем структурированных и неструктурированных данных в структуры, подходящие для создания решений для аналитики.
+  
+  Кандидаты на экзамен DP-203&#58; Data Engineering on Microsoft Azure должны хорошо знать языки обработки данных, такие как SQL, Python или Scala, и понимать параллельную обработку и шаблоны архитектуры данных.
+  
+  <div><br/><font color='red'><strong>Примечание&#58; этот экзамен станет доступен 23 февраля 2021 года.</strong></font></div>
+subTitle: 'Этот экзамен станет доступен 23 февраля 2021 года. Этот экзамен измеряет вашу способность выполнять следующие технические задачи: проектировать и реализовывать хранение данных; проектировать и разрабатывать обработку данных; проектировать и реализовывать безопасность данных; отслеживать и оптимизировать хранение и обработку данных.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Проектирование и реализация хранения данных (40-45%)
+- Проектирование и реализация обработки данных (25-30%)
+- Проектирование и реализация безопасности данных (10-15%)
+- Отслеживание и оптимизация хранения и обработки данных (10-15%)
+roles:
+- data-engineer
+products:
+- azure-data-factory
+- azure-synapse-analytics
+- azure-stream-analytics
+- azure-event-hubs
+- azure-data-lake
+- azure-databricks
+relatedCertifications:
+- related:
+    uid: certification.azure-data-engineer
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: ../request-accommodations.md
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md

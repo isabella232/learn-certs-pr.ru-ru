@@ -1,0 +1,72 @@
+### YamlMime:Examination
+title: Designing and Implementing a Microsoft Azure AI Solution (beta)
+metadata:
+  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+uid: exam.ai-102
+displayName: AI-102
+summary: |-
+  Кандидаты на экзамен AI-102 должны обладать знаниями по созданию и развертыванию решений AI, использующих Azure Cognitive Services, Azure Cognitive Search и Microsoft Bot Framework, а также управлению такими решениями.
+  
+  Кандидаты на этот экзамен должны знать C#, Python или JavaScript и мочь использовать API и SDK на основе REST для создания решений компьютерного зрения, решений для обработки естественного языка, интеллектуального анализа данных и решений с использованием разговорного AI на Azure. Кандидаты на этот экзамен также должны понимать компоненты, которые составляют портфель Azure AI, и доступные варианты хранения данных. В дополнение к этому кандидаты должны понимать и мочь применять принципы ответственного подхода к использованию AI.
+  
+  <div><br/><font color='red'><strong>Примечание&#58; этот экзамен станет доступен 23 февраля 2021 года.</strong></font></div>
+subTitle: 'Этот экзамен станет доступен 23 февраля 2021 года. Этот экзамен измеряет вашу способность выполнять следующие технические задачи: планировать решение Azure Cognitive Services и управлять им; реализовывать решения компьютерного зрения; реализовывать решения для обработки естественного языка; реализовывать решения для интеллектуального анализа данных и реализовывать решения с использованием разговорного AI.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Планирование решения Azure Cognitive Services и управление им (15-20%)
+- Реализация решений с использованием компьютерного зрения (20-25%)
+- Реализация решений для обработки естественного языка (20-25%)
+- Реализация решений для интеллектуального анализа знаний (15-20%)
+- Реализация решений с использованием разговорного AI (15-20%)
+roles:
+- ai-engineer
+products:
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-custom-vision
+- azure-face
+- azure-form-recognizer
+- azure-language-understanding
+- azure-qna-maker
+- azure-speech
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator
+- azure-translator-speech
+- azure-translator-text
+- azure-video-indexer
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-engineer
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: ../request-accommodations.md
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md
