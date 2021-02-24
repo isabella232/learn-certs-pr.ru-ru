@@ -1,0 +1,71 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Solution Architect (beta)'
+metadata:
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+uid: exam.pl-600
+displayName: PL-600
+summary: |-
+  Архитекторы решений Microsoft Power Platform успешно руководят реализацией решений и фокусируются на том, как решения удовлетворяют деловые и технические потребности организаций.
+  
+  Архитектор решений знает функциональные и технические возможности Power Platform, приложений Dynamics 365 для взаимодействия с клиентами, соответствующих решений Microsoft cloud и технологий третьих сторон. Архитектор решений применяет свои знания и опыт на протяжении всего проекта. Архитектор решений осуществляет проактивные и превентивные меры с целью повышения ценности инвестиций клиента и повышения работоспособности организации. Эта роль требует умения определять возможности для решения бизнес-проблем.
+  
+  Архитекторы решений обладают опытом работы в функциональных и технических дисциплинах Power Platform. Архитекторы решений должны мочь упрощать проектные решения в области разработки, настройки, интеграции, инфраструктуры, безопасности, доступности, хранения и управления изменениями. Выполняющие эту роль лица уравновешивают бизнес-потребности проекта, выполняя функциональные и нефункциональные требования.
+  
+  <div><br/><font color='red'><strong>Примечание&#58; этот экзамен станет доступен в марте 2021 года.</strong></font></div>
+subTitle: 'Этот экзамен станет доступен в марте 2021 года. Этот экзамен измеряет вашу способность выполнять следующие технические задачи: выполнять планирование решения и анализ требований; разрабатывать архитектуру решения; реализовывать решение.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+locales:
+- en
+levels:
+- advanced
+skills:
+- Выполнение планирования решения и анализа требований (35-40%)
+- Разработка архитектуры решения (40-45%)
+- Реализация решения (15-20%)
+roles:
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+relatedCertifications:
+- related:
+    uid: certification.power-platform-solution-architect-expert
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: ../request-accommodations.md
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,70 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Solution Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Power Platform Solution Architect Expert'
+  description: Эта сертификация будет доступна в марте 2021 года. Power Platform Solution Architect Experts работают с заинтересованными лицами и фокусируются на решениях, которые влияют на деловые и технические потребности их организаций.
+uid: certification.power-platform-solution-architect-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Если хотите подтвердить свои знания архитектора решений Microsoft Power Platform или Microsoft Dynamics 365 или если вы разработчик или старший консультант, готовый делать следующий шаг, чтобы стать архитектором решений, эта сертификация экспертного уровня может помочь вам продвинуться по карьерной лестнице.
+  
+  Как кандидат на сертификацию Power Platform Solution Architect Expert вы работаете с заинтересованными лицами и фокусируетесь на решениях, которые влияют на деловые и технические потребности вашей организации. Вы знаете функциональные и технические возможности Power Platform, приложений Dynamics 365 для взаимодействия с клиентами, соответствующих решений Microsoft cloud и технологий третьих сторон. Для этой сертификации у вас должен быть опыт работы как минимум от 1 до 3 лет в качестве архитектора решений Power Platform или от 7 до 10 лет в качестве старшего консультанта или разработчика, а также глубокие знания архитектуры Power Platform .
+  
+  Если перед попыткой прохождения этой сертификации вам нужно получить больше опыта, вот несколько рекомендаций&#58;
+  - Поработайте архитектором решений над проектами Power Platform (или понаблюдайте за работой архитектора решений).
+  - Зарегистрируйтесь на обучающий курс с инструктором.
+  - Пройдите обучение по доступным схемам в [Microsoft Learn](/learn/paths/become-solution-architect/).
+  
+  <div><font color='red'><strong>Примечание&#58; эта сертификация станет доступна в марте 2021 года.</strong></font></div>
+subTitle: Эта сертификация станет доступна в марте 2021 года. Эксперты по архитектуре решений Power Platform работают с заинтересованными лицами и фокусируются на решениях, которые влияют на деловые и технические потребности их организаций. Кандидаты знают функциональные и технические возможности Power Platform, приложений Dynamics 365 для взаимодействия с клиентами, соответствующих решений Microsoft cloud и технологий третьих сторон.
+levels:
+- advanced
+skills:
+- Выполнение анализа решений и анализа требований
+- Разработка решения
+- Внедрение решения
+roles:
+- developer
+- functional-consultant
+- solution-architect
+type: role-based
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
+exams:
+- uid: exam.pl-600
+prerequisites:
+- uid: certification.power-platform-functional-consultant-associate
+  isOptional: false
+- uid: certification.power-platform-developer-associate
+  isOptional: false
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md

@@ -34,8 +34,8 @@ ms.author: micsullivan
 | [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | Будут отменены 31 января 2021 года |
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Будут отменены 31 января 2021 года |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Будут отменены 31 января 2021 года |
-| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 
-Будет отменено 30 июня 2021 г. |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Будет отменено 30 июня 2021 г. |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | Будет отменено 30 июня 2021 г. |
 
 ## Аннулированные сертификации
 
