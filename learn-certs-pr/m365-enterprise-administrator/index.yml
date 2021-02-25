@@ -1,0 +1,77 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+metadata:
+  title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: 'Microsoft 365 Enterprise Administrator участвует в оценке, планировании, миграции, развертывании и управлении службами Microsoft 365.'
+uid: certification.m365-enterprise-administrator
+certificationRenewalUid: renewal.m365-enterprise-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
+
+  <div><br/><strong>MCSE&#58; Productivity Solutions Expert будет прекращена 31 января 2021 года. Он будет по-прежнему квалифицироваться как предварительный вариант для этой сертификации до 31 января 2022 года. (через год после отмены этой сертификации).</strong></div>
+subTitle: Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
+levels:
+- advanced
+skills:
+- Разработка и внедрение служб Microsoft 365
+- Управление идентификацией и ролями пользователей
+- Управление доступом и аутентификацией
+- Планирование рабочих нагрузок и приложений Office 365
+- Внедрение служб современных устройств
+- Внедрение функций безопасности Microsoft 365 и управления угрозами
+- Управление инструментами корпоративного управления и соответствия Microsoft 365
+roles:
+- administrator
+type: role-based
+products:
+- m365
+courses:
+- uid: course.ms-100t00
+- uid: course.ms-101t00
+paths:
+- uid: learn-m365.identity-and-access
+- uid: learn.security.manage-identity-and-access
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.m365-stay-current
+- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn-m365.m365-cloud-security
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-security-management
+- uid: learn.security.manage-security-operations
+- uid: learn-m365.m365-messaging-secure-environment
+- uid: learn-m365.m365-compliance-information
+- uid: learn-m365.audit-safeguard-customer-data
+- uid: learn-m365.compliance-discover
+prerequisites:
+- uid: certification.modern-desktop
+  isOptional: false
+- uid: certification.m365-security-administrator
+  isOptional: false
+- uid: certification.m365-messaging-administrator
+  isOptional: false
+- uid: certification.mcse-productivity-certification
+  isOptional: false
+- uid: certification.m365-teams-administrator-associate
+  isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUi7
+exams:
+- uid: exam.ms-100
+- uid: exam.ms-101
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

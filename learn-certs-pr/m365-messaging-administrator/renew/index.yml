@@ -1,0 +1,27 @@
+### YamlMime:Certification
+title: 'Обновление для Microsoft 365 Certified: Messaging Administrator Associate'
+metadata:
+  title: 'Обновление для Microsoft 365 Certified: Messaging Administrator Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.m365-messaging-administrator
+certificationUid: certification.m365-messaging-administrator
+assessmentId: d87d7bd1-2890-481f-9ec4-9ba03d75719a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Exchange и Microsoft 365, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Планирование и управление настройками организации с помощью Exchange Online
+- Планирование и управление клиентским доступом с помощью Exchange
+- Управление разрешениями на основе ролей в Microsoft 365 Messaging
+- Доставка почты в почтовые ящики за пределами Microsoft 365 с помощью соединителей
+- Управление гигиеной сообщений с помощью Exchange Online и Microsoft 365 Advanced Threat Protection
+- Управление соответствием в Microsoft 365 и Exchange Online
+- Устранение неполадок с почтовым потоком с Exchange
+examsPassed:
+- ms-203
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft 365: Экзамен на продление сертификата Messaging Administrator Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

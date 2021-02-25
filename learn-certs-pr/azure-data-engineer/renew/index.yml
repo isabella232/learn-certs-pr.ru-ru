@@ -1,0 +1,22 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: Azure Data Engineer Associate'
+metadata:
+  title: 'Обновление для Microsoft Certified: Azure Data Engineer Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.azure-data-engineer
+certificationUid: certification.azure-data-engineer
+assessmentId: acbdf90d-e45d-42fc-b8f0-d8d5fa2726e3
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, у вас есть право продлить его. Подтвердите, что вы следите за последними обновлениями Azure Data Factory, пройдя экзамен на продление сертификата. Вы также можете подготовиться к продлению сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Прием петабайтов с помощью фабрики данных Azure
+- Выполняйте масштабное преобразование без необходимости программировать с помощью фабрики данных Azure
+examsPassed:
+- dp-200, dp-201, dp-203
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экзамен на продление срока подписки Azure Data Engineer Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
