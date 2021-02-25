@@ -1,0 +1,49 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+metadata:
+  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+  description: 'Администраторы обмена сообщениями Microsoft 365 Messaging Administrators внедряют, настраивают, управляют, устраняют неполадки и отслеживают получателей, разрешения, защиту почты, поток почты и общие папки в гибридных и облачных корпоративных средах.'
+uid: certification.m365-messaging-administrator
+certificationRenewalUid: renewal.m365-messaging-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Администраторы обмена сообщениями Microsoft 365 Messaging Administrators внедряют, настраивают, управляют, устраняют неполадки и отслеживают получателей, разрешения, защиту почты, поток почты и общие папки в гибридных и облачных корпоративных средах.
+subTitle: Администраторы обмена сообщениями Microsoft 365 Messaging Administrators внедряют, настраивают, управляют, устраняют неполадки и отслеживают получателей, разрешения, защиту почты, поток почты и общие папки в гибридных и облачных корпоративных средах.
+levels:
+- intermediate
+skills:
+- Управление организационными настройками и ресурсами
+- Планирование и управление почтовой архитектурой
+- Планирование и внедрение гибридной конфигурации и миграции
+- Обеспечение безопасности среды обмена сообщениями
+roles:
+- administrator
+type: role-based
+products:
+- m365
+paths:
+- uid: learn-m365.m365-messaging-hybrid-migration
+- uid: learn-m365.m365-messaging-architecture
+- uid: learn-m365.m365-messaging-secure-environment
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
+courses:
+- uid: course.ms-203t00
+exams:
+- uid: exam.ms-203
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

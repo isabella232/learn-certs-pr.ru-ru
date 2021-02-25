@@ -1,0 +1,81 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Developer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Developer Associate'
+  description: 'Разработчики Azure проектируют, создают, тестируют и обслуживают облачные приложения и службы.'
+uid: certification.azure-developer
+certificationRenewalUid: renewal.azure-developer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Кандидаты на сертификацию разработчика Azure Developer Associate должны иметь опыт разработки, создания, тестирования и обслуживания облачных приложений и служб в Microsoft Azure.
+
+  Обязанности этой роли включают участие во всех этапах разработки облачных вычислений, от определения требований и проектирования до разработки, развертывания и обслуживания. настройки производительности и мониторинга.
+
+  Для реализации решений разработчики Azure сотрудничают с архитекторами облачных решений, облачными администраторами баз данных, облачными администраторами и непосредственно с клиентами.
+
+  Кандидат на получение сертификата должен иметь 1-2-летний опыт профессионального развития и опыт работы с Microsoft Azure. Кроме того, в этой роли нужно уметь программировать на языке, поддерживаемом Azure, а также знать Azure SDK, параметры хранения данных, подключение к данным, API, аутентификацию и авторизацию приложений, развертывание вычислений и контейнеров, отладку, настройку производительности и мониторинг.
+subTitle: Разработчики Azure проектируют, создают, тестируют и обслуживают облачные приложения и службы.
+levels:
+- intermediate
+skills:
+- Разработка вычислительных решений Azure
+- Разработка хранилища Azure
+- Внедрение безопасности Azure
+- Мониторинг, устранение неполадок и оптимизация решений Azure.
+- Подключение и использование служб Azure и сторонних служб
+roles:
+- developer
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+courses:
+- uid: course.az-204t00
+- uid: course.az-020t00
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.work-with-relational-data-in-azure
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.data-science
+- uid: learn.secure-your-cloud-data
+- uid: learn.modern-data-warehouse
+- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.data-ai.intro-to-ml-with-python
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ
+exams:
+- uid: exam.az-204
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию в качестве ассоциированного разработчика Azure, и какие ресурсы помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

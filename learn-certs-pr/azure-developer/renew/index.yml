@@ -1,0 +1,25 @@
+### YamlMime:Certification
+title: 'Обновление для Microsoft Certified: Azure Developer Associate'
+metadata:
+  title: 'Обновление для Microsoft Certified: Azure Developer Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.azure-developer
+certificationUid: certification.azure-developer
+assessmentId: d0dbfae9-07f5-4dfa-97c1-98cad082c78c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Azure, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Создание длительного бессерверного рабочего процесса с помощью Durable Functions
+- Выполнение функции Azure с триггерами
+- Выбор подходящего API для Azure Cosmos DB
+- Оптимизация производительности Azure Cosmos DB с помощью стратегий секционирования и индексирования
+- Управление аутентификацией для ваших API с помощью Azure API Management
+examsPassed:
+- az-204
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экзамен на продление сертификата Azure Developer Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

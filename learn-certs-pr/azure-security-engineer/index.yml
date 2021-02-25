@@ -1,0 +1,69 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Security Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Security Engineer Associate'
+  description: 'Инженеры по безопасности Azure внедряют средства управления безопасностью и защиты от угроз, управляют удостоверениями и доступом, а также защищают данные, приложения и сети в облачных и гибридных средах как часть комплексной инфраструктуры.'
+uid: certification.azure-security-engineer
+certificationRenewalUid: renewal.azure-security-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Кандидаты на получение сертификата Azure Security Engineer должны обладать специальными знаниями в области управления безопасностью и защиты от угроз, управления идентификацией и доступом, а также защиты данных, приложений и сетей в облачных и гибридных средах как части комплексной инфраструктуры.
+
+  Обязанности этой роли включают поддержание состояния безопасности, выявление и устранение уязвимостей с использованием различных инструментов безопасности, реализацию защиты от угроз и реагирование на эскалации инцидентов безопасности.
+
+  Инженеры Azure Security часто выступают в составе более крупной команды, занимающейся облачным управлением и безопасностью, или гибридными средами как частью сквозной инфраструктуры.
+
+  Кандидат на эту сертификацию должен обладать сильными навыками написания сценариев и автоматизации; глубокое понимание сетей, виртуализации и облачной архитектуры N-уровня; а также глубокое знакомство с облачными возможностями, продуктами и услугами для Azure, а также с другими продуктами и услугами Microsoft.
+subTitle: Инженеры по безопасности Azure внедряют средства управления безопасностью и защиты от угроз, управляют удостоверениями и доступом, а также защищают данные, приложения и сети в облачных и гибридных средах как часть комплексной инфраструктуры.
+levels:
+- intermediate
+skills:
+- Управление идентификацией и доступом
+- Внедрение защиты платформы
+- Управление операциями безопасности
+- Защита данных и приложений
+roles:
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+courses:
+- uid: course.az-500t00
+paths:
+- uid: learn.security.secure-your-cloud-apps
+- uid: learn.security.implement-resource-mgmt-security
+- uid: learn.security.implement-network-security
+- uid: learn.security.implement-host-security
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUH
+exams:
+- uid: exam.az-500
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию на Azure Security Engineer Associate, а также о ресурсах, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

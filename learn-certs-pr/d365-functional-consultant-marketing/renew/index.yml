@@ -1,0 +1,25 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+metadata:
+  title: 'Обновление для Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.d365-functional-consultant-marketing
+certificationUid: certification.d365-functional-consultant-marketing
+assessmentId: ce559cae-50e0-48a2-b43a-e6cf0399e559
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, у вас есть право продлить его. Подтвердите, что вы следите за последними обновлениями Dynamics 365 Marketing and Customer Voice, пройдя экзамен на продление сертификата. Вы также можете подготовиться к продлению сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Управляйте клиентами в Dynamics 365 Marketing
+- Создавайте проект опроса с помощью Dynamics 365 Customer Voice
+- Создавайте опросы с помощью Dynamics 365 Customer Voice
+- Автоматизируйте опросы клиентов Dynamics 365 с помощью Power Automate
+- Отправляйте опросы клиентов Dynamics 365 Voice
+examsPassed:
+- mb-220
+studyGuideDescription: 'Используйте этот набор учебных модулей, который поможет вам подготовиться к сертификации Microsoft: Экзамен на продление срока действия Dynamics 365 Marketing Functional Consultant Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

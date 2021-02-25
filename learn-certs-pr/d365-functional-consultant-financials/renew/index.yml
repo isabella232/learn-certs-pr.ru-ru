@@ -1,0 +1,22 @@
+### YamlMime:Certification
+title: 'Обновление для Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
+metadata:
+  title: 'Обновление для Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.d365-functional-consultant-financials
+certificationUid: certification.d365-functional-consultant-financials
+assessmentId: 778eff49-9918-4702-b1af-5b6e14dc6c84
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Dynamics 365 Finance, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Обработка кредитов и сборов в Dynamics 365 Finance
+- Настройка управления основными средствами в Dynamics 365 Finance
+examsPassed:
+- mb-300, mb-310
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экзамен на продление сертификата Dynamics 365 Finance Functional Consultant Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
