@@ -69,5 +69,5 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Поддержка по вопросам сертификации
   description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
-  href: help.md
+  href: ../help.md
 
