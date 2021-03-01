@@ -25,7 +25,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Повтор экзамена
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
-  href: deals.md
+  href: ../deals.md
 - title: Поддержка сертификационных
   description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md

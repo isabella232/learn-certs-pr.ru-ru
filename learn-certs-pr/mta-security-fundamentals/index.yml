@@ -31,7 +31,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
-  href: deals.md
+  href: ../deals.md
 - title: Поддержка по вопросам сертификации
   description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
