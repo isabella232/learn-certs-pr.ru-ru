@@ -1,0 +1,81 @@
+### YamlMime:Certification
+title: 'MCSE: Data Management and Analytics'
+metadata:
+  title: 'MCSE: Data Management and Analytics'
+  description: 'MCSE: Data Management and Analytics'
+uid: certification.mcse-data-management-analytics
+iconUrl: /media/learn/certification/badges/mcse-badge.svg
+summary: |-
+  <div>
+  <div><strong>Данная сертификация будет аннулирована 31 января 2021 года. Вы больше не сможете получить данный сертификат после этой даты. Любые сертификаты, полученные вами до даты отмены сертификации, будут по-прежнему отображаться в вашей выписке об успеваемости в <a href='https://www.microsoft.com/learning/dashboard.aspx'>панели Сертификации</a>. Вы также можете <a href='/learn/certifications/retired-certifications'>просмотреть все отмененные сертификации</a>.</strong><br/><br/></div>.
+  </div>
+
+  Эта сертификация подтверждает, что у вас есть навыки, необходимые для запуска высокоэффективного и современного центра обработки данных, управления идентификацией, управления системами, виртуализации, хранения и работы в сети.
+
+  Для получения сертификации MCSE&#58; Data Management & Analytics необходимо выполнить следующие требования&#58;
+  - Получить один обязательный сертификат&#58;
+    - Обязательный сертификат, Вариант 1&#58; [MCSA&#58; SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)
+    - Обязательный сертификат, Вариант 2&#58; [MCSA&#58; SQL 2016 Database Development](/learn/certifications/mcsa-sql2016-database-development-certification)
+    - Обязательный сертификат, Вариант 3&#58; [MCSA&#58; SQL 2016 Database Administration](/learn/certifications/mcsa-sql2016-database-administration-certification)
+    - Обязательный сертификат, Вариант 4&#58; [MCSA&#58; SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification)
+    - Обязательный сертификат, Вариант 5&#58; [MCSA&#58; BI Reporting](/learn/certifications/mcsa-bi-reporting)
+  - И сдать один из экзаменов на выбор&#58;
+    - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
+    - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
+    - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
+    - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
+    - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
+    - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
+    - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
+    - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
+subTitle: Демонстрирует наличие знаний и навыков в области и администрирования SQL, разработки решений для управления данными в масштабе предприятия и использования бизнес-аналитики как в локальной среде, так и в среде облачных вычислений.
+levels:
+- intermediate
+skills:
+- none
+roles:
+- database-administrator
+type: mcse
+products:
+- sql-server
+courses:
+- uid: course.20464
+- uid: course.20465
+- uid: course.20466
+- uid: course.20467
+- uid: course.20762
+- uid: course.20767
+- uid: course.20768
+- uid: course.20777
+exams:
+- uid: exam.70-464
+- uid: exam.70-465
+- uid: exam.70-466
+prerequisites:
+- uid: certification.mcsa-sql-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-development-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-administration-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-business-intelligence-certification
+  isOptional: false
+- uid: certification.mcsa-bi-reporting
+  isOptional: false
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

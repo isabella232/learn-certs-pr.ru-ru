@@ -1,0 +1,68 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure AI Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure AI Engineer Associate'
+  description: 'Инженеры Azure AI занимаются построением, управлением и развертыванием решений AI, использующих Azure Cognitive Services, Azure Cognitive Search и Microsoft Bot 
+  Фреймворк.'
+uid: certification.azure-ai-engineer
+certificationRenewalUid: renewal.azure-ai-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>ЭКЗАМЕН AI-100 БУДЕТ ЗАМЕНЕН ЭКЗАМЕНОМ <a href='/learn/certifications/exams/ai-102'>EXAM AI-102</a> 23 ФЕВРАЛЯ 2021 ГОДА. Вы всё равно сможете получить этот сертификат, сдав экзамен AI-100 до его отмены 30 июня 2021 года.</strong></font><br/><br/></div>
+  
+  Кандидаты на сертификат инженера-партнера Azure AI должны обладать специальными знаниями в области когнитивных служб, машинного обучения и интеллектуального анализа для разработки и реализации решений Microsoft AI, включающих обработку естественного языка, речь, компьютерное зрение и разговорный искусственный интеллект.
+  
+  Обязанности этой роли включают анализ требований к решениям AI, рекомендацию соответствующих инструментов и технологий, а также разработку и внедрение решений на базе AI, отвечающих требованиям к масштабируемости и производительности.
+  
+  Инженеры Azure AI транслируют видение, которым с ними делатся архитекторы решений, и работают с аналитиками данных, инженерами данных, специалистами по IoT и разработчиками программного обеспечения для создания завершенных комплексных решений.
+  
+  Кандидат на получение сертификата должен обладать знаниями и опытом разработки и реализации приложений и агентов AI, которые используют Microsoft Azure Cognitive Services, службу Azure Bot, Azure Cognitive Search и хранилище данных в Azure. Кроме того, кандидат должен быть в состоянии рекомендовать решения, использующие технологии с открытым исходным кодом, понимать компоненты, составляющие портфель Azure AI, и доступные параметры хранения данных, а также понимать, когда следует разрабатывать пользовательский API для удовлетворения конкретных требований.
+subTitle: Инженеры Azure AI занимаются построением, управлением и развертыванием решений AI, использующих Azure Cognitive Services, Azure Cognitive Search и Microsoft Bot Фреймворк.
+levels:
+- intermediate
+skills:
+- Анализ требований к решению
+- Проектирование AI-решений
+- Внедрение и мониторинг AI-решений
+roles:
+- ai-engineer
+type: role-based
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning-studio
+- azure-search
+courses:
+- uid: course.ai-100t01
+paths:
+- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.data-ai.translate-speech-with-speech-services
+- uid: learn.data-ai.create-bots-with-the-azure-bot-service
+- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
+exams:
+- uid: exam.ai-100
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию на младшего инженера-разработчика Azure, а также о ресурсах, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

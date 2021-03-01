@@ -1,0 +1,26 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+metadata:
+  title: 'Обновление для Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.d365-functional-consultant-field-service
+certificationUid: certification.d365-functional-consultant-field-service
+assessmentId: 8ae55969-c279-47f9-83f7-2c75be7c57be
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Dynamics 365 Field Service, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Настройка доступных для резервирования ресурсов в Dynamics 365 Field Service
+- Интеграция Dynamics 365 Remote Assist с Dynamics 365 Field Service
+- Настройка пульта контроля в Dynamics 365 Field Service
+- Развертывание оптимизации планирования ресурсов
+- Начало работы с Microsoft Dynamics 365 Field Service Mobile
+- Начало работы с Connected Field Service for Dynamics 365 и Azure IoT
+examsPassed:
+- pl-200, mb-240
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экзамен на продление сертификата Dynamics 365 Field Service Functional Consultant Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

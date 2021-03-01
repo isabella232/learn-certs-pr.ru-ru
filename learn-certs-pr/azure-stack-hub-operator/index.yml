@@ -1,0 +1,57 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
+  description: 'Candidates for the Azure Stack Hub Operator Associate certification are Azure administrators or Azure Stack Hub operators who provide cloud services to end users or customers from within their own datacenter using Azure Stack Hub.'
+uid: certification.azure-stack-hub-operator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Кандидаты на сертификацию Azure Stack Hub Operator Associate являются администраторами Azure или операторами Azure Stack Hub, предоставляющими службы cloud конечным пользователям или клиентам из собственного центра обработки данных с использованием Azure Stack Hub.
+  
+  Кандидаты на эту сертификацию отвечают за планирование, развертывание, упаковку, обновление и обслуживание инфраструктуры Azure Stack Hub. Они также предлагают гибридные ресурсы cloud и запрашиваемые службы и управляют инфраструктурой как услугой (IaaS) и платформой как услугой (PaaS).
+
+  Кандидаты на эту сертификацию входят в большие команды, занимающиеся облачным управлением и безопасностью или гибридными средами как частью комплексной инфраструктуры.
+
+  Кандидаты на эту сертификацию должны обладать значительным опытом управления и эксплуатации сред Azure Stack Hub. Кандидаты на эту сертификацию также должны обладать углубленными знаниями Azure и некоторыми знаниями виртуализации, работы с сетями и управления удостоверениями. Кандидатам на эту сертификацию необходимо понимать, каким образом Azure Stack Hub позволяет включать процессы DevOps, и разбираться в модели гибридной разработки.
+subTitle: Кандидаты на сертификацию Azure Stack Hub Operator Associate являются администраторами Azure или операторами Azure Stack Hub, предоставляющими службы cloud конечным пользователям или клиентам из собственного центра обработки данных с использованием Azure Stack Hub. Candidates for the Azure Stack Hub Operator Associate certification are Azure administrators or Azure Stack Hub operators who provide cloud services to end users or customers from within their own datacenter using Azure Stack Hub.
+levels:
+- advanced
+skills:
+- Предоставление служб
+- Реализация интеграции центра обработки данных 
+- Управление удостоверениями и доступом 
+- Управление инфраструктурой
+roles:
+- administrator
+type: role-based
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4LyWu
+exams:
+- uid: exam.az-600
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Повтор экзамена]
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx

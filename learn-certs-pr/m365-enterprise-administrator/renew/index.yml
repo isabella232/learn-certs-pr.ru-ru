@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft 365 Certified: Enterprise Administrator Expert'
+metadata:
+  title: 'Обновление для Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.m365-enterprise-administrator
+certificationUid: certification.m365-enterprise-administrator
+assessmentId: f28a7832-30d9-4fe7-afea-e88ec7ab4e5a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Microsoft 365, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Управление Windows 10 посредством совместного управления с помощью System Center Configuration Manager
+- Упрощение управления устройствами с помощью Microsoft Endpoint Manager
+- Упрощение получения доступа и прохождения идентификации с помощью Azure Active Directory
+- Доставка почты в почтовые ящики за пределами Microsoft 365 с помощью соединителей
+- Защита от угроз с помощью Microsoft Threat Protection
+- Перенос пользовательских файлов и настроек в Microsoft 365
+- Доставка приложений Microsoft 365 и бизнес-приложений
+- Защита собственных данных с помощью меток конфиденциальности
+- Управление внутренними рисками в Microsoft 365
+examsPassed:
+- ms-100, ms-101
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft 365: Экзамен на продление сертификата Enterprise Administrator Expert Azure Administrator Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

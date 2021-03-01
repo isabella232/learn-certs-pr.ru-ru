@@ -1,0 +1,77 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+  description: 'Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).'
+uid: certification.d365-functional-consultant-field-service
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
+subTitle: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
+levels:
+- intermediate
+skills:
+- Настройка приложений обслуживания на местах
+- Управление заказами на выполнение работ
+- Планирование и диспетчеризации заказов на выполнение работ
+- Управление мобильностью обслуживания на местах
+- Управление запасами и закупками
+- Реализовывать Connected Field Service
+- Настраивать Common Data Service
+- Создавать приложения с использованием Power Apps
+- Создавать и управлять Power Automate
+- Реализовывать чат-ботов Power Virtual Agents
+- Интегрировать Power Apps с другими приложениями и службами
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-field-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-240t00
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.implementing-dyn365-field-service
+- uid: learn-bizapps.universal-resource-scheduling
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiZ
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-240
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Путешествие к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Обучение для получения сертификата
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+

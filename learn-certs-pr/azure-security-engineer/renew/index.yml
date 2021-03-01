@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: Azure Security Engineer Associate'
+metadata:
+  title: 'Обновление для Microsoft Certified: Azure Security Engineer Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.azure-security-engineer
+certificationUid: certification.azure-security-engineer
+assessmentId: 824be456-aba3-45ba-a4b4-4478c41a7622
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Azure, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Усиление проверки подлинности (условный доступ) с помощью Azure Active Directory
+- Обеспечение безопасности учетных записей администраторов в Azure Active Directory
+- Включение защиты удостоверения в Azure Active Directory
+- Обеспечение безопасности собственных ресурсов Azure с помощью управления доступом на основе ролей (RBAC)
+- Обеспечение безопасного и изолированного доступа к ресурсам Azure с помощью групп безопасности сети и конечных точек служб
+- Разработка целостной стратегии мониторинга в Azure
+- Обеспечение безопасности учетной записи хранилища Azure
+- Управление секретами в серверных приложениях с помощью Azure Key Vault
+examsPassed:
+- az-500
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экзамен на продление сертификата Azure Security Engineer Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

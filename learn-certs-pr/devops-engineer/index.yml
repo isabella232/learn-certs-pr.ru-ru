@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: DevOps Engineer Expert'
+metadata:
+  title: 'Microsoft Certified: DevOps Engineer Expert'
+  description: 'Специалисты DevOps в Microsoft объединяют людей, процессы и технологии для непрерывной разработки ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям.'
+uid: certification.devops-engineer
+certificationRenewalUid: renewal.devops-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Кандидаты на сертификацию DevOps Engineer Expert должны иметь опыт работы с людьми, процессами и технологиями, чтобы постоянно приносить пользу бизнесу.
+
+  Список обязанностей в рамках этой роли включает&#58; разработку и внедрение стратегий сотрудничества, кодов и инфраструктуры, которые обеспечивают непрерывную интеграцию, тестирование, поставку, отслеживание и обратную связь.
+
+  Кандидат на получение этой сертификации должен быть знаком как с администрированием, так и с разработкой Azure, и должен быть экспертом по крайней мере в одной из этих областей.
+subTitle: Специалисты DevOps в Microsoft объединяют людей, процессы и технологии для непрерывной разработки ценных продуктов и услуг, которые отвечают потребностям конечных пользователей и бизнес-целям.
+levels:
+- advanced
+skills:
+- Разработка стратегии оснащения средствами контроля
+- Разработка стратегии обеспечения надежности сайта (SRE)
+- Разработка плана обеспечения безопасности и соответствия требованиям
+- Управление системой управления версиями исходного кода
+- Облегчение общения и сотрудничества
+- Определение и реализация непрерывной интеграции
+- Определение и реализация стратегии управления непрерывной доставкой и выпуском
+roles:
+- devops-engineer
+type: role-based
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+paths:
+- uid: learn.az-400-develop-instrumentation-strategy
+- uid: learn.az-400-develop-sre-strategy
+- uid: learn.az-400-develop-security-compliance-plan
+- uid: learn.az-400-manage-source-control
+- uid: learn.az-400-facilitate-communication-collaboration
+- uid: learn.az-400-define-implement-continuous-integration
+courses:
+- uid: course.az-400t00
+prerequisites:
+- uid: certification.azure-administrator
+  isOptional: false
+- uid: certification.azure-developer
+  isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
+exams:
+- uid: exam.az-400
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Изучите шаги, чтобы получить сертификат эксперта DevOps, а также ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

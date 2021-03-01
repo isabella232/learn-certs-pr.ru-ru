@@ -1,0 +1,40 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Excel 2013 Expert'
+metadata:
+  title: 'Microsoft Office Specialist: Excel 2013 Expert'
+  description: 'Специалист Microsoft Office: Excel 2013 Expert'
+uid: certification.mos-excel-2013-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Этот сертификат подтверждает, что получив сертификат Microsoft Office Specialist Expert, вы обладаете продвинутыми навыками работы с Microsoft Excel. Кандидаты должны хорошо разбираться в среде Excel и уметь помогать другим в правильном использовании функций Excel 2013 в Office Professional Plus. Кандидаты должны знать и уметь использовать расширенные и специализированные функций приложения.
+subTitle: Этот сертификат подтверждает, что получив сертификат Microsoft Office Specialist Expert, вы обладаете продвинутыми навыками работы с Microsoft Excel.
+levels:
+- intermediate
+skills:
+- Управление книгами и общий доступ к книгам
+- Применение пользовательских форматов и макетов
+- Создание сложных формул
+- Создание расширенные диаграммы и таблицы
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-excel
+exams:
+- uid: exam.77-427
+- uid: exam.77-428
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

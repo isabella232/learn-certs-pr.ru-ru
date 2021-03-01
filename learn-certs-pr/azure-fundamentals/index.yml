@@ -1,0 +1,68 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure Fundamentals'
+  description: 'Сертификат “Основы Azure” подтверждает базовые знания облачных служб и того, как эти службы предоставляются с помощью Microsoft Azure.'
+uid: certification.azure-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Кандидаты на сертификацию по основам Azure должны обладать базовыми знаниями об облачных службах и о том, как эти службы предоставляются в Microsoft Azure. Эта сертификация предназначена для кандидатов, которые только начинают работать с облачными решениями и службами или плохо знакомы с Azure.
+
+  Сертификация Azure Fundamentals позволяет подтвердить знания облачных концепций, служб Azure, рабочих нагрузок Azure, безопасности и конфиденциальности в Azure, а также процессов ценообразования и поддержки в Azure. Кандидаты должны быть знакомы с общими концепциями технологий, включая концепции сетей, хранения, вычислений, поддержки приложений и разработки приложений.
+
+  Основы Azure можно использовать для подготовки к получению других ролевых или специальных сертификатов Azure, но это не является обязательным условием для любого из них.
+subTitle: Сертификат “Основы Azure” подтверждает базовые знания облачных служб и того, как эти службы предоставляются с помощью Microsoft Azure.
+levels:
+- beginner
+skills:
+- Описание понятий cloud
+- Описание основных служб Azure
+- Описание основных решений и средств управления в Azure
+- Описание функций общей безопасности и функций безопасности сети
+- Описание функций удостоверения, управления, конфиденциальности и соответствия
+- Описание управления затратами Azure и Service Level Agreements
+roles:
+- administrator
+- business-user
+- developer
+- student
+- technology-manager
+type: fundamentals
+products:
+- azure
+courses:
+- uid: course.az-900t01
+- uid: course.az-900t00
+paths:
+- uid: learn.az-900-describe-cloud-concepts
+- uid: learn.az-900-describe-core-azure-services
+- uid: learn.az-900-describe-core-solutions-management-tools-azure
+- uid: learn.az-900-describe-general-security-network-security-features
+- uid: learn.az-900-describe-identity-governance-privacy-compliance-features
+- uid: learn.az-900-describe-azure-cost-management-service-level-agreements
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
+exams:
+- uid: exam.az-900
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию в качестве Azure Fundamentals, и какие ресурсы помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

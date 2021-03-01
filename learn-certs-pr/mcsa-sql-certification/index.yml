@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: 'MCSA: SQL Server 2012/2014'
+metadata:
+  title: 'MCSA: SQL Server 2012/2014'
+  description: 'MCSA: SQL Server 2012/2014'
+uid: certification.mcsa-sql-certification
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div>
+  <div><strong>Данная сертификация будет аннулирована 31 января 2021 года. Вы больше не сможете получить данный сертификат после этой даты. Любые сертификаты, полученные вами до даты отмены сертификации, будут по-прежнему отображаться в вашей выписке об успеваемости в <a href='https://www.microsoft.com/learning/dashboard.aspx'>панели Сертификации</a>. Вы также можете <a href='/learn/certifications/retired-certifications'>просмотреть все отмененные сертификации</a>.</strong><br/><br/></div>.
+  </div>
+
+  Данная сертификация демонстрирует наличие умений и способности к выдвижению новых идей в области разработки и обслуживания сред нового поколения, предназначенных для выполнения ответственных задач.
+subTitle: Данная сертификация демонстрирует наличие умений и способности к выдвижению новых идей в области разработки и обслуживания сред нового поколения, предназначенных для выполнения ответственных задач.
+levels:
+- advanced
+skills:
+- none
+roles:
+- database-administrator
+type: mcsa
+products:
+- sql-server
+courses:
+- uid: course.20461
+- uid: course.20462
+- uid: course.20463
+exams:
+- uid: exam.70-461
+- uid: exam.70-462
+- uid: exam.70-463
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: обратитесь за помощью на форумы поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,26 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+metadata:
+  title: 'Обновление для Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.d365-functional-consultant-customer-service
+certificationUid: certification.d365-functional-consultant-customer-service
+assessmentId: ff363f9d-4af6-4e37-9a0d-f6cfe4d45293
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Dynamics 365 Customer Service, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Используйте очереди обслуживания клиентов Microsoft Dynamics 365 для управления рабочими нагрузками по обращению
+- Начните работу с Omnichannel для обслуживания клиентов
+- Интеграция бота Power Virtual Agents с Omnichannel для обслуживания клиентов
+- Развертывание виджетов чата с Omnichannel для службы поддержки клиентов Dynamics 365
+- Маршрутизация и распределение работы в Omnichannel для службы поддержки клиентов Dynamics 365
+- Начните работу с информацией об обслуживании клиентов
+examsPassed:
+- pl-200, mb-230
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экзамен на продление срока действия сертификата Dynamics 365 Customer Service Functional Consultant Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

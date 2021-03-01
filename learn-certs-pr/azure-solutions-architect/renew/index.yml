@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: Azure Solutions Architect Expert'
+metadata:
+  title: 'Обновление для Microsoft Certified: Azure Solutions Architect Expert'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.azure-solutions-architect
+certificationUid: certification.azure-solutions-architect
+assessmentId: 16c15d1b-16a4-4eaa-aac3-d6c42189bc3c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Azure, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Разработка целостной стратегии мониторинга в Azure
+- Платформа Microsoft Azure с хорошей архитектурой - Эффективность производительности
+- Хорошо продуманная среда Microsoft Azure - Безопасность
+- Защита инфраструктуры Azure с помощью Azure Site Recovery
+- Защита виртуальных машин с помощью Azure Backup
+- Резервное копирование и восстановление базы данных Azure SQL
+- Использование мониторинга и аналитику для получения представление о затратах
+- Анализ инфраструктуры Azure с помощью журналов Azure Monitor
+examsPassed:
+- az-303, az-304
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экспертная оценка продления срока действия Azure Solutions Architect.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

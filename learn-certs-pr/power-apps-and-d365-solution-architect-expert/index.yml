@@ -1,0 +1,68 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+  description: Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
+uid: certification.power-apps-and-d365-solution-architect-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div><font color='red'><strong>ЭТА СЕРТИФИКАЦИЯ БУДЕТ ОТМЕНЕНА 30 ИЮНЯ 2021 ГОДА. После этой даты вы не сможете пройти эту сертификацию. Все сертификаты, полученные вами до дат отмены, будут по-прежнему отражаться в вашей выписке об успеваемости <a href='https://aka.ms/certdashboard'>в панели сертификации</a>.</strong></font><br/><br/></div>
+  
+  Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
+  
+  <div><br/><strong>ПРИМЕЧАНИЕ&#58; получение следующих двух сертификаций считается необходимым условием для этой сертификации. Это необходимое условие не указано ниже из-за отсутствия достаточного количества места.</strong><ul>
+  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified&#58; Power Platform Functional Consultant Associate</a></li>
+  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified&#58; Power Platform Developer Associate</a></li>
+  </ul></div>
+subTitle: Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
+levels:
+- advanced
+skills:
+- Выполнение анализа решений и анализа требований
+- Разработка решения
+- Внедрение решения
+roles:
+- solution-architect
+type: role-based
+products:
+- dynamics-365
+- power-apps
+courses:
+- uid: course.mb-600t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
+prerequisites:
+- uid: certification.d365-functional-consultant-sales
+  isOptional: false
+- uid: certification.d365-functional-consultant-marketing
+  isOptional: false
+- uid: certification.d365-functional-consultant-customer-service
+  isOptional: false
+- uid: certification.d365-functional-consultant-field-service
+  isOptional: false
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Путешествие к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7FB
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Обучение для получения сертификата
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+

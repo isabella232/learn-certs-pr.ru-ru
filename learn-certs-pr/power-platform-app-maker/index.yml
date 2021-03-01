@@ -1,0 +1,107 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform App Maker Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform App Maker Associate'
+  description: Производители приложений создают решения для упрощения, автоматизации и преобразования задач и процессов для себя и своей команды, и в этом они обладают глубокими знаниями в области решений. Кандидаты разбираются в ключевых задачах технического бизнес-аналитика, таких как моделирование данных, базовая разработка UX, анализ требований и процессов.
+uid: certification.power-platform-app-maker
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если вы бизнес-специалист с большим опытом работы в области вашего решения и хотите использовать свою страсть к созданию решений Microsoft Power Platform для упрощения, автоматизации и преобразования задач и процессов для своей команды, эта сертификация для вас. Вы должны обладать навыками, необходимыми для выполнения ключевых технических задач бизнес-аналитика, таких как моделирование данных, базовое проектирование взаимодействия с пользователями, анализ требований и анализ процесса. 
+
+  Вы подходите на роль создателя приложений, если вы умеете работать самостоятельно, сосредотачиваться на решении и работать с инструментами для создания Microsoft Power Platform с целью решения бизнес-проблем. У вас может быть опыт работы с Visual Basic for Applications, Excel PivotTables, Teams и другими инструментами. У вас может не быть формального IT-образования, но вам комфортно работать с IT-администраторами и разработчиками Microsoft Power Platform с использованием технологии для решения бизнес-проблем. Вы отвечаете за следующее&#58;  
+  - Разработка и создание приложений и автоматизация рабочих процессов. 
+  - Анализ и визуализация данных в контексте приложения или автоматизированного рабочего процесса. 
+  - Реализация приложений и автоматизированных рабочих процессов и управление ими.
+
+  Чтобы узнать больше, прочтите наш пост&#58; [«Вы создатель приложений Power Platform? Пришло время пройти сертификацию»](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/are-you-a-power-platform-app-maker-now-s-the-time-to-get/ba-p/1512993). Если вам нужно приобрести больше опыта перед попыткой прохождения сертификации, вы можете&#58;
+  - В качестве волонтера поработать над проектом для получения реального опыта моделирования данных, базового проектирования взаимодействия с пользователями, анализа требований и анализа процесса.
+  - Пройти обучение по доступным схемам в Microsoft Learn.
+  - Зарегистрироваться на обучающий курс с инструктором.
+  
+subTitle: Производители приложений создают решения для упрощения, автоматизации и преобразования задач и процессов для себя и своей команды, и в этом они обладают глубокими знаниями в области решений. Кандидаты разбираются в ключевых задачах технического бизнес-аналитика, таких как моделирование данных, базовая разработка UX, анализ требований и процессов.
+levels:
+- intermediate
+skills:
+- Проектирование решений
+- Создание решений
+- Анализ и визуализация данных
+- Внедрение решений и управление ими
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- maker
+- technology-manager
+type: role-based
+products:
+- dynamics-365
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+courses:
+- uid: course.pl-100t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-bizapps.understand-advanced-topics
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.ui-controls-canvas-app-powerapps
+- uid: learn-bizapps.create-business-process-flow
+exams:
+- uid: exam.pl-100
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Путешествие к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Обучение для получения сертификата
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+

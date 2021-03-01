@@ -1,0 +1,73 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Developer Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform Developer Associate'
+  description: Кандидаты на сертификацию Microsoft Power Platform Developer Associate умеют проектировать, разрабатывать, обеспечивать защиту и устранять неполадки решений Power Platform.
+uid: certification.power-platform-developer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если вам нравится проектировать, разрабатывать и расширять решения Microsoft Power Platform, а также обеспечивать их безопасность, эта сертификация может быть для вас хорошим решением. Для успешного прохождения этой сертификации вы должны уметь создавать компоненты решения, включая улучшения приложений, собственные способы взаимодействия с пользователями, интеграции систем, преобразование данных, автоматизацию пользовательских процессов и пользовательские визуализации. У вас должны быть хорошие прикладные знания служб Microsoft Power Platform и базовое понимание практик DevOps для Microsoft Power Platform. Более того, у вас должен быть опыт разработки, включающий работу с JavaScript, JSON, TypeScript, C#, HTML, .NET, Azure, Microsoft 365, веб-службами RESTful, ASP.NET и Power BI.
+
+  Кандидаты на эту сертификацию обычно работают с создателями приложений, консультантами по функциональным возможностям, архитекторами решений и IT-администраторами. Ваши обязанности включают следующее&#58;
+  - Создание технических проектов и Power Apps.
+  - Настройка Dataverse, Power Apps и business process automation.
+  - Расширение платформы и взаимодействия с пользователями.
+  - Разработка интеграций.
+
+  Чтобы узнать больше, ознакомьтесь со следующим нашим постом в блоге&#58; [«Новая сертификация&#58; Microsoft Power Platform Developer Associate»](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-developer-associate/ba-p/1469335). Если вам нужно приобрести больше опыта перед попыткой прохождения сертификации, вы можете&#58;
+  - В качестве волонтера принять участие в проекте по разработке Microsoft Power Platform для получения практического опыта.
+  - Пройти обучение по доступным схемам в Microsoft Learn.
+  - Зарегистрироваться на обучающий курс с инструктором.
+subTitle: Кандидаты на сертификацию Microsoft Power Platform Developer Associate умеют проектировать, разрабатывать, обеспечивать защиту и устранять неполадки решений Power Platform.
+levels:
+- intermediate
+skills:
+- Создание технического дизайна
+- Настройка общих служб данных
+- Создание и настройка Power Apps
+- Настройка автоматизации бизнес-процессов
+- Улучшение опыта работы пользователей
+- Расширение платформы
+- Разработка интеграций
+roles:
+- developer
+type: role-based
+products:
+- power-platform
+- power-apps
+- common-data-service
+courses:
+- uid: course.pl-400t00
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
+exams:
+- uid: exam.pl-400
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Путешествие к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+

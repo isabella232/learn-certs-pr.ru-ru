@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: Azure Data Scientist Associate'
+metadata:
+  title: 'Обновление для Microsoft Certified: Azure Data Scientist Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.azure-data-scientist
+certificationUid: certification.azure-data-scientist
+assessmentId: 336d9230-44d1-4603-8056-a88d3a79daeb
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Azure Machine Learning для машинного обучения, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Введение в пакет SDK для машинного обучения Azure
+- Обучение модели машинного обучения с помощью Azure Machine Learning
+- Работа с данными в машинном обучении Azure
+- Работа с вычислениями в Azure Machine Learning
+- Управление машинным обучением с помощью конвейеров
+- Развертывание служб машинного обучения в реальном времени с помощью машинного обучения Azure
+- Мониторинг моделей с помощью Azure Machine Learning
+- Использование автоматизированного машинного обучения в Azure Machine Learning
+- Создание модели классификации с помощью конструктора Azure Machine Learning
+examsPassed:
+- dp-100
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экзамен на продление срока действия сертификата Azure Data Scientist Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

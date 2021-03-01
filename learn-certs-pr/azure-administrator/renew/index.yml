@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: Azure Administrator Associate'
+metadata:
+  title: 'Обновление для Microsoft Certified: Azure Administrator Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.azure-administrator
+certificationUid: certification.azure-administrator
+assessmentId: 5a6a0e34-b4e6-4690-af91-962c75421067
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Azure, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Разместите веб-приложение с помощью службы приложений Azure
+- Создание контейнерного веб-приложения с помощью Docker
+- Обеспечение безопасности учетных записей хранения
+- Размещение своего домена в Azure DNS
+- Обеспечение безопасного и изолированного доступа к ресурсам Azure с помощью групп безопасности сети и конечных точек служб
+- Защита машин с помощью Azure Backup
+- Введение в Kubernetes
+- Управление пользователями и группами в Azure Active Directory
+examsPassed:
+- az-104
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экзамен на продление срока действия сертификата Azure Administrator Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

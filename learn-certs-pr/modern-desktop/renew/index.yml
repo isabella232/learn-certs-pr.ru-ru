@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft 365 Certified: Modern Desktop Administrator Associate'
+metadata:
+  title: 'Обновление для Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.m365-modern-desktop
+certificationUid: certification.modern-desktop
+assessmentId: 8602eec7-4017-456f-a878-62fe16630114
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Microsoft 365, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Автоматизируйте развертывание Windows с помощью Windows Autopilot
+- Упростите управление устройствами с помощью Microsoft Endpoint Manager
+- Делайте больше и оставайтесь в безопасности с Windows 10
+- Перейдите на современный рабочий стол с Microsoft 365
+- Управление устройствами с помощью Microsoft Intune
+- Управление Windows 10 посредством совместного управления с помощью System Center Configuration Manager
+- Упростите управление устройствами с помощью Microsoft Endpoint Manager
+- Развертывание, обновление и переход на Windows 10
+- Управление приложениями с помощью Microsoft Intune
+examsPassed:
+- md-100, md-101
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft 365: Экзамен на продление сертификата Modern Desktop Administrator Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

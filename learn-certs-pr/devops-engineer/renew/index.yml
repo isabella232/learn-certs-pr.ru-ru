@@ -1,0 +1,27 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: DevOps Engineer Expert'
+metadata:
+  title: 'Обновление для Microsoft Certified: DevOps Engineer Expert'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.devops-engineer
+certificationUid: certification.devops-engineer
+assessmentId: a2d734be-49cd-42e6-966e-e7278821234c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Azure и GitHub, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Управление надежностью сайта
+- Мониторинг и отчет о событиях безопасности в Azure AD
+- Создание и развертывание приложений в Azure с помощью GitHub Actions
+- Автоматизация GitHub с помощью GitHub Script
+- Обзор планирования и управления расходами на Azure
+- Управление зависимостями сборки с помощью Azure Artifacts
+- Размещение собственного агента сборки в Azure Pipelines
+examsPassed:
+- az-400
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экзамен на продление сертификата DevOps Engineer Expert.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

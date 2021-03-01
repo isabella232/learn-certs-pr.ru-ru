@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft 365 Certified: Security Administrator Associate'
+metadata:
+  title: 'Обновление для Microsoft 365 Certified: Security Administrator Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.m365-security-administrator
+certificationUid: certification.m365-security-administrator
+assessmentId: a5e8873e-f61e-4c5b-8f88-845a09bbd070
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Microsoft 365, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Защита среды с помощью Azure Advanced Threat Protection
+- Переход от Azure Information Protection к Microsoft Information Protection
+- Описание возможностей управления соответствием требованиям Microsoft 365
+- Усиление проверки подлинности (условный доступ) с помощью Azure Active Directory
+- Обеспечения нулевого доверия с помощью Azure Active Directory
+- Защита своих данные с помощью меток конфиденциальности
+- Защита от угроз с помощью Advanced Threat Protection в Microsoft Defender
+- Подготовка соответствия коммуникаций в Microsoft 365
+examsPassed:
+- ms-500
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft 365: Экзамен на продление сертификата Security Administrator Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

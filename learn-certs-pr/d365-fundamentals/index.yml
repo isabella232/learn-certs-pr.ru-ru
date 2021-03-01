@@ -1,0 +1,61 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+  description: 'Этот экзамен позволяет оценить ваши знания в следующем: Microsoft Dynamics 365; искусственный интеллект (AI); гибридная реальность (MR); Power Platform; облачные концепции; облачная безопасность; безопасность Dynamics 365; Common Data Service; отчеты в Dynamics 365; интеграции в Dynamics 365; и облачные развертывания.'
+uid: certification.d365-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div>
+  <div><strong>ЭТА СЕРТИФИКАЦИЯ БУДЕТ ОТМЕНЕНА 30 ИЮНЯ 2021 ГОДА. После этой даты вы не сможете пройти эту сертификацию. Все сертификаты, полученные вами до дат отмены, будут по-прежнему отражаться в вашей выписке об успеваемости <a href="https://aka.ms/certdashboard">в панели сертификации</a>.</strong><br/><br/></div>
+  </div>
+
+  Этот экзамен позволяет оценить ваши знания в следующем&#58; Microsoft Dynamics 365; искусственный интеллект; гибридная реальность; Power Platform; облачные концепции; облачная безопасность; безопасность Dynamics 365; Common Data Service; отчеты в Dynamics 365; интеграции в Dynamics 365; и облачные развертывания.
+
+  <div><br/><strong>В связи с отменой этой сертификации 30 июня 2021 года Microsoft не будет менять упоминания Common Data Service на Microsoft Dataverse.</strong></div>
+subTitle: 'Этот экзамен позволяет оценить ваши знания в следующем: Microsoft Dynamics 365; искусственный интеллект (AI); гибридная реальность (MR); Power Platform; облачные концепции; облачная безопасность; безопасность Dynamics 365; Common Data Service; отчеты в Dynamics 365; интеграции в Dynamics 365; и облачные развертывания.'
+levels:
+- beginner
+skills:
+- Определение компонентов платформы Microsoft для Dynamics 365
+- Описание искусственного интеллекта и смешанной реальности в Dynamics 365
+- Описание управляемых моделями приложений
+- Описание приложений для финансов и операций
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products:
+- dynamics-365
+courses:
+- uid: course.mb-901t00
+paths:
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
+exams:
+- uid: exam.mb-901
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Путешествие к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRV
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Обучение для получения сертификата
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+

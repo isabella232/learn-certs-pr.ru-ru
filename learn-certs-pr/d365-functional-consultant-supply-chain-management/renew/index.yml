@@ -1,0 +1,22 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+metadata:
+  title: 'Обновление для Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его.'
+uid: renewal.d365-functional-consultant-supply-chain-management
+certificationUid: certification.d365-functional-consultant-supply-chain-management
+assessmentId: 14ca194d-04da-4e2a-902c-b27cd9c7e7d8
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истекает в течение шести месяцев, вы имеете право продлить его. Покажите, что вы в курсе последних обновлений Dynamics 365 Supply Chain Management, пройдя экзамен на продление сертификата. Вы также можете подготовиться к экзамену для обновления сертификата с помощью тщательно подобранной коллекции учебных модулей.
+skills:
+- Работа с калькуляцией в Dynamics 365 Supply Chain Management
+- Используйте оптимизацию планирования в Dynamics 365 Supply Chain Management
+examsPassed:
+- mb-300, mb-330
+studyGuideDescription: 'Используйте этот набор учебных модулей, которые помогут вам подготовиться к сертификации Microsoft: Экзамен на продление срока действия сертификата Dynamics 365 Supply Chain Management Functional Consultant Associate.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
