@@ -1,0 +1,69 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
+  description: 'Подтвердите, что вы знакомы с Microsoft Azure и Microsoft 365 и понимаете, как решения Microsoft в отношении безопасности, обеспечения соответствия требованиям и удостоверений могут разворачиваться в областях этих решений в целях обеспечения целостного, комплексного решения.'
+uid: certification.security-compliance-and-identity-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Эта сертификация предназначена для тех, кто хочет ознакомиться с основами безопасности, соответствия требованиям и удостоверений (SCI) в службах cloud и связанных службах Microsoft.
+
+  Это широкая аудитория, которая может включать заинтересованных лиц компаний, начинающих и опытных IT-специалистов и учащихся, которых интересуют решения Microsoft в отношении безопасности, обеспечения соответствия требованиям и удостоверений.
+
+  Кандидаты должны быть знакомы с Microsoft Azure и Microsoft 365 и понимать, как решения Microsoft в отношении безопасности, обеспечения соответствия требованиям и удостоверений могут разворачиваться в областях этих решений в целях обеспечения целостного, комплексного решения.
+subTitle: Подтвердите, что вы знакомы с Microsoft Azure и Microsoft 365 и понимаете, как решения Microsoft в отношении безопасности, обеспечения соответствия требованиям и удостоверений могут разворачиваться в областях этих решений в целях обеспечения целостного, комплексного решения.
+levels:
+- beginner
+skills:
+- Описание понятий безопасности, соответствия требованиям и удостоверений 
+- Описание возможностей решений Microsoft по управлению удостоверениями и доступом
+- Описание возможностей решений безопасности Microsoft 
+- Описание возможностей решений Microsoft по обеспечению соответствия требованиям 
+roles:
+- business-user
+- student
+type: fundamentals
+products:
+- azure
+- azure-active-directory
+- azure-bastion
+- azure-blueprints
+- azure-ddos-protection
+- azure-firewall
+- azure-policy
+- azure-security-center
+- azure-sentinel
+- azure-web-application-firewall
+- m365
+- mem-intune
+- m365-ems-cloud-app-security
+- m365-threat-protection
+- m365-security-score
+- m365-security-center
+- mdatp
+- mem
+- office-365-atp
+paths:
+- uid: learn.wwl.describe-concepts-of-security-compliance-identity
+- uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp7
+exams:
+- uid: exam.sc-900
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md

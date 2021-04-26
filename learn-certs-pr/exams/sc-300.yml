@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: 'Microsoft Identity and Access Administrator (Бета-экзамен по безопасности)'
+metadata:
+  title: 'Exam SC-300: Microsoft Identity and Access Administrator (Бета-экзамен по безопасности)'
+  description: 'Exam SC-300: Microsoft Identity and Access Administrator (Бета-экзамен по безопасности)'
+uid: exam.sc-300
+displayName: SC-300
+summary: |-
+  Администратор удостоверений и доступа Microsoft разрабатывает и реализовывает системы управления удостоверениями и доступом организации, а также управляет ими с помощью Azure Active Directory (Azure AD). Администратор удостоверений и доступа управляет такими задачами, как обеспечение безопасной проверки подлинности и авторизации доступа к приложениям предприятия. Администратор обеспечивает удобную работу и возможности самостоятельного управления для всех пользователей. Адаптивный доступ и управление являются основными элементами для представителей этой роли. Сотрудники с этой ролью также отвечают за устранение проблем, мониторинг и составление отчетности в отношении среды удостоверений и доступа.
+
+  Администратор удостоверений и доступа может работать как самостоятельно, так и в составе команды. Сотрудник с этой ролью сотрудничает с другими сотрудниками организации для осуществления стратегических проектов по удостоверениям в целях модернизации решений по удостоверениям, реализации решений гибридных удостоверений и реализации управления удостоверениями.
+
+  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
+subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: реализовывать решение по управлению удостоверениями; реализовывать решение по управлению проверкой подлинности и доступом; реализовывать управление доступом для приложений; планировать и реализовывать стратегию управления удостоверениями.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
+locales:
+- en
+levels:
+- advanced
+skills:
+- Реализация решения по управлению удостоверениями (25-30%)
+- Реализация решения по управлению проверкой подлинности и доступом (25-30%)
+- Реализация управления доступом для приложений (10-15%)
+- Планирование и реализация стратегии управления удостоверениями (25-30%)
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+relatedCertifications:
+- related:
+    uid: certification.identity-and-access-administrator
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: ../request-accommodations.md
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md

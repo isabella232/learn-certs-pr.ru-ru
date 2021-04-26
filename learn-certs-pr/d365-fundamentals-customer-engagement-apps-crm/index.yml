@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
-  description: 'Эта сертификация будет доступна в феврале 2021 года. Если вы знакомы с бизнес-операциями и управлением отношениями с клиентами (CRM) и разбираетесь в IT — в связи с жизненным или рабочим опытом — воспользуйтесь этой сертификацией для подтверждения своих навыков. Подтвердите глубокое знание возможностей Dynamics 365 для взаимодействия с клиентами с целью улучшения своего карьерного пути.'
+  description: 'Если вы знакомы с бизнес-операциями и управлением отношениями с клиентами (CRM) и разбираетесь в IT — в связи с жизненным или рабочим опытом — воспользуйтесь этой сертификацией для подтверждения своих навыков. Подтвердите глубокое знание возможностей Dynamics 365 для взаимодействия с клиентами с целью улучшения своего карьерного пути.'
 uid: certification.d365-fundamentals-customer-engagement-apps-crm
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
@@ -12,10 +12,9 @@ summary: |-
   - IT-специалисты, которые хотят продемонстрировать общее понимание приложений, с которыми работают; 
   - участники бизнеса и иные лица, которые знакомы с Dynamics 365 и хотят подтвердить свои навыки и опыт;
   - разработчики, которые хотят подчеркнуть свое понимание бизнес-операций и CRM;
-  - студенты, недавние выпускники вузов и меняющие карьеру люди, которые хотят использовать возможности Dynamics 365 для взаимодействия с клиентами с целью выхода на новый уровень.
+  - студенты, недавние выпускники вузов и меняющие карьеру люди, которые хотят максимально эффективно использовать возможности Dynamics 365 для взаимодействия с клиентами для выхода на новый уровень.
 
-  <div><br/><strong>Примечание&#58; эта сертификация будет доступна в феврале 2021 года.</strong></div>
-subTitle: 'TЭта сертификация будет доступна в феврале 2021 года. Если вы знакомы с бизнес-операциями и управлением отношениями с клиентами (CRM) и разбираетесь в IT — в связи с жизненным или рабочим опытом — воспользуйтесь этой сертификацией для подтверждения своих навыков. Подтвердите глубокое знание возможностей Dynamics 365 для взаимодействия с клиентами с целью улучшения своего карьерного пути.'
+subTitle: 'Если вы знакомы с бизнес-операциями и управлением отношениями с клиентами (CRM) и разбираетесь в IT — в связи с жизненным или рабочим опытом — воспользуйтесь этой сертификацией для подтверждения своих навыков. Подтвердите глубокое знание возможностей Dynamics 365 для взаимодействия с клиентами с целью улучшения своего карьерного пути.'
 levels:
 - beginner
 skills:
@@ -34,6 +33,14 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-customer-engagement
+courses:
+- uid: course.mb-910t00
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-marketing
+- uid: learn.wwl.explore-microsoft-dynamics-365-sales
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-customer-service
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-field-service
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-project-operations-crm
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIew
 exams:
 - uid: exam.mb-910
@@ -41,9 +48,15 @@ resources:
 - title: Плакат с сертификацией
   description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Путешествие к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAmVj
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Обучение для получения сертификата
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

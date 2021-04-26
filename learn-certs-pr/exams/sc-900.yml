@@ -1,0 +1,81 @@
+### YamlMime:Examination
+title: 'Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+metadata:
+  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+uid: exam.sc-900
+displayName: SC-900
+summary: |-
+  Этот экзамен предназначен для тех, кто хочет ознакомиться с основами безопасности, соответствия требованиям и удостоверений (SCI) в службах cloud и связанных службах Microsoft.
+
+  Это широкая аудитория, которая может включать заинтересованных лиц компаний, начинающих и опытных IT-специалистов и учащихся, которых интересуют решения Microsoft в отношении безопасности, обеспечения соответствия требованиям и удостоверений.
+
+  Кандидаты должны быть знакомы с Microsoft Azure и Microsoft 365 и понимать, как решения Microsoft в отношении безопасности, обеспечения соответствия требованиям и удостоверений могут разворачиваться в областях этих решений в целях обеспечения целостного, комплексного решения.
+  
+  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
+subTitle: 'Этот экзамен измеряет вашу способность описывать следующее: понятия безопасности, соответствия требованиям и удостоверений; возможности решений Microsoft по управлению удостоверениями и доступом; возможности решений безопасности Microsoft; возможности решений Microsoft по обеспечению соответствия требованиям.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
+locales:
+- en
+levels:
+- beginner
+skills:
+- Описание понятий безопасности, соответствия требованиям и удостоверений (5-10%)
+- Описание возможностей решений Microsoft по управлению удостоверениями и доступом (25-30%)
+- Описание возможностей решений безопасности Microsoft (30-35%)
+- Описание возможностей решений Microsoft по обеспечению соответствия требованиям (25-30%)
+roles:
+- business-user
+- student
+products:
+- azure
+- azure-active-directory
+- azure-bastion
+- azure-blueprints
+- azure-ddos-protection
+- azure-firewall
+- azure-policy
+- azure-security-center
+- azure-sentinel
+- azure-web-application-firewall
+- m365
+- mem-intune
+- m365-ems-cloud-app-security
+- m365-threat-protection
+- m365-security-score
+- m365-security-center
+- mdatp
+- mem
+- office-365-atp
+paths:
+- uid: learn.wwl.describe-concepts-of-security-compliance-identity
+- uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+relatedCertifications:
+- related:
+    uid: certification.security-compliance-and-identity-fundamentals
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: ../request-accommodations.md
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md
