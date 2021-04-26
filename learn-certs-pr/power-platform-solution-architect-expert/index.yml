@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Power Platform Solution Architect Expert'
-  description: Эта сертификация будет доступна в марте 2021 года. Power Platform Solution Architect Experts работают с заинтересованными лицами и фокусируются на решениях, которые влияют на деловые и технические потребности их организаций.
+  description: Эксперты по архитектуре решений Power Platform работают с заинтересованными лицами и фокусируются на решениях, которые влияют на деловые и технические потребности их организаций. Кандидаты знают функциональные и технические возможности Power Platform, приложений Dynamics 365 для взаимодействия с клиентами, соответствующих решений Microsoft cloud и технологий третьих сторон.
 uid: certification.power-platform-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -15,8 +15,7 @@ summary: |-
   - Зарегистрируйтесь на обучающий курс с инструктором.
   - Пройдите обучение по доступным схемам в [Microsoft Learn](/learn/paths/become-solution-architect/).
   
-  <div><font color='red'><strong>Примечание&#58; эта сертификация станет доступна в марте 2021 года.</strong></font></div>
-subTitle: Эта сертификация станет доступна в марте 2021 года. Эксперты по архитектуре решений Power Platform работают с заинтересованными лицами и фокусируются на решениях, которые влияют на деловые и технические потребности их организаций. Кандидаты знают функциональные и технические возможности Power Platform, приложений Dynamics 365 для взаимодействия с клиентами, соответствующих решений Microsoft cloud и технологий третьих сторон.
+subTitle: Эксперты по архитектуре решений Power Platform работают с заинтересованными лицами и фокусируются на решениях, которые влияют на деловые и технические потребности их организаций. Кандидаты знают функциональные и технические возможности Power Platform, приложений Dynamics 365 для взаимодействия с клиентами, соответствующих решений Microsoft cloud и технологий третьих сторон.
 levels:
 - advanced
 skills:

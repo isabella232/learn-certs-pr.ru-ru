@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Security Operations Analyst Associate'
+metadata:
+  title: 'Microsoft Certified: Security Operations Analyst Associate'
+  description: Аналитик операций безопасности Microsoft сотрудничает с заинтересованными лицами организации в целях защиты систем информационных технологий организации. Цель аналитиков операций безопасности — снижение рисков организации путем быстрого устранения активных атак в среде, предоставления рекомендаций по улучшению практик защиты от угроз и информирования соответствующих заинтересованных лиц о нарушениях политик организации.
+uid: certification.security-operations-analyst
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Аналитик операций безопасности Microsoft сотрудничает с заинтересованными лицами организации в целях защиты систем информационных технологий организации. Цель аналитиков операций безопасности — снижение рисков организации путем быстрого устранения активных атак в среде, предоставления рекомендаций по улучшению практик защиты от угроз и информирования соответствующих заинтересованных лиц о нарушениях политик организации.
+
+  Обязанности включают управление угрозами, мониторинг угроз и реагирование на угрозы посредством использования различных решений безопасности в среде. Специалисты этой роли в основном проводят исследования, ищут угрозы и реагируют на них с использованием Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender и продуктов безопасности сторонних организаций. Аналитики операционной безопасности используют выходные данные вышеуказанных инструментов, поэтому также являются важными заинтересованными лицами, участвующими в настройке и развертывании этих технологий.
+subTitle: Аналитик операций безопасности Microsoft сотрудничает с заинтересованными лицами организации в целях защиты систем информационных технологий организации. Цель аналитиков операций безопасности — снижение рисков организации путем быстрого устранения активных атак в среде, предоставления рекомендаций по улучшению практик защиты от угроз и информирования соответствующих заинтересованных лиц о нарушениях политик организации.
+levels:
+- intermediate
+skills:
+- Устранение угроз с помощью Microsoft 365 Defender
+- Устранение угроз с помощью Azure Defender
+- Устранение угроз с помощью Azure Sentinel 
+roles:
+- security-engineer
+- security-operations-analyst
+type: role-based
+products:
+- azure
+- azure-sentinel
+- m365-threat-protection
+courses:
+- uid: course.sc-200t00
+paths:
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender
+- uid: learn.wwl.sc-200-mitigate-threats-using-azure-defender
+- uid: learn.wwl.sc-200-utilize-kql-for-azure-sentinel
+- uid: learn.wwl.sc-200-configure-your-azure-sentinel-environment
+- uid: learn.wwl.sc-200-connect-logs-to-azure-sentinel
+- uid: learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel
+- uid: learn.wwl.sc-200-perform-threat-hunting-azure-sentinel
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp4
+exams:
+- uid: exam.sc-200
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md

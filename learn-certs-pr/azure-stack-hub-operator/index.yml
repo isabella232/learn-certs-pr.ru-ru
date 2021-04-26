@@ -13,6 +13,7 @@ summary: |-
   Кандидаты на эту сертификацию входят в большие команды, занимающиеся облачным управлением и безопасностью или гибридными средами как частью комплексной инфраструктуры.
 
   Кандидаты на эту сертификацию должны обладать значительным опытом управления и эксплуатации сред Azure Stack Hub. Кандидаты на эту сертификацию также должны обладать углубленными знаниями Azure и некоторыми знаниями виртуализации, работы с сетями и управления удостоверениями. Кандидатам на эту сертификацию необходимо понимать, каким образом Azure Stack Hub позволяет включать процессы DevOps, и разбираться в модели гибридной разработки.
+
 subTitle: Кандидаты на сертификацию Azure Stack Hub Operator Associate являются администраторами Azure или операторами Azure Stack Hub, предоставляющими службы cloud конечным пользователям или клиентам из собственного центра обработки данных с использованием Azure Stack Hub. Candidates for the Azure Stack Hub Operator Associate certification are Azure administrators or Azure Stack Hub operators who provide cloud services to end users or customers from within their own datacenter using Azure Stack Hub.
 levels:
 - advanced
@@ -33,6 +34,8 @@ products:
 - azure-app-service
 - azure-event-hubs
 - azure-active-directory
+courses:
+- uid: course.az-600t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4LyWu
 exams:
 - uid: exam.az-600
