@@ -1,0 +1,55 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Identity and Access Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Identity and Access Administrator Associate'
+  description: Администратор удостоверений и доступа Microsoft разрабатывает и реализовывает системы управления удостоверениями и доступом организации, а также управляет ими с помощью Azure AD. Администратор удостоверений и доступа Microsoft управляет такими задачами, как обеспечение безопасной проверки подлинности и авторизации доступа к приложениям предприятия.
+uid: certification.identity-and-access-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Администратор удостоверений и доступа Microsoft разрабатывает и реализовывает системы управления удостоверениями и доступом организации, а также управляет ими с помощью Azure Active Directory (Azure AD). Администратор удостоверений и доступа управляет такими задачами, как обеспечение безопасной проверки подлинности и авторизации доступа к приложениям предприятия. Администратор обеспечивает удобную работу и возможности самостоятельного управления для всех пользователей. Адаптивный доступ и управление являются основными элементами для представителей этой роли. Сотрудники с этой ролью также отвечают за устранение проблем, мониторинг и составление отчетности в отношении среды удостоверений и доступа.
+
+  Администратор удостоверений и доступа может работать как самостоятельно, так и в составе команды. Сотрудник с этой ролью сотрудничает с другими сотрудниками организации для осуществления стратегических проектов по удостоверениям в целях модернизации решений по удостоверениям, реализации решений гибридных удостоверений и реализации управления удостоверениями.
+subTitle: Администратор удостоверений и доступа Microsoft разрабатывает и реализовывает системы управления удостоверениями и доступом организации, а также управляет ими с помощью Azure AD. Администратор удостоверений и доступа Microsoft управляет такими задачами, как обеспечение безопасной проверки подлинности и авторизации доступа к приложениям предприятия.
+levels:
+- advanced
+skills:
+- Реализация решения по управлению удостоверениями 
+- Реализация решения по управлению проверкой подлинности и доступом
+- Реализация управления доступом для приложений 
+- Планирование и реализация стратегии управления удостоверениями
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr7Z
+exams:
+- uid: exam.sc-300
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md

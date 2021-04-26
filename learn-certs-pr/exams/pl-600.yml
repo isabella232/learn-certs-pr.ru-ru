@@ -12,10 +12,11 @@ summary: |-
   
   Архитекторы решений обладают опытом работы в функциональных и технических дисциплинах Power Platform. Архитекторы решений должны мочь упрощать проектные решения в области разработки, настройки, интеграции, инфраструктуры, безопасности, доступности, хранения и управления изменениями. Выполняющие эту роль лица уравновешивают бизнес-потребности проекта, выполняя функциональные и нефункциональные требования.
   
-  <div><br/><font color='red'><strong>Примечание&#58; этот экзамен станет доступен в марте 2021 года.</strong></font></div>
-subTitle: 'Этот экзамен станет доступен в марте 2021 года. Этот экзамен измеряет вашу способность выполнять следующие технические задачи: выполнять планирование решения и анализ требований; разрабатывать архитектуру решения; реализовывать решение.'
+  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
+subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: выполнять планирование решения и анализ требований; разрабатывать архитектуру решения; реализовывать решение.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
 locales:
 - en
 levels:
