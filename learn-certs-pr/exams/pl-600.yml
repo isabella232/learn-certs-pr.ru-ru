@@ -12,7 +12,7 @@ summary: |-
   
   Архитекторы решений обладают опытом работы в функциональных и технических дисциплинах Power Platform. Архитекторы решений должны мочь упрощать проектные решения в области разработки, настройки, интеграции, инфраструктуры, безопасности, доступности, хранения и управления изменениями. Выполняющие эту роль лица уравновешивают бизнес-потребности проекта, выполняя функциональные и нефункциональные требования.
   
-  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
+  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: выполнять планирование решения и анализ требований; разрабатывать архитектуру решения; реализовывать решение.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -45,13 +45,16 @@ products:
 - azure-api-apps
 - azure-app-configuration
 - azure-app-service
+paths:
+- uid: learn-dynamics.become-solution-architect
+- uid: learn-bizapps.solution-architect-design
 relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

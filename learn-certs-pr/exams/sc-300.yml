@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Identity and Access Administrator (Бета-экзамен по безопасности)'
+title: 'Microsoft Identity and Access Administrator'
 metadata:
-  title: 'Exam SC-300: Microsoft Identity and Access Administrator (Бета-экзамен по безопасности)'
-  description: 'Exam SC-300: Microsoft Identity and Access Administrator (Бета-экзамен по безопасности)'
+  title: 'Exam SC-300: Microsoft Identity and Access Administrator'
+  description: 'Exam SC-300: Microsoft Identity and Access Administrator'
 uid: exam.sc-300
 displayName: SC-300
 summary: |-
@@ -10,7 +10,6 @@ summary: |-
 
   Администратор удостоверений и доступа может работать как самостоятельно, так и в составе команды. Сотрудник с этой ролью сотрудничает с другими сотрудниками организации для осуществления стратегических проектов по удостоверениям в целях модернизации решений по удостоверениям, реализации решений гибридных удостоверений и реализации управления удостоверениями.
 
-  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: реализовывать решение по управлению удостоверениями; реализовывать решение по управлению проверкой подлинности и доступом; реализовывать управление доступом для приложений; планировать и реализовывать стратегию управления удостоверениями.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
@@ -46,10 +45,10 @@ relatedCertifications:
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

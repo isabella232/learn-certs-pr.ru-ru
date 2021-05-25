@@ -7,7 +7,7 @@ uid: exam.mb-300
 displayName: MB-300
 summary: |-
   <div>
-  <div><strong>Содержание этого экзамена было обновлено 16 октября 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
+  <div><font color='red'><strong>Содержание этого экзамена было обновлено 16 октября 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong></font><br/><br/></div>
   </div>
 
   Кандидаты на этот экзамен анализируют бизнес-требования и создают на основе этих требований полностью осуществляемые бизнес-процессы и решения, которые реализуют лучшие в области практики. Кандидаты служат в качестве основного ресурса во время реализации и настройки приложений для выполнения бизнес-требований.
@@ -42,6 +42,7 @@ exams:
 - uid: exam.mb-310
 - uid: exam.mb-320
 - uid: exam.mb-330
+- uid: exam.mb-340
 courses:
 - uid: course.mb-300t00
 paths:
@@ -51,17 +52,17 @@ paths:
 - uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
 - uid: learn-dynamics.configure-analytics-reporting-finance-operations
 relatedCertifications:
-- related:
-    uid: certification.d365-functional-consultant-financials
-- related:
+- related:  
     uid: certification.d365-functional-consultant-manufacturing
+- related:
+    uid: certification.d365-functional-consultant-commerce
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

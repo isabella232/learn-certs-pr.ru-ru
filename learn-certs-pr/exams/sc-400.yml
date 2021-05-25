@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Information Protection Administrator (Бета-экзамен по безопасности)'
+title: 'Microsoft Information Protection Administrator'
 metadata:
-  title: 'Exam SC-400: Microsoft Information Protection Administrator (Бета-экзамен по безопасности)'
-  description: 'Exam SC-400: Microsoft Information Protection Administrator (Бета-экзамен по безопасности)'
+  title: 'Exam SC-400: Microsoft Information Protection Administrator'
+  description: 'Exam SC-400: Microsoft Information Protection Administrator'
 uid: exam.sc-400
 displayName: SC-400
 summary: |-
@@ -11,8 +11,7 @@ summary: |-
   Администратор защиты информации работает с сотрудниками отдела информационных технологий (IT), владельцами бизнес-приложений, сотрудниками отдела управления персоналом и заинтересованными лицами для реализации технологии, поддерживающей политики и элементы управления, необходимые для полного выполнения нормативных требований организации. Администратор защиты информации также работает с главными лицами, отвечающими за соответствие требованиям и безопасность, например, с руководителем отдела обеспечения соответствия требованиям или сотрудником службы безопасности, для оценки всего спектра соответствующих рисков для компании и партнера в целях разработки соответствующих политик.
 
   Администратор защиты информации определяет применяемые требования и тестирует процессы и операции IT на соответствие разработанным политикам и элементам управления. Администратор защиты информации отвечает за создание политик и правил для классификации контента, предотвращения потери данных, управления и защиты.
-  
-  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
+
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: реализовывать защиту информации; реализовывать предотвращение потери данных; реализовывать управление информацией.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr80
@@ -47,10 +46,10 @@ relatedCertifications:
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
