@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
   description: 'Если вы обладаете глубоким знанием возможностей Dynamics 365 для планирования ресурсов предприятия (ERP) и понимаете основы того, как приложения для финансов и операций вписываются в общую экосистему Microsoft, эта сертификация для вас.'
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -15,7 +15,7 @@ summary: |-
   - технические специалисты и люди, ответственные за принятие бизнес-решений, которые исследуют, как функции Dynamics 365 могут быть интегрированы с приложениями, которые они используют;
   - участники бизнеса и иные лица, которые используют Dynamics 365 и хотят продемонстрировать свое понимание основ платформы;
   - разработчики, которые хотят показать более глубокое понимание бизнес-операций, финансов и ERP;
-  - студенты, недавние выпускники вузов и меняющие карьеру люди, которые хотят использовать приложения Dynamics 365 для финансов и операций с целью выхода на новый уровень.
+  - Студенты, недавние выпускники вузов и меняющие карьеру люди, которые хотят использовать приложения Dynamics 365 для финансов и операций с целью выхода на новый уровень.
   
 subTitle: 'Если вы обладаете глубоким знанием возможностей Dynamics 365 для планирования ресурсов предприятия (ERP) и понимаете основы того, как приложения для финансов и операций вписываются в общую экосистему Microsoft, эта сертификация для вас.'
 levels:
@@ -36,6 +36,8 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+courses:
+- uid: course.mb-920t00
 paths:
 - uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 - uid: learn.wwl.explore-microsoft-dynamics-365-finance
@@ -54,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Обучение для получения сертификата
   description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ

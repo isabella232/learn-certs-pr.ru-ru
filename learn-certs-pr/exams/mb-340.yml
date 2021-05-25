@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Commerce Functional Consultant (beta)
+metadata:
+  title: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant (beta)'
+  description: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant (beta)'
+uid: exam.mb-340
+displayName: MB-340
+summary: |-
+  Кандидаты на этот экзамен настраивают и используют функциональные возможности приложения Dynamics 365 Commerce и предоставляют поддержку для этого приложения.
+  
+  Кандидаты обладают углубленными знаниями бизнес-операций унифицированной коммерческой деятельности. У них также может быть опыт настройки, развертывания и обслуживания Dynamics 365 Commerce.
+  
+  <div><font color='red'><strong>Примечание: этот экзамен станет доступен в июне/июле 2021 года.</strong></font><br/><br/></div>
+subTitle: 'Этот экзамен станет доступен в июне/июле 2021 года. Этот экзамен измеряет вашу способность выполнять следующие технические задачи: настраивать центральный офис Dynamics 365 Commerce; настраивать продукты, цены, скидки, программу лояльности и назначения; управлять пунктом продаж (POS) в Dynamics 365 Commerce; настраивать центры обработки вызовов Dynamics 365 Commerce и управлять ими; управлять электронной коммерцией.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKn
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Настройка центрального офиса Dynamics 365 Commerce (20-25%)
+- Настройка продуктов, цен, скидок, программы лояльности и назначений (20-25%)
+- Управление пунктом продаж (POS) в Dynamics 365 Commerce (15-20%)
+- Настройка центров обработки вызовов Dynamics 365 Commerce и управление ими (10-15%)
+- Управление электронной коммерцией (15-20%)
+roles:
+- functional-consultant
+products: 
+- dynamics-365
+- dynamics-commerce
+- dynamics-cust-svc-insights
+- dynamics-retail
+- dynamics-sales
+exams:
+- uid: exam.mb-300
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-commerce
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://aka.ms/TrainingCertDeck
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: ../request-accommodations.md
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md

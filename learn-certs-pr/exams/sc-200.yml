@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Security Operations Analyst (beta)'
+title: 'Microsoft Security Operations Analyst'
 metadata:
-  title: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
-  description: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
+  title: 'Exam SC-200: Microsoft Security Operations Analyst'
+  description: 'Exam SC-200: Microsoft Security Operations Analyst'
 uid: exam.sc-200
 displayName: SC-200
 summary: |-
@@ -10,7 +10,6 @@ summary: |-
 
   Обязанности включают управление угрозами, мониторинг угроз и реагирование на угрозы посредством использования различных решений безопасности в среде. Специалисты этой роли в основном проводят исследования, ищут угрозы и реагируют на них с использованием Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender и продуктов безопасности сторонних организаций. Аналитики операционной безопасности используют выходные данные вышеуказанных инструментов, поэтому также являются важными заинтересованными лицами, участвующими в настройке и развертывании этих технологий.
   
-  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: устранять угрозы с помощью Microsoft 365 Defender; устранять угрозы с помощью Azure Defender; устранять угрозы с помощью Azure Sentinel.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
@@ -47,10 +46,10 @@ relatedCertifications:
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

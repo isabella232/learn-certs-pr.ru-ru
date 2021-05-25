@@ -12,7 +12,7 @@ summary: |-
 
   Кандидаты на этот экзамен должны обладать навыками администрирования Azure экспертного уровня.
   
-  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
+  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: планировать архитектуру Windows Virtual Desktop; реализовывать инфраструктуру Windows Virtual Desktop; управлять доступом и безопасностью; управлять средами пользователей и приложениями; осуществлять мониторинг и поддержку инфраструктуры Windows Virtual Desktop.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
@@ -58,10 +58,10 @@ relatedCertifications:
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
