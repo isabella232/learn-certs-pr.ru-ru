@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)
+title: Microsoft Dynamics 365 Fundamentals (CRM)
 metadata:
-  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
-  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
+  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
 uid: exam.mb-910
 displayName: MB-910
 summary: |-
@@ -10,7 +10,6 @@ summary: |-
   
   Кандидаты на этот экзамен должны обладать общими знаниями о среде информационных технологий (IT) или соответствующим опытом работы в такой среде. Кандидаты на этот экзамен также должны обладать фундаментальным пониманием бизнес-операций и принципов взаимодействия с клиентами.
   
-  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
 subTitle: 'Этот экзамен измеряет вашу способность описывать следующее: Dynamics 365 Marketing; Dynamics 365 Sales; Dynamics 365 Customer Service; Dynamics 365 Field Service; операции проекта и общие функции.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
@@ -51,7 +50,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
