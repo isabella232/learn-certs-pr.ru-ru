@@ -41,7 +41,7 @@ certificationPaths:
   - uid: certification.m365-developer-associate
     levels:
     - intermediate 
--  title: Power Platform Developer
+- title: Power Platform Developer
   linkedInKeywords: Power Platform Developer
   uid: certification-path.power-platform-developer-associate
   prerequisites: 
