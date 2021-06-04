@@ -8,8 +8,8 @@ summary: |
   Функциональные консультанты используют Microsoft Dynamics 365 и Microsoft Power Platform для прогнозирования и планирования потребностей клиентов.
 subTitle: Функциональные консультанты используют Microsoft Dynamics 365 и Microsoft Power Platform для прогнозирования и планирования потребностей клиентов.
 certificationPaths: 
-- title: Функциональный консультант Dynamics 365 Customer Service
-  linkedInKeywords: Функциональный консультант Dynamics 365 Customer Service
+- title: Dynamics 365 Customer Service Functional Consultant
+  linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
   uid: certification-path.d365-functional-consultant-customer-service 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -19,9 +19,9 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-customer-service
     levels:
     - intermediate
-    
-- title: Функциональный консультант Dynamics 365 Field Service
-  linkedInKeywords: Функциональный консультант Dynamics 365 Field Service
+
+- title: Dynamics 365 Field Service Functional Consultant
+  linkedInKeywords: Dynamics 365 Field Service Functional Consultant
   uid: certification-path.d365-functional-consultant-field-service 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -32,8 +32,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Функциональный консультант Dynamics 365 Finance
-  linkedInKeywords: Функциональный консультант Dynamics 365 Finance
+- title: Dynamics 365 Finance Functional Consultant
+  linkedInKeywords: Dynamics 365 Finance Functional Consultant
   uid: certification-path.d365-functional-consultant-financials 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -44,9 +44,8 @@ certificationPaths:
     levels:
     - intermediate
 
-
-- title: Функциональный консультант Dynamics 365 Manufacturing
-  linkedInKeywords: Функциональный консультант Dynamics 365 Manufacturing
+- title: Dynamics 365 Manufacturing Functional Consultant
+  linkedInKeywords: Dynamics 365 Manufacturing Functional Consultant
   uid: certification-path.d365-functional-consultant-manufacturing
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -57,8 +56,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Функциональный консультант Dynamics 365 Marketing
-  linkedInKeywords: Функциональный консультант Dynamics 365 Marketing
+- title: Dynamics 365 Marketing Functional Consultant
+  linkedInKeywords: Dynamics 365 Marketing Functional Consultant
   uid: certification-path.d365-functional-consultant-marketing 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -69,8 +68,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Функциональный консультант Dynamics 365 Sales
-  linkedInKeywords: Функциональный консультант Dynamics 365 Sales
+- title: Dynamics 365 Sales Functional Consultant
+  linkedInKeywords: Dynamics 365 Sales Functional Consultant
   uid: certification-path.d365-functional-consultant-sales 
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -81,8 +80,8 @@ certificationPaths:
     levels:
     - intermediate
 
-- title: Функциональный консультант Dynamics 365 Supply Chain Management
-  linkedInKeywords: Функциональный консультант Dynamics 365 Supply Chain Management
+- title: Dynamics 365 Supply Chain Management Functional Consultant
+  linkedInKeywords: Dynamics 365 Supply Chain Management Functional Consultant
   uid: certification-path.d365-functional-consultant-supply-chain-management
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -93,22 +92,45 @@ certificationPaths:
     levels:
     - intermediate
 
+- title: Power Platform Functional Consultant
+  linkedInKeywords: Power Platform Functional Consultant
+  uid: certification-path.power-platform-functional-consultant-associate
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.power-platform-functional-consultant-associate
+    levels:
+    - intermediate
+
+- title: Dynamics 365 Business Central Functional Consultant
+  linkedInKeywords: Dynamics 365 Business Central Functional Consultant
+  uid: certification-path.d365-business-central-functional-consultant-associate
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-business-central-functional-consultant-associate
+    levels:
+    - intermediate
+
 certifications:
 - uid: certification.d365-functional-consultant-customer-service
   requiredExams:
-  - uid: exam.mb-200
+  - uid: exam.pl-200
   - uid: exam.mb-230  
 
 - uid: certification.d365-functional-consultant-field-service
   requiredExams:
-  - uid: exam.mb-200
+  - uid: exam.pl-200
   - uid: exam.mb-240
 
 - uid: certification.d365-functional-consultant-financials
   requiredExams:
   - uid: exam.mb-300
   - uid: exam.mb-310  
-
 
 - uid: certification.d365-functional-consultant-manufacturing
   requiredExams:
@@ -117,31 +139,33 @@ certifications:
 
 - uid: certification.d365-functional-consultant-marketing
   requiredExams:
-  - uid: exam.mb-200
+  - uid: exam.pl-200
   - uid: exam.mb-220  
 
 - uid: certification.d365-functional-consultant-sales
   requiredExams:
-  - uid: exam.mb-200
+  - uid: exam.pl-200
   - uid: exam.mb-210  
 
 - uid: certification.d365-functional-consultant-supply-chain-management
   requiredExams:
   - uid: exam.mb-300
   - uid: exam.mb-330  
+
 - uid: certification.power-platform-functional-consultant-associate
   requiredExams:
   - uid: exam.pl-200  
+
 - uid: certification.d365-business-central-functional-consultant-associate
   requiredExams:
-  - uid: exam.mb-800
+  - uid: exam.mb-800z
 resources:
 - title: Руководство по образовательным курсам и сертификациям Microsoft
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Буклет по образовательным курсам и сертификациям
   description: Выберите свой путь к успеху с этим буклетом по образовательным курсам и сертификациям.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Поддержка по вопросам сертификации
   href: ../help.md
   description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.

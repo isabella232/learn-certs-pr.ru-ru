@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-768
 displayName: 70-768
 summary: |-
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Этот экзамен предназначен для разработчиков в области бизнес-аналитики (BI), в число задач которых входит создание решений бизнес-аналитики, требующих внедрения многомерных моделей данных, внедрения и обслуживания кубов OLAP и создания табличных моделей данных.
 subTitle: Этот экзамен предназначен для разработчиков в области бизнес-аналитики (BI), в число задач которых входит создание решений бизнес-аналитики, требующих внедрения многомерных моделей данных, внедрения и обслуживания кубов OLAP и создания табличных моделей данных.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjR
 practiceTestUrl: https://www.mindhub.com/70-768-Developing-SQL-Data-Models-p/mu-70-768_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=768&examname=Developing%20SQL%20Data%20Models&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-768
 locales:
 - en
 levels:
@@ -25,6 +22,7 @@ skills:
 - Проектирование табличных семантических моделей бизнес-аналитики (BI) (20-25%)
 - Разработка запросов с помощью Multidimensional Expressions (MDX) и Data Analysis Expressions (DAX) (15–20%)
 - Настройка и поддержка SQL Server Analysis Services (SSAS) (30-35%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:
@@ -49,4 +47,3 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: ../certification-exam-policies.md
-

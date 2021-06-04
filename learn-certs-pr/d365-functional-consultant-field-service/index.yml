@@ -7,7 +7,15 @@ uid: certification.d365-functional-consultant-field-service
 certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
+  Если вы консультант по функциональным возможностям, отвечающий за настройку и реализацию решений Dynamics 365 для клиентов, эта сертификация отлично вам подходит&#58; она может подчеркнуть ваши навыки и помочь с карьерным ростом. Консультант по функциональным возможностям Dynamics 365 Field Service отвечает за реализацию решений для управления ресурсами, осуществляющими жизненный цикл выездного обслуживания. Являясь консультантом по функциональным возможностям, вы знаете, как работать с руководителями проектов, разработчиками и архитекторами решений. У вас должно быть минимум от одного до трех лет опыта работы в качестве консультанта по функциональным возможностям, реализующего Dynamics 365.
+  
+  Если перед попыткой прохождения этой сертификации вам нужно получить больше опыта, вот несколько рекомендаций&#58;
+  - Поработайте консультантом по функциональным возможностям Dynamics 365 над несколькими проектами.
+  - Поработайте над реализацией Dynamics 365 Field Service.
+  - Присоединитесь к сообществу на [community.dynamics.com](https://community.dynamics.com/).
+  - Пройдите обучение по доступным схемам в [Microsoft Learn](/learn/browse/?expanded=dynamics-365&roles=functional-consultant&resource_type=learning%20path&products=dynamics-field-service).
+  - Получите дополнительный практический опыт.
+  - Зарегистрируйтесь на обучающий курс с инструктором.
 subTitle: Обладатели сертификата Microsoft Dynamics 365 для функциональных консультантов по обслуживанию на месте настраивают приложения обслуживания на местах, реализуют решения, управляющие жизненным циклом обслуживания на местах и развертывают решение Connected Field Service (IoT).
 levels:
 - intermediate
@@ -18,7 +26,7 @@ skills:
 - Управление мобильностью обслуживания на местах
 - Управление запасами и закупками
 - Реализовывать Connected Field Service
-- Настраивать Common Data Service
+- Настройка Microsoft Dataverse
 - Создавать приложения с использованием Power Apps
 - Создавать и управлять Power Automate
 - Реализовывать чат-ботов Power Virtual Agents
@@ -61,7 +69,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Обучение для получения сертификата
   description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
@@ -77,4 +85,3 @@ resources:
 - title: Демонстрируйте свои значки сертификации
   description: Делитесь радостью своих достижений вместе со своими контактами. Получайте значки сертификации Microsoft Certification и добавляйте их в свой профиль LinkedIn, резюме и во многое другое.
   href: ../badges.md
-

@@ -6,21 +6,18 @@ metadata:
 uid: exam.mb-6-894
 displayName: MB6-894
 summary: |-
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Кандидатами на прохождение этого экзамена являются технические консультанты, программисты и IT-специалисты, которые выполняют базовые технические задачи и задачи разработки, необходимые для настройки Microsoft Dynamics 365 Finance и Microsoft Dynamics 365 Commerce.
-
+  
   Кандидаты должны обладать базовыми знаниями в отношении Microsoft Dynamics 365 Finance и Microsoft Dynamics 365 Commerce. Кроме того, требуется опыт работы с Visual Studio и знание объектно-ориентированного программирования.
-
+  
   У кандидатов на прохождение этого экзамена по разработке должно быть общее понимание понятий и процессов программирования, а также понимание изменений, улучшений и новых проектов разработки для решений Finance и Commerce, которые применимы к различным сценариям бизнес-процессов.
-
+  
   <div style='font-weight&#58; bold;'><br/>4 февраля 2020 года этот экзамен был обновлен. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене MB6-894.</div>
 subTitle: Кандидатами на прохождение этого экзамена являются технические консультанты, программисты и IT-специалисты, которые выполняют базовые технические задачи и задачи разработки, необходимые для настройки Microsoft Dynamics 365 Finance и Microsoft Dynamics 365 Commerce.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=MB6-894&examname=Development,%20Extensions,%20and%20Deployment%20for%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-894
 locales:
 - en
 levels:
@@ -31,6 +28,7 @@ skills:
 - Основы чтения и записи в X++ (20-25%)
 - Управление пользовательским интерфейсом и безопасностью для разработчиков (20-25%)
 - Разработка и расширение компонентов розничной торговли (15-20%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

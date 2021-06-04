@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-761
 displayName: 70-761
 summary: |-
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Этот экзамен предназначен для администраторов баз данных SQL Server, системных инженеров и разработчиков, имеющих не менее двух лет опыта работы, которые хотят подтвердить навыки и знания, необходимые для написания запросов.
 subTitle: Этот экзамен предназначен для администраторов баз данных SQL Server, системных инженеров и разработчиков, имеющих не менее двух лет опыта работы, которые хотят подтвердить навыки и знания, необходимые для написания запросов.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiOm
 practiceTestUrl: https://www.mindhub.com/search?query=70-761&amp;categoryId=11284?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=761&examname=Querying%20Data%20with%20Transact-SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-761
 locales:
 - en
 levels:
@@ -24,6 +21,7 @@ skills:
 - Управление данными с Transact-SQL (40-45%)
 - Запрос данных с расширенными компонентами Transact-SQL (30-35%)
 - Программирование баз данных с помощью Transact-SQL (25–30%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

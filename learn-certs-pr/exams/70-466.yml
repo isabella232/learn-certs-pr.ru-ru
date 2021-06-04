@@ -6,17 +6,14 @@ metadata:
 uid: exam.70-466
 displayName: 70-466
 summary: |-
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Этот экзамен предназначен для разработчиков бизнес-аналитики (BI), в число задач которых входит создание решений BI, требующих внедрение многомерных моделей данных, внедрение и обслуживание кубов OLAP, и создание информационных дисплеев, используемых при принятии бизнес-решений.
-
-  <div style='font-weight&#58; bold;'><br/>По состоянию на 18 февраля 2016 года этот экзамен включает контент, освещающий как SQL Server 2012, так и 2014. Обратите внимание, что этот экзамен не включает вопросы о функциях или возможностях, которые присутствуют только в продукте SQL Server 2012. Для получения более подробной информации, пожалуйста, <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUU">загрузите и ознакомьтесь с этим документом</a>.</div>
+  
+  <div><strong><br/>По состоянию на 18 февраля 2016 года этот экзамен включает контент, освещающий как SQL Server 2012, так и 2014. Обратите внимание, что этот экзамен не включает вопросы о функциях или возможностях, которые присутствуют только в продукте SQL Server 2012. Для получения более подробной информации, пожалуйста, <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUU">загрузите и ознакомьтесь с этим документом</a>.</strong></div>
 subTitle: Этот экзамен предназначен для разработчиков бизнес-аналитики (BI), в число задач которых входит создание решений BI, требующих внедрение многомерных моделей данных, внедрение и обслуживание кубов OLAP, и создание информационных дисплеев, используемых при принятии бизнес-решений.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
 locales:
 - en
 - zh-cn
@@ -31,6 +28,7 @@ skills:
 - Управление, обслуживание и диагностика базы данных служб SQL Server Analysis Services (SSAS) (15-20%)
 - Построение табличной модели данных (15-20%)
 - Построение отчета с помощью служб SQL Server Reporting Services (SSRS) (25-30%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

@@ -6,18 +6,16 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div>
-  <div><strong>Содержание этого экзамена будет обновлено 27 января 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong><br/><br/></div>
-  </div>
-
+  <div><font color='red'><strong>Содержание этого экзамена будет обновлено 25 мая 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong></font><br/><br/></div>
+  
   Data Analysts помогают компаниям максимизировать стоимость своих активов данных с помощью Microsoft Power BI. Являясь экспертом в данной области, Data Analyst отвечает за проектирование и построение масштабируемых моделей данных, очистку и преобразование данных, а также за предоставление расширенных аналитических возможностей, которые обеспечивают значимую ценность для бизнеса с помощью простой для понимания визуализации данных. Data Analyst также сотрудничает с ключевыми заинтересованными сторонами в отраслевой вертикали для предоставления соответствующей информации на основе определенных бизнес-требований.
   <br/>
-
+  
   Data Analyst должен иметь общее представление о хранилищах данных и их обработке как в производственных условиях, так и в облаке.
 subTitle: 'Этот экзамен позволяет оценить вашу способность понимать следующие технические задачи: подготовка данных; моделирование данных; визуализация данных; анализ данных; и развертывание и поддержка поставляемых продуктов.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
-practiceTestUrl: https://in.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
@@ -31,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена будет обновлено 27 января 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
+- Содержание этого экзамена будет обновлено 25 мая 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
 - Подготовка данных (20-25%)
 - Смоделируйте данные (25-30%)
 - Визуализация данных (20-25%)
@@ -59,7 +57,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
@@ -78,4 +76,3 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
-

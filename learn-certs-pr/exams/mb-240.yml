@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-240
 displayName: MB-240
 summary: |-
-  <div><strong>Содержание этого экзамена было обновлено 15 января 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
+  <div><font color='red'><strong>Содержание этого экзамена было обновлено 26 апреля 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong></font><br/><br/></div>
   
   Кандидаты на этот экзамен являются консультантами по функциональным возможностям Microsoft Dynamics 365 Customer Engagement со знанием «Филд Сёвис». Кандидаты отвечают за реализацию решений, которые управляют ресурсами, осуществляющими жизненный цикл выездного обслуживания.
   
@@ -16,14 +16,14 @@ summary: |-
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: настраивать приложения для выездного обслуживания; управлять заказами на выполнение работ; планировать и готовить к отправке заказы на выполнение работ; управлять мобильностью выездного обслуживания; управлять запасами и покупками; реализовывать Connected Field Service.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-practiceTestUrl: https://in.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-240&examname=Exam%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена было обновлено 15 января 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменилось.
+- Содержание этого экзамена будет обновлено 26 апреля 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
 - Настройка приложений для выездного обслуживания (15-20%)
 - Управление заказами на выполнение работ (15-20%)
 - Планирование и подготовка к отправке заказов на выполнение работ (25-30%)
@@ -51,7 +51,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
@@ -70,4 +70,3 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
-

@@ -6,18 +6,15 @@ metadata:
 uid: exam.70-464
 displayName: 70-464
 summary: |-
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Этот экзамен предназначен для специалистов по базам данных, которые создают и внедряют базы данных для разных организаций и обеспечивают высокий уровень доступности. В число их обязанностей входит создание файлов баз данных, типов данных и таблиц; планирование, создание и оптимизация индексов; обеспечение целостности данных; внедрение представлений, хранимых процедур и функций; управление транзакциями и блокировками.
-
-  <div style='font-weight&#58; bold;'><br/>По состоянию на 18 февраля 2016 года этот экзамен включает контент, освещающий как SQL Server 2012, так и 2014. Обратите внимание, что этот экзамен не включает вопросы о функциях или возможностях, которые присутствуют только в продукте SQL Server 2012. Для получения более подробной информации, пожалуйста, <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcY">загрузите и ознакомьтесь с этим документом</a>.</div>
+  
+  <div><strong><br/>По состоянию на 18 февраля 2016 года этот экзамен включает контент, освещающий как SQL Server 2012, так и 2014. Обратите внимание, что этот экзамен не включает вопросы о функциях или возможностях, которые присутствуют только в продукте SQL Server 2012. Для получения более подробной информации, пожалуйста, <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcY">загрузите и ознакомьтесь с этим документом</a>.</strong></div>
 subTitle: Этот экзамен предназначен для специалистов по базам данных, которые создают и внедряют базы данных для разных организаций и обеспечивают высокий уровень доступности. В число их обязанностей входит создание файлов баз данных, типов данных и таблиц; планирование, создание и оптимизация индексов; обеспечение целостности данных; внедрение представлений, хранимых процедур и функций; управление транзакциями и блокировками.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkI
 practiceTestUrl: https://www.mindhub.com/70-464-developing-microsoft-sql-server-databases/p/MU-70-464?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=464&examname=Developing%20Microsoft%20SQL%20Server%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-464
 locales:
 - en
 - zh-cn
@@ -32,6 +29,7 @@ skills:
 - Внедрение программируемых объектов (15-20%)
 - Разработка объектов баз данных (25-30%)
 - Оптимизация и исправление запросов (25-30%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:
@@ -54,4 +52,3 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: ../certification-exam-policies.md
-

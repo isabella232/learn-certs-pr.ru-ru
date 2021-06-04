@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>Содержание этого экзамена будет обновлено 24 февраля 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Содержание этого экзамена будет обновлено 2 июня 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong></font><br/><br/></div>
   
   Кандидатами на этот экзамен являются сертифицированные администраторы Microsoft 365 Enterprise, которые участвуют в оценке, планировании, переносе, развертывании и управлении службами Microsoft 365. Они выполняют задачи по управлению арендой в Microsoft 365 для организаций, в том числе управление идентификациями, безопасностью, соответствием стандартам и поддержкой технологий.
   
@@ -14,19 +14,19 @@ summary: |-
 subTitle: 'Этот экзамен предполагает проверку ваших способностей выполнять следующие технические задачи: проектирование и внедрение служб Microsoft 365; управление идентификацией и ролями пользователей; управление доступом и аутентификацией; и планирование рабочих пространств и приложений Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
-practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-100&examname=Exam%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-100&examname=Exam%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100f
 locales:
 - en
 - ja
 levels:
 - advanced
 skills:
-- Содержание этого экзамена будет обновлено 24 февраля 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
+- Содержание этого экзамена будет обновлено 2 июня 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
 - Разработка и внедрение служб Microsoft 365 (25-30%)
-- Управление идентификацией и ролями пользователей (35-40%)
-- Управление доступом и аутентификацией (20-25%)
-- Планирование рабочих нагрузок и приложений Office 365 (10-15%)
+- Управление идентификацией и ролями пользователей (25-30%)
+- Управление доступом и аутентификацией (15-20%)
+- Планирование рабочих нагрузок и приложений Office 365 (25-30%)
 roles:
 - administrator
 products:
@@ -49,10 +49,10 @@ relatedCertifications:
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

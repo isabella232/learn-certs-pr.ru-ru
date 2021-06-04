@@ -23,10 +23,10 @@ skills:
 - Выполнение настроек
 - Управление основными торговыми предприятиями
 - Настройка дополнительных инструментов и сервисов
-- Настраивать Common Data Service 
-- Создавать приложения с использованием Power Apps 
-- Создавать и управлять Power Automate 
-- Реализовывать чат-ботов Power Virtual Agents 
+- Настройка Microsoft Dataverse
+- Создавать приложения с использованием Power Apps
+- Создавать и управлять Power Automate
+- Реализовывать чат-ботов Power Virtual Agents
 - Интегрировать Power Apps с другими приложениями и службами
 roles:
 - functional-consultant
@@ -66,7 +66,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Обучение для получения сертификата
   description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
@@ -82,4 +82,3 @@ resources:
 - title: Демонстрируйте свои значки сертификации
   description: Делитесь радостью своих достижений вместе со своими контактами. Получайте значки сертификации Microsoft Certification и добавляйте их в свой профиль LinkedIn, резюме и во многое другое.
   href: ../badges.md
-

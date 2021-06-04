@@ -6,25 +6,22 @@ metadata:
 uid: exam.70-486
 displayName: 70-486
 summary: |+
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Кандидатами на прохождение этого экзамена являются профессиональные разработчики, которые используют Microsoft Visual Studio 2017 и ASP.NET для проектирования и разработки веб-решений. У кандидатов должен быть опыт разработки решений на базе Microsoft ASP.NET MVC не менее трех–пяти лет и они должны быть знакомы с веб-приложениями Microsoft Azure.
-
+  
   У кандидатов также должен быть следующий опыт&#58;
   - Проектирование и разработка веб-приложений в модели ASP.NET MVC
   - Планирование и проектирование решений для взаимодействия с пользователями на основе бизнес-требований
   - Опыт участия в полном жизненном цикле разработки веб-приложений
   - Проектирование и развертывание в многоуровневых средах, включая Azure
   - Проектирование и разработка асинхронных решений
-
+  
   <div><strong><br/>Примечание&#58; С 15 января 2018 года были введены некоторые обновления экзаменов. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене 486.</strong></div>
 subTitle: Кандидатами на прохождение этого экзамена являются профессиональные разработчики, которые используют Microsoft Visual Studio 2017 и ASP.NET для проектирования и разработки веб-решений. У кандидатов должен быть опыт разработки решений на базе Microsoft ASP.NET MVC не менее трех–пяти лет и они должны быть знакомы с веб-приложениями Microsoft Azure.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
 practiceTestUrl: https://www.mindhub.com/70-486-developing-asppnet-mvc-web-applications/p/MU-70-486?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=486&examname=Developing%20ASP.NET%20MVC%20Web%20Applications&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-486
 locales:
 - en
 - zh-cn
@@ -42,6 +39,7 @@ skills:
 - Разработка интерфейса пользователя (15–20%)
 - Устранение неисправностей и отладка веб-приложений (20-25%)
 - Разработка и реализация системы безопасности (15-20%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:
@@ -67,4 +65,3 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: ../certification-exam-policies.md
-

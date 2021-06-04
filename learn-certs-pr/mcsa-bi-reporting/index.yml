@@ -6,10 +6,8 @@ metadata:
 uid: certification.mcsa-bi-reporting
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div>
-  <div><strong>Данная сертификация будет аннулирована 31 января 2021 года. Вы больше не сможете получить данный сертификат после этой даты. Любые сертификаты, полученные вами до даты отмены сертификации, будут по-прежнему отображаться в вашей выписке об успеваемости в <a href='https://www.microsoft.com/learning/dashboard.aspx'>панели Сертификации</a>. Вы также можете <a href='/learn/certifications/retired-certifications'>просмотреть все отмененные сертификации</a>.</strong><br/><br/></div>.
-  </div>
-
+  <div><font color='red'><strong>Эта сертификация была отменена. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/'>страницу «Обзор сертификаций и экзаменов»</a>. Все сертификаты, полученные вами до дат отмены, будут по-прежнему отражаться в вашей выписке об успеваемости <a href='https://aka.ms/certdashboard'>в панели сертификации</a>.</strong></font><br/><br/></div>
+  
   Данная сертификация подтверждает ваши экспертные знания в области анализа данных с помощью Power BI и Excel.
 subTitle: Данная сертификация подтверждает ваши экспертные знания в области анализа данных с помощью Power BI и Excel.
 levels:
@@ -30,10 +28,10 @@ exams:
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по образовательным курсам и сертификациям.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить шансы на успех.
   href: ../deals.md
@@ -46,4 +44,3 @@ resources:
 - title: Демонстрируйте свои значки сертификации
   description: Делитесь радостью своих достижений вместе со своими контактами. Получайте значки сертификации Microsoft Certification и добавляйте их в свой профиль LinkedIn, резюме и во многое другое.
   href: ../badges.md
-

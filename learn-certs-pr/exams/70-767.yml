@@ -6,18 +6,15 @@ metadata:
 uid: exam.70-767
 displayName: 70-767
 summary: |-
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Данный экзамен предназначен для разработчиков извлечения, преобразования и загрузки (ETL) и хранения данных, которые создают решения бизнес-аналитики (BI). В их задачи, кроме внедрения ETL и хранения данных, входит очистка данных.
-
-  <div style='font-weight&#58; bold;'><br/>март 2017 года этот экзамен был обновлен. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене 70-767.</div>
+  
+  <div><strong><br/>март 2017 года этот экзамен был обновлен. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене 70-767.</strong></div>
 subTitle: Данный экзамен предназначен для разработчиков извлечения, преобразования и загрузки (ETL) и хранения данных, которые создают решения бизнес-аналитики (BI). В их задачи, кроме внедрения ETL и хранения данных, входит очистка данных.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trnq
 practiceTestUrl: http://www.mindhub.com/70-767-Developing-Implementing-a-Data-Warehouse-p/mu-70-767_p.htm
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=767&examname=Implementing%20a%20Data%20Warehouse%20using%20SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-767
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - Проектирование, внедрение и поддержка хранилища данных (35-40%)
 - Извлечение, преобразование и загрузка данных (40-45%)
 - Построение решений для качества данных (15-20%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:
