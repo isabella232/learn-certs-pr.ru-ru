@@ -6,22 +6,21 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div>
-  <div><strong>Содержание этого экзамена будет обновлено 27 января 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong><br/><br/></div>
-  </div>
-
+  <div><font color='red'><strong>Содержание этого экзамена будет обновлено 25 мая 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong></font><br/><br/></div>
+  
   Кандидатами на этот экзамен являются администраторы баз данных и специалисты по управлению данными, которые управляют локальными и облачными реляционными базами данных, созданными с помощью Microsoft SQL Server и Microsoft Azure Data Services.
-
+  
   Azure Database Administrator реализует операционные аспекты ориентированных на облако и гибридных платформенных решений для работы с данными, построенных на Azure Data Services и SQL Server, а также управление такими аспектами. Azure Database Administrator использует различные методы и инструменты для реализации повседневных операций, включая применение знаний использования T-SQL для целей административного управления.
-
+  
   Эта роль отвечает за управление, доступность, безопасность и мониторинг производительности, а также оптимизацию современных решений для реляционных баз данных. Специалисты этой роли работают с совместно ролью Azure Data Engineer для управления функциональными аспектами решений на платформе данных.
-
+  
   <div></br>
   Кандидаты на эту роль должны понимать все понятия, описанные в <a href='/learn/certifications/exams/dp-900'>Exam DP-900: Microsoft Azure Data Fundamentals</a>.
   </div>
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: планирование и реализация ресурсов платформы данных; внедрение безопасной среды; контроль и оптимизация операционных ресурсов; оптимизация производительности запросов; автоматизация задач; планирование и внедрение среды высокой доступности и аварийного восстановления (HADR); и осуществление администрирования с помощью T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
+practiceTestUrl: https://in.mindhub.com/dp-300-administering-relational-databases-on-microsoft-azure-microsoft-official-practice-test/p/MU-DP-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
 locales:
 - en
@@ -31,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена будет обновлено 27 января 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
+- Содержание этого экзамена будет обновлено 25 мая 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
 - Планирование и реализация ресурсов платформы данных (15-20%)
 - Реализация безопасной среды (15-20%)
 - Мониторинг и оптимизация операционных ресурсов (15-20%)
@@ -69,10 +68,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

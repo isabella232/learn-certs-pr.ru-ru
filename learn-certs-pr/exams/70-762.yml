@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-762
 displayName: 70-762
 summary: |-
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Этот экзамен предназначен для специалистов по базам данных, которые создают и внедряют базы данных для разных организаций и обеспечивают высокий уровень доступности. В число их обязанностей входит создание файлов баз данных, типов данных и таблиц; планирование, создание и оптимизация индексов; обеспечение целостности данных; внедрение представлений, хранимых процедур и функций; управление транзакциями и блокировками.
 subTitle: Этот экзамен предназначен для специалистов по базам данных, которые создают и внедряют базы данных для разных организаций и обеспечивают высокий уровень доступности. В число их обязанностей входит создание файлов баз данных, типов данных и таблиц; планирование, создание и оптимизация индексов; обеспечение целостности данных; внедрение представлений, хранимых процедур и функций; управление транзакциями и блокировками.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXU
 practiceTestUrl: https://www.mindhub.com/70-762-Developing-SQL-Databases-p/mu-70-762_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=762&examname=Developing%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-762
 locales:
 - en
 levels:
@@ -25,6 +22,7 @@ skills:
 - Внедрение программируемых объектов (20-25%)
 - Управление параллелизмом базы данных (25-30%)
 - Оптимизация объектов базы данных и SQL инфраструктуры (20-25%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

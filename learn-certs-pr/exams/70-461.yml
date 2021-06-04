@@ -6,17 +6,14 @@ metadata:
 uid: exam.70-461
 displayName: 70-461
 summary: |-
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Этот экзамен предназначен для администраторов баз данных SQL Server, системных инженеров и разработчиков, имеющих не менее двух лет опыта работы, которые хотят подтвердить навыки и знания, необходимые для написания запросов.
-
-  <div style='font-weight&#58; bold;'><br/>В декабре 2015 года этот экзамен был признан пригодным как к SQL Server 2012, так и к SQL Server 2014. Было установлено, что обновления экзаменационных заданий не требуется.</div>
+  
+  <div><strong><br/>В декабре 2015 года этот экзамен был признан пригодным как к SQL Server 2012, так и к SQL Server 2014. Было установлено, что обновления экзаменационных заданий не требуется.</strong></div>
 subTitle: Этот экзамен предназначен для администраторов баз данных SQL Server, системных инженеров и разработчиков, имеющих не менее двух лет опыта работы, которые хотят подтвердить навыки и знания, необходимые для написания запросов.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54W
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
 locales:
 - en
 - zh-cn
@@ -31,6 +28,7 @@ skills:
 - Работа с данными (25-30%)
 - Изменение данных (20-25%)
 - Устранение неполадок и оптимизация (25-30%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:
@@ -53,4 +51,3 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: ../certification-exam-policies.md
-

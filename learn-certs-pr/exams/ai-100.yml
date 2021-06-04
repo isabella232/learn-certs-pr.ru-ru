@@ -7,8 +7,8 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
-  <div><font color='red'><strong>НОВАЯ ВЕРСИЯ ЭТОГО ЭКЗАМЕНА, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, СТАНЕТ ДОСТУПНА 23 ФЕВРАЛЯ 2021 ГОДА. Вы сможете сдать этот экзамен до его отмены 30 июня 2021 года. Примечание&#58; экзамены отменяются в 23&#58;59 по центральному времени.</strong></font><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Содержание этого экзамена было обновлено 20 мая 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.<br/><br/></div>
+  <div><font color='red'><strong>НОВАЯ ВЕРСИЯ ЭТОГО ЭКЗАМЕНА, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, УЖЕ ДОСТУПНА. Вы сможете сдать этот экзамен до его отмены 30 июня 2021 года. Примечание&#58; экзамены отменяются в 23&#58;59 по центральному времени.</strong></font></div>
+  <div><strong>Содержание этого экзамена было обновлено 20 мая 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
   </div>
   
   Кандидаты на этот экзамен должны иметь предметную экспертизу в использовании когнитивных услуг, машинного обучения и интеллектуального анализа для разработки и реализации решений Microsoft AI, включающих обработку естественного языка, речь, компьютерное зрение и разговорный искусственный интеллект.
@@ -40,6 +40,7 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
+- azure-machine-learning
 - azure-machine-learning-studio
 - azure-search
 courses:
@@ -58,10 +59,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

@@ -12,7 +12,6 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy7
 scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-cn
 - zh-tw
 levels:
 - beginner
@@ -42,4 +41,3 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: ../certification-exam-policies.md
-

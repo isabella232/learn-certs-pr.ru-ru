@@ -8,7 +8,6 @@ certificationRenewalUid: renewal.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
-
 subTitle: Администраторы предприятий Microsoft 365 Enterprise оценивают, планируют, переносят, развертывают и управляют службами Microsoft 365.
 levels:
 - advanced
@@ -48,7 +47,7 @@ prerequisites:
 - uid: certification.m365-security-administrator
   isOptional: false
 - uid: certification.m365-messaging-administrator
-  isOptional: false												   
+  isOptional: false
 - uid: certification.m365-teams-administrator-associate
   isOptional: false
 - uid: certification.identity-and-access-administrator
@@ -60,10 +59,10 @@ exams:
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
@@ -76,4 +75,3 @@ resources:
 - title: Демонстрируйте свои значки сертификации
   description: Делитесь радостью своих достижений вместе со своими контактами. Получайте значки сертификации Microsoft Certification и добавляйте их в свой профиль LinkedIn, резюме и во многое другое.
   href: ../badges.md
-

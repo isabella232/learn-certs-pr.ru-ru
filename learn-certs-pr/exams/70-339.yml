@@ -6,20 +6,17 @@ metadata:
 uid: exam.70-339
 displayName: 70-339
 summary: |-
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Этот экзамен предназначен для опытных ИТ-специалистов, имеющих навыки установки, настройки, развертывания и управления установленными экземплярами SharePoint 2016 в центре обработки данных и в облаке. Кандидаты, как правило, имеют более 4-х лет опыта планирования и обслуживания SharePoint и других основных технологий, от которых зависит SharePoint, включая Windows Server 2008 R2 или более поздней версии, Internet Information Services (IIS), SQL Server 2008 R2 или более поздней версии, Active Directory и служб сетевой инфраструктуры.
-
+  
   Кандидаты также должны иметь опыт управления непрерывностью бизнеса, включая резервное копирование и восстановление данных и обеспечение высокой доступности, а также опыт работы с технологиями безопасности и проверки подлинности. Большим преимуществом является опыт работы с PowerShell.
-
+  
   Дополнительную аудиторию этого экзамена составляют администраторы бизнес-приложений (BAA), активно участвующие в процессе администрирования специализированных бизнес-проектов (LOB) и внутренних бизнес-пользователей, работающих с SharePoint 2016.
 subTitle: Этот экзамен предназначен для опытных ИТ-специалистов, имеющих навыки установки, настройки, развертывания и управления установленными экземплярами SharePoint 2016 в центре обработки данных и в облаке. Кандидаты, как правило, имеют более 4-х лет опыта планирования и обслуживания SharePoint и других основных технологий, от которых зависит SharePoint, включая Windows Server 2008 R2 или более поздней версии, Internet Information Services (IIS), SQL Server 2008 R2 или более поздней версии, Active Directory и служб сетевой инфраструктуры.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es
@@ -63,4 +60,3 @@ resources:
 - title: Правила проведения экзаменов и часто задаваемые вопросы
   description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
   href: ../certification-exam-policies.md
-

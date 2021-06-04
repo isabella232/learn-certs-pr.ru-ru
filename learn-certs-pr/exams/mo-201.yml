@@ -20,6 +20,7 @@ locales:
 - de
 - ja
 - ko
+- zh-cn
 levels:
 - advanced
 skills:
@@ -38,7 +39,7 @@ relatedCertifications:
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Панель управления сертификацией
   description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx

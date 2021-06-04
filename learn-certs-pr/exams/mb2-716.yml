@@ -7,15 +7,14 @@ uid: exam.mb-2-716
 displayName: MB2-716
 summary: |-
   <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
   <div><strong>Содержание этого экзамена было обновлено 4 ФЕВРАЛЯ 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong></div><br/>
   </div>
-
+  
   Этот экзамен сдают лица, желающие получить сертификацию по Microsoft Dynamics 365 Customization and Configuration. Как правило, это разработчики, консультанты по внедрению, специалисты службы технической поддержки и системные администраторы. Они оценивают бизнес-требования заказчиков и выполняют установку и настройку приложения.
 subTitle: Этот экзамен сдают лица, желающие получить сертификацию по Microsoft Dynamics 365 Customization and Configuration. Как правило, это разработчики, консультанты по внедрению, специалисты службы технической поддержки и системные администраторы. Они оценивают бизнес-требования заказчиков и выполняют установку и настройку приложения.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=MB2-716&examname=Microsoft%20Dynamics%20365%20Customization%20and%20Configuration&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB2-716
 locales:
 - en
 - ja
@@ -26,6 +25,7 @@ skills:
 - Внедрение объектов Microsoft Dynamics 365, отношения между объектами и поля (20-25%)
 - Создание и управление решениями, формами, представлениями и визуализациями Microsoft Dynamics 365 (25-30%)
 - Внедрение бизнес-правил, рабочих процессов и потоков бизнес-процессов (20-25%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:
