@@ -7,7 +7,7 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div><font color='red'><strong>НОВАЯ ВЕРСИЯ ЭТОГО ЭКЗАМЕНА, <a href="/learn/certifications/exams/pl-600">PL-600</a>, СТАНЕТ ДОСТУПНА В МАРТЕ 2021 ГОДА. Вы сможете сдать этот экзамен до его отмены 30 июня 2021 года.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>НОВАЯ ВЕРСИЯ ЭТОГО ЭКЗАМЕНА, <a href="/learn/certifications/exams/pl-600">PL-600</a>, СТАЛА ДОСТУПНА В МАРТЕ 2021 ГОДА. Вы сможете сдать этот экзамен до его отмены 30 июня 2021 года.</strong></font><br/><br/></div>
   <div><strong>Содержание этого экзамена было обновлено 30 июля 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
   </div>
   
@@ -48,7 +48,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9W
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

@@ -23,7 +23,7 @@ levels:
 - intermediate
 skills:
 - Создание технического дизайна
-- Настройка общих служб данных
+- Настройка Microsoft Dataverse
 - Создание и настройка Power Apps
 - Настройка автоматизации бизнес-процессов
 - Улучшение опыта работы пользователей
@@ -60,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

@@ -1,7 +1,7 @@
 ### YamlMime:Role 
-title: Инженер  AI
+title: Инженер AI
 metadata: 
-  title: Инженер по искусственному интеллекту 
+  title: Инженер по искусственному интеллекту
   description: Инженеры AI используют Cognitive Services (когнитивные службы), Machine Learning (машинное обучение) и Knowledge Mining (майнинг знаний) для разработки и внедрения решений Microsoft AI. 
 uid: role.ai-engineer 
 summary: | 
@@ -18,18 +18,18 @@ certificationPaths:
     - beginner 
   - uid: certification.azure-ai-engineer
     levels:
-    - intermediate  
+    - intermediate
 certifications:
 - uid: certification.azure-ai-engineer
   requiredExams:
-  - uid: exam.ai-100
+  - uid: exam.ai-102
 resources:
 - title: Руководство по образовательным курсам и сертификациям Microsoft
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Буклет по образовательным курсам и сертификациям 
   description: Выберите свой путь к успеху с этим буклетом по образовательным курсам и сертификациям.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Поддержка сертификационных
   href: ../help.md
   description: Получить помощь через форум поддержки сертификации Microsoft Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.

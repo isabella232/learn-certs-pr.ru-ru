@@ -7,8 +7,8 @@ uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   Microsoft 365 Developers [Разработчики Microsoft 365] проектируют, создают, тестируют и обслуживают приложения и решения, оптимизированные для повышения продуктивности работы и совместной работы организаций, использующих платформу Microsoft 365.
-
-  Microsoft 365 Developers [Разработчики Microsoft 365] хорошо знакомы с Microsoft и Microsoft Graph. Они должны обладать общими знаниями об элементах пользовательского интерфейса (включая Adaptive Cards и UI Fabric), точках интеграции (в том числе Microsoft Teams, надстройки Office, SharePoint Framework, Actionable Messages) и определении целей платформы рабочей нагрузки.
+  
+  Разработчики Microsoft 365 знают Microsoft identity и Microsoft Graph. Они обладают общими знаниями об элементах UI (включая Adaptive Cards и Office UI Fabric (Fluent UI)), точках интеграции (включая Microsoft Teams, Office Add-ins, SharePoint Framework, сообщения с действиями) и определении целевых показателей загрузки платформы.
 subTitle: Microsoft 365 Developers [Разработчики Microsoft 365] проектируют, создают, тестируют и обслуживают приложения и решения, оптимизированные для повышения продуктивности работы и совместной работы организаций, использующих платформу Microsoft 365.
 levels:
 - intermediate
@@ -29,6 +29,7 @@ paths:
 - uid: learn-m365.m365-extend-fundamental
 - uid: learn-m365.msgraph-associate
 - uid: learn-m365.identity-associate
+- uid: learn-m365.msteams-associate
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcG
 exams:
 - uid: exam.ms-600
@@ -38,10 +39,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [Повтор экзамена]
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
@@ -54,4 +55,3 @@ resources:
 - title: Демонстрируйте свои значки сертификации
   description: Делитесь радостью своих достижений вместе со своими контактами. Получайте значки сертификации Microsoft Certification и добавляйте их в свой профиль LinkedIn, резюме и во многое другое.
   href: ../badges.md
-

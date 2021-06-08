@@ -6,17 +6,14 @@ metadata:
 uid: exam.mb-6-897
 displayName: MB6-897
 summary: |-
-  <div>
-  <div><strong>Этот экзамен будет отменен 31 января 2021 года в 23&#58;59 по центральному времени. После этой даты вы уже сможете сдавать этот экзамен. Узнайте больше о <a href='/learn/certifications/retired-certification-exams'>предстоящих отменах экзаменов</a>.<br/><br/></strong></div>.
-  </div>
-
+  <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
+  
   Кандидаты на прохождение этого экзамена являются партнерами Microsoft Dynamics 365, которые настраивают и используют функциональные возможности приложения в Microsoft Dynamics 365 for Retail и предоставляют поддержку для приложения.
-
+  
   Кандидаты, как правило, обладают глубоким пониманием операций розничной торговли и терминалов продаж, а также имеют опыт развертывания, поддержки и использования Microsoft Dynamics 365 for Retail.
 subTitle: Кандидаты на прохождение этого экзамена являются партнерами Microsoft Dynamics 365, которые настраивают и используют функциональные возможности приложения в Microsoft Dynamics 365 for Retail и предоставляют поддержку для приложения.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kc
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ru-ru&examcode=MB6-897&examname=Microsoft%20Dynamics%20365%20for%20Retail&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-897
 locales:
 - en
 levels:
@@ -27,6 +24,7 @@ skills:
 - Настройка и задание конфигурации продуктов (15-20%)
 - Управление операциями розничной торговли (15-20%)
 - Выполнение действий в сфере розничной торговли (25-30%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

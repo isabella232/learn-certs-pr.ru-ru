@@ -6,28 +6,26 @@ metadata:
 uid: exam.ms-203
 displayName: MS-203
 summary: |-
-  <div>
-  <div><strong>Содержание этого экзамена будет обновлено 27 января 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong><br/><br/></div>
-  </div>
-
+  <div><font color='red'><strong>Содержание этого экзамена было обновлено 23 марта 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong></font><br/><br/></div>
+  
   Кандидатами на этот экзамен являются Администраторы обмена сообщениями, которые развертывают, настраивают, управляют и отслеживают получателей, разрешения, защиту почты, поток почты и общие папки в гибридных и облачных корпоративных средах, а также устраняют связанные со всем этим неполадки.
-
+  
   Администраторы обмена сообщениями отвечают за управление гигиеной, инфраструктурой обмена сообщениями, гибридной конфигурацией, миграцией, транспортировкой, почтовыми ящиками и доступом клиентов.
-
+  
   Администраторы обмена сообщениями сотрудничают с администраторами безопасности и администраторами Microsoft 365 Enterprise для реализации безопасной гибридной или облачной топологии, отвечающей деловым потребностям предприятия.
-
+  
   Администратор обмена сообщениями должен иметь практические знания о типах аутентификации, лицензировании и интеграции с приложениями Microsoft 365.
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: управлять организационными настройками и ресурсами; планировать почтовую архитектуру и управлять ею, планировать и реализовывать гибридную конфигурацию и миграцию, а также защитить среду обмена сообщениями.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
-practiceTestUrl: https://in.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена будет обновлено 27 января 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
+- Содержание этого экзамена было обновлено 23 марта 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменилось.
 - Управление организационными настройками и ресурсами (30-35%)
 - Планирование и управление почтовой архитектурой (20-25%)
 - Планирование и внедрение гибридной конфигурации и миграции (20-25%)
@@ -48,10 +46,10 @@ relatedCertifications:
 resources:
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md

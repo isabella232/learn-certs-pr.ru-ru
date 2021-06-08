@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div><strong>Содержание этого экзамена было обновлено 15 января 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
+  <div><font color='red'><strong>Содержание этого экзамена было обновлено 26 апреля 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong></font><br/><br/></div>
   
   Кандидаты на этот экзамен являются консультантами по функциональным возможностям Dynamics 365 Marketing. Кандидаты отвечают за реализацию решений, которые привлекают и конвертируют лидов, повышают уровень узнаваемости бренда, стандартизируют ведение коммуникации по различным каналам и предоставляют маркетинговую информацию.
   
@@ -16,21 +16,21 @@ summary: |-
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: настраивать маркетинговые приложения; управлять сегментами и списками; создавать маркетинговые формы и страницы и управлять ими; управлять лидами, контактами и учетными записями; создавать маркетинговые электронные письма и управлять ими; управлять циклом взаимодействия с клиентом; управлять событиями и вебинарами; настраивать Dynamics 365 Customer Voice.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
-practiceTestUrl: https://in.mindhub.com/mb-220-microsoft-dynamics-365-marketing-microsoft-official-practice-test/p/MU-MB-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/mb-220-microsoft-dynamics-365-marketing-microsoft-official-practice-test/p/MU-MB-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-220&examname=Exam%20MB-220:%20Microsoft%20Dynamics%20365%20for%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена было обновлено 15 января 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменилось.
+- Содержание этого экзамена будет обновлено 26 апреля 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
 - Настройка маркетинговых приложений (20-25%)
-- Управление сегментами и списками (5-10%)
+- Управление сегментами и списками (10-15%)
 - Создание и управление маркетинговыми формами и страницами (10-15%)
-- Управление лидами, контактами и учетными записями (10-15%)
+- Управление лидами, контактами и учетными записями (5-10%)
 - Создание и управление маркетинговыми электронными письмами (5-10%)
 - Управление перемещениями клиентов (10-15%)
-- Управление мероприятиями и вебинарами (5-10%)
+- Управление мероприятиями и вебинарами (10-15%)
 - Настройка Dynamics 365 Customer Voice (10-15%)
 roles:
 - functional-consultant
@@ -55,7 +55,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Плакат с сертификацией
   description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
