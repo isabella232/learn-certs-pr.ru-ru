@@ -7,15 +7,19 @@ uid: certification.azure-data-scientist
 certificationRenewalUid: renewal.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure Data Scientist применяет свои знания в области data science и машинного обучения для внедрения и выполнения рабочих нагрузок машинного обучения в Azure; в частности, с помощью службы машинного обучения Azure.
+  Кандидаты на сертификацию Azure Data Scientist Associate должны обладать знаниями по применению обработки и анализа данных и машинного обучения для реализации и выполнения рабочих нагрузок машинного обучения на Azure.
+
+  Обязанности этой роли включают планирование и создание подходящей рабочей среды для рабочих нагрузок для обработки и анализа данных на Azure. Вы выполняете эксперименты с данными и обучаете прогнозные модели. Кроме того, вы оптимизируете и развертываете модели машинного обучения в рабочей среде, а также осуществляете управление такими моделями.
+
+  Кандидат на эту сертификацию должен обладать знаниями и опытом работы в области обработки и анализа данных и использования Azure Machine Learning и Azure Databricks.
 subTitle: Azure Data Scientist применяет свои знания в области data science и машинного обучения для внедрения и выполнения рабочих нагрузок машинного обучения в Azure; в частности, с помощью службы машинного обучения Azure.
 levels:
 - intermediate
 skills:
-- Настройка рабочего пространства в Azure Machine Learning
+- Управлять ресурсами Azure для машинного обучения
 - Проводение экспериментов и моделей обучения
-- Оптимизация и управление моделями
-- Развертывание и использование модели
+- Развертывать решения машинного обучения и управлять их функциями
+- Реализовывать ответственное машинное обучение
 roles:
 - data-scientist
 type: role-based
@@ -26,10 +30,12 @@ products:
 - azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
+- uid: course.dp-090t00
 paths:
 - uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
+- uid: learn.wwl.perform-data-science-azure-databricks
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
 exams:
 - uid: exam.dp-100

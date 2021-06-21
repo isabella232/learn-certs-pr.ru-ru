@@ -18,6 +18,7 @@ ms.prod: non-product-specific
 - [Правила безопасности экзамена и порядок повторной сдачи экзамена](/learn/certifications/exam-security-policy-and-exam-retake-policy)
 - [Порядок переноса и отмены экзаменов](/learn/certifications/exam-reschedule-and-cancellation-policy)
 - [Соглашение о программе сертификации Microsoft](/learn/certifications/microsoft-certification-program-agreement)
+- [Microsoft certification non-disclosure agreement](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
 - [Соглашение о неразглашении информации об экзамене Microsoft](/learn/certifications/microsoft-exam-non-disclosure-agreement)
 - [Запрос специальных условий](/learn/certifications/request-accomodations)
 - [Процедура оспаривания экзаменационных заданий](/learn/certifications/exam-item-challenge-process)
