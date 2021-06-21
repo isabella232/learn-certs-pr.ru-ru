@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Exam | Microsoft Docs
-description: Microsoft Retired Exam
+title: Отмена экзаменов | Microsoft Docs
+description: Отмена экзаменов
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,55 +10,15 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Запланированные к отмене экзамены
+# Отмена экзаменов
 
-Найдите экзамены, которые будут отменены в течение следующих 12 месяцев, перечисленные по технологиям. (Следующая информация может измениться.)
+## Почему отменяются экзамены
 
-| Будут отменены 31 января 2021 года |
-| --- |
-| [70-333](/learn/certifications/exams/70-333): Deploying Enterprise Voice with Skype for Business 2015 |
-| [70-334](/learn/certifications/exams/70-334): Core Solutions of Microsoft Skype for Business 2015 |
-| [70-339](/learn/certifications/exams/70-339): Managing Microsoft SharePoint Server 2016 |
-| [70-345](/learn/certifications/exams/70-345): Designing and Deploying Microsoft Exchange Server 2016 |
-| [70-357](/learn/certifications/exams/70-357): Developing Mobile Apps |
-| [70-410](/learn/certifications/exams/70-410): Installing and Configuring Windows Server 2012 |
-| [70-411](/learn/certifications/exams/70-411): Administering Windows Server 2012 |
-| [70-412](/learn/certifications/exams/70-412): Configuring Advanced Windows Server 2012 Services  |
-| [70-413](/learn/certifications/exams/70-413): Designing and Implementing a Server Infrastructure |
-| [70-414](/learn/certifications/exams/70-414): Implementing an Advanced Server Infrastructure |
-| [70-417](/learn/certifications/exams/70-417): Upgrading Your Skills to MCSA Windows Server 2012 |
-| [70-461](/learn/certifications/exams/70-461): Querying Microsoft SQL Server 2012/2014 |
-| [70-462](/learn/certifications/exams/70-462): Administering Microsoft SQL Server 2012/2014 Databases |
-| [70-463](/learn/certifications/exams/70-463): Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 |
-| [70-464](/learn/certifications/exams/70-464): Developing Microsoft SQL Server Databases |
-| [70-465](/learn/certifications/exams/70-465): Designing Database Solutions for Microsoft SQL Server |
-| [70-466](/learn/certifications/exams/70-466): Implementing Data Models and Reports with Microsoft SQL Server |
-| [70-467](/learn/certifications/exams/70-467): Designing Business Intelligence Solutions with Microsoft SQL Server |
-| [70-480](/learn/certifications/exams/70-480): Programming in HTML5 with JavaScript and CSS3 |
-| [70-483](/learn/certifications/exams/70-483): Programming in C# |
-| [70-486](/learn/certifications/exams/70-486): Developing ASP.NET MVC Web Applications |
-| [70-487](/learn/certifications/exams/70-487): Developing Microsoft Azure and Web Services |
-| [70-537](/learn/certifications/exams/70-537): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub |
-| [70-705](/learn/certifications/exams/70-705): Designing and Providing Microsoft Licensing Solutions to Large Organizations |
-| [70-740](/learn/certifications/exams/70-740): Installation, Storage, and Compute with Windows Server 2016 |
-| [70-741](/learn/certifications/exams/70-741): Networking with Windows Server 2016 |
-| [70-742](/learn/certifications/exams/70-742): Identity with Windows Server 2016 |
-| [70-743](/learn/certifications/exams/70-743): Upgrading Your Skills to MCSA: Windows Server 2016 |
-| [70-744](/learn/certifications/exams/70-744): Securing Windows Server 2016 |
-| [70-745](/learn/certifications/exams/70-745): Implementing a Software-Defined Datacenter |
-| [70-761](/learn/certifications/exams/70-761): Querying Data with Transact-SQL |
-| [70-762](/learn/certifications/exams/70-762): Developing SQL Databases |
-| [70-764](/learn/certifications/exams/70-764): Administering a SQL Database Infrastructure |
-| [70-765](/learn/certifications/exams/70-765): Provisioning SQL Databases |
-| [70-767](/learn/certifications/exams/70-767): Implementing a Data Warehouse using SQL |
-| [70-768](/learn/certifications/exams/70-768): Developing SQL Data Models |
-| [70-777](/learn/certifications/exams/70-777): Implementing Microsoft Azure Cosmos DB Solutions |
-| [70-778](/learn/certifications/exams/70-778): Analyzing and Visualizing Data with Power BI |
-| [70-779](/learn/certifications/exams/70-779): Analyzing and Visualizing Data with Microsoft Excel |
-| [MB2-716](/learn/certifications/exams/mb2-716): Microsoft Dynamics 365 Customization and Configuration |
-| [MB6-894](/learn/certifications/exams/mb6-894): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |
-| [MB6-897](/learn/certifications/exams/mb6-897): Microsoft Dynamics 365 for Retail |
-| [MB6-898](/learn/certifications/exams/mb6-898): Microsoft Dynamics 365 for Talent |
+С каждым годом технологии и соответствующие роли меняются всё быстрее и быстрее. Для обеспечения актуальности нашей сертификационной программы мы постоянно пересматриваем свои экзамены и сертификации в целях обеспечения отражения ими последних навыков и технологий Microsoft и отменяем те экзамены и сертификации, которые больше не являются актуальными. Наша цель — предоставить кандидатам возможность обладать передовыми знаниями в области технологий и занимать востребованные роли, связанные с работой с cloud, и мы делаем это благодаря предоставлению сертификаций для критически важных ролей, помогающих организациям с цифровыми трансформациями. Для получения более подробной информации перейдите по ссылке: [Updating Microsoft Certifications: How we keep them relevant – Microsoft Tech Community.](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/updating-microsoft-certifications-how-we-keep-them-relevant/ba-p/1469425)
+
+## Запланированные к отмене экзамены
+
+Здесь с указанием дат перечислены экзамены, которые будут отменены в течение следующих 12 месяцев. (Эта информация может меняться.)
 
 | Будет отменено 30 июня 2021 г. |
 | --- |
@@ -68,12 +28,26 @@ ms.prod: non-product-specific
 | [MB-600](/learn/certifications/exams/mb-600): Microsoft Dynamics 365 + Power Platform Solution Architect |
 | [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
 
+| Отменяется 30 июня 2022 года |
+| --- |
+| [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
+| [98-361](/learn/certifications/exams/98-361): Software Development Fundamentals |
+| [98-364](/learn/certifications/exams/98-364): Database Fundamentals |
+| [98-365](/learn/certifications/exams/98-365): Windows Server Administration Fundamentals |
+| [98-366](/learn/certifications/exams/98-366): Networking Fundamentals |
+| [98-367](/learn/certifications/exams/98-367): Security Fundamentals |
+| [98-368](/learn/certifications/exams/98-368): Mobility and Devices Fundamentals |
+| [98-375](/learn/certifications/exams/98-375): HTML5 Application Development Fundamentals |
+| [98-381](/learn/certifications/exams/98-381): Introduction to Programming Using Python |
+| [98-382](/learn/certifications/exams/98-382): Introduction to Programming Using JavaScript |
+| [98-383](/learn/certifications/exams/98-383): Introduction to Programming Using HTML and CSS |
+| [98-388](/learn/certifications/exams/98-388): Introduction to Programming Using Java |
 
 ## Экзамены, которые были отменены недавно
 
-Для справки, экзамены, которые были отменены в течение прошлого года, будут содержать ссылку на страницу подробных сведений об экзамене в течение 12 месяцев.
+Эти экзамены были отменены в течение последнего года. Для справки мы продолжим предоставлять ссылки на страницы со сведениями об этих экзаменах в течение 12 месяцев. Эти экзамены уже нельзя сдать, но если отмененный экзамен является обязательным для прохождения сертификации, которая не была отменена, то для прохождения сертификации такой экзамен можно сдать в течение одного года после его отмены.
 
-| На основе ролей| | |
+| На основе ролей | | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 1 май 2019
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 1 май 2019 года
@@ -101,14 +75,36 @@ ms.prod: non-product-specific
 | 70-247 | Configuring and Deploying a Private Cloud | 31 декабря 2017 года
 | 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 31 марта 2019 года
 | 70-332 | Advanced Solutions of Microsoft SharePoint Server 2013 | 31 марта 2019 года
+| [70-333](/learn/certifications/exams/70-333) | Deploying Enterprise Voice with Skype for Business 2015 | 31 января 2021 года
+| [70-334](/learn/certifications/exams/70-334) | Core Solutions of Microsoft Skype for Business 2015 | 31 января 2021 года
+| [70-339](/learn/certifications/exams/70-339) | Managing Microsoft SharePoint Server 2016 | 31 января 2021 года
 | 70-341 | Core Solutions of Microsoft Exchange Server 2013 | 31 марта 2019 года
 | 70-342 | Advanced Solutions of Microsoft Exchange Server 2013 | 31 марта 2019 года
-| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 Identities and Requirements | 30 апреля 2019 года
-| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Enabling Office 365 Services | 30 апреля 2019 года
-| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx) | Managing Projects and Portfolios with Microsoft PPM | 31 Декабрь 2019 года
+| [70-345](/learn/certifications/exams/70-345) | Designing and Deploying Microsoft Exchange Server 2016 | 31 января 2021 года
+| 70-346 | Managing Office 365 Identities and Requirements | 30 апреля 2019 года
+| 70-347 | Enabling Office 365 Services | 30 апреля 2019 года
+| 70-348 | Managing Projects and Portfolios with Microsoft PPM | 31 декабря 2019 года
+| [70-357](/learn/certifications/exams/70-357) | Developing Mobile Apps | 31 января 2021 года
 | 70-398 | Planning for and Managing Devices in the Enterprise | 31 июля 2018 года
-| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Planning for and Managing Devices in the Enterprise | 30 июня 2019 года
-| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 30 июня 2019 года
+| [70-410](/learn/certifications/exams/70-410) | Installing and Configuring Windows Server 2012 | 31 января 2021 года
+| [70-411](/learn/certifications/exams/70-411) | Administering Windows Server 2012 | 31 января 2021 года
+| [70-412](/learn/certifications/exams/70-412) | Configuring Advanced Windows Server 2012 Services  | 31 января 2021 года
+| [70-413](/learn/certifications/exams/70-413) | Designing and Implementing a Server Infrastructure | 31 января 2021 года
+| [70-414](/learn/certifications/exams/70-414) | Implementing an Advanced Server Infrastructure | 31 января 2021 года
+| [70-417](/learn/certifications/exams/70-417) | Upgrading Your Skills to MCSA Windows Server 2012 | 31 января 2021 года
+| [70-461](/learn/certifications/exams/70-461) | Querying Microsoft SQL Server 2012/2014 | 31 января 2021 года
+| [70-462](/learn/certifications/exams/70-462) | Administering Microsoft SQL Server 2012/2014 Databases | 31 января 2021 года
+| [70-463](/learn/certifications/exams/70-463) | Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 | 31 января 2021 года
+| [70-464](/learn/certifications/exams/70-464) | Developing Microsoft SQL Server Databases | 31 января 2021 года
+| [70-465](/learn/certifications/exams/70-465) | Designing Database Solutions for Microsoft SQL Server | 31 января 2021 года
+| [70-466](/learn/certifications/exams/70-466) | Implementing Data Models and Reports with Microsoft SQL Server | 31 января 2021 года
+| [70-467](/learn/certifications/exams/70-467) | Designing Business Intelligence Solutions with Microsoft SQL Server | 31 января 2021 года
+| 70-473 | Designing and Implementing Cloud Data Platform Solutions | 30 июня 2019 года
+| 70-475 | Designing and Implementing Big Data Analytics Solutions | 30 июня 2019 года
+| [70-480](/learn/certifications/exams/70-480) | Programming in HTML5 with JavaScript and CSS3 | 31 января 2021 года
+| [70-483](/learn/certifications/exams/70-483) | Programming in C# | 31 января 2021 года
+| [70-486](/learn/certifications/exams/70-486) | Developing ASP.NET MVC Web Applications | 31 января 2021 года
+| [70-487](/learn/certifications/exams/70-487) | Developing Microsoft Azure and Web Services | 31 января 2021 года
 | 70-488 | Developing SharePoint Server 2013 Core Solutions | 31 июля 2018 года
 | 70-489 | Developing SharePoint Server 2013 Advanced Solutions | 31 июля 2018 года
 | 70-496 | Administering Visual Studio Team Foundation Server | 31 декабря 2018 года
@@ -118,26 +114,43 @@ ms.prod: non-product-specific
 | 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 31 декабря 2018 года
 | 70-534 | Architecting Microsoft Azure Solutions | 31 декабря 2017 года
 | 70-535 | Architecting Microsoft Azure Solutions | 31 декабря 2018 года
+| [70-537](/learn/certifications/exams/70-537) | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub | 31 января 2021 года
 | 70-680 | Windows 7, Configuring | 31 июля 2018 года
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 31 июля 2018 года
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 31 июля 2018 года
 | 70-695 | Deploying Windows Desktops and Enterprise Applications | 31 марта 2019 года
 | 70-696 | Administering System Center Configuration Manager and Intune | 31 марта 2018 года
-| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Configuring Windows Devices | 30 апреля 2019 года
+| 70-697 | Configuring Windows Devices | 30 апреля 2019 года
 | 70-698 | Installing and Configuring Windows 10 | 31 марта 2019 года
-| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx) | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 31 Декабрь 2019 года
-| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx) | Software Asset Management (SAM) - Core | 31 Декабрь 2019 года
-| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx) | OEM Manufacturing and Deployment for Windows 10 | 31 Декабрь 2019 года
-| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Analyzing Big Data with Microsoft R | 30 июня 2019 года
-| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Perform Cloud Data Science with Azure Machine Learning | 30 июня 2019 года
-| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Perform Data Engineering on Microsoft Azure HDInsight | 30 июня 2019 года
-| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Perform Big Data Engineering on Microsoft Cloud Services | 30 июня 2019 года
-| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 31 июля 2019 года
+| 70-703 | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 31 декабря 2019 года
+| [70-705](/learn/certifications/exams/70-705) | Designing and Providing Microsoft Licensing Solutions to Large Organizations | 31 января 2021 года
+| 70-713 | Software Asset Management (SAM) - Core | 31 декабря 2019 года
+| 70-735 | OEM Manufacturing and Deployment for Windows 10 | 31 декабря 2019 года
+| [70-740](/learn/certifications/exams/70-740) | Installation, Storage, and Compute with Windows Server 2016 | 31 января 2021 года
+| [70-741](/learn/certifications/exams/70-741) | Networking with Windows Server 2016 | 31 января 2021 года
+| [70-742](/learn/certifications/exams/70-742) | Identity with Windows Server 2016 | 31 января 2021 года
+| [70-743](/learn/certifications/exams/70-743) | Upgrading Your Skills to MCSA: Windows Server 2016 | 31 января 2021 года
+| [70-744](/learn/certifications/exams/70-744) | Securing Windows Server 2016 | 31 января 2021 года
+| [70-745](/learn/certifications/exams/70-745) | Implementing a Software-Defined Datacenter | 31 января 2021 года
+| [70-761](/learn/certifications/exams/70-761) | Querying Data with Transact-SQL | 31 января 2021 года
+| [70-762](/learn/certifications/exams/70-762) | Developing SQL Databases | 31 января 2021 года
+| [70-764](/learn/certifications/exams/70-764) | Administering a SQL Database Infrastructure | 31 января 2021 года
+| [70-765](/learn/certifications/exams/70-765) | Provisioning SQL Databases | 31 января 2021 года
+| [70-767](/learn/certifications/exams/70-767) | Implementing a Data Warehouse using SQL | 31 января 2021 года
+| [70-768](/learn/certifications/exams/70-768) | Developing SQL Data Models | 31 января 2021 года
+| 70-773 | Analyzing Big Data with Microsoft R | 30 июня 2019 года
+| 70-774 | Perform Cloud Data Science with Azure Machine Learning | 30 июня 2019 года
+| 70-775 | Perform Data Engineering on Microsoft Azure HDInsight | 30 июня 2019 года
+| 70-776 | Perform Big Data Engineering on Microsoft Cloud Services | 30 июня 2019 года
+| [70-777](/learn/certifications/exams/70-777) | Implementing Microsoft Azure Cosmos DB Solutions | 31 января 2021 года
+| [70-778](/learn/certifications/exams/70-778) | Analyzing and Visualizing Data with Power BI | 31 января 2021 года
+| [70-779](/learn/certifications/exams/70-779) | Analyzing and Visualizing Data with Microsoft Excel | 31 января 2021 года
+| 74-343 | Managing Projects with Microsoft Project 2013 | 31 июля 2019 года
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 31 декабря 2017 года
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 31 июля 2018 года
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 | 30 июня 2020 года
-| [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 30 сентября 2019 года
-| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 7 августа 2019 года
+| [77-419](/learn/certifications/exams/77-419) | Microsoft SharePoint 2013 | 30 июня 2020 года
+| 98-369 | Cloud Fundamentals | 30 сентября 2019 года
+| 98-380 | Introduction to Programming Using Block-Based Languages (Touch Develop) | 7 августа 2019 года
 
 <br/>
 
@@ -145,29 +158,33 @@ ms.prod: non-product-specific
 | --- | --- | --- |
 | [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | отменено 31 декабря 2020 г
 | [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | отменено 31 декабря 2020 г
-| [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 31 Декабрь 2019 года
-| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 31 Декабрь 2019 года
-| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 31 Декабрь 2019 года
-| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx) | Microsoft Dynamics CRM Installation | 31 Декабрь 2019 года
+| [MB-900](/learn/certifications/exams/MB-900) | Microsoft Dynamics 365 Fundamentals | 31 Декабрь 2019 года
+| [MB2-706](/learn/certifications/exams/MB2-706) | Microsoft Dynamics CRM Online Deployment | 31 Декабрь 2019 года
+| [MB2-707](/learn/certifications/exams/MB2-707) | Microsoft Dynamics CRM Customization and Configuration | 31 Декабрь 2019 года
+| [MB2-708](/learn/certifications/exams/MB2-708) | Microsoft Dynamics CRM Installation | 31 Декабрь 2019 года
 | MB2-709 | Microsoft Dynamics Marketing | 31 Декабрь 2017 года
-| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx) | Microsoft Dynamics CRM 2016 Online Deployment | 31 Декабрь 2019 года
-| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx) | Microsoft Dynamics CRM 2016 Installation | 31 Декабрь 2019 года
-| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx) | Microsoft Dynamics CRM 2016 Customization and Configuration | 31 Декабрь 2019 года
-| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx) | Microsoft Dynamics CRM 2016 Sales | 31 Декабрь 2019 года
-| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx) | Microsoft Dynamics CRM 2016 Customer Service | 31 Декабрь 2019 года
-| [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 customer engagement Online Deployment | 30 июня 2019 года
-| [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | 30 июня 2019 года
-| [MB2-718](https://www.microsoft.com/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | 31 августа 2019 года
-| [MB2-719](https://www.microsoft.com/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 31 августа 2019 года
-| [MB2-877](https://www.microsoft.com/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 30 июня 2019 года
+| [MB2-710](/learn/certifications/exams/MB2-710) | Microsoft Dynamics CRM 2016 Online Deployment | 31 Декабрь 2019 года
+| [MB2-711](/learn/certifications/exams/MB2-711) | Microsoft Dynamics CRM 2016 Installation | 31 Декабрь 2019 года
+| [MB2-712](/learn/certifications/exams/MB2-712) | Microsoft Dynamics CRM 2016 Customization and Configuration | 31 Декабрь 2019 года
+| [MB2-713](/learn/certifications/exams/MB2-713) | Microsoft Dynamics CRM 2016 Sales | 31 Декабрь 2019 года
+| [MB2-714](/learn/certifications/exams/MB2-714) | Microsoft Dynamics CRM 2016 Customer Service | 31 Декабрь 2019 года
+| [MB2-715](/learn/certifications/exams/MB2-715) | Microsoft Dynamics 365 customer engagement Online Deployment | 30 июня 2019 года
+| [MB2-716](/learn/certifications/exams/mb2-716) | Microsoft Dynamics 365 Customization and Configuration | 31 января 2021 года
+| [MB2-717](/learn/certifications/exams/MB2-717) | Microsoft Dynamics 365 for Sales | 30 июня 2019 года
+| [MB2-718](/learn/certifications/exams/MB2-718) | Microsoft Dynamics 365 for Customer Service | 31 августа 2019 года
+| [MB2-719](/learn/certifications/exams/MB2-719) | Microsoft Dynamics 365 for Marketing | 31 августа 2019 года
+| [MB2-877](/learn/certifications/exams/MB2-877) | Microsoft Dynamics 365 for Field Service | 30 июня 2019 года
 | MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration | 31 декабря 2017 года
 | MB6-890 | Microsoft Dynamics AX Development Introduction | 31 декабря 2017 года
 | MB6-892 | Microsoft Dynamics AX Distribution and Trade | 31 декабря 2017 года
 | MB6-893 | Microsoft Dynamics AX Financials | 31 декабря 2017 года
-| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 31 августа 2019 года
-| [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 31 августа 2019 года
+| [MB6-894](/learn/certifications/exams/mb6-894) | Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance | 31 января 2021 года
+| [MB6-895](/learn/certifications/exams/MB6-895) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 31 августа 2019 года
+| [MB6-896](/learn/certifications/exams/MB6-896) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 31 августа 2019 года
+| [MB6-897](/learn/certifications/exams/mb6-897) | Microsoft Dynamics 365 for Retail | 31 января 2021 года
+| [MB6-898](/learn/certifications/exams/mb6-898) | Microsoft Dynamics 365 for Talent | 31 января 2021 года
 
-## Другие отмененные экзамены
+## Экзамены, отмененные более 12 месяцев назад
 
 | ITPro/Developer | | |
 | --- | --- | --- |
