@@ -1,62 +1,121 @@
-- name: Сертификации Microsoft
+- name: Обзора сертификаций
   href: index.yml
-- name: Предложения
-  href: deals.md
-- name: Корпоративное лицензирование
-  href: volume-licensing-program.md
-- name: Microsoft Learning Partners
-  href: partners.md
-- name: Отмененные сертификации, экзамены и курсы
+- name: Прохождение сертификации
   expanded: false
   items:
-  - name: Аннулированные сертификации
-    href: retired-certifications.md
-  - name: Отмененные экзамены
-    href: retired-certification-exams.md 
-  - name: Отмененные курсы
-    href: retired-courses.md
-- name: Станьте сертифицированным инструктором Microsoft
-  href: mct-certification.md
-- name: О сертификационных экзаменах Microsoft
-  href: certification-exams.md
-- name: Значки экзаменационной сертификации Microsoft
-  href: badges.md
-- name: Об онлайн-экзаменах с Pearson VUE
-  href: online-exams.md
-- name: Об онлайн-экзаменах с PSI
-  href: online-exams-psi.md
-- name: Правила проведения экзаменов и часто задаваемые вопросы
-  expanded: false
-  items:
-  - name: Часто задаваемые вопросы
-    href: frequently-asked-questions.md  
-  - name: Правила безопасности экзамена и порядок повторной сдачи экзамена
-    href: exam-security-policy-and-exam-retake-policy.md
-  - name: Порядок переноса и отмены экзаменов
-    href: exam-reschedule-and-cancellation-policy.md
-  - name: Соглашение о программе сертификации Microsoft
-    href: microsoft-certification-program-agreement.md
-  - name: Соглашение о неразглашении информации об экзамене Microsoft
-    href: microsoft-exam-non-disclosure-agreement.md
+  - name: Обзор процесса сертификации
+    href: certification-process-overview.md
   - name: Запрос специальных условий
     href: request-accommodations.md
-  - name: Процедура оспаривания экзаменационных заданий
-    href: exam-item-challenge-process.md
+  - name: Регистрация на экзамен
+    href: register-schedule-exam.md
+  - name: Подготовка к экзамену
+    href: prepare-exam.md
+  - name: Продолжительность экзамена и типы вопросов
+    href: exam-duration-question-types.md
+  - name: Оценка экзаменационных ответов и отчеты с оценками
+    href: exam-scoring-reports.md
+  - name: Онлайн-экзамены с проктором
+    expanded: false
+    items:
+    - name: Знакомство и FAQ
+      href: online-exams-intro.md
+    - name: Об онлайн-экзаменах с Pearson VUE
+      href: online-exams.md
+    - name: Об онлайн-экзаменах с PSI
+      href: online-exams-psi.md
+  - name: Продлите свой сертификат Microsoft
+    href: renew-your-microsoft-certification.md  
+- name: Управление сертификациями
+  expanded: false
+  items:
+  - name: Получение доступа к Certification Dashboard
+    href: access-certification-dashboard.md
+  - name: Управление профилем сертификации
+    href: manage-certification-profile.md
+  - name: Получите доступ к своей выписке об успеваемости, сертификатам и значкам
+    href: access-certificates-badges-transcript.md
+  - name: Использование и размещение значков сертификации
+    href: badges.md
+- name: Новости об обучении и сертификации
+  expanded: false
+  items:
+  - name: Социальные сети и блог
+    href: social-media-blog.md
+  - name: Обучение и сертификация в СМИ
+    href: media.md
+  - name: Информация об отменах
+    expanded: false
+    items:
+    - name: Отмена сертификации
+      href: retired-certifications.md
+    - name: Отмена экзаменов
+      href: retired-certification-exams.md 
+    - name: Отмена курсов
+      href: retired-courses.md
+  - name: Переход с Learning на Microsoft Learn
+    href: learnfaq.yml
+- name: Предложения
+  href: deals.md
+- name: Информация о программе
+  expanded: false
+  items:
   - name: Бета-экзамены
     href: beta-exams.md
-  - name: Кредиты колледжа ACE за сертификационные экзамены.
-    href: ace-credit-for-certification-exams.md
-  - name: Кредиты колледжа NCCRS за сертификационные экзамены
-    href: college-credit-for-certification-exams.md
-  - name: Студенческие скидки
-    href: student-discounts.md
-- name: Продлите свой сертификат Microsoft
-  href: renew-your-microsoft-certification.md
-- name: Помощь по сертификации
-  href: help.md
-- name: Помощь по Microsoft Official Courseware (MOC)
-  href: certification-and-training-help.md
-- name: Часто задаваемые вопросы о программе сертификации Microsoft 
-  href: microsoft-certification-program-faqs.md
-- name: Перемещение Microsoft Learning ...
-  href: learnfaq.md
+  - name: Разработка экзаменов
+    href: exam-development.md
+  - name: Сертификация для студентов
+    expanded: false
+    items:
+    - name: Студенческие скидки
+      href: student-discounts.md
+    - name: College credit for certification exams
+      href: college-credit.md
+  - name: Политики и соглашения
+    expanded: false
+    items:
+    - name: Процедура оспаривания экзаменационных заданий
+      href: exam-item-challenge-process.md
+    - name: Политика обеспечения безопасности экзаменов
+      href: exam-security-policy.md
+    - name: Политика повторной сдачи экзамена
+      href: exam-retake-policy.md
+    - name: Порядок переноса и отмены экзаменов
+      href: exam-reschedule-and-cancellation-policy.md
+    - name: Соглашение о программе сертификации Microsoft
+      href: microsoft-certification-program-agreement.md
+    - name: Microsoft Certification Renewal Assessment Non-disclosure Agreement
+      href: microsoft-certification-renewal-non-disclosure-agreement.md
+    - name: Соглашение о неразглашении информации об экзамене Microsoft
+      href: microsoft-exam-non-disclosure-agreement.md
+  - name: Microsoft Learning Partners 
+    expanded: false
+    items:
+    - name: Найдите партнера по обучению
+      href: partners.md
+    - name: Ценность партнеров по обучению
+      href: partners-value.md      
+  - name: Microsoft Certified Trainer
+    href: mct-certification.md
+  - name: Корпоративное лицензирование
+    href: volume-licensing-program.md
+- name: Помощь с сертификацией
+  expanded: false
+  items:
+  - name: Поддержка сертификации
+    href: help.md
+  - name: Часто задаваемые вопросы
+    href: frequently-asked-questions.md
+  - name: Поддержка Microsoft Official Courseware (MOC)
+    href: certification-and-training-help.md
+  - name: Руководства по устранению неполадок
+    expanded: false
+    items:
+    - name: Найдите свой номер MCID
+      href: find-mcid.md
+    - name: Объединение и перенос профилей сертификации
+      href: merge-profiles.md
+    - name: Ваучеры и использование скидок
+      href: redeem-discounts.md
+    - name: Приведение к соответствию учетных записей профиля Certification и профиля Learn
+      href: aligning-accounts-between-certification-profile-and-learn-profile.md

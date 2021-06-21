@@ -1,6 +1,6 @@
 ---
-title: Microsoft Official Courseware (MOC) help | Microsoft Docs
-description: Microsoft Official Courseware (MOC) помощь
+title: Поддержка Microsoft Official Courseware (MOC) | Microsoft Docs
+description: Поддержка Microsoft Official Courseware (MOC)
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,9 +9,11 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Microsoft Official Courseware (MOC) помощь
+# Поддержка Microsoft Official Courseware (MOC)
 
-Вам нужна помощь с Microsoft Official Courseware (MOC)? Обратитесь в свой региональный центр поддержки из списка стран ниже. Обратите внимание, что эти варианты поддержки предназначены только для помощи с MOC. Чтобы получить помощь по сертификации или экзаменам Microsoft, перейдите в [Помощь по сертификации](/learn/certifications/help).
+## О поддержке MOC
+
+Microsoft Official Courseware (MOC) — это материалы, используемые в наших курсах. Управление поддержкой MOC осуществляется по регионам по всему миру.
 
 ## MOC regional contact information
 
@@ -118,7 +120,3 @@ ms.author: micsullivan
 | Вьетнам | (65) 6622 1237 | [Запросы по Courseware Marketplace](https://support.microsoft.com/en-my/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-my&SC=VN) |  | 9:00 до 18:00 (9.00 до 18.00) Пн – Пт Сингапур времени |
 | Виргинские острова, Британские | Английский: +1 305 715-1492<br/>Испанский: +1 305 715-1490<br/>Португальский: +1 305 715-1491 | [Запросы по Courseware Marketplace](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VG)  | Обратите внимание, что это номера в США. Оплата переговоров взимается в соответствии с тарифами междугородней и международной телефонной связи вашего оператора. | Английский: 7.00 - 19.00 (Пн-Пт) Время в Колумбии<br/>Испанский: 7.00 - 19.00 (Пн-Пт) Время в Колумбии<br/>Португальский: 9.00 - 18.00 (Пн-Пт) по бразильскому времени |
 | Виргинские острова, США | Английский: +1 305 715-1492<br/>Испанский: +1 305 715-1490<br/>Португальский: +1 305 715-1491 | [Запросы по Courseware Marketplace](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VI) | Обратите внимание, что это номера в США. Оплата переговоров взимается в соответствии с тарифами междугородней и международной телефонной связи вашего оператора. | Английский: 7.00 - 19.00 (Пн-Пт) Время в Колумбии<br/>Испанский: 7.00 - 19.00 (Пн-Пт) Время в Колумбии<br/>Португальский: 9.00 - 18.00 (Пн-Пт) по бразильскому времени |
-
-## Помощь по сертификации
-
-Для получения информации по сертификации Microsoft [нажмите здесь](/learn/certifications/help).
