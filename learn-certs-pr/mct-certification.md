@@ -97,6 +97,7 @@ ms.prod: non-product-specific
 - [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
 - [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)
+- [Microsoft Certified: Power Platform Solution Architect Expert](/learn/certifications/power-platform-solution-architect-expert/)
 - [Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate](/learn/certifications/d365-business-central-functional-consultant-associate)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](/learn/certifications/d365-functional-consultant-sales)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](/learn/certifications/d365-functional-consultant-customer-service)
@@ -183,4 +184,4 @@ ms.prod: non-product-specific
 
 ## Поддержка программы MCT
 
-Получить помощь с подачей заявки MCT, оплатой, преимуществами и ответа на любой вопрос о программе MCT  вы можете на нашем модерируемом форуме для MCT. Для получения более подробной информации перейдите по ссылке: [поддержка сертификации](/learn/certifications/help)
+Получить помощь с подачей заявки MCT, оплатой, преимуществами и ответа на любой вопрос о программе MCT  вы можете на нашем модерируемом форуме для MCT. Для получения более подробной информации перейдите по ссылке: [поддержка сертификации]

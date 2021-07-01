@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div><font color='red'><strong>Содержание этого экзамена было обновлено 23 марта 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Содержание этого экзамена будет обновлено 23 июня 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong></font><br/><br/></div>
   
   Кандидаты на этот экзамен проектируют, разрабатывают, защищают и решают проблемы с решениями Power Platform. Кандидаты внедряют компоненты решения, включая усовершенствование приложений, пользовательский интерфейс, системные интеграции, преобразование данных, пользовательскую автоматизацию процессов и пользовательские визуализации.
   
@@ -16,13 +16,14 @@ summary: |-
 subTitle: 'Этот позволяет оценить вашу способность выполнять следующие технические задачи: создание технических проектов; настройка общих служб данных; создание и настройка Power Apps; настройка автоматизации бизнес-процессов; улучшение опыта работы пользователей; расширение платформы; и развитие интеграций.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
+practiceTestUrl: https://in.mindhub.com/pl-400-microsoft-power-platform-developer-microsoft-official-practice-test/p/MU-PL-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice                                                              
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=PL-400&examname=Exam%20PL-400:%20Microsoft%20Power%20Platform%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена было обновлено 23 марта 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменилось.A17
+- Содержание этого экзамена будет обновлено 23 июня 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
 - Создание технического дизайна (10-15%)
 - Настройка Microsoft Dataverse (15-20%)
 - Создание и настройка Power Apps (15-20%)
