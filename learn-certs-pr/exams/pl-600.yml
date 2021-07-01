@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Solution Architect (beta)'
+title: 'Microsoft Power Platform Solution Architect'
 metadata:
-  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
-  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect'
 uid: exam.pl-600
 displayName: PL-600
 summary: |-
@@ -11,8 +11,6 @@ summary: |-
   Архитектор решений знает функциональные и технические возможности Power Platform, приложений Dynamics 365 для взаимодействия с клиентами, соответствующих решений Microsoft cloud и технологий третьих сторон. Архитектор решений применяет свои знания и опыт на протяжении всего проекта. Архитектор решений осуществляет проактивные и превентивные меры с целью повышения ценности инвестиций клиента и повышения работоспособности организации. Эта роль требует умения определять возможности для решения бизнес-проблем.
   
   Архитекторы решений обладают опытом работы в функциональных и технических дисциплинах Power Platform. Архитекторы решений должны мочь упрощать проектные решения в области разработки, настройки, интеграции, инфраструктуры, безопасности, доступности, хранения и управления изменениями. Выполняющие эту роль лица уравновешивают бизнес-потребности проекта, выполняя функциональные и нефункциональные требования.
-  
-  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов</a>.</strong></font></div>
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: выполнять планирование решения и анализ требований; разрабатывать архитектуру решения; реализовывать решение.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -54,6 +52,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
+- title: Обучение для получения сертификата
+  description: 'Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
 - title: Руководство по образовательным курсам и сертификациям
   description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://aka.ms/TrainingCertDeck
