@@ -1,0 +1,96 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Solutions Architect Expert (Устаревшая версия)'
+metadata:
+  title: 'Microsoft Certified: Azure Solutions Architect Expert (Устаревшая версия)'
+  description: 'Архитектор решений Azure Solution Architects разрабатывает и внедряет решения, работающие в Microsoft Azure, включая такие аспекты, как вычисления, сеть, хранилище и безопасность.'
+uid: certification.azure-solutions-architect-legacy
+certificationRenewalUid: renewal.azure-solutions-architect
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Эта версия сертификации больше не доступна. Если вы обладаете этой версией сертификации, вам автоматически будет предоставлена последняя версия сертификата.
+  
+  Обе версии сертификации будут указаны в ваших сертификатах. Вам нужно только обновить более новую версию. Когда срок действия предыдущей версии истечет, она переместится в раздел истории сертификации вашей выписке об успеваемости.
+  
+  Кандидаты на сертификацию эксперта по архитектуре Azure Solutions Architect Expert должны обладать специальными знаниями в области разработки и реализации решений, работающих на Microsoft Azure, включая такие аспекты, как вычисления, сеть, хранение и безопасность. У кандидатов должны быть навыки среднего уровня по администрированию Azure. Кандидаты должны понимать разработку в Azure и процессы DevOps.
+
+  Обязанности этой роли включают консультирование заинтересованных сторон и перевод требований бизнеса в безопасные, масштабируемые и надежные облачные решения.
+
+  Для реализации решений, архитекторы решений Azure сотрудничает с облачными администраторами, облачными администраторами баз данных и непосредственно с клиентами.
+
+  Кандидат на получение сертификата должен обладать передовым опытом и знаниями в области IT-операций, включая сетевые технологии, виртуализацию, идентификацию, безопасность, непрерывность бизнеса, аварийное восстановление, платформу данных, бюджетирование и управление. Эта роль должна управлять и контролировать то, как решения в каждой области влияют на общее решение. Кроме того, эта роль требует обладания навыками экспертного уровня в администрировании Azure и наличия опыта работы с процессами разработки Azure и процессами DevOps.
+subTitle: Архитектор решений Azure Solution Architects разрабатывает и внедряет решения, работающие в Microsoft Azure, включая такие аспекты, как вычисления, сеть, хранилище и безопасность.
+hidden: true
+hideFishboneDiagram: true
+levels:
+- advanced
+skills:
+- Нет
+roles:
+- solution-architect
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+courses:
+- uid: course.az-303t00
+- uid: course.az-304t00
+- uid: course.az-030t00
+paths:
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
+exams:
+- uid: exam.az-300
+- uid: exam.az-301
+- uid: exam.az-302
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Путешествие к сертификации
+  description: Узнайте о том, как пройти сертификацию на Azure Solutions Architect Expert, а также о ресурсах, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Демонстрируйте свои значки сертификации
+  description: Делитесь радостью своих достижений вместе со своими контактами. Получайте значки сертификации Microsoft Certification и добавляйте их в свой профиль LinkedIn, резюме и во многое другое.
+  href: badges.md
+

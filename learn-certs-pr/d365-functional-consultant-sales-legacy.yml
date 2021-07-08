@@ -1,0 +1,82 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate (Устаревшая версия)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate (Устаревшая версия)'
+  description: 'Microsoft Dynamics 365 для функциональных консультантов по продажам внедряет решения, которые предвидят и планируют связи с клиентами, управляют сделками посредством обработки и закрытия, а также ускоряют работу группы продаж с помощью анализа данных.'
+uid: certification.d365-functional-consultant-sales-legacy
+certificationRenewalUid: renewal.d365-functional-consultant-sales
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Эта версия сертификации больше не доступна. Если вы обладаете этой версией сертификации, вам автоматически будет предоставлена последняя версия сертификата.
+  
+  Обе версии сертификации будут указаны в ваших сертификатах. Вам нужно только обновить более новую версию. Когда срок действия предыдущей версии истечет, она переместится в раздел истории сертификации вашей выписке об успеваемости.
+  
+  Если вы консультант по функциональным возможностям, специалист, работающий с Microsoft Dynamics 365 Sales, или разработчик, желающий отточить свои навыки консультирования, эта сертификация может дать толчок вашей карьере. Эта сертификация позволит вам более эффективно представлять себя для участия в проектах, а также поможет показать представителям вашей организации, что вы можете использовать Dynamics 365 Sales для повышения эффективности работы торгового персонала.
+  
+  Для прохождения этой сертификации у вас должен быть опыт настройки Microsoft Power Platform и вы должны быть знакомы с приложениями на основе модели Dynamics 365 и принципами моделирования данных. Вы работаете с заинтересованными лицами организации в целях сбора требований и реализации решений Dynamics 365 Sales. Вы управляете потенциальными клиентами, возможностями, предложениями и заказами и настраиваете каталоги продуктов и прайс-листы. В дополнение к этому вы настраиваете Dynamics 365 Sales для соответствия уникальному бизнес-процессу вашей организации и моделируете данные Dynamics 365 Sales. Вы также можете расширять решения Dynamics 365 с использованием компонентов Power Platform, таких как Power Automate и Power Apps.
+  
+  Если перед попыткой прохождения этой сертификации вам нужно получить больше опыта, вот несколько рекомендаций&#58;
+  - Поработайте над проектом по реализации приложения на основе модели Dynamics 365.
+  - Понаблюдайте за работой консультанта по функциональным возможностям или архитектора решений, работающего с Dynamics 365 Sales.
+  - Пройдите обучение по доступным схемам в Microsoft Learn.
+  - Зарегистрируйтесь на обучающий курс с инструктором.
+subTitle: Microsoft Dynamics 365 для функциональных консультантов по продажам внедряет решения, которые предвидят и планируют связи с клиентами, управляют сделками посредством обработки и закрытия, а также ускоряют работу группы продаж с помощью анализа данных.
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- Нет
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-sales
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-210t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-dynamics.dynamics-365-for-sales
+- uid: learn-bizapps.applying-goal-management
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-210
+resources:
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Путешествие к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://aka.ms/TrainingCertDeck
+- title: Обучение для получения сертификата
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: deals.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: help.md
+- title: Демонстрируйте свои значки сертификации
+  description: Делитесь радостью своих достижений вместе со своими контактами. Получайте значки сертификации Microsoft Certification и добавляйте их в свой профиль LinkedIn, резюме и во многое другое.
+  href: badges.md
