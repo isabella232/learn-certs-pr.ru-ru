@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Line-of-business application migration'
+metadata:
+  title: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+  description: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+uid: course.40558
+courseNumber: '40558-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Оценивать готовность среды к миграции в Azure.
+- skill: Проектировать и реализовывать обнаружение и оценку таких сред.
+- skill: Использовать службы, включая Azure Migrate, Azure Database Migration Service и Azure Site Recovery
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  В этом курсе вы рассмотрите, как проектировать миграцию в Azure для разнородной среды клиента. Существующая инфраструктура состоит из серверов Windows и Linux, используемых на VMWare и физических компьютерах, и включает несколько устаревших серверов. Во время сессии проектирования вы рассмотрите различные варианты и службы, доступные для миграции разнородных сред в Azure. В конце этого семинара вы сможете лучше проектировать и реализовывать обнаружение и оценку сред для оценки их готовности для миграции в Azure с использованием таких служб, как Azure Migrate, Azure Database Migration Service и Azure Site Recovery.
+
+  #### Профиль аудитории
+  Этот семинар предназначен для Cloud Architects и IT-специалистов с опытом работы с архитектурой инфраструктуры и в разработке решений в технологиях cloud, которые хотят узнать больше об Azure и службах Azure, как описано в разделах «Сводка» и «Приобретенные навыки». Желающие пройти этот семинар также должны иметь опыт работы с облачными технологиями, отличными от Microsoft cloud, соответствовать предварительным требованиям для прохождения курса и иметь желание обучаться выполнению разных работ на Azure.
+outlineSection: |-
+  ### Модуль 1&#58; сессия по проектированию: миграция бизнес-приложения
+  #### Уроки
+  - Обзор практического примера клиента
+  - Проектирование решения для подтверждения концепции
+  - Представление решения
+
+
+  ### Модуль 2&#58; практическое занятие: миграция бизнес-приложения
+  #### Уроки
+  - Обнаружение и оценка локальной среды
+  - Миграция базы данных приложения
+  - Миграция приложения и веб-уровней с использованием Azure Site Recovery
