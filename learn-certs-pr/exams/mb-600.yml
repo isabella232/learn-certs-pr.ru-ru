@@ -7,8 +7,7 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div><font color='red'><strong>НОВАЯ ВЕРСИЯ ЭТОГО ЭКЗАМЕНА, <a href="/learn/certifications/exams/pl-600">PL-600</a>, СТАЛА ДОСТУПНА В МАРТЕ 2021 ГОДА. Вы сможете сдать этот экзамен до его отмены 30 июня 2021 года.</strong></font><br/><br/></div>
-  <div><strong>Содержание этого экзамена было обновлено 30 июля 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
+  <div><font color='red'><strong>ЭТОТ ЭКЗАМЕН БЫЛ ОТМЕНЕН 30 ИЮНЯ 2021 ГОДА. Новая версия этого экзамена, PL-600, уже доступна. Для получения более подробной информации перейдите на страницу сведений об экзамене <a href="/learn/certifications/exams/pl-600">PL-600</a>.</strong></font><br/><br/></div>
   </div>
   
   Архитекторы решений для Microsoft Dynamics 365 + Power Platform ведут успешные внедрения и фокусируются на том, как решения удовлетворяют более широкие деловые и технические потребности организаций.
@@ -19,13 +18,11 @@ summary: |-
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: планирование решений и анализ требований; разработка решений; и внедрение решений.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-600&examname=Exam%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-600
 locales:
 - en
 levels:
 - advanced
 skills:
-- Содержание этого экзамена было обновлено 30 июля 2020 года. Пожалуйста, загрузите схему навыков, оцениваемых на экзамене, ниже, чтобы увидеть, что изменилось.
 - Выполнение анализа решений и анализа требований (30-35%)
 - Разработка решения (45-50%)
 - Внедрение решения (20-25%)

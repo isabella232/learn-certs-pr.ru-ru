@@ -21,8 +21,6 @@ ms.author: micsullivan
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Будет отменено 30 июня 2021 г. |
-| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | Будет отменено 30 июня 2021 г. |
 | [MTA: Database Fundamentals](/learn/certifications/mta-database-fundamentals) | Отменяется 30 июня 2022 года |
 | [MTA: Windows Server Administration Fundamentals](/learn/certifications/mta-windows-server-administration-fundamentals) | Отменяется 30 июня 2022 года |
 | [MTA: Security Fundamentals](/learn/certifications/mta-security-fundamentals) | Отменяется 30 июня 2022 года |
@@ -44,6 +42,8 @@ ms.author: micsullivan
 
 | На основе ролей                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 30 июня 2021 года |
+| Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 30 июня 2021 года |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31 декабря 2020 г. |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 31 августа 2020 года |
 

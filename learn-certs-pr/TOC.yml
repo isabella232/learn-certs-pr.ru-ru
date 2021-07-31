@@ -74,6 +74,8 @@
   - name: Политики и соглашения
     expanded: false
     items:
+    - name: Политика продления срока действия сертификатов
+      href: certification-expiration-policy.md
     - name: Процедура оспаривания экзаменационных заданий
       href: exam-item-challenge-process.md
     - name: Политика обеспечения безопасности экзаменов

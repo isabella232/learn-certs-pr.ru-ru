@@ -6,6 +6,8 @@ metadata:
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
+  <div><font color='red'><strong>Содержание этого экзамена будет обновлено 26 июля 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong></font><br/><br/></div>
+
   Этот экзамен предназначен для тех, кто хочет ознакомиться с основами безопасности, соответствия требованиям и удостоверений (SCI) в службах cloud и связанных службах Microsoft.
 
   Это широкая аудитория, которая может включать заинтересованных лиц компаний, начинающих и опытных IT-специалистов и учащихся, которых интересуют решения Microsoft в отношении безопасности, обеспечения соответствия требованиям и удостоверений.
@@ -15,6 +17,7 @@ summary: |-
 subTitle: 'Этот экзамен измеряет вашу способность описывать следующее: понятия безопасности, соответствия требованиям и удостоверений; возможности решений Microsoft по управлению удостоверениями и доступом; возможности решений безопасности Microsoft; возможности решений Microsoft по обеспечению соответствия требованиям.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
+practiceTestUrl: https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
@@ -34,6 +37,7 @@ locales:
 levels:
 - beginner
 skills:
+- Содержание этого экзамена будет обновлено 26 июля 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
 - Описание понятий безопасности, соответствия требованиям и удостоверений (5-10%)
 - Описание возможностей решений Microsoft по управлению удостоверениями и доступом (25-30%)
 - Описание возможностей решений безопасности Microsoft (30-35%)

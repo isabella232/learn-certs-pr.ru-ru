@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-330
 displayName: MB-330
 summary: |-
-  <div>
-  <div><strong>Содержание этого экзамена было обновлено 16 октября 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Содержание этого экзамена будет обновлено 26 июля 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong></font><br/><br/></div>
 
   Кандидаты на этот экзамен анализируют бизнес-требования и создают на основе этих требований полностью осуществляемые бизнес-процессы и решения, которые реализуют лучшие в области практики. Кандидаты служат в качестве основного ресурса во время реализации и настройки приложений для выполнения бизнес-требований.
   <br/>
@@ -19,14 +17,14 @@ summary: |-
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: реализовывать управление информацией о продуктах; реализовывать управление запасами; реализовывать процессы логистических цепочек и управлять ими; реализовывать управление складом и транспортировкой; реализовывать сводное планирование.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
-practiceTestUrl: https://in.mindhub.com/mb-330-microsoft-dynamics-365-supply-chain-microsoft-official-practice-test/p/MU-MB-330?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice                                                                                                                                                                                                                                             
+practiceTestUrl: https://in.mindhub.com/mb-330-microsoft-dynamics-365-supply-chain-microsoft-official-practice-test/p/MU-MB-330?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice  
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена было обновлено 16 октября 2020 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменилось.
+- Содержание этого экзамена будет обновлено 26 июля 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
 - Внедрение управления информацией о продукте (20-25%)
 - Внедрение управления запасами (15-20%)
 - Внедрение и управление процессами цепочки поставок (15-20%)
