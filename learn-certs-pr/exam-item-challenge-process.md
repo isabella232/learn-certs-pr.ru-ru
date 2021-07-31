@@ -36,7 +36,7 @@ ms.prod: non-product-specific
 ## Процедура оспаривания экзаменационных заданий:
 
 1. Ознакомьтесь с нашими критериями по принятию или непринятию возражения по пункту экзамена.
-2. Заполните и подайте [форму возражения по пункту экзамена.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u)
+2. Заполните и подайте [форму возражения по пункту экзамена.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9SQgdTBB3hHnpJO6XSRH7RURDkwT0FBRjQ5TVpFMjZXMTUzOElISVdTTS4u)
 3. Команда Microsoft Certification проверит полноту предоставленной вами информации. Если информация будет неполной, вас попросят предоставить дополнительную информацию. Если предоставленная информация будет полной, команда Microsoft Certification выполнит проверку. Проверка занимает примерно две недели.
 4. После выполнения проверки вы будете уведомлены о результате.
 

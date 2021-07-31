@@ -1,0 +1,45 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+metadata:
+  title: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+  description: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+uid: course.40511
+courseNumber: '40511-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Прохождение этого семинара позволит вам приобрести навыки создания шаблонов для автоматизации инфраструктуры cloud и сокращения ручных процессов, которые могут содержать ошибки. В дополнение вы создадите шаблон Azure Resource Manager (ARM) для подготовки ресурсов Azure, настроите непрерывную поставку с помощью Visual Studio Team Services (VSTS), настроите Application Insights в приложении, создадите проект Visual Studio Team Services и репозиторий Git.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Во время этой сессии по проектированию вы узнаете, как проектировать решение с комбинацией шаблонов Azure Resource Manager и Azure DevOps для обеспечения непрерывной поставки с использованием нескольких служб Azure PaaS.
+
+  Прохождение этого семинара позволит вам улучшить свои навыки создания шаблонов для автоматизации инфраструктуры cloud и сокращения ручных процессов, которые могут содержать ошибки. В дополнение вы создадите шаблон Azure Resource Manager (ARM) для подготовки ресурсов Azure, настроите непрерывную поставку с помощью Azure DevOps, настроите Application Insights в приложении, создадите проект Azure DevOps и репозиторий Git.
+
+  #### Профиль аудитории
+  Этот семинар предназначен для архитекторов Cloud и IT-специалистов с опытом работы с архитектурой инфраструктуры и в проектировании решений в технологиях cloud, которые хотят узнать больше об Azure и службах Azure, как описано в разделах «Сводка» и «Приобретенные навыки». Желающие пройти этот семинар также должны иметь опыт работы с облачными технологиями, отличными от Microsoft cloud, соответствовать предварительным требованиям для прохождения курса и иметь желание обучаться выполнению разных работ на Azure.
+prerequisitesSection: |-
+  Содержание семинара предполагает наличие опыта построения архитектуры инфраструктуры и разработки решений уровня 300. Желающим пройти семинар рекомендуем предварительно выполнить это требование.
+  - Курс Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Модуль 1&#58; сессия по проектированию: непрерывная поставка в Azure DevOps
+  #### Уроки
+  - Обзор практического примера клиента
+  - Проектирование решения для подтверждения концепции
+  - Представление решения
+
+  ### Модуль 2&#58; практическое занятие: непрерывная поставка в Azure DevOps
+  #### Уроки
+  - Создание шаблона Azure Resource Manager (ARM), который может подготовить веб-приложение, базу данных SQL
+  - Создание проекта Azure DevOps и репозитория Git
+  - Создание конвейера сборки Azure DevOps
+  - Создание конвейера выпуска Azure DevOps
+  - Активация сборки и выпуска
+  - Создание ветви компонента и отправка запроса на вытягивание

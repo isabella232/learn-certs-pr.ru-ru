@@ -7,9 +7,7 @@ metadata:
 uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong>ЭКЗАМЕН AI-100 БУДЕТ ЗАМЕНЕН ЭКЗАМЕНОМ <a href='/learn/certifications/exams/ai-102'>EXAM AI-102</a> 23 ФЕВРАЛЯ 2021 ГОДА. Вы всё равно сможете получить этот сертификат, сдав экзамен AI-100 до его отмены 30 июня 2021 года.</strong></font><br/><br/></div>
-  
+summary: |-  
   Кандидаты на сертификат инженера-партнера Azure AI должны обладать специальными знаниями в области когнитивных служб, машинного обучения и интеллектуального анализа для разработки и реализации решений Microsoft AI, включающих обработку естественного языка, речь, компьютерное зрение и разговорный искусственный интеллект.
   
   Обязанности этой роли включают анализ требований к решениям AI, рекомендацию соответствующих инструментов и технологий, а также разработку и внедрение решений на базе AI, отвечающих требованиям к масштабируемости и производительности.
@@ -52,7 +50,7 @@ courses:
 - uid: course.ai-102t00
 paths:
 - uid: learn.data-ai.evaluate-text-with-language-services
-- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services													   
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
 - uid: learn.wwl.process-natural-language-azure-cognitive-language-services
 - uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search

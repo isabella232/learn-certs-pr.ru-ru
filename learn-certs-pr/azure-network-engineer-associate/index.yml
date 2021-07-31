@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Network Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Network Engineer Associate'
+  description: 'Эта сертификация станет доступна в июле 2021 года. Кандидаты на сертификацию Azure Network Engineer Associate должны обладать знаниями по планированию, реализации и поддержке сетевых решений Azure, включая гибридные сети, подключение, маршрутизацию, безопасность и закрытый доступ к службам Azure.'
+uid: certification.azure-network-engineer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Кандидаты на сертификацию Azure Network Engineer Associate должны обладать знаниями по планированию, реализации и поддержке сетевых решений Azure, включая гибридные сети, подключение, маршрутизацию, безопасность и закрытый доступ к службам Azure.
+
+  Обязанности этой роли включают рекомендацию, планирование и реализацию сетевых решений Azure. Специалисты в этой роли управляют решениями для обеспечения производительности, устойчивости, масштабирования и безопасности. Такие специалисты развертывают сетевые решения с использованием портала Azure и других методов, включая PowerShell, Azure Command-Line Interface (CLI) и шаблоны Azure Resource Manager (шаблоны ARM).
+
+  Azure Network Engineer работает с архитекторами решений, администраторами cloud, инженерами по безопасности, разработчиками приложений и инженерами DevOps для предоставления решений Azure.
+
+  Кандидаты на эту сертификацию должны обладать навыками администрирования Azure экспертного уровня, а также хорошими знаниями сетей, гибридных подключений и безопасности сети и большим опытом работы с ними.
+
+  <div><font color='red'><br/><strong>Эта сертификация станет доступна в середине июля 2021 года.</strong></font></div>
+subTitle: Эта сертификация станет доступна в июле 2021 года. Кандидаты на сертификацию Azure Network Engineer Associate должны обладать знаниями по планированию, реализации и поддержке сетевых решений Azure, включая гибридные сети, подключение, маршрутизацию, безопасность и закрытый доступ к службам Azure.
+levels:
+- intermediate
+skills:
+- Проектирование, реализация гибридных сетей и управление ими 
+- Проектирование и реализация основной сетевой инфраструктуры 
+- Проектирование и реализация маршрутизации 
+- Обеспечение безопасности и осуществление мониторинга сетевой
+- Проектирование и реализация закрытого доступа к Azure Services
+roles:
+- network-engineer
+type: role-based
+products:
+- azure-ddos-protection
+- azure-dns
+- azure-application-gateway
+- azure-app-service
+- azure-expressroute
+- azure-firewall
+- azure-firewall-manager
+- azure-front-door
+- azure-kubernetes-service
+- azure-load-balancer
+- azure-monitor
+- azure-network-watcher
+- azure-private-link
+- azure-traffic-manager
+- azure-virtual-network
+- azure-virtual-wan
+- azure-vpn-gateway
+- azure-web-application-firewall
+- azure-virtual-network
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4OV0k
+exams:
+- uid: exam.az-700
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://aka.ms/TrainingCertDeck
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Демонстрируйте свои значки сертификации
+  description: Делитесь радостью своих достижений вместе со своими контактами. Получайте значки сертификации Microsoft Certification и добавляйте их в свой профиль LinkedIn, резюме и во многое другое.
+  href: ../badges.md
