@@ -1,0 +1,77 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
+  description: Кандидаты на сертификацию Azure Virtual Desktop Specialty являются администраторами Microsoft Azure, обладающими знаниями по планированию и реализации работы виртуального рабочего стола и удаленных приложений, а также знаниями по управлению работой виртуального рабочего стола и удаленных приложений на любых устройствах на Azure.
+uid: certification.azure-virtual-desktop-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Кандидаты на сертификацию Azure Virtual Desktop Specialty являются администраторами Microsoft Azure, обладающими знаниями по планированию и реализации работы виртуального рабочего стола и удаленных приложений, а также знаниями по управлению работой виртуального рабочего стола и удаленных приложений на любых устройствах на Azure.
+
+  Обязанности этой роли включают развертывание возможностей и приложений виртуального рабочего стола на Azure. Специалисты этой роли предоставляют приложения на Windows Virtual Desktop и оптимизируют их для работы в мультисессионных виртуальных средах. Для предоставления таких возможностей специалисты тесно сотрудничают с администраторами и архитекторами Azure, а также администраторами Microsoft 365.
+
+  Кандидаты на эту сертификацию должны обладать опытом работы с технологиями Azure, включая виртуализацию, сетевые технологии, удостоверения, хранение, резервные копии, устойчивость и аварийное восстановление. Кандидаты на эту сертификацию должны понимать технологии локальной инфраструктуры виртуального рабочего стола, относящиеся к миграции на Windows Virtual Desktop. Такие специалисты используют портал Azure и шаблоны Azure Resource Manager (ARM) для выполнения различных задач. Эти специалисты могут использовать PowerShell и Azure Command-Line Interface (CLI) для более эффективной автоматизации.
+
+  Кандидаты на эту сертификацию должны обладать навыками администрирования Azure экспертного уровня.
+subTitle: Кандидаты на сертификацию Azure Virtual Desktop Specialty являются администраторами Microsoft Azure, обладающими знаниями по планированию и реализации работы виртуального рабочего стола и удаленных приложений, а также знаниями по управлению работой виртуального рабочего стола и удаленных приложений на любых устройствах на Azure.
+levels:
+- intermediate
+skills:
+- Планирование Azure Virtual Desktop Architecture 
+- Реализация Azure Virtual Desktop Infrastructure
+- Управление доступом и безопасностью 
+- Управление средами пользователей и приложениями 
+- Осуществление мониторинга и поддержки Azure Virtual Desktop Infrastructure 
+roles:
+- administrator
+type: specialty
+products:
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- azure-virtual-machines
+- azure-virtual-machines-windows
+- azure-netapp-files
+- azure-files
+- azure-bastion
+- azure-portal
+- windows-server
+- azure-clis
+- azure-resource-manager
+- azure-rbac
+- azure-policy
+- azure-security-center
+- m365-security-center
+- mem
+- office-onedrive
+- office-teams
+- azure-monitor
+- azure-advisor
+- windows-virtual-desktop
+courses:
+- uid: course.az-140t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
+exams:
+- uid: exam.az-140
+resources:
+- title: Плакат с сертификатами Azure
+  description: Ознакомьтесь с обзором, включающим основные сведения, ролевые и специальные сертификаты по Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://aka.ms/TrainingCertDeck
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Демонстрируйте свои значки сертификации
+  description: Делитесь радостью своих достижений вместе со своими контактами. Получайте значки сертификации Microsoft Certification и добавляйте их в свой профиль LinkedIn, резюме и во многое другое.
+  href: ../badges.md

@@ -19,12 +19,17 @@ ms.author: micsullivan
 
 ## Отмененные курсы: Обучение с инструктором
 
+* Отмена обучающих программ 30 июля 2021 года
+
+    | Номер курса | Версия | Название | Язык | Дата отмены |
+    | --- | --- | --- | --- | --- |
+    | DP-200T01 | A | Implementing an Azure Data Solution | Английский | 30.07.2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | Английский | 30.07.2021 |
+
 * Отмена обучающих программ 30 июня 2021 года
 	| Курс № | Версия | Название | Язык | Дата отмены |
     | --- | --- | --- | --- | --- |
 	| AI-100T01 | A | Designing and Implementing an Azure AI Solution | Английский | 6/30/2021 |
-    | DP-200T01 | A | Implementing an Azure Data Solution | Английский | 6/30/2021 |
-    | DP-201T01 | A | Designing an Azure Data Solution | Английский | 6/30/2021 |
     | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | Английский | 6/30/2021 |
     | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | Английский | 6/30/2021 |
     | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | Японский | 6/30/2021 |

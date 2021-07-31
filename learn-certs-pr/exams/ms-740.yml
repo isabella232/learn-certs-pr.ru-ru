@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'Troubleshooting Microsoft Teams (beta)'
+metadata:
+  title: 'Exam MS-740: Troubleshooting Microsoft Teams (beta)'
+  description: 'Exam MS-740: Troubleshooting Microsoft Teams (beta)'
+uid: exam.ms-740
+displayName: MS-740
+summary: |-
+  Кандидаты на этот экзамен являются инженерами службы поддержки, отвечающими за поддержку сред Microsoft Teams, устранение неполадок во время развертываний, настройку производительности, сбор и анализ данных телеметрии и журналов, а также управление средами Teams.
+
+  Кандидаты должны обладать значительным опытом работы с объединенными коммуникациями и практическим опытом работы с Microsoft Teams. В дополнение кандидаты должны обладать относящимися к сетям знаниями основ Azure, телефонии, PowerShell, технологий хранения данных, APIs, безопасности приложений, аутентификации и авторизации, безопасности, информации о соответствии требованиям, устранения неполадок, настройки производительности и мониторинга.
+
+  <div><br/><br/><font color='red'><strong>Примечание: схема обучения для этого экзамена станет доступна 30 июня 2021 года, а экзамен станет доступен 8 июля 2021 года.</strong></font></div>
+subTitle: 'Этот экзамен станет доступен 8 июля 2021 года или вскоре после этой даты. Этот экзамен измеряет вашу способность устранять неполадки в отношении следующих технических задач: проблемы с голосовой связью Microsoft Teams; собрания и трансляции Microsoft Teams; проблемы федерации; вход в Microsoft Teams; команды и каналы; файлы.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2rS
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Устранение неполадок с голосовой связью Microsoft Teams (15–20%)
+- Устранение неполадок с собраниями и трансляциями Microsoft Teams (20–25%)
+- Устранение неполадок с федерацией (10–15%)
+- Устранение неполадок со входом в Microsoft Teams (15–20%)
+- Устранение неполадок с командами и каналами (10–15%)
+- Устранение неполадок с файлами (15–20%)
+roles:
+- administrator
+products:
+- office-teams
+- office-onedrive
+- office-365
+- ms-graph
+- azure-active-directory
+paths:
+- uid: learn.wwl.troubleshoot-microsoft-365-teams
+relatedCertifications:
+- related:
+    uid: certification.m365-teams-support-engineer-associate
+resources:
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
+  href: https://aka.ms/TrainingCertDeck
+- title: Плакат с сертификацией
+  description: Ознакомьтесь с обзором сертификации основ, ролевой и специальной сертификациями.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
+  href: ../deals.md
+- title: Поддержка сертификационных экзаменов
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
+  href: ../help.md
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Запрос специальных условий
+  description: Узнайте больше о том, как подать заявку на получение специальных условий для сдачи экзамена.
+  href: ../request-accommodations.md
+- title: Правила проведения экзаменов и часто задаваемые вопросы
+  description: Ознакомьтесь с правилами экзамена и часто задаваемыми вопросами.
+  href: ../certification-exam-policies.md

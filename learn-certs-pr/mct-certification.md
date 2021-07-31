@@ -58,6 +58,7 @@ ms.prod: non-product-specific
     - PrepMasters USA.
     - Modern Classroom Certified Trainer (MCCT®) [Только для профессоров или сотрудников университетов].
     - Certified Virtual Educator [Только для профессоров или сотрудников университетов].
+    - Sinerji Egitim
   
   OR<br/><br/>
 
@@ -109,7 +110,7 @@ ms.prod: non-product-specific
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) (retired December 31, 2020)
-- [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
+- [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) (отменена 30 июня 2021 года)
 - [Microsoft Certified: Security Operations Analyst Associate](/learn/certifications/security-operations-analyst/)
 - [Microsoft Certified: Identity and Access Administrator Associate](/learn/certifications/identity-and-access-administrator/)
 - [Microsoft Certified: Information Protection Administrator Associate](/learn/certifications/information-protection-administrator/)

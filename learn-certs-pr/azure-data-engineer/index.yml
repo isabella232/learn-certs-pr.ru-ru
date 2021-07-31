@@ -7,7 +7,7 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>ЭКЗАМЕН DP-203</a> ЗАМЕНЯЕТ ЭКЗАМЕНЫ DP-200 И DP-201. DP-200 и DP-201 будут отменены 30 июня 2021 года.</strong></font><br/><br/></div>
+  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>ЭКЗАМЕН DP-203</a> ЗАМЕНЯЕТ ЭКЗАМЕНЫ DP-200 И DP-201. DP-200 и DP-201 будут отменены 31 августа 2021 года.</strong></font><br/><br/></div>
 
   Кандидат на сертификацию Azure Data Engineer Associate должен обладать знаниями по интеграции, преобразованию и консолидации данных из различных систем структурированных и неструктурированных данных в структуры, подходящие для создания решений для аналитики.
 
@@ -19,7 +19,7 @@ summary: |-
 
   <div><br/><strong>Вы получите этот сертификат, если выполните одно из следующих условий&#58;</strong><br/>
   <ul>
-  <li>сдадите <a href="/learn/certifications/exams/dp-200">DP-200</a> и <a href="/learn/certifications/exams/dp-201">DP-201</a> (отменяется 30 июня 2021 года) <strong>или</strong></li>
+  <li>Сдайте <a href="/learn/certifications/exams/dp-200">DP-200</a> и <a href="/learn/certifications/exams/dp-201">DP-201</a> (отменяются 31 августа 2021 года) <strong>или</strong></li>
   <li>сдадите <a href="/learn/certifications/exams/dp-203">DP-203</a> (бета-экзамен, действующий с 23 февраля 2021 года).</li></ul></div>
 subTitle: Инженеры данных Azure интегрируют, преобразовывают и консолидируют данные из различных систем структурированных и неструктурированных данных в структуры, подходящие для создания решений для аналитики.
 levels:

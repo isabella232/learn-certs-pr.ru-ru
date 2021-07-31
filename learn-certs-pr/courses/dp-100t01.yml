@@ -3,7 +3,6 @@ title: Designing and Implementing a Data Science Solution on Azure
 metadata:
   title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
   description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
-  iltScheduling: true
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -17,7 +16,6 @@ roles:
 - data-scientist
 products:
 - azure
-- azure-data-science-vm
 exams:
 - uid: exam.dp-100
 summary: |-
@@ -34,10 +32,11 @@ prerequisitesSection: |-
   - Обучение и проверка моделей машинного обучения с использованием типовых платформ вроде Scikit-Learn, PyTorch и TensorFlow.
   
   Для приобретения необходимых предварительных навыков перед прохождением курса пройдите следующее бесплатное онлайн-обучение&#58;
-  - [«Обзор облачных концепций Microsoft»](/learn/paths/explore-microsoft-azure-cloud-concepts/)
-  - [«Создание моделей машинного обучения»](/learn/paths/create-machine-learn-models/)
+  - [«Обзор облачных концепций Microsoft»](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/).
+  - [«Создание моделей машинного обучения»](https://docs.microsoft.com/learn/paths/create-machine-learn-models/).
+  - [Администрирование контейнеров в Azure](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/)
   
-  Если вы только начинаете знакомиться с обработкой и анализом данных и машинным обучением, пожалуйста, сначала пройдите курс [«Основы ИИ Microsoft Azure»](/learn/certifications/azure-ai-fundamentals).
+  Если вы только начинаете знакомиться с обработкой и анализом данных и машинным обучением, пожалуйста, сначала пройдите курс [«Основы ИИ Microsoft Azure»](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals).
 outlineSection: |-
   ### Модуль 1&#58; Введение в машинное обучение Azure
   В этом модуле вы узнаете, как подготовить рабочее пространство машинного обучения Azure и использовать его для управления ресурсами машинного обучения, такими как данные, вычисления, учебный код модели, зарегистрированные метрики и подготовленные (обученные) модели. Вы узнаете, как использовать веб-интерфейс студии машинного обучения Azure, а также SDK машинного обучения Azure и инструменты разработчика, такие как Visual Studio Code и Jupyter Notebooks, для работы с активами в рабочей области.
@@ -54,7 +53,7 @@ outlineSection: |-
   - Подготовить рабочую область машинного обучения Azure.
   - Использовать инструменты и код для работы с машинным обучением Azure.
 
-  ### Модуль 2&#58; Машинное обучение без кода с конструктором
+  ### Модуль 2: визуальные средства для машинного обучения
   Этот модуль знакомит вас с инструментом конструктора - интерфейсом перетаскивания (drag and drop) для создания моделей машинного обучения без написания кода. Вы узнаете, как создать обучающий конвейер, который включает подготовку данных и обучение модели, а затем преобразовать этот обучающий конвейер в конвейер логического вывода, который можно использовать для прогнозирования значений из новых данных, прежде чем окончательно развернуть конвейер логического вывода как службу для использования клиентских приложений.
   #### Уроки
   - Обучение моделей с помощью конструктора

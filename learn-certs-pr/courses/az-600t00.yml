@@ -27,13 +27,6 @@ roles:
 - administrator
 products:
 - azure
-- azure-stack
-- azure-stack-edge
-- azure-stack-hci
-- azure-stack-hub
-- azure-app-service
-- azure-event-hubs
-- azure-active-directory
 exams:
 - uid: exam.az-600
 summary: |-
@@ -49,9 +42,9 @@ prerequisitesSection: |-
   - Понимание понятий активной директории, включая домены, леса и контроллеры доменов
 
   Если вы только начинаете знакомиться с Azure и вычислениями cloud, рекомендуем ознакомиться с одним из следующих ресурсов&#58;
-  - бесплатный онлайн-ресурс&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/),
-  - курс под руководством инструктора&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01).
-  - Предварительные требования для Azure administrators (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+  - бесплатный онлайн-ресурс&#58; Azure Fundamentals ([http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+  - курс под руководством инструктора&#58; AZ-900&#58; Azure Fundamentals ([https://docs.microsoft.com/learn/certifications/courses/az-900t01](https://docs.microsoft.com/learn/certifications/courses/az-900t01))
+  - Предварительные требования для Azure administrators ([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Модуль 1&#58; обзор Azure Stack Hub
   В этом модуле вы узнаете о том, как Azure Stack Hub является расширением Azure, предоставляющим возможность запуска приложений в локальной среде и обеспечивающим работу служб Azure в вашем центре обработки данных.
