@@ -20,6 +20,11 @@ ms.prod: non-product-specific
 
 Здесь с указанием дат перечислены экзамены, которые будут отменены в течение следующих 12 месяцев. (Эта информация может меняться.)
 
+| Отменяется 31 августа 2021 года |
+| --- |
+| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
+| [DP-201](/learn/certifications/exams/dp-201): Designing an Azure Data Solution |
+
 | Отменяется 30 июня 2022 года |
 | --- |
 | [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
@@ -42,46 +47,27 @@ ms.prod: non-product-specific
 | На основе ролей | | |
 | --- | --- | --- |
 | [AI-100](/learn/certifications/exams/ai-100) | Designing and Implementing an Azure AI Solution | 30 июня 2021 года
-| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 1 май 2019
-| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 1 май 2019 года
-| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 30 Июнь 2019 года
 | [AZ-103](/learn/certifications/exams/AZ-103) | Microsoft Azure Administrator | 31 август 2020
-| AZ-200 | Microsoft Azure Developer Core Solutions (выпущено 24 сентябрь 2018 г) | 3 январь 2019 года
-| AZ-201 | Microsoft Azure Developer Advanced Solutions (выпущено 24 сентябрь 2018 г) | 3 январь 2019 года
-| AZ-202 | Microsoft Azure Developer Certification Transition (выпущен 24 сентября 2018 года) | 31 марта 2019 года
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | 31 август 2020 года
 | [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 30, сентябре 2020
 | [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | 30 сентябрь 2020
-| [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 30 июня 2019 года
-| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | December 31, 2020
-| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | December 31, 2020
+| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31 декабря 2020 года
+| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31 декабря 2020 года
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | June 30, 2021
-| [MB-900](/learn/certifications/exams/MB-900) | Microsoft Dynamics 365 Fundamentals | December 31, 2019
 | [MB-901](/learn/certifications/exams/mb-901) | Microsoft Dynamics 365 Fundamentals | June 30, 2021
 | [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | 31 август 2020 года
 | [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | 31 август 2020 года
-| [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 30 сентября 2019 года
 | [MS-300](/learn/certifications/exams/ms-300) | Deploying Microsoft 365 Teamwork | 31 август 2020 года
 | [MS-301](/learn/certifications/exams/ms-301) | Deploying SharePoint Server Hybrid | 31 август 2020 года
-| [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 30 сентября 2019 года
 
 <br/>
 
 | ITPro/Developer| | |
 | --- | --- | --- |
-| 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 31 декабря 2017 года
-| 70-247 | Configuring and Deploying a Private Cloud | 31 декабря 2017 года
-| 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 31 марта 2019 года
-| 70-332 | Advanced Solutions of Microsoft SharePoint Server 2013 | 31 марта 2019 года
 | [70-333](/learn/certifications/exams/70-333) | Deploying Enterprise Voice with Skype for Business 2015 | 31 января 2021 года
 | [70-334](/learn/certifications/exams/70-334) | Core Solutions of Microsoft Skype for Business 2015 | 31 января 2021 года
 | [70-339](/learn/certifications/exams/70-339) | Managing Microsoft SharePoint Server 2016 | 31 января 2021 года
-| 70-341 | Core Solutions of Microsoft Exchange Server 2013 | 31 марта 2019 года
-| 70-342 | Advanced Solutions of Microsoft Exchange Server 2013 | 31 марта 2019 года
 | [70-345](/learn/certifications/exams/70-345) | Designing and Deploying Microsoft Exchange Server 2016 | 31 января 2021 года
-| 70-346 | Managing Office 365 Identities and Requirements | 30 апреля 2019 года
-| 70-347 | Enabling Office 365 Services | 30 апреля 2019 года
-| 70-348 | Managing Projects and Portfolios with Microsoft PPM | 31 декабря 2019 года
 | [70-357](/learn/certifications/exams/70-357) | Developing Mobile Apps | 31 января 2021 года
 | 70-398 | Planning for and Managing Devices in the Enterprise | 31 июля 2018 года
 | [70-410](/learn/certifications/exams/70-410) | Installing and Configuring Windows Server 2012 | 31 января 2021 года
@@ -97,33 +83,12 @@ ms.prod: non-product-specific
 | [70-465](/learn/certifications/exams/70-465) | Designing Database Solutions for Microsoft SQL Server | 31 января 2021 года
 | [70-466](/learn/certifications/exams/70-466) | Implementing Data Models and Reports with Microsoft SQL Server | 31 января 2021 года
 | [70-467](/learn/certifications/exams/70-467) | Designing Business Intelligence Solutions with Microsoft SQL Server | 31 января 2021 года
-| 70-473 | Designing and Implementing Cloud Data Platform Solutions | 30 июня 2019 года
-| 70-475 | Designing and Implementing Big Data Analytics Solutions | 30 июня 2019 года
 | [70-480](/learn/certifications/exams/70-480) | Programming in HTML5 with JavaScript and CSS3 | 31 января 2021 года
 | [70-483](/learn/certifications/exams/70-483) | Programming in C# | 31 января 2021 года
 | [70-486](/learn/certifications/exams/70-486) | Developing ASP.NET MVC Web Applications | 31 января 2021 года
 | [70-487](/learn/certifications/exams/70-487) | Developing Microsoft Azure and Web Services | 31 января 2021 года
-| 70-488 | Developing SharePoint Server 2013 Core Solutions | 31 июля 2018 года
-| 70-489 | Developing SharePoint Server 2013 Advanced Solutions | 31 июля 2018 года
-| 70-496 | Administering Visual Studio Team Foundation Server | 31 декабря 2018 года
-| 70-497 | Software Testing with Visual Studio | 31 декабря 2018 года
-| 70-498 | Delivering Continuous Value with Visual Studio | 31 декабря 2018 года
-| 70-532 | Developing Microsoft Azure Solutions | 31 декабря 2018 года
-| 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 31 декабря 2018 года
-| 70-534 | Architecting Microsoft Azure Solutions | 31 декабря 2017 года
-| 70-535 | Architecting Microsoft Azure Solutions | 31 декабря 2018 года
 | [70-537](/learn/certifications/exams/70-537) | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub | 31 января 2021 года
-| 70-680 | Windows 7, Configuring | 31 июля 2018 года
-| 70-685 | Windows 7, Enterprise Desktop Support Technician | 31 июля 2018 года
-| 70-686 | Windows 7, Enterprise Desktop Administrator | 31 июля 2018 года
-| 70-695 | Deploying Windows Desktops and Enterprise Applications | 31 марта 2019 года
-| 70-696 | Administering System Center Configuration Manager and Intune | 31 марта 2018 года
-| 70-697 | Configuring Windows Devices | 30 апреля 2019 года
-| 70-698 | Installing and Configuring Windows 10 | 31 марта 2019 года
-| 70-703 | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 31 декабря 2019 года
 | [70-705](/learn/certifications/exams/70-705) | Designing and Providing Microsoft Licensing Solutions to Large Organizations | 31 января 2021 года
-| 70-713 | Software Asset Management (SAM) - Core | 31 декабря 2019 года
-| 70-735 | OEM Manufacturing and Deployment for Windows 10 | 31 декабря 2019 года
 | [70-740](/learn/certifications/exams/70-740) | Installation, Storage, and Compute with Windows Server 2016 | 31 января 2021 года
 | [70-741](/learn/certifications/exams/70-741) | Networking with Windows Server 2016 | 31 января 2021 года
 | [70-742](/learn/certifications/exams/70-742) | Identity with Windows Server 2016 | 31 января 2021 года
@@ -136,50 +101,32 @@ ms.prod: non-product-specific
 | [70-765](/learn/certifications/exams/70-765) | Provisioning SQL Databases | 31 января 2021 года
 | [70-767](/learn/certifications/exams/70-767) | Implementing a Data Warehouse using SQL | 31 января 2021 года
 | [70-768](/learn/certifications/exams/70-768) | Developing SQL Data Models | 31 января 2021 года
-| 70-773 | Analyzing Big Data with Microsoft R | 30 июня 2019 года
-| 70-774 | Perform Cloud Data Science with Azure Machine Learning | 30 июня 2019 года
-| 70-775 | Perform Data Engineering on Microsoft Azure HDInsight | 30 июня 2019 года
-| 70-776 | Perform Big Data Engineering on Microsoft Cloud Services | 30 июня 2019 года
 | [70-777](/learn/certifications/exams/70-777) | Implementing Microsoft Azure Cosmos DB Solutions | 31 января 2021 года
 | [70-778](/learn/certifications/exams/70-778) | Analyzing and Visualizing Data with Power BI | 31 января 2021 года
 | [70-779](/learn/certifications/exams/70-779) | Analyzing and Visualizing Data with Microsoft Excel | 31 января 2021 года
-| 74-343 | Managing Projects with Microsoft Project 2013 | 31 июля 2019 года
-| 74-344 | Managing Programs and Projects with Project Server 2013 | 31 декабря 2017 года
-| 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 31 июля 2018 года
-| [77-419](/learn/certifications/exams/77-419) | Microsoft SharePoint 2013 | 30 июня 2020 года
-| 98-369 | Cloud Fundamentals | 30 сентября 2019 года
-| 98-380 | Introduction to Programming Using Block-Based Languages (Touch Develop) | 7 августа 2019 года
-
 <br/>
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| [MB2-706](/learn/certifications/exams/MB2-706) | Microsoft Dynamics CRM Online Deployment | 31 Декабрь 2019 года
-| [MB2-707](/learn/certifications/exams/MB2-707) | Microsoft Dynamics CRM Customization and Configuration | 31 Декабрь 2019 года
-| [MB2-708](/learn/certifications/exams/MB2-708) | Microsoft Dynamics CRM Installation | 31 Декабрь 2019 года
-| MB2-709 | Microsoft Dynamics Marketing | 31 Декабрь 2017 года
-| [MB2-710](/learn/certifications/exams/MB2-710) | Microsoft Dynamics CRM 2016 Online Deployment | 31 Декабрь 2019 года
-| [MB2-711](/learn/certifications/exams/MB2-711) | Microsoft Dynamics CRM 2016 Installation | 31 Декабрь 2019 года
-| [MB2-712](/learn/certifications/exams/MB2-712) | Microsoft Dynamics CRM 2016 Customization and Configuration | 31 Декабрь 2019 года
-| [MB2-713](/learn/certifications/exams/MB2-713) | Microsoft Dynamics CRM 2016 Sales | 31 Декабрь 2019 года
-| [MB2-714](/learn/certifications/exams/MB2-714) | Microsoft Dynamics CRM 2016 Customer Service | 31 Декабрь 2019 года
-| [MB2-715](/learn/certifications/exams/MB2-715) | Microsoft Dynamics 365 customer engagement Online Deployment | 30 июня 2019 года
 | [MB2-716](/learn/certifications/exams/mb2-716) | Microsoft Dynamics 365 Customization and Configuration | 31 января 2021 года
-| [MB2-717](/learn/certifications/exams/MB2-717) | Microsoft Dynamics 365 for Sales | 30 июня 2019 года
-| [MB2-718](/learn/certifications/exams/MB2-718) | Microsoft Dynamics 365 for Customer Service | 31 августа 2019 года
-| [MB2-719](/learn/certifications/exams/MB2-719) | Microsoft Dynamics 365 for Marketing | 31 августа 2019 года
-| [MB2-877](/learn/certifications/exams/MB2-877) | Microsoft Dynamics 365 for Field Service | 30 июня 2019 года
-| MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration | 31 декабря 2017 года
-| MB6-890 | Microsoft Dynamics AX Development Introduction | 31 декабря 2017 года
-| MB6-892 | Microsoft Dynamics AX Distribution and Trade | 31 декабря 2017 года
-| MB6-893 | Microsoft Dynamics AX Financials | 31 декабря 2017 года
 | [MB6-894](/learn/certifications/exams/mb6-894) | Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance | 31 января 2021 года
-| [MB6-895](/learn/certifications/exams/MB6-895) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 31 августа 2019 года
-| [MB6-896](/learn/certifications/exams/MB6-896) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 31 августа 2019 года
 | [MB6-897](/learn/certifications/exams/mb6-897) | Microsoft Dynamics 365 for Retail | 31 января 2021 года
 | [MB6-898](/learn/certifications/exams/mb6-898) | Microsoft Dynamics 365 for Talent | 31 января 2021 года
 
 ## Экзамены, отмененные более 12 месяцев назад
+
+| На основе ролей| | |
+| --- | --- | --- |
+| AZ-100 | Microsoft Azure Infrastructure and Deployment | 1 мая 2019 года
+| AZ-101 | Microsoft Azure Integration and Security | 1 мая 2019 года
+| AZ-102 | Microsoft Azure Administrator Certification Transition | 30 июня 2019 года
+| AZ-200 | Microsoft Azure Developer Core Solutions | 3 января 2019 года
+| AZ-201 | Microsoft Azure Developer Advanced Solutions | 3 января 2019 года
+| AZ-202 | Microsoft Azure Developer Certification Transition | 31 марта 2019 года
+| AZ-302 | Microsoft Azure Solutions Architect Certification Transition | 30 июня 2019 года
+| MB-900 | Microsoft Dynamics 365 Fundamentals | 31 декабря 2019 года
+| MS-202 | Microsoft 365 Messaging Administrator Certification Transition | 30 сентября 2019 года
+| MS-302 | Microsoft 365 Teamwork Administrator Certification Transition | 30 сентября 2019 года
 
 | ITPro/Developer | | |
 | --- | --- | --- |
@@ -219,6 +166,8 @@ ms.prod: non-product-specific
 | 70-241 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2006 R2 | 30 июня 2011 года
 | 70-243 | Administering and Deploying System Center 2012 Configuration Manager | 31 июля 2017 года
 | 70-244 | Supporting and Maintaining a Microsoft Windows NT Server 4.0 Network | 2008
+| 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 31 декабря 2017 года
+| 70-247 | Configuring and Deploying a Private Cloud | 31 декабря 2017 года
 | 70-262 | Microsoft Office Live Communications Server 2005 – Implementing, Managing, and Troubleshooting | 31 октября 2010 года
 | 70-270 | Installing, Configuring, and Administering Microsoft Windows XP Professional | 31 июля 2013 года
 | 70-271 | Supporting Users and Troubleshooting a Microsoft Windows XP Operating System | 30 июня 2011 года
@@ -246,9 +195,16 @@ ms.prod: non-product-specific
 | 70-320 | Developing XML Web Services and Server Components with Microsoft Visual C# and the Microsoft .NET Framework | 31 марта 2009 года
 | 70-321 | Deploying Office 365 | 1 апреля 2014 года
 | 70-330 | Implementing Security for Applications with Microsoft Visual Basic .NET | 31 марта 2009 года
+| 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 31 марта 2019 года
+| 70-332 | Advanced Solutions of Microsoft SharePoint Server 2013 | 31 марта 2019 года
 | 70-336 | Core Solutions of Microsoft Lync Server 2013 | 30 марта 2016 года
 | 70-337 | Enterprise Voice & Online Services with Microsoft Lync Server 2013 | 30 марта 2016 года
 | 70-340 | Implementing Security for Applications with Microsoft Visual C# .NET | 31 марта 2009 года
+| 70-341 | Core Solutions of Microsoft Exchange Server 2013 | 31 марта 2019 года
+| 70-342 | Advanced Solutions of Microsoft Exchange Server 2013 | 31 марта 2019 года
+| 70-346 | Managing Office 365 Identities and Requirements | 30 апреля 2019 года
+| 70-347 | Enabling Office 365 Services | 30 апреля 2019 года
+| 70-348 | Managing Projects and Portfolios with Microsoft PPM | 31 декабря 2019 года
 | 70-350 | Implementing Microsoft Internet Security and Acceleration (ISA) Server 2004 | 31 октября 2010 года
 | 70-351 | TS: Microsoft Internet Security and Acceleration Server 2006, Configuring | 31 марта 2011 года
 | 70-354 | Universal Windows Platform – App Architecture and UX/UI | 30 сентября 2017 года
@@ -256,10 +212,11 @@ ms.prod: non-product-specific
 | 70-383 | Recertification for MCSE: SharePoint | 31 марта 2017 года
 | 70-384 | Recertification for MCSE: Communication | 31 марта 2017 года
 | 70-385 | Recertification for MCSE: Messaging | 31 марта 2017 года
-| 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring| 31 июля 2013 года
+| 70-398 | Planning for and Managing Devices in the Enterprise | 31 июля 2018 года
+| 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring | 31 июля 2013 года
 | 70-401 | TS: Microsoft System Center Configuration Manager 2007, Configuring | 31 июля 2013 года
 | 70-403 | TS: System Center Virtual Machine Manager 2008, Configuring | 30 сентября 2011 года
-| 70-415 | Реализация инфраструктуры рабочего стола | 31 января 2016 года
+| 70-415 | Implementing a Desktop Infrastructure | 31 января 2016 года
 | 70-416 | Implementing Desktop Application Environments | 31 января 2016 года
 | 70-431 | TS: Microsoft SQL Server 2005 ‒ Implementation and Maintenance | 30 июня 2011 года
 | 70-432 | Microsoft SQL Server 2008, Implementation and Maintenance | 31 июля 2016 года
@@ -278,21 +235,28 @@ ms.prod: non-product-specific
 | 70-452 | PRO: Microsoft SQL Server 2008, Designing a Business Intelligence Solution | 31 июля 2013 года
 | 70-453 | Upgrade: Transition Your MCITP SQL Server 2005 DBA to MCITP SQL Server 2008 | 31 июля 2012 года
 | 70-454 | Upgrade: Transition Your MCITP SQL Server 2005 DBD to MCITP SQL Server 2008 DBD | 31 июля 2012 года
-| 70-455 | Upgrade: Transition Your MCITP SQL Server 2005 BI Developer to MCITP SQL Server 2008 B | 31 июля 2012 года
-| 70-457 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, часть 1 | 31 июля 2016 года
-| 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, часть 2 | 31 июля 2016 года
+| 70-455 | Upgrade: Transition Your MCITP SQL Server 2005 BI Developer to MCITP SQL Server 2008 BI Developer | 31 июля 2012 года
+| 70-457 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 1 | 31 июля 2016 года
+| 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 2 | 31 июля 2016 года
 | 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 31 января 2016 года
 | 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 31 января 2016 года
 | 70-469 | Recertification for MCSE: Data Platform | 31 марта 2017 года
 | 70-470 | Recertification for MCSE: Business Intelligence | 31 марта 2017 года
+| 70-473 | Designing and Implementing Cloud Data Platform Solutions | 30 июня 2019 года
+| 70-475 | Designing and Implementing Big Data Analytics Solutions | 30 июня 2019 года
 | 70-481 | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 30 сентября 2016 года
 | 70-482 | Advanced Windows Store App Development Using HTML5 and JavaScript | 30 сентября 2016 года
 | 70-484 | Essentials of Developing Windows Store Apps Using C# | 30 сентября 2016 года
 | 70-485 | Advanced Windows Store App Development Using C# | 30 сентября 2016 года
+| 70-488 | Developing SharePoint Server 2013 Core Solutions | 31 июля 2018 года
+| 70-489 | Developing SharePoint Server 2013 Advanced Solutions | 31 июля 2018 года
 | 70-490 | Recertification for MCSD: Windows Store Apps Using HTML5 | 31 марта 2017 года
 | 70-491 | Recertification for MCSD: Windows Store Apps Using C# | 31 марта 2017 года
 | 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 30 сентября 2016 года
 | 70-494 | Recertification for MCSD: Web Applications | 31 марта 2017 года
+| 70-496 | Administering Visual Studio Team Foundation Server | 31 декабря 2018 года
+| 70-497 | Software Testing with Visual Studio | 31 декабря 2018 года
+| 70-498 | Delivering Continuous Value with Visual Studio | 31 декабря 2018 года
 | 70-499 | Recertification for MCSD: Application Lifecycle Management | 31 марта 2017 года
 | 70-500 | TS: Microsoft Windows Mobile 5.0, Implementing and Managing | 31 марта 2011 года
 | 70-501 | TS: Windows Server 2003 Hosted Environments, Configuration and Management | 31 октября 2010 года
@@ -313,6 +277,10 @@ ms.prod: non-product-specific
 | 70-526 | TS: Microsoft .NET Framework 2.0 – Windows-Based Client Development | 30 июня 2011 года
 | 70-528 | TS: Microsoft .NET Framework 2.0 – Web-Based Client Development | 30 июня 2011 года
 | 70-529 | TS: Microsoft .NET Framework 2.0 – Distributed Application Development | 30 июня 2011 года
+"| 70-532 | Developing Microsoft Azure Solutions | 31 декабря 2018 года
+| 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 31 декабря 2018 года
+| 70-534 | Architecting Microsoft Azure Solutions | 31 декабря 2017 года
+| 70-535 | Architecting Microsoft Azure Solutions | 31 декабря 2018 года
 | 70-536 | TS: Microsoft .NET Framework – Application Development Foundation | 31 июля 2013 года
 | 70-540 | TS: Microsoft Windows Mobile 5.0 – Application Development | 31 марта 2011 года
 | 70-541 | TS: Microsoft Windows SharePoint Services 3.0 – Application Development | 30 июня 2011 года
@@ -324,8 +292,8 @@ ms.prod: non-product-specific
 | 70-549 | PRO: Designing and Developing Enterprise Applications by Using the Microsoft .NET Framework | 30 июня 2011 года
 | 70-551 | UPGRADE: MCAD Skills to MCPD Web Developer by Using the Microsoft .NET Framework | 30 июня 2011 года
 | 70-552 | UPGRADE: MCAD Skills to MCPD Windows Developer by Using the Microsoft .NET Framework | 30 июня 2011 года
-| 70-553 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: Часть 1 | 30 июня 2011 года
-| 70-554 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: Часть 1 | 30 июня 2011 года
+| 70-553 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: Part 1 | 30 июня 2011 года
+| 70-554 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: Part 1 | 30 июня 2011 года
 | 70-555 | TS: Microsoft Office Groove 2007, Configuring | 30 июня 2011 года
 | 70-556 | TS: Microsoft Office PerformancePoint Server 2007, Applications | 30 июня 2011 года
 | 70-557 | TS: Microsoft Forefront Client and Server, Configuring | 30 июня 2011 года
@@ -338,8 +306,8 @@ ms.prod: non-product-specific
 | 70-565 | PRO: Designing and Developing Enterprise Applications Using the Microsoft .NET Framework 3.5 | 31 июля 2013 года
 | 70-566 | UPGRADE: Transition your MCPD Windows Developer Skills to MCPD Windows Developer 3.5 | 31 июля 2012 года
 | 70-567 | UPGRADE: Transition your MCPD Web Developer Skills to MCPD ASP.NET Developer 3.5 | 31 июля 2012 года
-| 70-568 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, часть 1 | 31 июля 2012 года
-| 70-569 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, часть 2 | 31 июля 2012 года
+| 70-568 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 1 | 31 июля 2012 года
+| 70-569 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 2 | 31 июля 2012 года
 | 70-571 | TS: Microsoft Windows Embedded CE 6.0 Application Development | 31 июля 2013 года
 | 70-573 | TS: Microsoft SharePoint 2010, Application Development | 31 июля 2016 года
 | 70-576 | PRO: Designing and Developing Microsoft SharePoint 2010 Applications | 31 июля 2016 года
@@ -364,7 +332,7 @@ ms.prod: non-product-specific
 | 70-635 | TS: Microsoft Deployment Toolkit 2008, Desktop Deployment | 31 июля 2013 года
 | 70-639 | TS: Microsoft Office Project Server 2007, Configuring | 31 января 2013 года
 | 70-640 | TS: Windows Server 2008 Active Directory, Configuring | 31 июля 2017 года
-| 70-642 | TS: Windows Server 2008 Network Infrastructure, Configuring, | 31 июля 2017 года
+| 70-642 | TS: Windows Server 2008 Network Infrastructure, Configuring | 31 июля 2017 года
 | 70-643 | TS: Windows Server 2008 Applications Infrastructure, Configuring | 31 июля 2015 года
 | 70-646 | Pro: Windows Server 2008, Server Administrator | 31 июля 2017 года
 | 70-647 | Pro: Windows Server 2008, Enterprise Administrator | 31 июля 2015 года
@@ -389,10 +357,13 @@ ms.prod: non-product-specific
 | 70-672 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 31 января 2015 года
 | 70-673 | TS: Designing, Assessing, and Optimizing Software Asset Management (SAM) | 31 марта 2017 года
 | 70-676 | FAST Enterprise Search Platform, Developing | 31 января 2013 года
+| 70-680 | Windows 7, Configuring | 31 июля 2018 года
 | 70-681 | TS: Windows 7 and Office 2010, Deploying | 31 июля 2015 года
 | 70-682 | Pro: Upgrading to Windows 7 MCITP Enterprise Desktop Support Technician | 31 июля 2014 года
 | 70-683 | TS: Windows 7, Preinstalling for OEMs | 31 июля 2013 года
 | 70-684 | OEM Reseller | 31 июля 2014 года
+| 70-685 | Windows 7, Enterprise Desktop Support Technician | 31 июля 2018 года
+| 70-686 | Windows 7, Enterprise Desktop Administrator | 31 июля 2018 года
 | 70-687 | Configuring Windows 8.1 | 31 декабря 2016 года
 | 70-688 | Supporting Windows 8.1 | 31 декабря 2016 года
 | 70-689 | Upgrading Your Skills to MCSA Windows 8 | 31 декабря 2016 года
@@ -401,8 +372,19 @@ ms.prod: non-product-specific
 | 70-692 | Upgrading Your Windows XP Skills to MCSA Windows 8 | 31 декабря 2016 года
 | 70-693 | Pro: Windows Server 2008 R2, Virtualization Administrator | 31 июля 2015 года
 | 70-694 | Virtualizing Enterprise Desktops and Apps | 31 июля 2017 года
+| 70-695 | Deploying Windows Desktops and Enterprise Applications | 31 марта 2019 года
+| 70-696 | Administering System Center Configuration Manager and Intune | 31 марта 2018 года
+| 70-697 | Configuring Windows Devices | 30 апреля 2019 года
+| 70-698 | Installing and Configuring Windows 10 | 31 марта 2019 года
 | 70-699 | Windows Server 2003, MCSA Security Specialization Skills Update | 31 июля 2013 года
+| 70-703 | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 31 декабря 2019 года
+| 70-713 | Software Asset Management (SAM) - Core | 31 декабря 2019 года
 | 70-734 | OEM Preinstallation for Windows 10 | 31 августа 2017 года
+| 70-735 | OEM Manufacturing and Deployment for Windows 10 | 31 декабря 2019 года
+| 70-773 | Analyzing Big Data with Microsoft R | 30 июня 2019 года
+| 70-774 | Perform Cloud Data Science with Azure Machine Learning | 30 июня 2019 года
+| 70-775 | Perform Data Engineering on Microsoft Azure HDInsight | 30 июня 2019 года
+| 70-776 | Perform Big Data Engineering on Microsoft Cloud Services | 30 июня 2019 года
 | 70-980 | Recertification for MCSE: Server Infrastructure | 31 марта 2017 года
 | 70-981 | Recertification for MCSE: Private Cloud | 31 марта 2017 года
 | 70-982 | Recertification for MCSE: Desktop Infrastructure | 5 октября 2015 года
@@ -419,8 +401,11 @@ ms.prod: non-product-specific
 | 74-325 | Administering Office 365 for Small Businesses | 31 января 2015 года
 | 74-335 | Lync Network Readiness Assessment | 30 марта 2016 года
 | 74-338 | Lync 2013 Depth Support Engineer | 30 марта 2016 года
+| 74-343 | Managing Projects with Microsoft Project 2013 | 31 июля 2019 года
+| 74-344 | Managing Programs and Projects with Project Server 2013 | 31 декабря 2017 года
 | 74-353 | Windows UX Design | 31 января 2015 года
 | 74-404 | Microsoft Office Communications Server 2007 R2 – U.C. Voice Specialization | 31 мая 2012 года
+| 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 31 июля 2018 года
 | 74-544 | TS: Bing Maps Platform, Application Development | 31 декабря 2011 года
 | 74-674 | Delivering Business Value Planning Services | 31 июля 2015 года
 | 74-675 | Microsoft Response Point, Configuring | 30 июня 2011 года
@@ -429,27 +414,28 @@ ms.prod: non-product-specific
 | 74-679 | Windows Server 2008 Hosted Environments, Configuring and Managing | 31 июля 2013 года
 | 74-697 | OEM Preinstallation | 31 января 2016 года
 | 74-924 | Microsoft Office Communications Server 2007 R2 – U.C. Voice Specialization | 31 октября 2010 года
+| 77-419 | Microsoft SharePoint 2013 | 30 июня 2020 года
 | 77-891 | Office 365 | 31 декабря 2014 года
 | 78-702 | Designing and Managing a Microsoft Business Intelligence Solution | 30 сентября 2011 года
-| 88-961 | MCM: SharePoint Server 2010: Неделя 1 | 25 августа 2013 года
-| 88-962 | MCM: SharePoint Server 2010: Неделя 2 | 25 августа 2013 года
-| 88-963 | MCM: SharePoint Server 2010: Неделя 3 | 25 августа 2013 года
-| 88-972 | MCM: SharePoint Server 2010: Lab Exam | 25 августа 2013 года
-| 88-973 | MCM: SharePoint Server 2010, Knowledge Upgrade Exam | 25 августа 2013 года
+| 88-961 | MCM: SharePoint Server 2010: Week 1 | 25 августа 2013 года
+| 88-962 | MCM: SharePoint Server 2010: Week 2 | 25 августа 2013 года
+| 88-963 | MCM: SharePoint Server 2010: Week 3 | 25 августа 2013 года
 | 88-965 | Windows Server 2008 R2: Directory Knowledge Exam | 1 января 2014 года
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 1 января 2014 года
 | 88-968 | Lync Server 2010 Knowledge Exam | 1 января 2014 года
 | 88-969 | Lync Server 2010 Lab Exam | 1 января 2014 года
 | 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 31 декабря 2013 года
+| 88-972 | MCM: SharePoint Server 2010: Lab Exam | 25 августа 2013 года
+| 88-973 | MCM: SharePoint Server 2010, Knowledge Upgrade Exam | 25 августа 2013 года
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 1 января 2014 года
 | 98-362 | Windows Development Fundamentals | 31 июля 2014 года
 | 98-363 | Web Development Fundamentals | 31 июля 2015 года
+| 98-369 | Cloud Fundamentals | 30 сентября 2019 года
 | 98-372 | Microsoft .NET Fundamentals | 31 июля 2015 года
 | 98-373 | Mobile Development Fundamentals | 31 июля 2014 года
 | 98-374 | Gaming Development Fundamentals | 31 июля 2015 года
-| 98-379 | Software Testing Fundamentals| 31 июля 2016 года
-
-<br/>
+| 98-379 | Software Testing Fundamentals | 31 июля 2016 года
+| 98-380 | Introduction to Programming Using Block-Based Languages (Touch Develop) | 7 августа 2019 года
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
@@ -466,11 +452,25 @@ ms.prod: non-product-specific
 | MB2-702 | Microsoft Dynamics CRM 2013 Deployment | 31 декабря 2016 года
 | MB2-703 | Microsoft Dynamics CRM 2013 Customization and Configuration | 31 декабря 2016 года
 | MB2-704 | Microsoft Dynamics CRM Application | 31 июля 2017 года
+| MB2-706 | Microsoft Dynamics CRM Online Deployment | 31 декабря 2019 года
+| MB2-707 | Microsoft Dynamics CRM Customization and Configuration | 31 декабря 2019 года
+| MB2-708 | Microsoft Dynamics CRM Installation | 31 декабря 2019 года
+| MB2-709 | Microsoft Dynamics Marketing | 31 декабря 2017 года
+| MB2-710 | Microsoft Dynamics CRM 2016 Online Deployment | 31 декабря 2019 года
+| MB2-711 | Microsoft Dynamics CRM 2016 Installation | 31 декабря 2019 года
+| MB2-712 | Microsoft Dynamics CRM 2016 Customization and Configuration | 31 декабря 2019 года
+| MB2-713 | Microsoft Dynamics CRM 2016 Sales | 31 декабря 2019 года
+| MB2-714 | Microsoft Dynamics CRM 2016 Customer Service | 31 декабря 2019 года
+| MB2-715 | Microsoft Dynamics 365 customer engagement Online Deployment | 30 июня 2019 года
+| MB2-717 | Microsoft Dynamics 365 for Sales | 30 июня 2019 года
+| MB2-718 | Microsoft Dynamics 365 for Customer Service | 31 августа 2019 года
+| MB2-719 | Microsoft Dynamics 365 for Marketing | 31 августа 2019 года
 | MB2-720 | Functional Application in Microsoft Dynamics Marketing | 1 июля 2015 года
 | MB2-866 | Microsoft Dynamics CRM 2011 Customization and Configuration | 31 января 2016 года
 | MB2-867 | Microsoft Dynamics CRM 2011 Installation and Deployment | 31 января 2016 года
 | MB2-868 | Microsoft Dynamics CRM 2011 Applications | 31 января 2016 года
 | MB2-876 | Extending Microsoft Dynamics CRM 2011 | 31 января 2016 года
+| MB2-877 | Microsoft Dynamics 365 for Field Service | 30 июня 2019 года
 | MB3-408 | Microsoft Dynamics GP 9.0 Inventory and Order Processing | 11 января 2011 года
 | MB3-409 | Microsoft Dynamics GP 9.0 Financials | 11 января 2011 года
 | MB3-412 | Microsoft Dynamics GP 9.0 Installation and Configuration | 11 января 2011 года
@@ -503,7 +503,7 @@ ms.prod: non-product-specific
 | MB4-643 | SL 7.0 Inventory & Order Processing | 31 декабря 2013 года
 | MB4-873 | Microsoft Dynamics SL 2011 Financials | 31 декабря 2014 года
 | MB4-874 | Microsoft Dynamics SL 2011 Installation and Configuration | 31 декабря 2014 года
-| MB5-294 | FRx 6.7 Reporting Design | 5 апреля 2011 года
+| MB5-294 | FRx 6.7 Reporting Design | 5 августа 2011 года
 | MB5-537 | Microsoft Dynamics Retail Management System 2.0 Store Operations | 31 декабря 2014 года
 | MB5-538 | Microsoft Dynamics Retail Management System 2.0 Headquarters | 31 декабря 2014 года
 | MB5-554 | Small Business Financials 9.0 | 22 июня 2012 года
@@ -519,16 +519,16 @@ ms.prod: non-product-specific
 | MB6-203 | Axapta 3.0 Financials | 12 января 2010 года
 | MB6-204 | Axapta 3.0 Trade and Logistics | 12 января 2010 года
 | MB6-205 | Axapta 3.0 Production | 12 января 2010 года
-| MB6-206 | Axapta 3.0 Настройка и конфигурация | 12 января 2010 года
+| MB6-206 | Axapta 3.0 Installation and Configuration | 12 января 2010 года
 | MB6-282 | Axapta 3.0 HRM | 12 января 2010 года
 | MB6-283 | Axapta 3.0 Questionnaire | 12 января 2010 года
-| MB6-284 | Axapta 3.0 Projects | 2010
+| MB6-284 | Axapta 3.0 Projects | 2010 год
 | MB6-285 | Axapta 3.0 Sales and Marketing | 31 декабря 2011 года
 | MB6-288 | Axapta 3.0 Product Builder | 12 января 2010 года
 | MB6-291 | Axapta 3.0 Shop Floor Control | 31 декабря 2011 года
 | MB6-295 | Axapta 3.0 Enterprise Portal Development | 12 января 2010 года
-| MB6-502 | AX 4.0 Product Builder | 30 сентября 2011
-| MB6-503 | AX 4.0 Настройка и Конфигурация | 30 сентября 2011 года
+| MB6-502 | AX 4.0 Product Builder | 30 сентября 2011 года
+| MB6-503 | AX 4.0 Installation and Configuration | 30 сентября 2011 года
 | MB6-504 | AX 4.0 Project Series | 30 сентября 2011 года
 | MB6-506 | AX 4.0 Questionnaire | 30 сентября 2011 года
 | MB6-507 | AX 4.0 Financials | 30 сентября 2011 года
@@ -543,6 +543,7 @@ ms.prod: non-product-specific
 | MB6-702 | Microsoft Dynamics AX 2012 R3 Financials | 31 декабря 2016 года
 | MB6-703 | Microsoft Dynamics AX 2012 R3 Trade and Logistics | 31 декабря 2016 года
 | MB6-704 | Microsoft Dynamics AX 2012 R3 CU8 Development Introduction | 31 декабря 2016 года
+| MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration | 31 декабря 2017 года
 | MB6-817 | AX 2009 Trade & Logistics | 6 января 2014 года
 | MB6-818 | AX 2009 Financials | 6 января 2014 года
 | MB6-819 | AX 2009 Development Introduction | 6 января 2014 года
@@ -562,6 +563,11 @@ ms.prod: non-product-specific
 | MB6-885 | Microsoft Dynamics AX 2012 Public Sector | 31 декабря 2016 года
 | MB6-886 | Microsoft Dynamics AX 2012 Process Manufacturing Production and Logistics | 31 декабря 2016 года
 | MB6-889 | Microsoft Dynamics AX 2012 Service Management | 31 декабря 2016 года
+| MB6-890 | Microsoft Dynamics AX Development Introduction | 31 декабря 2017 года
+| MB6-892 | Microsoft Dynamics AX Distribution and Trade | 31 декабря 2017 года
+| MB6-893 | Microsoft Dynamics AX Financials | 31 декабря 2017 года
+| MB6-895 | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 31 августа 2019 года
+| MB6-896 | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 31 августа 2019 года
 | MB7-221 | Navision 4.0 C/SIDE Introduction | 12 января 2010 года
 | MB7-222 | NAV 4.0 C/SIDE Solution Development | 12 января 2010 года
 | MB7-223 | Navision 4.0 Warehouse Management | 12 января 2010 года
@@ -588,5 +594,5 @@ ms.prod: non-product-specific
 | MB7-846 | NAV 2009 Relationship Management | 30 июня 2014 года
 | MB7-848 | NAV 2009 Service Management | 30 июня 2014 года
 | MB7-849 | NAV 2009 Manufacturing | 30 июня 2014 года
-| MB7-849 | NAV 2009-Produktion (Датский) | 30 июня 2014 года
-| MB7-849 | NAV 2009-Produktion (Немецкий) | 30 июня 2014 года
+| MB7-849 | NAV 2009-Produktion (Danish) | 30 июня 2014 года
+| MB7-849 | NAV 2009-Produktion (German) | 30 июня 2014 года

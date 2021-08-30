@@ -6,7 +6,7 @@ metadata:
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
-  <div><font color='red'><strong>Содержание этого экзамена будет обновлено 29 июля 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Содержание этого экзамена было обновлено 29 июля 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong></font><br/><br/></div>
 
   Кандидаты на экзамен AI-102: Designing and Implementing a Microsoft Azure AI Solution создают и развертывают решения AI, которые используют Azure Cognitive Services, Azure Cognitive Search и Microsoft Bot Framework и осуществляют управление такими решениями.
 
@@ -14,7 +14,7 @@ summary: |-
 
   Кандидаты на этот экзамен работают с архитекторами решений для воплощения их видения и со специалистами по обработке данных, инженерами данных, специалистами по IoT и разработчиками AI для создания комплексных решений AI.
 
-  Кандидаты на этот экзамен должны знать C#, Python или JavaScript и мочь использовать APIs и SDKs на основе REST для создания решений компьютерного зрения, решений для обработки естественного языка, интеллектуального анализа данных и решений с использованием разговорного AI на Azure.
+  Кандидаты на этот экзамен должны знать C# или Python и мочь использовать APIs и SDKs на основе REST для создания решений компьютерного зрения, решений для обработки естественного языка, интеллектуального анализа данных и решений с использованием разговорного AI на Azure.
 
   Кандидаты на этот экзамен также должны понимать компоненты, которые составляют портфель Azure AI, и доступные варианты хранения данных. В дополнение к этому кандидаты должны понимать и мочь применять принципы ответственного подхода к использованию AI.
 subTitle: 'Этот экзамен измеряет вашу способность выполнять следующие технические задачи: планировать решения Azure Cognitive Services и управлять ими; реализовывать решения компьютерного зрения; реализовывать решения для обработки естественного языка; реализовывать решения для интеллектуального анализа данных и реализовывать решения с использованием разговорного AI.'
@@ -23,10 +23,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbY
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AI-102&examname=Exam%20AI-102:%20Designing%20and%20Implementing%20a%20Microsoft%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-102
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена будет обновлено 29 июля 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
+- Содержание этого экзамена было обновлено 29 июля 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
 - Планирование решения Azure Cognitive Services и управление им (15-20%)
 - Реализация решений с использованием компьютерного зрения (20-25%)
 - Реализация решений для обработки естественного языка (20-25%)
@@ -56,12 +59,15 @@ products:
 courses:
 - uid: course.ai-102t00
 paths:
-- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.prepare-for-ai-engineering 
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
-- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
-- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer

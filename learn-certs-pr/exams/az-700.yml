@@ -10,10 +10,13 @@ summary: |-
 
   Кандидаты на этот экзамен должны обладать навыками администрирования Azure экспертного уровня, а также хорошими знаниями сетей, гибридных подключений и безопасности сети и большим опытом работы с ними.
 
-  <div><font color='red'><br/><strong>Этот экзамен станет доступным в середине июля 2021 года.</strong></font></div>
-subTitle: 'Этот экзамен станет доступен в июле 2021 года. Этот экзамен измеряет вашу способность проектировать, реализовывать, управлять, обеспечивать безопасность и осуществлять мониторинг в отношении следующих технических задач: гибридные сети; основная сетевая инфраструктура; маршрутизация; сети и закрытый доступ к службам Azure.'
+  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов.</a></strong></font></div>
+subTitle: 'Этот экзамен измеряет вашу способность проектировать, реализовывать, управлять, обеспечивать безопасность и осуществлять мониторинг в отношении следующих технических задач: гибридные сети; основная сетевая инфраструктура; маршрутизация; сети и закрытый доступ к службам Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=AZ-700&examname=Exam%20AZ-700:%20Designing%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-700
 locales:
 - en
 levels:
@@ -46,6 +49,10 @@ products:
 - azure-vpn-gateway
 - azure-web-application-firewall
 - azure-virtual-network
+paths:
+- uid: learn.wwl.designing-implementing-microsoft-azure-networking-solutions-az-700
+courses:
+- uid: course.az-700t00
 relatedCertifications:
 - related:
     uid: certification.azure-network-engineer-associate

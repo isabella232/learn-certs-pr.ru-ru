@@ -16,7 +16,6 @@ summary: |-
 subTitle: Типичным кандидатом на экзамен является студент, офисный работник или преподаватель, которому необходимо знать PowerPoint 2010 на функциональном уровне.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-
 locales:
 - en
 - ar-sa
@@ -41,7 +40,6 @@ skills:
 - Совместная работа над презентациями
 - Подготовка презентаций
 - Проведение презентаций
-retirementDate: none
 roles:
 - business-user
 products:

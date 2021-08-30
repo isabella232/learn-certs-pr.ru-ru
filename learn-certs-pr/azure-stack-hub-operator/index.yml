@@ -16,7 +16,7 @@ summary: |-
 
 subTitle: Кандидаты на сертификацию Azure Stack Hub Operator Associate являются администраторами Azure или операторами Azure Stack Hub, предоставляющими службы cloud конечным пользователям или клиентам из собственного центра обработки данных с использованием Azure Stack Hub. Candidates for the Azure Stack Hub Operator Associate certification are Azure administrators or Azure Stack Hub operators who provide cloud services to end users or customers from within their own datacenter using Azure Stack Hub.
 levels:
-- advanced
+- intermediate
 skills:
 - Предоставление служб
 - Реализация интеграции центра обработки данных 

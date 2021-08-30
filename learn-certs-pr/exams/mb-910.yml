@@ -23,12 +23,14 @@ locales:
 - ja
 - zh-cn
 - ko
-- nl
 - fr
 - es
 - pt-br
 - ru
 - ar-sa
+- zh-tw
+- it
+- de
 levels:
 - beginner
 skills:
