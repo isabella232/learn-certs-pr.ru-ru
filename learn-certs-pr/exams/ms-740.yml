@@ -10,10 +10,11 @@ summary: |-
 
   Кандидаты должны обладать значительным опытом работы с объединенными коммуникациями и практическим опытом работы с Microsoft Teams. В дополнение кандидаты должны обладать относящимися к сетям знаниями основ Azure, телефонии, PowerShell, технологий хранения данных, APIs, безопасности приложений, аутентификации и авторизации, безопасности, информации о соответствии требованиям, устранения неполадок, настройки производительности и мониторинга.
 
-  <div><br/><br/><font color='red'><strong>Примечание: схема обучения для этого экзамена станет доступна 30 июня 2021 года, а экзамен станет доступен 8 июля 2021 года.</strong></font></div>
-subTitle: 'Этот экзамен станет доступен 8 июля 2021 года или вскоре после этой даты. Этот экзамен измеряет вашу способность устранять неполадки в отношении следующих технических задач: проблемы с голосовой связью Microsoft Teams; собрания и трансляции Microsoft Teams; проблемы федерации; вход в Microsoft Teams; команды и каналы; файлы.'
+  <div><br/><font color='red'><strong>Баллы за бета-экзамены не выставляются сразу, потому что мы собираем данные о качестве вопросов и экзамена. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Узнайте больше о ценности и важности бета-версий экзаменов.</a></strong></font></div>
+subTitle: 'Этот экзамен измеряет вашу способность устранять неполадки в отношении следующих технических задач: проблемы с голосовой связью Microsoft Teams; собрания и трансляции Microsoft Teams; проблемы федерации; вход в Microsoft Teams; команды и каналы; файлы.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2rS
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=MS-740&examname=Exam%20MS-740:%20Troubleshooting%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-740
 locales:
 - en
 levels:

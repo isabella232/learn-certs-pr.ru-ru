@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: AI-led business process automation'
+metadata:
+  title: 'Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation'
+  description: 'Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation'
+uid: course.40585
+courseNumber: '40585-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Разрабатывать архитектуру решения для автоматизации бизнес-процессов, которое использует Azure Cognitive Services
+- skill: Реализовывать решение для автоматизации бизнес-процессов, которое использует Azure Cognitive Services
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  На этом семинаре вы научитесь осуществлять полную автоматизацию бизнес-процесса с использованием различных служб Azure Cognitive Services. Прохождение этого семинара позволит вам улучшить свои навыки разработки архитектуры и реализации решения для автоматизации бизнес-процессов, которое использует Azure Cognitive Services.
+
+  #### Профиль аудитории
+  Этот семинар предназначен для Cloud Architects и IT-специалистов с опытом работы с архитектурой инфраструктуры и в проектировании решений в технологиях cloud, которые хотят узнать больше об Azure и Azure services, как описано в разделах «Сводка» и «Приобретенные навыки». Желающие пройти этот семинар также должны иметь опыт работы с облачными технологиями, отличными от Microsoft cloud, соответствовать предварительным требованиям для прохождения курса и иметь желание обучаться выполнению разных работ на Azure.
+outlineSection: |-
+  ### Модуль 1&#58; сессия по проектированию: автоматизация бизнес-процессов под управлением AI
+  #### Уроки
+  - Обзор практического примера клиента
+  - Проектирование решения для подтверждения концепции
+  - Представление решения
+
+
+  ### Модуль 2&#58; практическое занятие: автоматизация бизнес-процессов под управлением AI
+  #### Уроки
+  - Извлечение текста и структуры из документов с помощью Forms Recognizer
+  - Извлечение аналитических данных по здоровью из аудиозаписей посещений
+  - Использование Azure Cognitive Search для индексации и обслуживания данных
+  - Создание пользовательских отчетов PowerBI по данным в сфере здравоохранения
