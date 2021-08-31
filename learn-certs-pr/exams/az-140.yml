@@ -52,9 +52,11 @@ products:
 - office-teams
 - azure-monitor
 - azure-advisor
-- windows-virtual-desktop
+- azure-virtual-desktop
 courses:
 - uid: course.az-140t00
+paths:
+- uid: learn-m365.windows-virtual-desktop
 relatedCertifications:
 - related:
     uid: certification.azure-virtual-desktop-specialty

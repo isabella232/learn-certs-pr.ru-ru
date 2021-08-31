@@ -15,7 +15,7 @@ ms.prod: non-product-specific
 
 <div>Ниже представлена информация о пропусках Azure Passes, предоставляемых Microsoft для поддержки своих лабораторных решений для конкретных курсов, посвященных облачным технологиям Microsoft.  Для получения дополнительных сведений об альтернативных решениях, поддерживаемых SLA, обратитесь к одному из авторизованных провайдеров лабораторных услуг (ALH), предоставляющих доступ к Azure в настоящее время.</div>
 
-Последнее обновление: **27 Май 2021 г.**
+Последнее обновление: **29 июля 2021 года**
 
 Microsoft предлагает вашим студентам бесплатный 30-дневный допуск Microsoft Azure Pass при регистрации на соответствующие курсы Azure, с использованием официальных курсов Microsoft. Допуски для студентов могут быть получены только авторизованным партнером по обучению Microsoft через Courseware Marketplace. Они напрямую связаны с покупкой курса MOC и имеют ограничение - один допуск на один заказанный курс MOC. Никаких других способов получения допусков для студентов не будет. Если Партнер по обучению заказывает курс MOC, но не выбирает допуск в Azure, который доступен с курсом на момент покупки, у Партнера будет возможность вернуться на Courseware Marketplace и впоследствии при необходимости заказать этот допуск.
 
@@ -46,12 +46,9 @@ Microsoft предлагает вашим студентам бесплатны�
 - 40513 Microsoft Cloud Workshop: Building a Resilient IaaS Architecture
 - 40514 Microsoft Cloud Workshop: Data Platform Upgrade and Migration
 - 40515 Microsoft Cloud Workshop: Enterprise-Class Networking in Azure
-- 40516 Microsoft Cloud Workshop: Intelligent Analytics
-- 40519 Microsoft Cloud Workshop: SAP on Azure
+- 40516 Microsoft Cloud Workshop: Intelligent Analytics										  
 - 40522 Microsoft Cloud Workshop: Azure Stack
-- 40526 Microsoft Cloud Workshop: SAP HANA on Azure
-- 40527 Microsoft Cloud Workshop: Security baseline on Azure	   
-- 40529 Microsoft Cloud Workshop: High Performance Computing
+- 40526 Microsoft Cloud Workshop: SAP HANA on Azure														
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
@@ -60,24 +57,26 @@ Microsoft предлагает вашим студентам бесплатны�
 - 40559 Microsoft Cloud Workshop: MLOps
 - 40560 Microsoft Cloud Workshop: Predictive Maintenance for remote field devices
 - 40561 Microsoft Cloud Workshop: Machine Learning
-- 40562 Microsoft Cloud Workshop: Migrating SQL databases to Azure					  
+- 40562 Microsoft Cloud Workshop: Migrating SQL databases to Azure
 - 40564 Microsoft Cloud Workshop: Securing the IoT end-to-end
-- 40573 Microsoft Cloud Workshop: гибридной идентификации
+- 40573 Microsoft Cloud Workshop: Hybrid identity
+- 40584 Microsoft Cloud Workshop: Leveraging Azure Digital Twins in a supply chain
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (basics)
 - 55188 Lizenzierung und Verwaltung Virtueller Umgebungen und Cloud Services
 - 55224-1 Microsoft Azure Big Data Analytics Solutions
 - 55224-2 Operationalize Cloud Analytics Solutions with Microsoft Azure
 - 55247 Designing and Implementing Cloud Data Platform Solutions
-- 55264 Introduction to Programming Using Python
-- AI-100T01 Designing and Implementing an Azure AI Solution
+- 55264 Introduction to Programming Using Python									   
 - AI-102T00 Designing and Implementing a Microsoft Azure AI Solution
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
-- AZ-030T00 Технологии Microsoft Azure для архитекторов AWS
+- AZ-030T00 Microsoft Azure technologies for AWS architects
+- AZ-040T00 Automating Administration with PowerShell
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
+- AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop
 - AZ-203T0X Developing Solutions for Microsoft Azure courses
 - AZ-204T00 Developing Solutions for Microsoft Azure
 - AZ-220T00 Microsoft Azure IoT Developer
@@ -93,13 +92,15 @@ Microsoft предлагает вашим студентам бесплатны�
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
+- DP-203T00 Data Engineering on Microsoft Azure
 - DP-300T00 Administering Relational Databases on Microsoft Azure
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
-- MS-600T00 Создание приложений и решений с помощью основных служб Microsoft 365
+- MS-600T00 Building applications and solutions with Microsoft 365 core services
 - PL-400T00 Microsoft Power Platform Developer
 - PL-600T00 Power Platform Solution Architect
 - SC-200T00 Microsoft Security Operations Analyst
 - SC-300T00 Microsoft Identity and Access Administrator
+- SC-900T00 Microsoft Security, Compliance, and Identity Fundamentals
 - WS-013T00 Azure Stack HCI
 - WS-050T00 Migrating Application Workloads to Azure
 

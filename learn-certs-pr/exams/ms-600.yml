@@ -6,13 +6,13 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
-  <div><font color='red'><strong>Содержание этого экзамена будет обновлено 26 июля 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменится.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Содержание этого экзамена было обновлено 26 июля 2021 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong></font><br/><br/></div>
   
   Кандидатами на этот экзамен являются Microsoft 365 Developers [разработчики Microsoft 365], которые проектируют, создают, тестируют и поддерживают приложения и решения, оптимизированные для обеспечения потребностей организаций, использующих платформу Microsoft 365, в продуктивности и совместной работе.
   
-  Кандидаты на этот экзамен знают Microsoft identity и Microsoft Graph. Кандидаты обладают общими знаниями об элементах UI (включая Adaptive Cards и Office UI Fabric (Fluent UI)), точках интеграции (включая Microsoft Teams, Office Add-ins, SharePoint Framework, сообщения с действиями) и определении целевых показателей загрузки платформы.
+  Кандидаты на этот экзамен знают Microsoft identity и Microsoft Graph. Кандидаты обладают общими знаниями об элементах UI (включая Adaptive Cards и Fluent UI (Office UI Fabric), точках интеграции (включая приложения Microsoft Teams, Office Add-ins, SharePoint Framework, сообщения с действиями) и определении целевых показателей загрузки платформы.
   
-  Кандидаты должны иметь опыт разработки решений для Microsoft Teams, надстроек Office или SharePoint Framework на всех этапах разработки программного обеспечения. У них должно быть базовое понимание API REST, JSON, OAuth2, OData, OpenID Connect, идентификаций Microsoft (включая учетные записи Azure AD и Microsoft), Azure AD B2C и концепций разрешения / согласия.
+  У кандидатов должен быть опыт разработки решений с использованием Microsoft Teams, Office или SharePoint, включающий все этапы разработки программного обеспечения. У учащихся должно быть базовое понимание REST APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft identities (включая учетные записи Azure AD и Microsoft), Azure AD B2C и понятий разрешения/согласия.
 subTitle: 'Этот экзамен позволяет оценить вашу способность выполнять следующие технические задачи: внедрение Microsoft Identity; создание приложений с помощью Microsoft Graph; расширение и настройка SharePoint; расширение Teams; и расширение Office.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Содержание этого экзамена будет обновлено 26 июля 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменится.
+- Содержание этого экзамена было обновлено 26 июля 2021 года. Пожалуйста, загрузите структуру навыков для экзамена ниже, чтобы увидеть, что изменилось.
 - Внедрение Microsoft Identity (20-25%)
 - Создание приложений с помощью Microsoft Graph (15-20%)
 - Расширение и настройка SharePoint (15-20%)
