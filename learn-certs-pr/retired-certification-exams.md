@@ -20,11 +20,6 @@ ms.prod: non-product-specific
 
 Здесь с указанием дат перечислены экзамены, которые будут отменены в течение следующих 12 месяцев. (Эта информация может меняться.)
 
-| Отменяется 31 августа 2021 года |
-| --- |
-| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
-| [DP-201](/learn/certifications/exams/dp-201): Designing an Azure Data Solution |
-
 | Отменяется 30 июня 2022 года |
 | --- |
 | [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
@@ -51,6 +46,8 @@ ms.prod: non-product-specific
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | 31 август 2020 года
 | [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 30, сентябре 2020
 | [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | 30 сентябрь 2020
+| [DP-200](/learn/certifications/exams/dp-200) | Implementing an Azure Data Solution | 31 августа 2021 года
+| [DP-201](/learn/certifications/exams/dp-201) | Designing an Azure Data Solution | 31 августа 2021 года
 | [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31 декабря 2020 года
 | [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31 декабря 2020 года
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | June 30, 2021

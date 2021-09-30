@@ -7,7 +7,7 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
-  <div><font color='red'><strong>НОВАЯ ВЕРСИЯ ЭТОГО ЭКЗАМЕНА, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, УЖЕ ДОСТУПНА. Вы сможете сдать этот экзамен до его отмены 31 августа 2021 года. Примечание: экзамены отменяются в 23:59 по центральному времени.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>ЭТОТ ЭКЗАМЕН БЫЛ ОТМЕНЕН 31 АВГУСТА 2021 ГОДА. Вместо него доступен новый экзамен DP-203. Для получения более подробной информации перейдите на страницу сведений об экзамене <a href='/learn/certifications/exams/dp-203'>DP-203</a>.</strong></font><br/><br/></div>
   <div><strong>Содержание этого экзамена было обновлено 24 ноября 2020 года. Пожалуйста, загрузите документ оценки навыков ниже, чтобы увидеть, что изменилось.</strong><br/><br/></div>
   </div>
   
@@ -20,7 +20,6 @@ subTitle: 'Этот экзамен предполагает проверку в�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://www.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ru-ru&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
 - ja
@@ -60,9 +59,6 @@ paths:
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
 - uid: learn.wwl.data-engineer-azure-databricks
-relatedCertifications:
-- related:
-    uid: certification.azure-data-engineer
 resources:
 - title: Путешествие к сертификации
   description: Узнайте о том, как пройти сертификацию на Azure Data Engineer Associate, а также о ресурсах, которые помогут вам подготовиться.

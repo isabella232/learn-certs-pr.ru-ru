@@ -13,12 +13,17 @@ subTitle: 'Сертификации MTA — отличная стартовая 
 levels:
 - beginner
 skills:
-- не требуется
+- Сведения о конфигурациях устройств 
+- Сведения о доступе к данным и управлении ими
+- Сведения о безопасности устройств 
+- Сведения об облачных службах 
+- Сведения о корпоративной мобильности 
 roles:
 - administrator
 type: mta
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLp
 exams:
 - uid: exam.98-368
 resources:

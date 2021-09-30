@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Обновление для Microsoft Certified: Azure for SAP Workloads Specialty'
+metadata:
+  title: 'Обновление для Microsoft Certified: Azure for SAP Workloads Specialty'
+  description: 'Если у вас есть этот сертификат и срок его действия истечет в течение шести месяцев, вы можете его продлить.'
+uid: renewal.azure-for-sap-workloads-specialty
+certificationUid: certification.azure-for-sap-workloads-specialty
+assessmentId: 42630d0d-7b19-4782-8052-99fe7e540f08
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истечет в течение шести месяцев, вы можете его продлить. Продемонстрируйте, что вы знакомы с последними обновлениями Azure для SAP, пройдя аттестацию для продления срока действия сертификата. Вы также можете подготовиться к прохождению аттестации с помощью специально подготовленной коллекции обучающих модулей.
+skills:
+- Осуществление планирования для реализации решений SAP на Azure
+- Подключение Power Platform к SAP на Azure
+- Реализация решений SAP на основе Azure VM
+- Перенос рабочих нагрузок SAP в Azure
+- Вычисления, сети и хранение SAP HANA на Azure
+- Использование поддержки IAAS с Azure для рабочих нагрузок SAP
+- Обслуживание Azure для рабочих нагрузок SAP
+- Реализация мониторинга Azure для рабочих нагрузок SAP на Azure VMs
+examsPassed:
+- az-120
+studyGuideDescription: 'Используйте эту коллекцию обучающих модулей для подготовки к аттестации для продления сертификации Microsoft Azure for SAP Workloads Specialty.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -13,7 +13,13 @@ subTitle: Данный сертификат демонстрирует ваши 
 levels:
 - advanced
 skills:
-- none
+- Управление данными с Transact-SQL
+- Запрос данных с расширенными компонентами Transact-SQL 
+- Программирование баз данных с помощью Transact-SQL 
+- Проектирование и внедрение объектов баз данных 
+- Внедрение программируемых объектов 
+- Управление параллелизмом базы данных 
+- Оптимизация объектов базы данных и SQL инфраструктуры 
 roles:
 - developer
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20761
 - uid: course.20762
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomL
 exams:
 - uid: exam.70-761
 - uid: exam.70-762
