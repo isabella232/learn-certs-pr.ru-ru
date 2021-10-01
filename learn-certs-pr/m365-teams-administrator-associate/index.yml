@@ -2,15 +2,15 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: Кандидаты на этот экзамен являются администраторами Microsoft Teams, которые осуществляют управление Microsoft Teams с целью упрощения эффективного и действенного сотрудничества и коммуникации в среде Microsoft 365.
+  description: Администраторы Microsoft Teams осуществляют управление Microsoft Teams с целью упрощения эффективного и действенного сотрудничества и коммуникации в среде Microsoft 365.
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Кандидаты на этот экзамен являются администраторами Microsoft Teams, которые осуществляют управление Microsoft Teams с целью упрощения эффективного и действенного сотрудничества и коммуникации в среде Microsoft 365.
-  
-  Кандидаты на этот экзамен должны мочь осуществлять планирование, развертывание, настройку и обеспечение безопасности чатов, приложений, каналов, собраний, аудио- и видеоконференций, трансляций, звонков Teams и устройств, сертифицированных для Microsoft Teams.
-subTitle: Кандидаты на этот экзамен являются администраторами Microsoft Teams, которые осуществляют управление Microsoft Teams с целью упрощения эффективного и действенного сотрудничества и коммуникации в среде Microsoft 365.
+  Кандидаты на эту сертификацию являются администраторами Microsoft Teams, которые осуществляют управление Microsoft Teams с целью упрощения эффективного и действенного сотрудничества и коммуникации в среде Microsoft 365.
+
+  Кандидаты на эту сертификацию должны мочь осуществлять планирование, развертывание, настройку и обеспечение безопасности чатов, приложений, каналов, собраний, аудио- и видеоконференций, трансляций, звонков Teams и устройств, сертифицированных для Microsoft Teams.
+subTitle: Администраторы Microsoft Teams осуществляют управление Microsoft Teams с целью упрощения эффективного и действенного сотрудничества и коммуникации в среде Microsoft 365.
 levels:
 - intermediate
 skills:
@@ -27,8 +27,10 @@ products:
 courses:
 - uid: course.ms-700t00
 paths:
-- uid: learn-m365.m365-manage-team-collaboration
-- uid: learn-m365.m365-teams-upgrade
+- uid: learn.wwl.get-started-managing-microsoft-teams
+- uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
+- uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
+- uid: learn.wwl.manage-meetings-calling-microsoft-teams
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnv
 exams:
 - uid: exam.ms-700

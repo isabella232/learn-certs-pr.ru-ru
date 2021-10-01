@@ -13,12 +13,17 @@ subTitle: 'Сертификации MTA — отличная стартовая 
 levels:
 - beginner
 skills:
-- не требуется
+- Программирование с использованием операторов, методов и ключевых слов JavaScript 
+- Программирование с помощью переменных, типов данных и функций 
+- Внедрение и анализ решений и циклов 
+- Взаимодействие с объектной моделью документа
+- Взаимодействие с формами HTML 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLz
 exams:
 - uid: exam.98-382
 resources:

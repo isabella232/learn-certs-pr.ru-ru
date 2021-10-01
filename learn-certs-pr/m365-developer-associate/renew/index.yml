@@ -1,0 +1,25 @@
+### YamlMime:CertificationRenewal
+title: 'Продление для Microsoft 365 Certified: Developer Associate'
+metadata:
+  title: 'Продление для Microsoft 365 Certified: Developer Associate'
+  description: 'Если у вас есть этот сертификат и срок его действия истечет в течение шести месяцев, вы можете его продлить.'
+uid: renewal.m365-developer-associate
+certificationUid: certification.m365-developer-associate
+assessmentId: 9036b9d3-e5e5-4d23-b08f-f8c1694a48da
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Если у вас есть этот сертификат и срок его действия истечет в течение шести месяцев, вы можете его продлить. Продемонстрируйте, что вы знакомы с последними обновлениями Microsoft 365, пройдя аттестацию для продления срока действия сертификата. Вы также можете подготовиться к прохождению аттестации с помощью специально подготовленной коллекции обучающих модулей.
+skills:
+- Собирать вводимые данные в Microsoft Teams с помощью модулей задач
+- Создавать встроенный веб-интерфейс с вкладками для Microsoft Teams
+- Microsoft Teams – Использовать конечную точку Microsoft Graph для командной работы
+- Microsoft Teams – Аутентификация и Single Sign-on
+- Создавать интерактивных разговорных ботов для Microsoft Teams
+examsPassed:
+- ms-600
+studyGuideDescription: 'Используйте эту коллекцию обучающих модулей для подготовки к Microsoft 365 Certified: Developer Associate renewal assessment.'
+resources:
+- title: О продлении сертификации
+  summary: Изучите процесс и требования для продления сертификатов он-лайн
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

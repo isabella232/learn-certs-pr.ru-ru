@@ -13,7 +13,13 @@ subTitle: Данный сертификат подтверждает ваши у
 levels:
 - intermediate
 skills:
-- none
+- Проектирование, внедрение и поддержка хранилища данных 
+- Извлечение, преобразование и загрузка данных 
+- Построение решений для качества данных 
+- Разработка многомерной семантической аналитической бизнес модели (BI)
+- Проектирование табличных семантических моделей бизнес-аналитики (BI) 
+- Разработка запросов с помощью Multidimensional Expressions (MDX) и Data Analysis Expressions (DAX) 
+- Настройка и поддержка SQL Server Analysis Services (SSAS) 
 roles:
 - data-analyst
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20767
 - uid: course.20768
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYZ
 exams:
 - uid: exam.70-767
 - uid: exam.70-768

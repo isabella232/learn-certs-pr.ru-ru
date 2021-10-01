@@ -13,12 +13,15 @@ subTitle: 'Сертификации MTA — отличная стартовая 
 levels:
 - beginner
 skills:
-- не требуется
+- Сведения о сетевой инфраструктуре
+- Сведения о сетевом оборудовании
+- Сведения о протоколах и службах
 roles:
 - administrator
 type: mta
 products:
 - windows-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLo
 exams:
 - uid: exam.98-366
 resources:

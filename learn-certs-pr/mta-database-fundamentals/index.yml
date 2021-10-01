@@ -13,12 +13,17 @@ subTitle: 'Сертификации MTA — отличная стартовая 
 levels:
 - beginner
 skills:
-- не требуется
+- Понимание основных концепций баз данных 
+- Создание объектов базы данных 
+- манипуляции данных 
+- Понимание Хранение данных 
+- Администрирование базы данных 
 roles:
 - developer
 type: mta
 products:
 - sql-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIbrW
 exams:
 - uid: exam.98-364
 resources:

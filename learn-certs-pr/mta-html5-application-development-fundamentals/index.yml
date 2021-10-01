@@ -13,12 +13,16 @@ subTitle: 'Сертификации MTA — отличная стартовая 
 levels:
 - beginner
 skills:
-- не требуется
+- Управление жизненным циклом приложения 
+- Создание пользовательского интерфейса (UI) на базе HTML5 
+- Форматирование пользовательского интерфейса с помощью каскадных таблиц стилей (CSS)
+- Кодирование JavaScript
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolX
 exams:
 - uid: exam.98-375
 resources:
