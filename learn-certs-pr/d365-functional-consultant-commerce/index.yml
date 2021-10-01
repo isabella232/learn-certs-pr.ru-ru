@@ -19,6 +19,10 @@ subTitle: 'Консультанты по функциональным возмо
 levels:
 - intermediate
 skills:
+- Описывать приложения для финансов и операций и расширять приложения с использованием технологий Microsoft Power Platform  
+- Настраивать административные функции и рабочие процессы  
+- Управлять данными по финансам и операциям  
+- Проверять и поддерживать решения 
 - Настройка центрального офиса Dynamics 365 Commerce 
 - Настройка продуктов, цен, скидок, программы лояльности и назначений 
 - Управление пунктом продаж (POS) в Dynamics 365 Commerce 
@@ -51,24 +55,27 @@ paths:
 - uid: learn-dynamics.configure-work-call-centers-commerce
 - uid: learn-dynamics.configure-work-e-commerce
 resources:
-- title: Certification poster
-  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+- title: Плакат с сертификацией
+  description: Посмотрите обзор, включая сертификаты по основам, ролям и специальностям для Dynamics 365 и Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Training and certification guide
-  description: Explore all certifications in a concise training and certifications guide.
+- title: Путь к сертификации
+  description: Изучите шаги для получения сертификата и имеющиеся ресурсы, которые помогут вам подготовиться.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWJJ8C
+- title: Руководство по образовательным курсам и сертификациям
+  description: Изучите все сертификаты в кратком руководстве по обучению и сертификации.
   href: https://aka.ms/TrainingCertDeck
 - title: Обучение для получения сертификата
-  description: 'Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.'
+  description: Рекомендуемые учебные ресурсы, которые помогут вам подготовиться к обязательным экзаменам и получить сертификат.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWH8MJ
 - title: Exam Replay
-  description: See two great offers to help boost your odds of success.
+  description: Два замечательных предложения, которые помогут вам повысить ваши шансы на успех.
   href: ../deals.md
-- title: Certification dashboard
-  description: Review and manage your scheduled appointments, certificates, and transcripts.
+- title: Панель управления сертификацией
+  description: Просмотр и управление запланированными мероприятиями, сертификатами и транскриптами.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Support for certifications
-  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+- title: Поддержка по вопросам сертификации
+  description: Получить помощь через форум поддержки сертификации Microsoft. Модератор форума ответит в течение одного рабочего дня, с понедельника по пятницу.
   href: ../help.md
-- title: Share your certification badges
-  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+- title: Демонстрируйте свои значки сертификации
+  description: Делитесь радостью своих достижений вместе со своими контактами. Получайте значки сертификации Microsoft Certification и добавляйте их в свой профиль LinkedIn, резюме и во многое другое.
   href: ../badges.md

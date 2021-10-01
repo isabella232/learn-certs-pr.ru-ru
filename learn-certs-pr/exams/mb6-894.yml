@@ -3,7 +3,7 @@ title: Development, Extensions, and Deployment for Microsoft Dynamics 365 Financ
 metadata:
   title: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
   description: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
-uid: exam.mb-6-894
+uid: exam.mb6-894
 displayName: MB6-894
 summary: |-
   <div><font color='red'><strong>Этот экзамен был отменен 31 января 2021 года. Для просмотра доступных на данный момент вариантов, пожалуйста, перейдите на <a href='/learn/certifications/browse/?resource_type=examination'>страницу «Обзор сертификаций и экзаменов»</a>.<br/><br/></strong></font></div>
@@ -14,7 +14,7 @@ summary: |-
   
   У кандидатов на прохождение этого экзамена по разработке должно быть общее понимание понятий и процессов программирования, а также понимание изменений, улучшений и новых проектов разработки для решений Finance и Commerce, которые применимы к различным сценариям бизнес-процессов.
   
-  <div style='font-weight&#58; bold;'><br/>4 февраля 2020 года этот экзамен был обновлен. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене MB6-894.</div>
+  <div><strong><br/>4 февраля 2020 года этот экзамен был обновлен. Чтобы узнать подробнее об этих изменениях и о том, как они влияют на оцениваемые навыки, пожалуйста, загрузите и ознакомьтесь с документом, описывающим изменения в Экзамене MB6-894.</strong></div>
 subTitle: Кандидатами на прохождение этого экзамена являются технические консультанты, программисты и IT-специалисты, которые выполняют базовые технические задачи и задачи разработки, необходимые для настройки Microsoft Dynamics 365 Finance и Microsoft Dynamics 365 Commerce.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7

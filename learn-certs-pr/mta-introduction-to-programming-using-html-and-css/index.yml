@@ -13,12 +13,17 @@ subTitle: 'Сертификации MTA — отличная стартовая 
 levels:
 - beginner
 skills:
-- не требуется
+- Базовые принципы работы с HTML
+- Базовые принципы работы с CSS
+- Структурирование документов с помощью HTML 
+- Воспроизведение мультимедийных ресурсов с помощью HTML
+- Применение стилей для веб-страниц с помощью CSS 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolW
 exams:
 - uid: exam.98-383
 resources:

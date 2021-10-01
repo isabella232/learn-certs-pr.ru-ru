@@ -13,9 +13,9 @@ summary: |-
 skills:
 - Управление Windows 10 посредством совместного управления с помощью System Center Configuration Manager
 - Упрощение управления устройствами с помощью Microsoft Endpoint Manager
-- Упрощение получения доступа и прохождения идентификации с помощью Azure Active Directory
 - Доставка почты в почтовые ящики за пределами Microsoft 365 с помощью соединителей
-- Защита от угроз с помощью Microsoft Threat Protection
+- Защищать свою среду с помощью Microsoft Defender for Identity
+- Обеспечивать защиту от угроз с помощью Microsoft Defender for Endpoint
 - Перенос пользовательских файлов и настроек в Microsoft 365
 - Доставка приложений Microsoft 365 и бизнес-приложений
 - Защита собственных данных с помощью меток конфиденциальности

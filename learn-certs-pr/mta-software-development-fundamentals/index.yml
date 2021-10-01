@@ -13,12 +13,18 @@ subTitle: 'Сертификации MTA — отличная стартовая 
 levels:
 - beginner
 skills:
-- не требуется
+- Принципы основного программирования
+- Понимание Объектно-ориентированное программирование
+- Понимание Общие принципы разработки программного обеспечения
+- Принципы работы веб-приложений
+- Принципы настольных приложений
+- Принципы работы с базами данных 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdXK
 exams:
 - uid: exam.98-361
 resources:

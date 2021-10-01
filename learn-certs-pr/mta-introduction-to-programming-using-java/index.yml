@@ -13,12 +13,17 @@ subTitle: 'Сертификации MTA — отличная стартовая 
 levels:
 - beginner
 skills:
-- не требуется
+- Базовые принципы работы с Java
+- Работа с типами данных, переменными и выражениями
+- Реализация управления потоками 
+- Выполнить Объектно-ориентированное программирование 
+- Компиляция и отладка кода 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolS
 exams:
 - uid: exam.98-388
 resources:
